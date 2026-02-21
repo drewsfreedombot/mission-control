@@ -5,15 +5,6 @@
       "status": "in-progress",
       "tasks": [
         {
-          "name": "Email Deliverability \u2014 systemsbyai.com",
-          "notes": [
-            "**Status:** Waiting on Drew to confirm email hosting provider",
-            "**Issue:** DKIM missing (high risk), DMARC missing (medium risk), SPF soft fail",
-            "**Ask Drew:** \"What service hosts drew@systemsbyai.com? (Google Workspace, GoDaddy, etc.)\"",
-            "**Goal:** Fix DKIM/DMARC before ramping cold outreach volume"
-          ]
-        },
-        {
           "name": "Gmail Reconnection",
           "notes": [
             "**Status:** Revoked by Drew (security concerns, Feb 20)",
@@ -47,5 +38,5 @@
       "tasks": []
     }
   ],
-  "updatedAt": "2026-02-21T19:13:52.376264Z"
+  "updatedAt": "2026-02-21T20:00:01.102505+00:00"
 }
