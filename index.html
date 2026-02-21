@@ -1,0 +1,601 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Freedom Mission Control</title>
+<style>
+:root {
+  --bg:#0d1117; --surface:#161b22; --surface2:#21262d; --surface3:#2d333b;
+  --border:#30363d; --text:#e6edf3; --text-muted:#8b949e; --text-dim:#6e7681;
+  --accent:#58a6ff; --accent-dim:#0d2240;
+  --green:#3fb950; --green-dim:#0d2a15;
+  --yellow:#e3b341; --yellow-dim:#2a1f00;
+  --red:#f85149; --red-dim:#2d0c09;
+  --purple:#bc8cff; --purple-dim:#1e1040;
+  --radius:10px; --radius-sm:6px; --shadow:0 4px 24px rgba(0,0,0,.5);
+  --transition:.15s ease;
+}
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+html,body{height:100%}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;background:var(--bg);color:var(--text);font-size:14px;line-height:1.5;overflow:hidden}
+input,button,select,textarea{font-family:inherit;font-size:inherit}
+button{cursor:pointer}
+a{color:var(--accent);text-decoration:none}
+a:hover{text-decoration:underline}
+::-webkit-scrollbar{width:6px}
+::-webkit-scrollbar-track{background:transparent}
+::-webkit-scrollbar-thumb{background:var(--border);border-radius:3px}
+
+/* ── Password Gate ─────────────────────────────────────── */
+#gate{
+  position:fixed;inset:0;background:var(--bg);display:flex;
+  align-items:center;justify-content:center;z-index:999;
+}
+.gate-box{
+  background:var(--surface);border:1px solid var(--border);
+  border-radius:var(--radius);padding:40px;width:340px;text-align:center;
+  box-shadow:var(--shadow);
+}
+.gate-eagle{font-size:40px;margin-bottom:12px}
+.gate-title{font-size:20px;font-weight:700;margin-bottom:4px}
+.gate-sub{color:var(--text-muted);font-size:13px;margin-bottom:24px}
+.gate-input{
+  background:var(--surface2);border:1px solid var(--border);color:var(--text);
+  border-radius:var(--radius-sm);padding:10px 14px;width:100%;outline:none;
+  font-size:15px;text-align:center;letter-spacing:2px;margin-bottom:12px;
+  transition:var(--transition);
+}
+.gate-input:focus{border-color:var(--accent)}
+.gate-btn{
+  background:var(--accent);color:#000;border:none;border-radius:var(--radius-sm);
+  padding:10px 24px;font-size:14px;font-weight:600;width:100%;transition:var(--transition);
+}
+.gate-btn:hover{background:#79baff}
+.gate-error{color:var(--red);font-size:12px;margin-top:8px;min-height:18px}
+
+/* ── Layout ─────────────────────────────────────────────── */
+.layout{display:grid;grid-template-rows:56px 1fr;grid-template-columns:220px 1fr;height:100vh;overflow:hidden}
+
+/* ── Header ─────────────────────────────────────────────── */
+.header{
+  grid-column:1/-1;display:flex;align-items:center;justify-content:space-between;
+  padding:0 24px;border-bottom:1px solid var(--border);background:var(--surface);gap:16px;z-index:10;
+}
+.header-brand{display:flex;align-items:center;gap:10px;font-size:16px;font-weight:600;letter-spacing:-.3px;white-space:nowrap}
+.header-brand .eagle{font-size:20px}
+.header-meta{display:flex;align-items:center;gap:16px;color:var(--text-muted);font-size:12px}
+.refresh-dot{width:7px;height:7px;background:var(--green);border-radius:50%;display:inline-block;animation:pulse 2s infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.4}}
+.btn-refresh{background:var(--surface2);border:1px solid var(--border);color:var(--text-muted);padding:5px 12px;border-radius:var(--radius-sm);font-size:12px;transition:var(--transition)}
+.btn-refresh:hover{background:var(--surface3);color:var(--text)}
+.btn-logout{background:transparent;border:none;color:var(--text-dim);font-size:12px;padding:4px 8px;border-radius:var(--radius-sm);transition:var(--transition)}
+.btn-logout:hover{color:var(--red)}
+
+/* ── Sidebar ─────────────────────────────────────────────── */
+.sidebar{background:var(--surface);border-right:1px solid var(--border);padding:16px 0;overflow-y:auto}
+.sidebar-section-label{font-size:11px;font-weight:600;text-transform:uppercase;letter-spacing:.8px;color:var(--text-dim);padding:8px 16px 4px}
+.nav-item{
+  display:flex;align-items:center;gap:10px;padding:9px 16px;
+  border:none;background:transparent;color:var(--text-muted);width:100%;
+  text-align:left;border-radius:0;transition:var(--transition);font-size:14px;position:relative;
+}
+.nav-item:hover{background:var(--surface2);color:var(--text)}
+.nav-item.active{background:var(--accent-dim);color:var(--accent)}
+.nav-item.active::before{content:'';position:absolute;left:0;top:0;bottom:0;width:3px;background:var(--accent);border-radius:0 2px 2px 0}
+.nav-icon{font-size:16px;width:20px;text-align:center;flex-shrink:0}
+.nav-badge{margin-left:auto;background:var(--surface3);color:var(--text-muted);font-size:11px;padding:1px 7px;border-radius:10px;font-weight:600}
+.nav-item.active .nav-badge{background:var(--accent-dim);color:var(--accent)}
+
+/* ── Main ────────────────────────────────────────────────── */
+.main{overflow-y:auto;padding:24px;background:var(--bg)}
+.panel{display:none}
+.panel.active{display:block}
+
+/* ── Section headers ─────────────────────────────────────── */
+.section-header{display:flex;align-items:center;justify-content:space-between;margin-bottom:16px;gap:12px}
+.section-title{font-size:18px;font-weight:600;letter-spacing:-.3px}
+.section-subtitle{color:var(--text-muted);font-size:13px;margin-top:2px}
+
+/* ── Badges ──────────────────────────────────────────────── */
+.badge{display:inline-flex;align-items:center;gap:4px;padding:2px 8px;border-radius:20px;font-size:11px;font-weight:600;white-space:nowrap}
+.badge-blue{background:var(--accent-dim);color:var(--accent)}
+.badge-green{background:var(--green-dim);color:var(--green)}
+.badge-yellow{background:var(--yellow-dim);color:var(--yellow)}
+.badge-red{background:var(--red-dim);color:var(--red)}
+.badge-purple{background:var(--purple-dim);color:var(--purple)}
+.badge-gray{background:var(--surface3);color:var(--text-muted)}
+
+/* ── Buttons ─────────────────────────────────────────────── */
+.btn{display:inline-flex;align-items:center;gap:6px;padding:7px 14px;border-radius:var(--radius-sm);border:1px solid transparent;font-size:13px;font-weight:500;transition:var(--transition);white-space:nowrap}
+.btn-primary{background:var(--accent);color:#000;border-color:var(--accent)}
+.btn-primary:hover{background:#79baff}
+.btn-ghost{background:transparent;color:var(--text-muted);border-color:var(--border)}
+.btn-ghost:hover{background:var(--surface2);color:var(--text)}
+.btn-icon{padding:4px 8px;font-size:14px;border-radius:var(--radius-sm);border:none;background:transparent;color:var(--text-muted);transition:var(--transition)}
+.btn-icon:hover{background:var(--surface3);color:var(--text)}
+.btn-icon.danger:hover{background:var(--red-dim);color:var(--red)}
+
+/* ── Inputs ──────────────────────────────────────────────── */
+.input{background:var(--surface2);border:1px solid var(--border);color:var(--text);border-radius:var(--radius-sm);padding:7px 12px;outline:none;transition:var(--transition);width:100%}
+.input:focus{border-color:var(--accent)}
+.input::placeholder{color:var(--text-dim)}
+select.input{appearance:none;cursor:pointer}
+
+/* ── Tasks ───────────────────────────────────────────────── */
+.task-add-bar{display:flex;gap:8px;margin-bottom:16px}
+.task-add-bar .input{flex:1}
+.task-filters{display:flex;gap:4px;margin-bottom:14px}
+.filter-btn{padding:4px 12px;border-radius:20px;border:1px solid var(--border);background:transparent;color:var(--text-muted);font-size:12px;font-weight:500;transition:var(--transition)}
+.filter-btn.active{background:var(--accent-dim);color:var(--accent);border-color:var(--accent)}
+.filter-btn:hover:not(.active){background:var(--surface2);color:var(--text)}
+.task-item{display:flex;align-items:flex-start;gap:10px;padding:11px 14px;background:var(--surface);border:1px solid var(--border);border-radius:var(--radius-sm);margin-bottom:6px;transition:var(--transition);animation:slideIn .15s ease}
+@keyframes slideIn{from{opacity:0;transform:translateY(-6px)}to{opacity:1;transform:translateY(0)}}
+.task-item:hover{background:var(--surface2)}
+.task-item.completed .task-text{color:var(--text-muted);text-decoration:line-through}
+.task-check{width:18px;height:18px;border-radius:4px;border:2px solid var(--border);background:transparent;cursor:pointer;flex-shrink:0;margin-top:1px;display:flex;align-items:center;justify-content:center;transition:var(--transition);color:transparent;font-size:11px;font-weight:700}
+.task-check:hover{border-color:var(--green)}
+.task-item.completed .task-check{background:var(--green);border-color:var(--green);color:#000}
+.task-text{flex:1;line-height:1.4;word-break:break-word}
+.task-priority{font-size:10px;font-weight:700;padding:1px 6px;border-radius:4px;text-transform:uppercase;letter-spacing:.5px;flex-shrink:0}
+.priority-high{background:var(--red-dim);color:var(--red)}
+.priority-medium{background:var(--yellow-dim);color:var(--yellow)}
+.priority-low{background:var(--surface3);color:var(--text-dim)}
+.task-actions{display:flex;gap:2px;opacity:0;transition:var(--transition);flex-shrink:0}
+.task-item:hover .task-actions{opacity:1}
+
+/* ── Agent tasks ─────────────────────────────────────────── */
+.agent-section{margin-bottom:20px}
+.agent-section-title{display:flex;align-items:center;gap:8px;font-size:13px;font-weight:600;text-transform:uppercase;letter-spacing:.6px;color:var(--text-muted);margin-bottom:10px;padding-bottom:8px;border-bottom:1px solid var(--border)}
+.agent-task{padding:12px 14px;background:var(--surface);border:1px solid var(--border);border-radius:var(--radius-sm);margin-bottom:6px}
+.agent-task-name{font-weight:500;margin-bottom:4px}
+.agent-task-notes{color:var(--text-muted);font-size:12.5px;line-height:1.6}
+.agent-task-note{display:flex;gap:6px}
+.agent-task-note::before{content:'·';color:var(--text-dim);flex-shrink:0}
+
+/* ── Docs ────────────────────────────────────────────────── */
+.search-bar{display:flex;gap:8px;margin-bottom:16px}
+.search-bar .input{flex:1}
+.doc-item{display:flex;align-items:center;gap:14px;padding:12px 14px;background:var(--surface);border:1px solid var(--border);border-radius:var(--radius-sm);margin-bottom:6px;transition:var(--transition);animation:slideIn .15s ease}
+.doc-item:hover{background:var(--surface2)}
+.doc-icon{font-size:20px;flex-shrink:0}
+.doc-info{flex:1;min-width:0}
+.doc-title{font-weight:500;margin-bottom:2px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.doc-meta{font-size:12px;color:var(--text-muted);display:flex;gap:10px;flex-wrap:wrap}
+.doc-actions{display:flex;gap:4px;opacity:0;transition:var(--transition)}
+.doc-item:hover .doc-actions{opacity:1}
+
+/* ── Calls ───────────────────────────────────────────────── */
+.call-item{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:16px;margin-bottom:10px;transition:var(--transition)}
+.call-item:hover{background:var(--surface2)}
+.call-header{display:flex;align-items:flex-start;gap:10px;margin-bottom:8px;flex-wrap:wrap}
+.call-title{font-weight:600;flex:1}
+.call-takeaways{list-style:none}
+.call-takeaways li{font-size:12.5px;color:var(--text-muted);padding:2px 0;display:flex;gap:6px;line-height:1.4}
+.call-takeaways li::before{content:'→';color:var(--accent);flex-shrink:0}
+
+/* ── Empty ───────────────────────────────────────────────── */
+.empty{text-align:center;padding:60px 20px;color:var(--text-muted)}
+.empty-icon{font-size:40px;margin-bottom:12px;opacity:.5}
+.empty-title{font-size:16px;font-weight:600;color:var(--text-dim);margin-bottom:6px}
+.empty-sub{font-size:13px}
+
+/* ── Modal ───────────────────────────────────────────────── */
+.modal-overlay{position:fixed;inset:0;background:rgba(0,0,0,.6);display:flex;align-items:center;justify-content:center;z-index:100;opacity:0;pointer-events:none;transition:opacity .2s}
+.modal-overlay.open{opacity:1;pointer-events:auto}
+.modal{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:24px;width:480px;max-width:95vw;box-shadow:var(--shadow);transform:translateY(-12px);transition:transform .2s}
+.modal-overlay.open .modal{transform:translateY(0)}
+.modal-title{font-size:16px;font-weight:600;margin-bottom:16px}
+.form-row{margin-bottom:12px}
+.form-label{display:block;font-size:12px;font-weight:500;color:var(--text-muted);margin-bottom:6px}
+.modal-actions{display:flex;gap:8px;justify-content:flex-end;margin-top:20px}
+
+/* ── Loading ─────────────────────────────────────────────── */
+.loading{display:flex;align-items:center;gap:8px;color:var(--text-muted);font-size:13px;padding:20px 0}
+.spinner{width:16px;height:16px;border:2px solid var(--border);border-top-color:var(--accent);border-radius:50%;animation:spin .6s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+.divider{height:1px;background:var(--border);margin:16px 0}
+
+/* ── Toast ───────────────────────────────────────────────── */
+#toast{position:fixed;bottom:24px;right:24px;background:var(--surface2);border:1px solid var(--border);color:var(--text);padding:10px 16px;border-radius:var(--radius-sm);font-size:13px;z-index:200;box-shadow:var(--shadow);transform:translateY(80px);opacity:0;transition:all .2s ease;pointer-events:none}
+#toast.show{transform:translateY(0);opacity:1}
+</style>
+</head>
+<body>
+
+<!-- Password Gate -->
+<div id="gate">
+  <div class="gate-box">
+    <div class="gate-eagle">🦅</div>
+    <div class="gate-title">Mission Control</div>
+    <div class="gate-sub">Enter your password to continue</div>
+    <input id="gate-input" class="gate-input" type="password" placeholder="••••••••"
+      onkeydown="if(event.key==='Enter') checkPassword()" autofocus>
+    <button class="gate-btn" onclick="checkPassword()">Unlock</button>
+    <div class="gate-error" id="gate-error"></div>
+  </div>
+</div>
+
+<div class="layout" id="app" style="display:none">
+
+  <header class="header">
+    <div class="header-brand"><span class="eagle">🦅</span><span>Freedom Mission Control</span></div>
+    <div class="header-meta">
+      <span class="refresh-dot"></span>
+      <span id="last-updated">Initializing…</span>
+      <button class="btn-refresh" onclick="refreshAll()">↻ Refresh</button>
+      <button class="btn-logout" onclick="logout()" title="Lock">🔒</button>
+    </div>
+  </header>
+
+  <nav class="sidebar">
+    <div class="sidebar-section-label">Workspace</div>
+    <button class="nav-item active" onclick="switchTab('tasks',this)">
+      <span class="nav-icon">✅</span>My Tasks<span class="nav-badge" id="badge-tasks"></span>
+    </button>
+    <button class="nav-item" onclick="switchTab('agent',this)">
+      <span class="nav-icon">🤖</span>Agent Tasks<span class="nav-badge" id="badge-agent"></span>
+    </button>
+    <div class="divider" style="margin:8px 16px"></div>
+    <div class="sidebar-section-label">Library</div>
+    <button class="nav-item" onclick="switchTab('docs',this)">
+      <span class="nav-icon">📄</span>Documents<span class="nav-badge" id="badge-docs"></span>
+    </button>
+    <button class="nav-item" onclick="switchTab('calls',this)">
+      <span class="nav-icon">📞</span>Call Recordings<span class="nav-badge" id="badge-calls"></span>
+    </button>
+  </nav>
+
+  <main class="main">
+
+    <!-- MY TASKS -->
+    <div id="panel-tasks" class="panel active">
+      <div class="section-header">
+        <div><div class="section-title">My Tasks</div><div class="section-subtitle">Things you need to get done</div></div>
+      </div>
+      <div class="task-add-bar">
+        <input id="task-input" class="input" placeholder="Add a task…" onkeydown="if(event.key==='Enter') addTask()">
+        <select id="task-priority" class="input" style="width:110px">
+          <option value="medium">Medium</option>
+          <option value="high">⚠ High</option>
+          <option value="low">Low</option>
+        </select>
+        <button class="btn btn-primary" onclick="addTask()">Add</button>
+      </div>
+      <div class="task-filters">
+        <button class="filter-btn active" onclick="setTaskFilter('all',this)">All</button>
+        <button class="filter-btn" onclick="setTaskFilter('active',this)">Active</button>
+        <button class="filter-btn" onclick="setTaskFilter('completed',this)">Completed</button>
+      </div>
+      <div id="task-list"></div>
+    </div>
+
+    <!-- AGENT TASKS -->
+    <div id="panel-agent" class="panel">
+      <div class="section-header">
+        <div><div class="section-title">Agent Tasks</div><div class="section-subtitle">What Freedom is working on</div></div>
+        <button class="btn btn-ghost" onclick="loadAgentTasks()">↻ Reload</button>
+      </div>
+      <div id="agent-content"><div class="loading"><div class="spinner"></div>Loading…</div></div>
+    </div>
+
+    <!-- DOCUMENTS -->
+    <div id="panel-docs" class="panel">
+      <div class="section-header">
+        <div><div class="section-title">Documents</div><div class="section-subtitle">Everything Freedom has created for you</div></div>
+        <button class="btn btn-primary" onclick="openDocModal()">＋ Add Document</button>
+      </div>
+      <div class="search-bar">
+        <input id="doc-search" class="input" placeholder="Search documents…" oninput="renderDocs()">
+        <select id="doc-cat-filter" class="input" style="width:160px" onchange="renderDocs()">
+          <option value="">All Categories</option>
+          <option>Analysis</option><option>Template</option><option>Research</option>
+          <option>Report</option><option>Strategy</option><option>Other</option>
+        </select>
+      </div>
+      <div id="doc-list"></div>
+    </div>
+
+    <!-- CALL RECORDINGS -->
+    <div id="panel-calls" class="panel">
+      <div class="section-header">
+        <div><div class="section-title">Call Recordings</div><div class="section-subtitle">Plaud call analyses — Nmbr &amp; Charlie</div></div>
+        <button class="btn btn-ghost" onclick="loadCallAnalyses()">↻ Reload</button>
+      </div>
+      <div id="calls-content"><div class="loading"><div class="spinner"></div>Loading…</div></div>
+    </div>
+
+  </main>
+</div>
+
+<!-- Add Document Modal -->
+<div id="doc-modal" class="modal-overlay" onclick="if(event.target===this) closeDocModal()">
+  <div class="modal">
+    <div class="modal-title">Add Document</div>
+    <div class="form-row"><label class="form-label">Title</label><input id="doc-title" class="input" placeholder="Document title"></div>
+    <div class="form-row">
+      <label class="form-label">Category</label>
+      <select id="doc-category" class="input"><option>Analysis</option><option>Template</option><option>Research</option><option>Report</option><option>Strategy</option><option>Other</option></select>
+    </div>
+    <div class="form-row"><label class="form-label">URL or File Path</label><input id="doc-path" class="input" placeholder="https://… or /path/to/file"></div>
+    <div class="form-row"><label class="form-label">Notes (optional)</label><input id="doc-notes" class="input" placeholder="Brief description"></div>
+    <div class="modal-actions">
+      <button class="btn btn-ghost" onclick="closeDocModal()">Cancel</button>
+      <button class="btn btn-primary" onclick="addDoc()">Add Document</button>
+    </div>
+  </div>
+</div>
+
+<div id="toast"></div>
+
+<script>
+// ── Config ─────────────────────────────────────────────────────────────────
+// SHA-256 of the password. Change with: sync.sh --set-password
+const PASSWORD_HASH = '13b1f7ec5beaefc781e43a3b344371cd49923a8a05edd71844b92f56f6a08d38';
+const SESSION_KEY   = 'mc_auth_v1';
+const TASKS_KEY     = 'mc_tasks_v1';
+
+// ── Auth ───────────────────────────────────────────────────────────────────
+async function sha256(str) {
+  const buf = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(str));
+  return Array.from(new Uint8Array(buf)).map(b => b.toString(16).padStart(2,'0')).join('');
+}
+
+async function checkPassword() {
+  const val = document.getElementById('gate-input').value;
+  const hash = await sha256(val);
+  if (hash === PASSWORD_HASH) {
+    sessionStorage.setItem(SESSION_KEY, '1');
+    document.getElementById('gate').style.display = 'none';
+    document.getElementById('app').style.display = 'grid';
+    init();
+  } else {
+    const err = document.getElementById('gate-error');
+    err.textContent = 'Incorrect password';
+    document.getElementById('gate-input').value = '';
+    document.getElementById('gate-input').focus();
+    setTimeout(() => err.textContent = '', 2000);
+  }
+}
+
+function logout() {
+  sessionStorage.removeItem(SESSION_KEY);
+  document.getElementById('app').style.display = 'none';
+  document.getElementById('gate').style.display = 'flex';
+  document.getElementById('gate-input').value = '';
+}
+
+// Auto-unlock if session active
+if (sessionStorage.getItem(SESSION_KEY)) {
+  document.getElementById('gate').style.display = 'none';
+  document.getElementById('app').style.display = 'grid';
+}
+
+// ── Data fetching (dual-mode: local server OR static JSON) ─────────────────
+async function fetchData(apiPath, staticPath) {
+  // Try local server API first
+  try {
+    const r = await fetch(apiPath, { signal: AbortSignal.timeout(2000) });
+    if (r.ok) return r.json();
+  } catch {}
+  // Fall back to static data files
+  try {
+    const r = await fetch(staticPath);
+    if (r.ok) return r.json();
+  } catch {}
+  return null;
+}
+
+// ── Utilities ──────────────────────────────────────────────────────────────
+let tasks = JSON.parse(localStorage.getItem(TASKS_KEY) || '[]');
+let taskFilter = 'all';
+let docs = [];
+
+function saveTasks() { localStorage.setItem(TASKS_KEY, JSON.stringify(tasks)); }
+function esc(s) {
+  return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+function toast(msg, type) {
+  const el = document.getElementById('toast');
+  el.textContent = msg;
+  el.className = 'show';
+  el.style.borderColor = type === 'error' ? 'var(--red)' : 'var(--border)';
+  setTimeout(() => el.className = '', 2500);
+}
+function setUpdated() {
+  document.getElementById('last-updated').textContent =
+    'Updated ' + new Date().toLocaleTimeString([],{hour:'2-digit',minute:'2-digit'});
+}
+
+// ── Navigation ─────────────────────────────────────────────────────────────
+function switchTab(id, btn) {
+  document.querySelectorAll('.panel').forEach(p => p.classList.remove('active'));
+  document.querySelectorAll('.nav-item').forEach(b => b.classList.remove('active'));
+  document.getElementById('panel-'+id).classList.add('active');
+  btn.classList.add('active');
+  if (id === 'agent') loadAgentTasks();
+  if (id === 'calls') loadCallAnalyses();
+  if (id === 'docs')  loadDocs();
+}
+
+// ── MY TASKS ───────────────────────────────────────────────────────────────
+function addTask() {
+  const input = document.getElementById('task-input');
+  const text = input.value.trim();
+  if (!text) return;
+  const priority = document.getElementById('task-priority').value;
+  tasks.unshift({ id: Date.now(), text, priority, completed: false, createdAt: new Date().toISOString() });
+  saveTasks(); input.value = ''; renderTasks(); toast('Task added');
+}
+function toggleTask(id) {
+  const t = tasks.find(t => t.id === id);
+  if (t) { t.completed = !t.completed; saveTasks(); renderTasks(); }
+}
+function deleteTask(id) {
+  tasks = tasks.filter(t => t.id !== id);
+  saveTasks(); renderTasks(); toast('Task deleted');
+}
+function setTaskFilter(f, btn) {
+  taskFilter = f;
+  document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active'); renderTasks();
+}
+function renderTasks() {
+  let f = tasks;
+  if (taskFilter === 'active') f = tasks.filter(t => !t.completed);
+  if (taskFilter === 'completed') f = tasks.filter(t => t.completed);
+  const active = tasks.filter(t => !t.completed).length;
+  document.getElementById('badge-tasks').textContent = active || '';
+  const el = document.getElementById('task-list');
+  if (!f.length) {
+    el.innerHTML = `<div class="empty"><div class="empty-icon">✅</div><div class="empty-title">${taskFilter==='completed'?'No completed tasks':'All clear'}</div><div class="empty-sub">${taskFilter==='all'?'Add your first task above':''}</div></div>`;
+    return;
+  }
+  el.innerHTML = f.map(t => `
+    <div class="task-item ${t.completed?'completed':''}">
+      <button class="task-check" onclick="toggleTask(${t.id})">${t.completed?'✓':''}</button>
+      <span class="task-text">${esc(t.text)}</span>
+      <span class="task-priority priority-${t.priority}">${t.priority}</span>
+      <div class="task-actions"><button class="btn-icon danger" onclick="deleteTask(${t.id})">🗑</button></div>
+    </div>`).join('');
+}
+
+// ── AGENT TASKS ────────────────────────────────────────────────────────────
+async function loadAgentTasks() {
+  const el = document.getElementById('agent-content');
+  el.innerHTML = '<div class="loading"><div class="spinner"></div>Loading agent tasks…</div>';
+  const data = await fetchData('/api/agent-tasks', 'data/agent-tasks.json');
+  if (!data || !data.sections || !data.sections.length) {
+    el.innerHTML = '<div class="empty"><div class="empty-icon">🤖</div><div class="empty-title">No active tasks</div><div class="empty-sub">active-tasks.md is empty or data hasn\'t synced yet</div></div>';
+    document.getElementById('badge-agent').textContent = '';
+    return;
+  }
+  const map = {
+    'in-progress':{ badge:'badge-blue',   label:'In Progress', icon:'⚡' },
+    'waiting':    { badge:'badge-yellow', label:'Waiting',     icon:'⏳' },
+    'completed':  { badge:'badge-green',  label:'Completed',   icon:'✅' },
+    'info':       { badge:'badge-gray',   label:'',            icon:'📋' },
+  };
+  let totalActive = 0;
+  el.innerHTML = data.sections.map(s => {
+    const { badge, label, icon } = map[s.status] || map.info;
+    if (s.status === 'in-progress') totalActive += s.tasks.length;
+    const tHtml = s.tasks.map(t => {
+      const notes = (t.notes||[]).filter(n => n && !n.match(/^<!--/)).slice(0,5);
+      return `<div class="agent-task">
+        <div class="agent-task-name">${esc(t.name.replace(/^#+\s*/,''))}</div>
+        ${notes.length?`<div class="agent-task-notes">${notes.map(n=>`<div class="agent-task-note">${esc(n)}</div>`).join('')}</div>`:''}
+      </div>`;
+    }).join('');
+    return `<div class="agent-section">
+      <div class="agent-section-title"><span>${icon}</span><span>${esc(s.title)}</span><span class="badge ${badge}">${label}</span></div>
+      ${tHtml||'<div class="agent-task" style="color:var(--text-muted)">Nothing here</div>'}
+    </div>`;
+  }).join('');
+  document.getElementById('badge-agent').textContent = totalActive || '';
+}
+
+// ── DOCUMENTS ──────────────────────────────────────────────────────────────
+async function loadDocs() {
+  const data = await fetchData('/api/docs', 'data/docs.json');
+  docs = (data && data.docs) || [];
+  renderDocs();
+}
+function renderDocs() {
+  const search = document.getElementById('doc-search').value.toLowerCase();
+  const cat = document.getElementById('doc-cat-filter').value;
+  const f = docs.filter(d =>
+    (!search || d.title.toLowerCase().includes(search) || (d.notes||'').toLowerCase().includes(search)) &&
+    (!cat || d.category === cat)
+  );
+  document.getElementById('badge-docs').textContent = docs.length || '';
+  const icons = {Analysis:'📊',Template:'📝',Research:'🔍',Report:'📈',Strategy:'🎯',Other:'📄'};
+  const el = document.getElementById('doc-list');
+  if (!f.length) {
+    el.innerHTML = '<div class="empty"><div class="empty-icon">📄</div><div class="empty-title">No documents yet</div><div class="empty-sub">Click "+ Add Document" to track a file</div></div>';
+    return;
+  }
+  el.innerHTML = f.map((d,i) => `
+    <div class="doc-item">
+      <div class="doc-icon">${icons[d.category]||'📄'}</div>
+      <div class="doc-info">
+        <div class="doc-title">${esc(d.title)}</div>
+        <div class="doc-meta"><span class="badge badge-gray">${esc(d.category||'Other')}</span><span>${d.date?new Date(d.date).toLocaleDateString('en-CA'):''}</span>${d.notes?`<span>· ${esc(d.notes)}</span>`:''}</div>
+      </div>
+      <div class="doc-actions">
+        ${d.filePath?`<a href="${esc(d.filePath)}" target="_blank"><button class="btn-icon" title="Open">📂</button></a>`:''}
+        <button class="btn-icon danger" onclick="deleteDoc(${i})">🗑</button>
+      </div>
+    </div>`).join('');
+}
+function openDocModal() { document.getElementById('doc-modal').classList.add('open'); setTimeout(()=>document.getElementById('doc-title').focus(),100); }
+function closeDocModal() {
+  document.getElementById('doc-modal').classList.remove('open');
+  ['doc-title','doc-path','doc-notes'].forEach(id=>document.getElementById(id).value='');
+}
+async function addDoc() {
+  const title = document.getElementById('doc-title').value.trim();
+  if (!title) { toast('Title is required','error'); return; }
+  docs.unshift({ id: Date.now(), title, category: document.getElementById('doc-category').value, filePath: document.getElementById('doc-path').value.trim(), notes: document.getElementById('doc-notes').value.trim(), date: new Date().toISOString() });
+  await saveDocs(); closeDocModal(); renderDocs(); toast('Document added');
+}
+async function deleteDoc(i) { docs.splice(i,1); await saveDocs(); renderDocs(); toast('Document removed'); }
+async function saveDocs() {
+  try {
+    await fetch('/api/docs',{ method:'POST', headers:{'Content-Type':'application/json'}, body: JSON.stringify({docs}) });
+  } catch {}
+  // On static hosting, docs live in localStorage too
+  localStorage.setItem('mc_docs_v1', JSON.stringify(docs));
+}
+
+// ── CALL RECORDINGS ────────────────────────────────────────────────────────
+async function loadCallAnalyses() {
+  const el = document.getElementById('calls-content');
+  el.innerHTML = '<div class="loading"><div class="spinner"></div>Loading call analyses…</div>';
+  const data = await fetchData('/api/call-analyses', 'data/call-analyses.json');
+  const analyses = (data && data.analyses) || [];
+  document.getElementById('badge-calls').textContent = analyses.length || '';
+  if (!analyses.length) {
+    el.innerHTML = `<div class="empty"><div class="empty-icon">📞</div><div class="empty-title">No call analyses yet</div><div class="empty-sub">Plaud analyses appear here after Freedom processes a recording</div></div>`;
+    return;
+  }
+  const biz = { Nmbr:'badge-blue', Charlie:'badge-purple', Unknown:'badge-gray' };
+  el.innerHTML = analyses.map(a => `
+    <div class="call-item">
+      <div class="call-header">
+        <div class="call-title">📞 ${esc(a.contact)}</div>
+        <span class="badge ${biz[a.business]||'badge-gray'}">${esc(a.business)}</span>
+        <span class="badge badge-gray">${esc(a.date)}</span>
+        ${a.filePath?`<a href="${esc(a.filePath)}" target="_blank"><button class="btn-icon" title="View full analysis">📖</button></a>`:''}
+      </div>
+      ${(a.takeaways||[]).length?`<ul class="call-takeaways">${(a.takeaways||[]).slice(0,4).map(t=>`<li>${esc(t)}</li>`).join('')}</ul>`:'<div style="color:var(--text-muted);font-size:12px">Open file for full analysis</div>'}
+    </div>`).join('');
+}
+
+// ── Refresh ────────────────────────────────────────────────────────────────
+async function refreshAll() {
+  const active = document.querySelector('.panel.active').id.replace('panel-','');
+  if (active === 'agent') await loadAgentTasks();
+  if (active === 'calls') await loadCallAnalyses();
+  if (active === 'docs')  await loadDocs();
+  setUpdated();
+}
+setInterval(refreshAll, 60000);
+
+// ── Init ───────────────────────────────────────────────────────────────────
+function init() {
+  // Merge localStorage docs if server isn't available
+  const localDocs = JSON.parse(localStorage.getItem('mc_docs_v1') || '[]');
+  if (localDocs.length) docs = localDocs;
+
+  renderTasks();
+  loadDocs();
+  loadAgentTasks();
+  setUpdated();
+}
+
+// If already authed, init immediately
+if (sessionStorage.getItem(SESSION_KEY)) init();
+</script>
+</body>
+</html>
