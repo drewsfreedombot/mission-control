@@ -16,9 +16,9 @@ if [[ "$1" == "--set-password" ]]; then
   echo -n "New password: "
   read -s NEW_PASS
   echo
-  HASH=$(echo -n "$NEW_PASS" | shasum -a 256 | cut -d' ' -f1)
+  HASH=$(echo -n "$NEW_PASS" | base64)
   # Update the hash in index.html
-  sed -i '' "s/const PASSWORD_HASH = '[^']*'/const PASSWORD_HASH = '$HASH'/" "$SCRIPT_DIR/index.html"
+  sed -i '' "s|const PASSWORD_HASH = '[^']*'|const PASSWORD_HASH = '$HASH'|" "$SCRIPT_DIR/index.html"
   echo "✅ Password updated. Run ./sync.sh to push the change."
   exit 0
 fi

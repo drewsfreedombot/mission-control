@@ -330,20 +330,17 @@ select.input{appearance:none;cursor:pointer}
 
 <script>
 // ── Config ─────────────────────────────────────────────────────────────────
-// SHA-256 of the password. Change with: sync.sh --set-password
-const PASSWORD_HASH = '13b1f7ec5beaefc781e43a3b344371cd49923a8a05edd71844b92f56f6a08d38';
+// btoa-encoded password. Change with: sync.sh --set-password
+const PASSWORD_HASH = 'ZnJlZWRvbQ=='; // btoa('freedom')
 const SESSION_KEY   = 'mc_auth_v1';
 const TASKS_KEY     = 'mc_tasks_v1';
 
 // ── Auth ───────────────────────────────────────────────────────────────────
-async function sha256(str) {
-  const buf = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(str));
-  return Array.from(new Uint8Array(buf)).map(b => b.toString(16).padStart(2,'0')).join('');
-}
+function sha256(str) { return btoa(unescape(encodeURIComponent(str))); }
 
-async function checkPassword() {
+function checkPassword() {
   const val = document.getElementById('gate-input').value;
-  const hash = await sha256(val);
+  const hash = sha256(val);
   if (hash === PASSWORD_HASH) {
     sessionStorage.setItem(SESSION_KEY, '1');
     document.getElementById('gate').style.display = 'none';
@@ -357,6 +354,7 @@ async function checkPassword() {
     setTimeout(() => err.textContent = '', 2000);
   }
 }
+
 
 function logout() {
   sessionStorage.removeItem(SESSION_KEY);
