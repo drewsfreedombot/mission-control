@@ -1,6 +1,26 @@
 {
   "sections": [
     {
+      "title": "WAITING ON DREW",
+      "status": "waiting",
+      "tasks": [
+        {
+          "name": "Nmbr Partner Materials",
+          "notes": [
+            "Drew said he'd send: list of partner activities + two-call close transcripts + full partner list",
+            "When received: save to memory, build into Nmbr coaching skill"
+          ]
+        },
+        {
+          "name": "Trello API Credentials",
+          "notes": [
+            "Need: API Key + Token from trello.com/app-key",
+            "To build: Nmbr outbound board, Charlie outbound board, Stock watchlist board"
+          ]
+        }
+      ]
+    },
+    {
       "title": "IN PROGRESS",
       "status": "in-progress",
       "tasks": [
@@ -38,5 +58,5 @@
       "tasks": []
     }
   ],
-  "updatedAt": "2026-02-21T20:00:01.102505+00:00"
+  "updatedAt": "2026-02-21T21:00:00.487828+00:00"
 }
