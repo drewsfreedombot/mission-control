@@ -1,62 +1,20 @@
 {
   "sections": [
     {
-      "title": "WAITING ON DREW",
-      "status": "waiting",
-      "tasks": [
-        {
-          "name": "Nmbr Partner Materials",
-          "notes": [
-            "Drew said he'd send: list of partner activities + two-call close transcripts + full partner list",
-            "When received: save to memory, build into Nmbr coaching skill"
-          ]
-        },
-        {
-          "name": "Trello API Credentials",
-          "notes": [
-            "Need: API Key + Token from trello.com/app-key",
-            "To build: Nmbr outbound board, Charlie outbound board, Stock watchlist board"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "IN PROGRESS",
-      "status": "in-progress",
-      "tasks": [
-        {
-          "name": "Gmail Reconnection",
-          "notes": [
-            "**Status:** Revoked by Drew (security concerns, Feb 20)",
-            "**Trigger:** Drew says it's safe to reconnect",
-            "**Steps:** Re-run Google OAuth flow (new Web App client already exists), save token"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "WAITING ON SOMEONE",
-      "status": "waiting",
-      "tasks": [
-        {
-          "name": "Brody \u2014 Tailscale Setup",
-          "notes": [
-            "**Call:** Saturday Feb 21",
-            "**Goal:** Remote access to Mac for browser relay + full remote control"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "COMPLETED TODAY (Feb 21)",
-      "status": "completed",
+      "title": "In Progress",
+      "status": "info",
       "tasks": []
     },
     {
-      "title": "COMPLETED (Feb 20)",
-      "status": "completed",
+      "title": "Waiting",
+      "status": "info",
+      "tasks": []
+    },
+    {
+      "title": "Completed",
+      "status": "info",
       "tasks": []
     }
   ],
-  "updatedAt": "2026-02-22T11:00:00.467618+00:00"
+  "updatedAt": "2026-02-22T12:00:00.923963+00:00"
 }
