@@ -1,20 +1,40 @@
 {
   "sections": [
     {
-      "title": "In Progress",
+      "title": "High Priority Task for Drew (Tomorrow):",
       "status": "info",
       "tasks": []
     },
     {
-      "title": "Waiting",
+      "title": "High Priority Personal Goal for Drew (Tomorrow):",
       "status": "info",
       "tasks": []
     },
     {
-      "title": "Completed",
+      "title": "In Progress (Freedom):",
+      "status": "info",
+      "tasks": []
+    },
+    {
+      "title": "Waiting:",
+      "status": "info",
+      "tasks": []
+    },
+    {
+      "title": "Other Tasks for Drew (Tomorrow):",
+      "status": "info",
+      "tasks": []
+    },
+    {
+      "title": "Other Personal Goals for Drew (Tomorrow):",
+      "status": "info",
+      "tasks": []
+    },
+    {
+      "title": "Completed:",
       "status": "info",
       "tasks": []
     }
   ],
-  "updatedAt": "2026-02-22T21:00:01.100534+00:00"
+  "updatedAt": "2026-02-22T22:00:00.691768+00:00"
 }
