@@ -1,1 +1,74 @@
-{}
+{
+  "meetings": [
+    {
+      "id": "m1",
+      "title": "Lullaboo Demo",
+      "datetime": "2026-02-23T14:30:00Z",
+      "duration": "60 min",
+      "attendees": ["Farbod Farsad", "Halim (Lullaboo)", "Connie Leung", "Irini (Lullaboo)"],
+      "location": "Google Meet",
+      "category": "Nmbr",
+      "prep": [{"request": "Company intel + demo prep", "status": "pending", "response": ""}]
+    },
+    {
+      "id": "m2",
+      "title": "ATB Payroll Demo (CIA Academy)",
+      "datetime": "2026-02-24T16:30:00Z",
+      "duration": "30 min",
+      "attendees": ["Angelina McMullin (CIA Academy)"],
+      "location": "Google Meet",
+      "category": "Nmbr",
+      "prep": [{"request": "CIA Academy company research", "status": "pending", "response": ""}]
+    },
+    {
+      "id": "m3",
+      "title": "HRWare + Nmbr - Component Walk-through",
+      "datetime": "2026-02-24T17:00:00Z",
+      "duration": "60 min",
+      "attendees": ["Kathy T (HRWare)", "T Couto (HRWare)", "Carla (Nmbr)"],
+      "location": "Google Meet",
+      "category": "Nmbr",
+      "prep": [{"request": "HRWare component walk-through prep", "status": "pending", "response": ""}]
+    },
+    {
+      "id": "m4",
+      "title": "Lunch with Kathleen Scholey (Scotiabank)",
+      "datetime": "2026-02-25T17:00:00Z",
+      "duration": "60 min",
+      "attendees": ["Kathleen Scholey (Scotiabank)"],
+      "location": "TBD",
+      "category": "Nmbr",
+      "prep": [{"request": "Scotiabank / Kathleen Scholey research", "status": "pending", "response": ""}]
+    },
+    {
+      "id": "m5",
+      "title": "Clearview Connect - Payroll Pricing Chat",
+      "datetime": "2026-02-25T19:00:00Z",
+      "duration": "60 min",
+      "attendees": ["Greg Noel (Clearview)", "Emily Noddin (Clearview)"],
+      "location": "Google Meet",
+      "category": "Nmbr",
+      "prep": [{"request": "Clearview pricing prep", "status": "pending", "response": ""}]
+    },
+    {
+      "id": "m6",
+      "title": "Otter // Nmbr Sync",
+      "datetime": "2026-02-25T20:00:00Z",
+      "duration": "60 min",
+      "attendees": ["K (Otter)", "Andrea (Otter)"],
+      "location": "Google Meet",
+      "category": "Nmbr",
+      "prep": [{"request": "Otter company intel", "status": "pending", "response": ""}]
+    },
+    {
+      "id": "m7",
+      "title": "NMBR <> Collage - Sales Training",
+      "datetime": "2026-03-05T09:00:00Z",
+      "duration": "60 min",
+      "attendees": ["Louis (Collage)", "Andrew Tinley (Collage)", "Patrick Leblanc (Collage)"],
+      "location": "Google Meet",
+      "category": "Nmbr",
+      "prep": [{"request": "Collage sales training agenda", "status": "pending", "response": ""}]
+    }
+  ]
+}
