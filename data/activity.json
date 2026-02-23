@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "timestamp": "2026-02-23T06:30:00",
+      "type": "intel",
+      "title": "Opportunity Scan — Feb 23",
+      "detail": "5 opportunities identified: Wagepoint competitor expansion (Nmbr angle), Canadian fintech funding surge, Brookfield 17% dividend hike (BN), Enbridge 3% hike (ENB payable Mar 1), Canadian Finance Summit May 28 Toronto (Nmbr networking)."
+    },
+    {
+      "timestamp": "2026-02-23T06:00:00",
+      "type": "alert",
+      "title": "⚠️ Chung Tang 48hr Deadline — TODAY",
+      "detail": "Drew committed to sending Chung Tang (More Customers Online) a Loom or Charlie referral info within 48hrs of Feb 22. Deadline is Feb 23. Must action today."
+    },
+    {
+      "timestamp": "2026-02-23T06:00:00",
+      "type": "research",
+      "title": "Morning Briefing — Feb 23",
+      "detail": "French Lesson 6 (Quebec weather), FTS.TO dividend pick (51yr growth, ~4.5% yield, C$69 analyst avg target), Nmbr/Charlie lead scans (no fresh leads), calendar reconnection needed."
+    },
+    {
       "timestamp": "2026-02-22T21:00:00",
       "type": "research",
       "title": "Weekly Digest Generated",
