@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "timestamp": "2026-02-23T10:00:00",
+      "type": "intel",
+      "title": "Nmbr Lead Scan — 10 New Leads (Refresh)",
+      "detail": "Deep-research scan of vertical SaaS companies with Canadian customers but no native embedded payroll. Top 3 🔥: Teambridge (publicly said they want to add payroll), Sona (Series A, expanding to Canada with UK payroll only), Jobber ($100M+ ARR, field service, no payroll). All 10 leads have decision-maker name, LinkedIn, and email. Report saved to opportunity-intel.md."
+    },
+    {
       "timestamp": "2026-02-23T09:02:00",
       "type": "research",
       "title": "Dividend Research — T.TO (TELUS) Primary Pick",

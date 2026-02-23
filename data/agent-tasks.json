@@ -1,6 +1,11 @@
 {
   "sections": [
     {
+      "title": "Technical Fix Needed",
+      "status": "info",
+      "tasks": []
+    },
+    {
       "title": "Confirmed Travel",
       "status": "info",
       "tasks": []
@@ -41,5 +46,5 @@
       "tasks": []
     }
   ],
-  "updatedAt": "2026-02-23T14:00:01.164535+00:00"
+  "updatedAt": "2026-02-23T15:00:00.373947+00:00"
 }
