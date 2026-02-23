@@ -1,1 +1,10 @@
-{}
+{
+  "feed": [
+    {
+      "timestamp": "2026-02-22T21:00:00",
+      "type": "research",
+      "title": "Weekly Digest Generated",
+      "detail": "Week of Feb 17–22: 3 major infrastructure wins, Chung Tang referral partner committed, 50+ leads compiled, calendars + Mission Control dashboard live. Saved to ~/clawd/weekly-digests/2026-02-22.md"
+    }
+  ]
+}
