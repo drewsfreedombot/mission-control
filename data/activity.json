@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "timestamp": "2026-02-23T09:02:00",
+      "type": "research",
+      "title": "Dividend Research — T.TO (TELUS) Primary Pick",
+      "detail": "Scanned full TSX dividend universe. Most stalwarts (ENB, FTS, PPL, TRP, BNS) near all-time or 52-week highs. Primary pick: TELUS (T.TO) at ~$18 CAD — near 52-week lows, 15% below 5-yr avg, 9.2% yield, record 2025 FCF $2.2B (+11% YoY), 21%+ analyst upside. Dividend frozen not cut. Report sent to Telegram."
+    },
+    {
       "timestamp": "2026-02-23T08:36:00",
       "type": "intel",
       "title": "Charlie Lead Scan — 10 New Leads Added",
