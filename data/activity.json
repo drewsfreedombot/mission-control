@@ -1,6 +1,24 @@
 {
   "feed": [
     {
+      "timestamp": "2026-02-23T08:36:00",
+      "type": "intel",
+      "title": "Charlie Lead Scan — 10 New Leads Added",
+      "detail": "5 PI law firms + 5 high-ticket coaches actively hiring setters/intake specialists. All added to CRM (cp012–cp021). Top picks: Tishbi Law (confirmed email), Dimopoulos Injury Law, Royston G King."
+    },
+    {
+      "timestamp": "2026-02-23T08:06:00",
+      "type": "intel",
+      "title": "Nmbr Lead Scan — 10 New Leads Added",
+      "detail": "10 Canadian workforce SaaS companies with no native Canadian payroll added to CRM (n009–n018). Top picks: Workstaff (seed-funded, Montreal), MakeShift (SAP partner, 50% growth), Bridgit (Canadian construction)."
+    },
+    {
+      "timestamp": "2026-02-23T08:06:00",
+      "type": "research",
+      "title": "Payroll Marketing Intel — Week of Feb 23",
+      "detail": "Weekly payroll marketing playbook delivered. Focus: Restaurant SaaS vertical. All 11 channels covered with 33 actionable tactics. Top 3 priorities: 'paying twice' email campaign, LinkedIn job-posting outbound trigger, dedicated /payroll landing page. Saved to memory/payroll-marketing/2026-02-23.md"
+    },
+    {
       "timestamp": "2026-02-23T06:30:00",
       "type": "intel",
       "title": "Opportunity Scan — Feb 23",
