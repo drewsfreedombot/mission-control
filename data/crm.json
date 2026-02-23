@@ -5,7 +5,14 @@
       "id": "nmbr",
       "name": "Nmbr",
       "color": "#0066FF",
-      "stages": ["Lead", "Contacted", "Call Booked", "Dead", "Disqualified", "Closed Won"],
+      "stages": [
+        "Lead",
+        "Contacted",
+        "Call Booked",
+        "Dead",
+        "Disqualified",
+        "Closed Won"
+      ],
       "deals": [
         {
           "id": "n001",
@@ -13,14 +20,23 @@
           "contact": "Farbod Farsad",
           "title": "Director/Leadership",
           "email": "farbod.farsad@lullaboo.ca",
-          "altContacts": ["halim@lullaboo.ca", "connie.leung@lullaboo.ca", "irini@lullaboo.ca"],
+          "altContacts": [
+            "halim@lullaboo.ca",
+            "connie.leung@lullaboo.ca",
+            "irini@lullaboo.ca"
+          ],
           "stage": "Call Booked",
           "source": "Calendar",
           "signal": "Live Nmbr demo booked Feb 23 @ 2:30 PM AST. Multiple stakeholders attending.",
           "notes": "Canadian childcare/daycare SaaS company. Multi-person demo = strong buying signal. Prep: research Lullaboo's tech stack and payroll complexity.",
           "added": "2026-02-22",
           "meetingDate": "2026-02-23",
-          "tags": ["demo", "childcare", "Canadian", "SaaS"]
+          "tags": [
+            "demo",
+            "childcare",
+            "Canadian",
+            "SaaS"
+          ]
         },
         {
           "id": "n002",
@@ -28,14 +44,19 @@
           "contact": "Angelina McMullin",
           "title": "Unknown",
           "email": "amcmullin@ciacademy.ca",
-          "altContacts": ["finance@ciacademy.ca"],
+          "altContacts": [
+            "finance@ciacademy.ca"
+          ],
           "stage": "Call Booked",
           "source": "Calendar",
           "signal": "ATB Payroll Demo booked Feb 24 @ 12:30 PM AST via ATB relationship.",
           "notes": "Came in through ATB payroll channel. Finance team involved (finance@ on invite). Could be training/education sector.",
           "added": "2026-02-22",
           "meetingDate": "2026-02-24",
-          "tags": ["ATB channel", "demo"]
+          "tags": [
+            "ATB channel",
+            "demo"
+          ]
         },
         {
           "id": "n003",
@@ -43,14 +64,21 @@
           "contact": "Kathy T",
           "title": "Unknown",
           "email": "kathyt@hrware.com",
-          "altContacts": ["tcouto@hrware.com", "ric.carlin@managemypeople.com"],
+          "altContacts": [
+            "tcouto@hrware.com",
+            "ric.carlin@managemypeople.com"
+          ],
           "stage": "Contacted",
           "source": "Calendar",
           "signal": "Component walk-through scheduled Feb 24 @ 1 PM AST. Weekly recurring sync already in place.",
           "notes": "HR software platform. Weekly cadence established. Component walk-through = integration scoping stage. Ric Carlin at managemypeople.com also involved.",
           "added": "2026-02-22",
           "meetingDate": "2026-02-24",
-          "tags": ["HR software", "partner", "integration"]
+          "tags": [
+            "HR software",
+            "partner",
+            "integration"
+          ]
         },
         {
           "id": "n004",
@@ -58,14 +86,20 @@
           "contact": "Greg Noel",
           "title": "Unknown",
           "email": "greg.noel@clearviewconnect.com",
-          "altContacts": ["emily.noddin@clearviewconnect.com"],
+          "altContacts": [
+            "emily.noddin@clearviewconnect.com"
+          ],
           "stage": "Call Booked",
           "source": "Calendar",
           "signal": "Payroll PRICING chat booked Feb 25 @ 3 PM AST. Pricing conversations = late stage.",
           "notes": "Pricing discussion signals serious buying intent. Emily Noddin also attending. Clearview Connect appears to be a workforce/scheduling platform.",
           "added": "2026-02-22",
           "meetingDate": "2026-02-25",
-          "tags": ["pricing", "late-stage", "scheduling"]
+          "tags": [
+            "pricing",
+            "late-stage",
+            "scheduling"
+          ]
         },
         {
           "id": "n005",
@@ -73,20 +107,25 @@
           "contact": "K (Otter)",
           "title": "Founder/Leadership",
           "email": "k@otter.ca",
-          "altContacts": ["andrea@otter.ca"],
+          "altContacts": [
+            "andrea@otter.ca"
+          ],
           "stage": "Call Booked",
           "source": "Calendar",
           "signal": "Nmbr sync booked Feb 25 @ 4 PM AST.",
           "notes": "Canadian company (otter.ca). K and Andrea attending. Likely a workforce management or scheduling SaaS given the domain.",
           "added": "2026-02-22",
           "meetingDate": "2026-02-25",
-          "tags": ["Canadian", "sync"]
+          "tags": [
+            "Canadian",
+            "sync"
+          ]
         },
         {
           "id": "n006",
           "company": "Scotiabank",
           "contact": "Kathleen Scholey",
-          "title": "Unknown — likely Partnership or Innovation",
+          "title": "Unknown \u2014 likely Partnership or Innovation",
           "email": "kathleen.scholey@scotiabank.com",
           "altContacts": [],
           "stage": "Call Booked",
@@ -95,7 +134,12 @@
           "notes": "Scotiabank = one of Canada's Big Six banks. Could be exploring embedded payroll for their SMB banking clients or a partnership play. High-value relationship to nurture carefully.",
           "added": "2026-02-22",
           "meetingDate": "2026-02-25",
-          "tags": ["bank", "enterprise", "partnership", "Canadian"]
+          "tags": [
+            "bank",
+            "enterprise",
+            "partnership",
+            "Canadian"
+          ]
         },
         {
           "id": "n007",
@@ -103,14 +147,22 @@
           "contact": "Louis",
           "title": "Unknown",
           "email": "louis@collage.co",
-          "altContacts": ["andrew.tinley@collage.co", "patrick.leblanc@collage.co"],
+          "altContacts": [
+            "andrew.tinley@collage.co",
+            "patrick.leblanc@collage.co"
+          ],
           "stage": "Contacted",
           "source": "Calendar",
           "signal": "NMBR <> Collage sales training booked Mar 5 @ 9 AM AST. Patrick Leblanc (Quebec?) on invite.",
-          "notes": "Collage is a Canadian HR/people management platform. Sales training session = active partner. Patrick Leblanc name suggests Quebec market angle — important for Nmbr's Quebec expansion.",
+          "notes": "Collage is a Canadian HR/people management platform. Sales training session = active partner. Patrick Leblanc name suggests Quebec market angle \u2014 important for Nmbr's Quebec expansion.",
           "added": "2026-02-22",
           "meetingDate": "2026-03-05",
-          "tags": ["partner", "HR software", "Canadian", "Quebec"]
+          "tags": [
+            "partner",
+            "HR software",
+            "Canadian",
+            "Quebec"
+          ]
         },
         {
           "id": "n009",
@@ -121,26 +173,38 @@
           "altContacts": [],
           "stage": "Lead",
           "source": "Lead Scan Feb 23",
-          "signal": "Raised $1.6M CAD seed July 2024. No native payroll — exports timesheets externally. Actively building product.",
+          "signal": "Raised $1.6M CAD seed July 2024. No native payroll \u2014 exports timesheets externally. Actively building product.",
           "notes": "Montreal-based SaaS for flexible/temp staff scheduling. Their site says 'making payroll a breeze' via export. Nmbr is the module they haven't built yet. Founder-accessible, fast decision.",
           "added": "2026-02-23",
           "meetingDate": "",
-          "tags": ["scheduling", "Canadian", "Montreal", "seed-funded", "hot"]
+          "tags": [
+            "scheduling",
+            "Canadian",
+            "Montreal",
+            "seed-funded",
+            "hot"
+          ]
         },
         {
           "id": "n010",
           "company": "MakeShift",
           "contact": "Adam Greenberg",
           "title": "CEO",
-          "email": "adam@makeshift.ca",
+          "email": "agreenberg@makeshift.ca",
           "altContacts": [],
           "stage": "Lead",
           "source": "Lead Scan Feb 23",
-          "signal": "Canadian employee scheduling, SAP SuccessFactors partner, 50% YoY growth. Sends data to ADP/Ceridian via export — no native payroll.",
-          "notes": "Healthcare, retail, hospitality, public sector clients. G2 Top 100 Fastest Growing. Pitch: Nmbr is the embedded payroll layer their SAP SuccessFactors customers keep asking for.",
+          "signal": "Canadian employee scheduling, SAP SuccessFactors partner, 50% YoY growth. Sends data to ADP/Ceridian via export \u2014 no native payroll.",
+          "notes": "Healthcare, retail, hospitality, public sector clients. G2 Top 100 Fastest Growing. Pitch: Nmbr is the embedded payroll layer their SAP SuccessFactors customers keep asking for. | Email Hunter-verified score:100",
           "added": "2026-02-23",
           "meetingDate": "",
-          "tags": ["scheduling", "Canadian", "SAP partner", "healthcare", "hot"]
+          "tags": [
+            "scheduling",
+            "Canadian",
+            "SAP partner",
+            "healthcare",
+            "hot"
+          ]
         },
         {
           "id": "n011",
@@ -152,10 +216,15 @@
           "stage": "Lead",
           "source": "Lead Scan Feb 23",
           "signal": "Canadian-born construction workforce planning. Manages crew allocation but zero payroll. Complex Canadian construction payroll pain (union rates, job-costing, provincial rules).",
-          "notes": "gobridgit.com. Founder-accessible. Pitch: 'You solve the who/when — Nmbr solves the getting-paid part.'",
+          "notes": "gobridgit.com. Founder-accessible. Pitch: 'You solve the who/when \u2014 Nmbr solves the getting-paid part.'",
           "added": "2026-02-23",
           "meetingDate": "",
-          "tags": ["construction", "Canadian", "workforce planning", "hot"]
+          "tags": [
+            "construction",
+            "Canadian",
+            "workforce planning",
+            "hot"
+          ]
         },
         {
           "id": "n012",
@@ -167,10 +236,16 @@
           "stage": "Lead",
           "source": "Lead Scan Feb 23",
           "signal": "Vancouver, ~$14M revenue, 25 years serving security/healthcare staffing. Complex Canadian payroll (shift differentials, overtime, provincial rules). Farms payroll out via integrations.",
-          "notes": "celayix.com. Stable base of SMB clients. Partnership play: Nmbr as embedded payroll option inside Celayix.",
+          "notes": "celayix.com. Stable base of SMB clients. Partnership play: Nmbr as embedded payroll option inside Celayix. | Email Hunter-verified score:100",
           "added": "2026-02-23",
           "meetingDate": "",
-          "tags": ["scheduling", "Canadian", "security", "healthcare", "Vancouver"]
+          "tags": [
+            "scheduling",
+            "Canadian",
+            "security",
+            "healthcare",
+            "Vancouver"
+          ]
         },
         {
           "id": "n013",
@@ -178,14 +253,21 @@
           "contact": "Tito Goldstein",
           "title": "Co-Founder & CEO",
           "email": "tito@teambridge.com",
-          "altContacts": ["arjun@teambridge.com"],
+          "altContacts": [
+            "arjun@teambridge.com"
+          ],
           "stage": "Lead",
           "source": "Lead Scan Feb 23",
-          "signal": "Blog post Aug 2025 explicitly states 'currently working on adding built-in payroll processing.' They want payroll — Nmbr can deliver Canadian payroll instantly vs. 12-18 month build.",
+          "signal": "Blog post Aug 2025 explicitly states 'currently working on adding built-in payroll processing.' They want payroll \u2014 Nmbr can deliver Canadian payroll instantly vs. 12-18 month build.",
           "notes": "teambridge.com. AI-native contingent workforce management (homecare, security, field services). Intercept before they spend a year building it themselves. This is the strongest buying signal on any list.",
           "added": "2026-02-23",
           "meetingDate": "",
-          "tags": ["workforce management", "ex-Uber", "VC-backed", "explicit gap"]
+          "tags": [
+            "workforce management",
+            "ex-Uber",
+            "VC-backed",
+            "explicit gap"
+          ]
         },
         {
           "id": "n014",
@@ -197,10 +279,15 @@
           "stage": "Lead",
           "source": "Lead Scan Feb 23",
           "signal": "US construction/field service time tracking. Growing Canadian base hitting wall with Gusto/US payroll. No Canadian payroll integration.",
-          "notes": "workyard.com. Canada-specific integration partnership angle — first mover advantage for Canadian embedded payroll.",
+          "notes": "workyard.com. Canada-specific integration partnership angle \u2014 first mover advantage for Canadian embedded payroll.",
           "added": "2026-02-23",
           "meetingDate": "",
-          "tags": ["construction", "US company", "Canadian expansion", "time tracking"]
+          "tags": [
+            "construction",
+            "US company",
+            "Canadian expansion",
+            "time tracking"
+          ]
         },
         {
           "id": "n015",
@@ -212,10 +299,15 @@
           "stage": "Lead",
           "source": "Lead Scan Feb 23",
           "signal": "200,000+ workplaces globally. Massive Canadian presence. New CEO Sept 2024 = new partnerships window. No native Canadian payroll.",
-          "notes": "wheniwork.com. Scale play — even a fraction of Canadian accounts is significant. New CEO = new partnerships mandate.",
+          "notes": "wheniwork.com. Scale play \u2014 even a fraction of Canadian accounts is significant. New CEO = new partnerships mandate.",
           "added": "2026-02-23",
           "meetingDate": "",
-          "tags": ["scheduling", "global", "large scale", "new CEO"]
+          "tags": [
+            "scheduling",
+            "global",
+            "large scale",
+            "new CEO"
+          ]
         },
         {
           "id": "n016",
@@ -227,25 +319,36 @@
           "stage": "Lead",
           "source": "Lead Scan Feb 23",
           "signal": "Vancouver hospitality SaaS. Operto Teams tracks housekeeping/maintenance hours for Canadian hotels. Outputs to payroll reports manually.",
-          "notes": "operto.com. Canadian. Hospitality operators with hourly staff. Nmbr closes the time-tracking → payroll loop.",
+          "notes": "operto.com. Canadian. Hospitality operators with hourly staff. Nmbr closes the time-tracking \u2192 payroll loop.",
           "added": "2026-02-23",
           "meetingDate": "",
-          "tags": ["hospitality", "Canadian", "Vancouver", "time tracking"]
+          "tags": [
+            "hospitality",
+            "Canadian",
+            "Vancouver",
+            "time tracking"
+          ]
         },
         {
           "id": "n017",
           "company": "Deputy",
           "contact": "Ashik Ahmed",
           "title": "Co-Founder, CEO & CTO",
-          "email": "ashik@deputy.com",
+          "email": "aahmed@deputy.com",
           "altContacts": [],
           "stage": "Lead",
           "source": "Lead Scan Feb 23",
-          "signal": "Global WFM giant, huge Canadian presence in retail/healthcare/hospitality. No native Canadian payroll — exports to ADP/Ceridian.",
-          "notes": "deputy.com. Large company = slower deal but high-value if landed. Channel distribution at scale.",
+          "signal": "Global WFM giant, huge Canadian presence in retail/healthcare/hospitality. No native Canadian payroll \u2014 exports to ADP/Ceridian.",
+          "notes": "deputy.com. Large company = slower deal but high-value if landed. Channel distribution at scale. | Email Hunter-verified score:100",
           "added": "2026-02-23",
           "meetingDate": "",
-          "tags": ["scheduling", "global", "large scale", "retail", "healthcare"]
+          "tags": [
+            "scheduling",
+            "global",
+            "large scale",
+            "retail",
+            "healthcare"
+          ]
         },
         {
           "id": "n024",
@@ -256,11 +359,20 @@
           "altContacts": [],
           "stage": "Lead",
           "source": "Lead Scan Feb 23",
-          "signal": "Montreal-based frontline WFM for Walmart, McDonald's. ~$50M ARR. Zero payroll product — customers export to ADP/Ceridian. Millions in annual revenue leaving platform every pay cycle.",
-          "notes": "workjam.com. Exact same play Collage just made. Pitch: 'You own the schedule → time loop. Nmbr adds the → pay layer.' Email confirmed. LinkedIn: ca.linkedin.com/in/steven-kramer-7b42144",
+          "signal": "Montreal-based frontline WFM for Walmart, McDonald's. ~$50M ARR. Zero payroll product \u2014 customers export to ADP/Ceridian. Millions in annual revenue leaving platform every pay cycle.",
+          "notes": "workjam.com. Exact same play Collage just made. Pitch: 'You own the schedule \u2192 time loop. Nmbr adds the \u2192 pay layer.' Email confirmed. LinkedIn: ca.linkedin.com/in/steven-kramer-7b42144",
           "added": "2026-02-23",
           "meetingDate": "",
-          "tags": ["scheduling", "Canadian", "Montreal", "enterprise", "Walmart", "McDonald's", "confirmed email", "hot"]
+          "tags": [
+            "scheduling",
+            "Canadian",
+            "Montreal",
+            "enterprise",
+            "Walmart",
+            "McDonald's",
+            "confirmed email",
+            "hot"
+          ]
         },
         {
           "id": "n025",
@@ -272,25 +384,40 @@
           "stage": "Lead",
           "source": "Lead Scan Feb 23",
           "signal": "40 years, 7,000+ Canadian WFM installations. New CEO Paolo Gilfillan (15 years in sales org) = growth mandate. Always passed payroll revenue to ADP/Ceridian/SAP.",
-          "notes": "synerion.com. Mississauga, ON. 7,000 Canadian customers — if 10% embed Nmbr, transformative. New CEO + legacy ADP dependency = perfect timing. Email confirmed. LinkedIn: ca.linkedin.com/in/paolo-gilfillan",
+          "notes": "synerion.com. Mississauga, ON. 7,000 Canadian customers \u2014 if 10% embed Nmbr, transformative. New CEO + legacy ADP dependency = perfect timing. Email confirmed. LinkedIn: ca.linkedin.com/in/paolo-gilfillan",
           "added": "2026-02-23",
           "meetingDate": "",
-          "tags": ["workforce management", "Canadian", "Ontario", "7000 installs", "new CEO", "confirmed email", "hot"]
+          "tags": [
+            "workforce management",
+            "Canadian",
+            "Ontario",
+            "7000 installs",
+            "new CEO",
+            "confirmed email",
+            "hot"
+          ]
         },
         {
           "id": "n026",
           "company": "Homebase",
           "contact": "John Waldmann",
           "title": "CEO & Co-Founder",
-          "email": "john.waldmann@joinhomebase.com",
+          "email": "johnw@joinhomebase.com",
           "altContacts": [],
           "stage": "Lead",
           "source": "Lead Scan Feb 23",
-          "signal": "100K+ small businesses. $189M raised (Series D). Actively expanding to Canada, doubling Canadian tech team. No native Canadian payroll integrations — Jan 2026 review confirms gap explicitly.",
-          "notes": "joinhomebase.com. Active Canadian expansion = perfect intercept. Every Canadian SMB on Homebase needs payroll and currently gets nothing. LinkedIn: linkedin.com/in/johnwaldmann",
+          "signal": "100K+ small businesses. $189M raised (Series D). Actively expanding to Canada, doubling Canadian tech team. No native Canadian payroll integrations \u2014 Jan 2026 review confirms gap explicitly.",
+          "notes": "joinhomebase.com. Active Canadian expansion = perfect intercept. Every Canadian SMB on Homebase needs payroll and currently gets nothing. LinkedIn: linkedin.com/in/johnwaldmann | Email Hunter-verified score:46",
           "added": "2026-02-23",
           "meetingDate": "",
-          "tags": ["SMB", "scheduling", "US company", "Canadian expansion", "100K businesses", "Series D"]
+          "tags": [
+            "SMB",
+            "scheduling",
+            "US company",
+            "Canadian expansion",
+            "100K businesses",
+            "Series D"
+          ]
         },
         {
           "id": "n027",
@@ -302,10 +429,16 @@
           "stage": "Lead",
           "source": "Lead Scan Feb 23",
           "signal": "Formerly GSoft. 15,000+ orgs in 110 countries. $45M+ revenue. Multiple reviews list 'no payroll, no benefits, no compliance tooling' as main product gap.",
-          "notes": "workleap.com. Montreal. Customer base + trust + distribution — missing the payroll product. Nmbr can be their payroll module without building it. LinkedIn: ca.linkedin.com/in/simondebaene",
+          "notes": "workleap.com. Montreal. Customer base + trust + distribution \u2014 missing the payroll product. Nmbr can be their payroll module without building it. LinkedIn: ca.linkedin.com/in/simondebaene",
           "added": "2026-02-23",
           "meetingDate": "",
-          "tags": ["employee experience", "Canadian", "Montreal", "15K orgs", "confirmed gap in reviews"]
+          "tags": [
+            "employee experience",
+            "Canadian",
+            "Montreal",
+            "15K orgs",
+            "confirmed gap in reviews"
+          ]
         },
         {
           "id": "n028",
@@ -320,7 +453,14 @@
           "notes": "beekeeper.io. Unique pitch: 'You already show paystubs. What if you ran the payroll?' Canadian construction + hospitality clients = ideal Nmbr vertical. LinkedIn: linkedin.com/in/crisgrossmann",
           "added": "2026-02-23",
           "meetingDate": "",
-          "tags": ["frontline", "enterprise", "shows paystubs", "unique angle", "construction", "hospitality"]
+          "tags": [
+            "frontline",
+            "enterprise",
+            "shows paystubs",
+            "unique angle",
+            "construction",
+            "hospitality"
+          ]
         },
         {
           "id": "n019",
@@ -335,7 +475,14 @@
           "notes": "Edmonton-founded. 4x Globe & Mail Top Growing Companies. Biggest Nmbr opportunity identified to date. Embedding Nmbr = major ARPU increase + churn reduction. LinkedIn: ca.linkedin.com/in/sampillar",
           "added": "2026-02-23",
           "meetingDate": "",
-          "tags": ["field service", "Canadian", "trades", "enterprise", "flagship", "hot"]
+          "tags": [
+            "field service",
+            "Canadian",
+            "trades",
+            "enterprise",
+            "flagship",
+            "hot"
+          ]
         },
         {
           "id": "n020",
@@ -346,11 +493,17 @@
           "altContacts": [],
           "stage": "Lead",
           "source": "Lead Scan Feb 23",
-          "signal": "$40M+ raised (Felicis, Northzone, Google Gradient). Series A raised specifically for North America expansion. UK payroll built in — zero Canadian payroll module.",
-          "notes": "getsona.com. Frontline WFM for care homes, restaurants, hotels. Perfect intercept — actively expanding into Canada right now. LinkedIn: uk.linkedin.com/in/steffenwulff",
+          "signal": "$40M+ raised (Felicis, Northzone, Google Gradient). Series A raised specifically for North America expansion. UK payroll built in \u2014 zero Canadian payroll module.",
+          "notes": "getsona.com. Frontline WFM for care homes, restaurants, hotels. Perfect intercept \u2014 actively expanding into Canada right now. LinkedIn: uk.linkedin.com/in/steffenwulff",
           "added": "2026-02-23",
           "meetingDate": "",
-          "tags": ["workforce management", "healthcare", "hospitality", "North America expansion", "hot"]
+          "tags": [
+            "workforce management",
+            "healthcare",
+            "hospitality",
+            "North America expansion",
+            "hot"
+          ]
         },
         {
           "id": "n021",
@@ -365,7 +518,12 @@
           "notes": "workaxle.com. SAP-certified = prestige enterprise clients. Embedding Canadian payroll unlocks upsell within existing accounts. LinkedIn: linkedin.com/in/matdiab",
           "added": "2026-02-23",
           "meetingDate": "",
-          "tags": ["enterprise", "SAP partner", "multi-location", "workforce management"]
+          "tags": [
+            "enterprise",
+            "SAP partner",
+            "multi-location",
+            "workforce management"
+          ]
         },
         {
           "id": "n022",
@@ -380,7 +538,12 @@
           "notes": "shiftboard.com. Canadian energy clients are scheduling in Shiftboard, running payroll in Ceridian separately. LinkedIn: linkedin.com/in/sterling-wilson-799b8b8",
           "added": "2026-02-23",
           "meetingDate": "",
-          "tags": ["energy", "manufacturing", "Canadian clients", "US company"]
+          "tags": [
+            "energy",
+            "manufacturing",
+            "Canadian clients",
+            "US company"
+          ]
         },
         {
           "id": "n023",
@@ -392,25 +555,35 @@
           "stage": "Lead",
           "source": "Lead Scan Feb 23",
           "signal": "200,000+ businesses globally. No native embedded Canadian payroll. Even 3-5% Canadian = 6,000-10,000 Canadian businesses leaving the platform to do payroll.",
-          "notes": "connecteam.com. Israeli company. Scale play — massive distribution if partnership lands. LinkedIn: il.linkedin.com/in/amir-nehemia-a914a773",
+          "notes": "connecteam.com. Israeli company. Scale play \u2014 massive distribution if partnership lands. LinkedIn: il.linkedin.com/in/amir-nehemia-a914a773",
           "added": "2026-02-23",
           "meetingDate": "",
-          "tags": ["global scale", "all-in-one", "scheduling", "200K businesses"]
+          "tags": [
+            "global scale",
+            "all-in-one",
+            "scheduling",
+            "200K businesses"
+          ]
         },
         {
           "id": "n018",
           "company": "Skedulo",
           "contact": "Matt MacInnis",
           "title": "CEO",
-          "email": "matt@skedulo.com",
+          "email": "mfairhurst@skedulo.com",
           "altContacts": [],
           "stage": "Lead",
           "source": "Lead Scan Feb 23",
           "signal": "Field workforce scheduling for Canadian healthcare + social services. No native payroll. Provincial regulations, complex comp codes, T4 requirements.",
-          "notes": "skedulo.com. Healthcare and social services in Canada = provincially regulated payroll pain. Good B2B SaaS profile.",
+          "notes": "skedulo.com. Healthcare and social services in Canada = provincially regulated payroll pain. Good B2B SaaS profile. | Email Hunter-verified score:100",
           "added": "2026-02-23",
           "meetingDate": "",
-          "tags": ["healthcare", "field services", "social services", "scheduling"]
+          "tags": [
+            "healthcare",
+            "field services",
+            "social services",
+            "scheduling"
+          ]
         },
         {
           "id": "n008",
@@ -422,18 +595,30 @@
           "stage": "Closed Won",
           "source": "Known Client",
           "signal": "Confirmed existing Nmbr client as of Feb 20, 2026.",
-          "notes": "Quebec-based bilingual workforce scheduling SaaS. Do NOT pitch — active client. Star example of Nmbr ICP.",
+          "notes": "Quebec-based bilingual workforce scheduling SaaS. Do NOT pitch \u2014 active client. Star example of Nmbr ICP.",
           "added": "2026-02-20",
           "meetingDate": "",
-          "tags": ["client", "Quebec", "scheduling", "Canadian"]
+          "tags": [
+            "client",
+            "Quebec",
+            "scheduling",
+            "Canadian"
+          ]
         }
       ]
     },
     {
       "id": "charlie-prospects",
-      "name": "Charlie — Prospects",
+      "name": "Charlie \u2014 Prospects",
       "color": "#FF6B00",
-      "stages": ["Lead", "Contacted", "Call Booked", "Dead", "Disqualified", "Closed Won"],
+      "stages": [
+        "Lead",
+        "Contacted",
+        "Call Booked",
+        "Dead",
+        "Disqualified",
+        "Closed Won"
+      ],
       "deals": [
         {
           "id": "cp001",
@@ -448,7 +633,12 @@
           "notes": "Multi-million dollar breathwork + wellness coaching company. Sells $10K+ 12-month coaching/facilitator programs. 'Book a call with our team' model. Charlie replaces the human setter hire. Pitch: 'You're about to pay $40-45K/yr for a human setter. Charlie does it 24/7 for a fraction.' Email verified 100/100.",
           "added": "2026-02-22",
           "meetingDate": "",
-          "tags": ["wellness", "high-ticket", "hiring setter", "hot signal"]
+          "tags": [
+            "wellness",
+            "high-ticket",
+            "hiring setter",
+            "hot signal"
+          ]
         },
         {
           "id": "cp002",
@@ -460,10 +650,14 @@
           "stage": "Lead",
           "source": "Job Scan",
           "signal": "Active LinkedIn post about team expansion. Heavy TV + digital advertiser in Las Vegas.",
-          "notes": "Premier PI firm in Las Vegas. 'Never lost a trial' positioning. High-volume inbound leads from ads. Speed-to-contact = 6x more likely to win case. Founder email not findable — use info@naqvilaw.com (verified 100/100). LinkedIn DM to Farhan Naqvi preferred first.",
+          "notes": "Premier PI firm in Las Vegas. 'Never lost a trial' positioning. High-volume inbound leads from ads. Speed-to-contact = 6x more likely to win case. Founder email not findable \u2014 use info@naqvilaw.com (verified 100/100). LinkedIn DM to Farhan Naqvi preferred first.",
           "added": "2026-02-22",
           "meetingDate": "",
-          "tags": ["PI law", "Las Vegas", "speed-to-contact"]
+          "tags": [
+            "PI law",
+            "Las Vegas",
+            "speed-to-contact"
+          ]
         },
         {
           "id": "cp003",
@@ -471,14 +665,20 @@
           "contact": "Jason Javaheri",
           "title": "Co-Founder & CEO",
           "email": "jason@jnylaw.com",
-          "altContacts": ["jsanchez@jnylaw.com"],
+          "altContacts": [
+            "jsanchez@jnylaw.com"
+          ],
           "stage": "Lead",
           "source": "Job Scan",
           "signal": "Actively hiring intake specialists. Heavy TV + digital advertiser in LA.",
           "notes": "Personal injury firm in Los Angeles. 80+ years combined team experience. High-volume inbound. jason@jnylaw.com verified valid. Jonathan Sanchez (Marketing Director) jsanchez@jnylaw.com also verified. Marketing director is a great alt entry point.",
           "added": "2026-02-22",
           "meetingDate": "",
-          "tags": ["PI law", "LA", "hiring intake"]
+          "tags": [
+            "PI law",
+            "LA",
+            "hiring intake"
+          ]
         },
         {
           "id": "cp004",
@@ -486,14 +686,20 @@
           "contact": "Richard Godshall",
           "title": "Owner & Managing Partner",
           "email": "rgodshall@ostrofflaw.com",
-          "altContacts": ["jostroff@ostrofflaw.com"],
+          "altContacts": [
+            "jostroff@ostrofflaw.com"
+          ],
           "stage": "Lead",
           "source": "Job Scan",
           "signal": "Posted 'Legal Intake Specialist' job on Indeed this week. Blue Bell, PA.",
           "notes": "Catastrophic injury law firm with $7M+ verdicts. Domain is accept-all (94 confidence). Jon Ostroff (Founding Partner) also contactable at jostroff@ostrofflaw.com (91 conf).",
           "added": "2026-02-22",
           "meetingDate": "",
-          "tags": ["PI law", "Pennsylvania", "hiring intake"]
+          "tags": [
+            "PI law",
+            "Pennsylvania",
+            "hiring intake"
+          ]
         },
         {
           "id": "cp005",
@@ -505,10 +711,14 @@
           "stage": "Lead",
           "source": "Job Scan",
           "signal": "Actively hiring 'Appointment Setter for High Ticket Coaching' on ZipRecruiter now.",
-          "notes": "High-ticket real estate wholesaling coaching. 200+ clients, multiple 6-7 figure results claimed. Email verified 98/100. They KNOW they need a setter — they're trying to hire one.",
+          "notes": "High-ticket real estate wholesaling coaching. 200+ clients, multiple 6-7 figure results claimed. Email verified 98/100. They KNOW they need a setter \u2014 they're trying to hire one.",
           "added": "2026-02-22",
           "meetingDate": "",
-          "tags": ["real estate coaching", "high-ticket", "hiring setter"]
+          "tags": [
+            "real estate coaching",
+            "high-ticket",
+            "hiring setter"
+          ]
         },
         {
           "id": "cp006",
@@ -520,10 +730,14 @@
           "stage": "Lead",
           "source": "Job Scan",
           "signal": "Hiring 'High-Ticket Closer' on Indeed. Needs setter upstream to fill the pipeline.",
-          "notes": "High-ticket fitness coaching for women 40-50. Domain has no MX records — LinkedIn DM only (linkedin.com/in/jeff-katz-214331b5). Pitch: Charlie as the setter layer feeding Jeff's closers.",
+          "notes": "High-ticket fitness coaching for women 40-50. Domain has no MX records \u2014 LinkedIn DM only (linkedin.com/in/jeff-katz-214331b5). Pitch: Charlie as the setter layer feeding Jeff's closers.",
           "added": "2026-02-22",
           "meetingDate": "",
-          "tags": ["fitness coaching", "high-ticket", "LinkedIn only"]
+          "tags": [
+            "fitness coaching",
+            "high-ticket",
+            "LinkedIn only"
+          ]
         },
         {
           "id": "cp007",
@@ -531,14 +745,21 @@
           "contact": "Thomas J. Henry",
           "title": "Owner",
           "email": "thenry@thomasjhenrylaw.com",
-          "altContacts": ["rherrera@thomasjhenrylaw.com"],
+          "altContacts": [
+            "rherrera@thomasjhenrylaw.com"
+          ],
           "stage": "Lead",
           "source": "Job Scan",
           "signal": "5 Texas offices, major PI advertiser, rapid growth phase.",
           "notes": "30-year Texas PI firm. Massive advertising spend. Ruben Herrera (EVP Marketing) at rherrera@thomasjhenrylaw.com is a better entry point for tech/marketing pitches. Both emails on accept-all domain. Pitch: after-hours and weekend lead capture.",
           "added": "2026-02-22",
           "meetingDate": "",
-          "tags": ["PI law", "Texas", "enterprise", "high volume"]
+          "tags": [
+            "PI law",
+            "Texas",
+            "enterprise",
+            "high volume"
+          ]
         },
         {
           "id": "cp008",
@@ -550,10 +771,15 @@
           "stage": "Lead",
           "source": "Job Scan",
           "signal": "Posted 'DM Setter + High Ticket Closer' AND 'FB & IG Ads' jobs this month. Scaling hard.",
-          "notes": "Small/lean operation. Running paid ads + manual DM setting = textbook Charlie pain. No email in Hunter — find founder on Facebook (rebelenergycoaching page) and DM directly. They're hands-on at this stage.",
+          "notes": "Small/lean operation. Running paid ads + manual DM setting = textbook Charlie pain. No email in Hunter \u2014 find founder on Facebook (rebelenergycoaching page) and DM directly. They're hands-on at this stage.",
           "added": "2026-02-22",
           "meetingDate": "",
-          "tags": ["coaching", "high-ticket", "hiring setter", "LinkedIn only"]
+          "tags": [
+            "coaching",
+            "high-ticket",
+            "hiring setter",
+            "LinkedIn only"
+          ]
         },
         {
           "id": "cp009",
@@ -565,10 +791,14 @@
           "stage": "Call Booked",
           "source": "Calendar",
           "signal": "Charlie AI Live Demo booked Feb 23 @ 12:30 PM AST.",
-          "notes": "Booked a live Charlie AI demo. Limited public footprint — Facebook presence (chris.zita.35), no major web presence found. Likely an early-stage or small coaching/online business operator. Inbound prospect who reached out to Charlie directly. LinkedIn: search 'Chris Zita' (9 profiles on LinkedIn).",
+          "notes": "Booked a live Charlie AI demo. Limited public footprint \u2014 Facebook presence (chris.zita.35), no major web presence found. Likely an early-stage or small coaching/online business operator. Inbound prospect who reached out to Charlie directly. LinkedIn: search 'Chris Zita' (9 profiles on LinkedIn).",
           "added": "2026-02-22",
           "meetingDate": "2026-02-23",
-          "tags": ["demo booked", "inbound", "coaching"]
+          "tags": [
+            "demo booked",
+            "inbound",
+            "coaching"
+          ]
         },
         {
           "id": "cp010",
@@ -580,10 +810,15 @@
           "stage": "Call Booked",
           "source": "Calendar",
           "signal": "Call booked Feb 24 @ 6 PM AST.",
-          "notes": "Jesse is a U.S. Army trumpet player who built an online trumpet coaching/course business. Sells high-ticket trumpet coaching programs. Uses free lead magnets (guides, quizzes) → drives to paid programs. Has a Reddit presence, LinkedIn active. Classic content → inbound → book a call funnel. Charlie AI would handle his inbound lead follow-up automatically. LinkedIn: linkedin.com/in/jesse-garcia-9009591ba/",
+          "notes": "Jesse is a U.S. Army trumpet player who built an online trumpet coaching/course business. Sells high-ticket trumpet coaching programs. Uses free lead magnets (guides, quizzes) \u2192 drives to paid programs. Has a Reddit presence, LinkedIn active. Classic content \u2192 inbound \u2192 book a call funnel. Charlie AI would handle his inbound lead follow-up automatically. LinkedIn: linkedin.com/in/jesse-garcia-9009591ba/",
           "added": "2026-02-22",
           "meetingDate": "2026-02-24",
-          "tags": ["music coaching", "online courses", "inbound funnel", "US Army"]
+          "tags": [
+            "music coaching",
+            "online courses",
+            "inbound funnel",
+            "US Army"
+          ]
         },
         {
           "id": "cp011",
@@ -595,10 +830,13 @@
           "stage": "Call Booked",
           "source": "Calendar",
           "signal": "Call booked today Feb 22 @ 12 PM AST.",
-          "notes": "Gmail contact — likely a coaching prospect or early-stage business owner. Minimal public info available. Flag after the call for follow-up notes.",
+          "notes": "Gmail contact \u2014 likely a coaching prospect or early-stage business owner. Minimal public info available. Flag after the call for follow-up notes.",
           "added": "2026-02-22",
           "meetingDate": "2026-02-22",
-          "tags": ["inbound", "unknown"]
+          "tags": [
+            "inbound",
+            "unknown"
+          ]
         },
         {
           "id": "cp012",
@@ -609,11 +847,16 @@
           "altContacts": [],
           "stage": "Lead",
           "source": "Lead Scan Feb 23",
-          "signal": "Active LinkedIn posting for PI Intake Specialist Feb 2026. Solo firm — Payam handles every case personally = clear bottleneck.",
+          "signal": "Active LinkedIn posting for PI Intake Specialist Feb 2026. Solo firm \u2014 Payam handles every case personally = clear bottleneck.",
           "notes": "Confirmed email. LinkedIn: linkedin.com/in/payam-tishbi-161b0377. Speed-to-lead + after-hours coverage pitch.",
           "added": "2026-02-23",
           "meetingDate": "",
-          "tags": ["PI law", "solo firm", "confirmed email", "hot"]
+          "tags": [
+            "PI law",
+            "solo firm",
+            "confirmed email",
+            "hot"
+          ]
         },
         {
           "id": "cp013",
@@ -624,11 +867,16 @@
           "altContacts": [],
           "stage": "Lead",
           "source": "Lead Scan Feb 23",
-          "signal": "4.9★ / 3,197 Google reviews = massive inbound. Active full-time Intake Specialist posting Feb 2026. LV Review-Journal Top Workplace.",
+          "signal": "4.9\u2605 / 3,197 Google reviews = massive inbound. Active full-time Intake Specialist posting Feb 2026. LV Review-Journal Top Workplace.",
           "notes": "Las Vegas. After-hours AI setter pitch is a slam dunk given the volume.",
           "added": "2026-02-23",
           "meetingDate": "",
-          "tags": ["PI law", "Las Vegas", "high volume", "hot"]
+          "tags": [
+            "PI law",
+            "Las Vegas",
+            "high volume",
+            "hot"
+          ]
         },
         {
           "id": "cp014",
@@ -643,7 +891,11 @@
           "notes": "Speed-to-lead pain is real. LinkedIn: linkedin.com/company/the-law-brothers",
           "added": "2026-02-23",
           "meetingDate": "",
-          "tags": ["PI law", "bilingual", "high volume"]
+          "tags": [
+            "PI law",
+            "bilingual",
+            "high volume"
+          ]
         },
         {
           "id": "cp015",
@@ -658,7 +910,11 @@
           "notes": "NYC PI = leads go cold in minutes. High cost-per-missed-lead. LinkedIn: linkedin.com/in/albert-cohen-37362222",
           "added": "2026-02-23",
           "meetingDate": "",
-          "tags": ["PI law", "NYC", "high stakes"]
+          "tags": [
+            "PI law",
+            "NYC",
+            "high stakes"
+          ]
         },
         {
           "id": "cp016",
@@ -673,7 +929,11 @@
           "notes": "La Mirada, CA. Solo PI attorney. Charlie handling first contact 24/7 = direct revenue unlock.",
           "added": "2026-02-23",
           "meetingDate": "",
-          "tags": ["PI law", "California", "solo attorney"]
+          "tags": [
+            "PI law",
+            "California",
+            "solo attorney"
+          ]
         },
         {
           "id": "cp017",
@@ -685,10 +945,14 @@
           "stage": "Lead",
           "source": "Lead Scan Feb 23",
           "signal": "Active LinkedIn posting for Appointment Setter via IG/LinkedIn/Facebook DMs. Job post says 'you must respond to messages quickly.' 2,500+ clients.",
-          "notes": "Said the quiet part out loud — speed pain is explicit. LinkedIn: linkedin.com/in/luke-briggs-950309aa",
+          "notes": "Said the quiet part out loud \u2014 speed pain is explicit. LinkedIn: linkedin.com/in/luke-briggs-950309aa",
           "added": "2026-02-23",
           "meetingDate": "",
-          "tags": ["fitness coaching", "high-ticket", "explicit pain"]
+          "tags": [
+            "fitness coaching",
+            "high-ticket",
+            "explicit pain"
+          ]
         },
         {
           "id": "cp018",
@@ -703,7 +967,12 @@
           "notes": "Columbia-educated serial entrepreneur. Fast decision maker. LinkedIn: linkedin.com/in/royston-g-king",
           "added": "2026-02-23",
           "meetingDate": "",
-          "tags": ["coaching", "high-ticket", "urgent hiring", "hot"]
+          "tags": [
+            "coaching",
+            "high-ticket",
+            "urgent hiring",
+            "hot"
+          ]
         },
         {
           "id": "cp019",
@@ -718,7 +987,12 @@
           "notes": "San Diego. High-ticket coaching/consulting. Lives on appointment volume. LinkedIn: linkedin.com/in/themikebarron",
           "added": "2026-02-23",
           "meetingDate": "",
-          "tags": ["coaching", "high-ticket", "Inc 5000", "San Diego"]
+          "tags": [
+            "coaching",
+            "high-ticket",
+            "Inc 5000",
+            "San Diego"
+          ]
         },
         {
           "id": "cp020",
@@ -729,11 +1003,15 @@
           "altContacts": [],
           "stage": "Lead",
           "source": "Lead Scan Feb 23",
-          "signal": "Active LinkedIn posting for Appointment Setter — identifying clients from inbound leads, scheduling appointments.",
+          "signal": "Active LinkedIn posting for Appointment Setter \u2014 identifying clients from inbound leads, scheduling appointments.",
           "notes": "Small team = fast decision. LinkedIn: linkedin.com/in/daniel-iles-vc",
           "added": "2026-02-23",
           "meetingDate": "",
-          "tags": ["coaching", "high-ticket", "small team"]
+          "tags": [
+            "coaching",
+            "high-ticket",
+            "small team"
+          ]
         },
         {
           "id": "cp022",
@@ -744,11 +1022,17 @@
           "altContacts": [],
           "stage": "Lead",
           "source": "Lead Scan Feb 23",
-          "signal": "LinkedIn post 2 weeks ago: 'HIRING FULL-TIME PHONE SETTER — 100% inbound. Fully booked calendars.' 100% inbound + fully booked = too many leads, not enough intake.",
+          "signal": "LinkedIn post 2 weeks ago: 'HIRING FULL-TIME PHONE SETTER \u2014 100% inbound. Fully booked calendars.' 100% inbound + fully booked = too many leads, not enough intake.",
           "notes": "Dallas, TX. High-ticket sales mentorship. Textbook Charlie buyer. LinkedIn: linkedin.com/in/timkchao",
           "added": "2026-02-23",
           "meetingDate": "",
-          "tags": ["sales coaching", "high-ticket", "100% inbound", "hot", "urgent"]
+          "tags": [
+            "sales coaching",
+            "high-ticket",
+            "100% inbound",
+            "hot",
+            "urgent"
+          ]
         },
         {
           "id": "cp023",
@@ -763,7 +1047,11 @@
           "notes": "Tampa, FL. High-ticket business & career coaching. LinkedIn: linkedin.com/in/paulbickfordsolutions",
           "added": "2026-02-23",
           "meetingDate": "",
-          "tags": ["business coaching", "high-ticket", "Tampa"]
+          "tags": [
+            "business coaching",
+            "high-ticket",
+            "Tampa"
+          ]
         },
         {
           "id": "cp024",
@@ -771,14 +1059,21 @@
           "contact": "Richard Godshall",
           "title": "Managing Partner",
           "email": "rgodshall@ostrofflaw.com",
-          "altContacts": ["jostroff@ostrofflaw.com"],
+          "altContacts": [
+            "jostroff@ostrofflaw.com"
+          ],
           "stage": "Lead",
           "source": "Lead Scan Feb 23",
-          "signal": "Actively hiring Legal Intake Specialist (Indeed, active). Speed is core brand identity — 'settled in under 45 days.'",
+          "signal": "Actively hiring Legal Intake Specialist (Indeed, active). Speed is core brand identity \u2014 'settled in under 45 days.'",
           "notes": "Blue Bell, PA. Speed = their brand. First contact speed is where cases are won. LinkedIn: linkedin.com/company/ostroffgodshall",
           "added": "2026-02-23",
           "meetingDate": "",
-          "tags": ["PI law", "Pennsylvania", "speed brand", "hot"]
+          "tags": [
+            "PI law",
+            "Pennsylvania",
+            "speed brand",
+            "hot"
+          ]
         },
         {
           "id": "cp025",
@@ -793,7 +1088,12 @@
           "notes": "Albuquerque, NM. 'Hurt? Call Bert' brand. LinkedIn: linkedin.com/company/parnall-law",
           "added": "2026-02-23",
           "meetingDate": "",
-          "tags": ["PI law", "New Mexico", "largest in state", "remote intake"]
+          "tags": [
+            "PI law",
+            "New Mexico",
+            "largest in state",
+            "remote intake"
+          ]
         },
         {
           "id": "cp026",
@@ -808,7 +1108,12 @@
           "notes": "Dallas/Fort Worth, TX. LinkedIn: linkedin.com/in/mark-anderson-0a630211",
           "added": "2026-02-23",
           "meetingDate": "",
-          "tags": ["PI law", "Texas", "Dallas", "board-certified"]
+          "tags": [
+            "PI law",
+            "Texas",
+            "Dallas",
+            "board-certified"
+          ]
         },
         {
           "id": "cp027",
@@ -823,7 +1128,12 @@
           "notes": "Texas. Multi-market expansion = AI intake advantage. LinkedIn: linkedin.com/in/andrew-kumar-54074763",
           "added": "2026-02-23",
           "meetingDate": "",
-          "tags": ["PI law", "Texas", "multi-city", "scaling"]
+          "tags": [
+            "PI law",
+            "Texas",
+            "multi-city",
+            "scaling"
+          ]
         },
         {
           "id": "cp028",
@@ -835,10 +1145,16 @@
           "stage": "Lead",
           "source": "Lead Scan Feb 23",
           "signal": "Active intake posting Feb 2026. Self-described #1 car accident firm in CA. After-hours gap is critical.",
-          "notes": "Los Angeles, CA. Highest-volume PI in CA. Fri 5PM – Mon 9AM gap is where cases are lost. LinkedIn: linkedin.com/company/movaghar-yamin-plc",
+          "notes": "Los Angeles, CA. Highest-volume PI in CA. Fri 5PM \u2013 Mon 9AM gap is where cases are lost. LinkedIn: linkedin.com/company/movaghar-yamin-plc",
           "added": "2026-02-23",
           "meetingDate": "",
-          "tags": ["PI law", "Los Angeles", "California", "high volume", "car accidents"]
+          "tags": [
+            "PI law",
+            "Los Angeles",
+            "California",
+            "high volume",
+            "car accidents"
+          ]
         },
         {
           "id": "cp021",
@@ -850,18 +1166,30 @@
           "stage": "Lead",
           "source": "Lead Scan Feb 23",
           "signal": "Posting 'High Ticket Appointment Setter' on LinkedIn. $110M+ in student deals. Faith-based real estate mastermind.",
-          "notes": "High-ticket $5K–$15K typical. Founder-led = pitch Jonathan, he decides same day. LinkedIn: linkedin.com/in/jonathan-cronin-3188a01b3",
+          "notes": "High-ticket $5K\u2013$15K typical. Founder-led = pitch Jonathan, he decides same day. LinkedIn: linkedin.com/in/jonathan-cronin-3188a01b3",
           "added": "2026-02-23",
           "meetingDate": "",
-          "tags": ["real estate coaching", "high-ticket", "mastermind", "faith-based"]
+          "tags": [
+            "real estate coaching",
+            "high-ticket",
+            "mastermind",
+            "faith-based"
+          ]
         }
       ]
     },
     {
       "id": "charlie-partners",
-      "name": "Charlie — Partners",
+      "name": "Charlie \u2014 Partners",
       "color": "#00A550",
-      "stages": ["Lead", "Contacted", "Call Booked", "Dead", "Disqualified", "Closed Won"],
+      "stages": [
+        "Lead",
+        "Contacted",
+        "Call Booked",
+        "Dead",
+        "Disqualified",
+        "Closed Won"
+      ],
       "deals": [
         {
           "id": "pp001",
@@ -872,11 +1200,16 @@
           "altContacts": [],
           "stage": "Call Booked",
           "source": "Outreach",
-          "signal": "Drew spoke to Chung Feb 22 — committed to referring Charlie to ALL his clients. Tentative call today.",
+          "signal": "Drew spoke to Chung Feb 22 \u2014 committed to referring Charlie to ALL his clients. Tentative call today.",
           "notes": "Facebook ads agency for businesses. Category: Ad agency for coaches. ACTIVE partner as of Feb 22. Send easy handoff material within 48 hrs (Loom or referral one-pager). Tentative call in Charlie calendar today. Email smtp-verified.",
           "added": "2026-02-22",
           "meetingDate": "2026-02-22",
-          "tags": ["ACTIVE", "ad agency", "Canadian", "referral committed"]
+          "tags": [
+            "ACTIVE",
+            "ad agency",
+            "Canadian",
+            "referral committed"
+          ]
         },
         {
           "id": "pp002",
@@ -884,14 +1217,20 @@
           "contact": "Russ Ruffino",
           "title": "Founder & CEO",
           "email": "ruffino@clientsondemand.com",
-          "altContacts": ["jayne@clientsondemand.com"],
+          "altContacts": [
+            "jayne@clientsondemand.com"
+          ],
           "stage": "Lead",
           "source": "Research",
           "signal": "Teaches coaches to design + sell $5K-$15K programs. Clients need setters.",
           "notes": "Category: Biz coach for coaches. Pitch: Charlie as the missing setter layer in their framework. Jayne Jewell (MD) is a strong alt entry point. Both emails verified 99/100.",
           "added": "2026-02-22",
           "meetingDate": "",
-          "tags": ["biz coach for coaches", "high-ticket", "verified email"]
+          "tags": [
+            "biz coach for coaches",
+            "high-ticket",
+            "verified email"
+          ]
         },
         {
           "id": "pp003",
@@ -906,7 +1245,11 @@
           "notes": "Category: Biz coach for coaches. Massive audience of coaches. Email verified 99/100. LinkedIn: linkedin.com/in/danlok",
           "added": "2026-02-22",
           "meetingDate": "",
-          "tags": ["biz coach for coaches", "high-ticket", "verified email"]
+          "tags": [
+            "biz coach for coaches",
+            "high-ticket",
+            "verified email"
+          ]
         },
         {
           "id": "pp004",
@@ -914,14 +1257,20 @@
           "contact": "Cole Gordon",
           "title": "Founder",
           "email": "cgordon@closers.io",
-          "altContacts": ["ddraey@closers.io"],
+          "altContacts": [
+            "ddraey@closers.io"
+          ],
           "stage": "Lead",
           "source": "Research",
           "signal": "Places setters + closers at Tony Robbins, Frank Kern, Dean Graziosi. 37 staff.",
-          "notes": "Category: Setter/closer placement. Pitch: Charlie as AI setter layer above their human closers — pre-qualified leads for the closers. Email verified 98/100. LinkedIn: linkedin.com/in/cole-gordon",
+          "notes": "Category: Setter/closer placement. Pitch: Charlie as AI setter layer above their human closers \u2014 pre-qualified leads for the closers. Email verified 98/100. LinkedIn: linkedin.com/in/cole-gordon",
           "added": "2026-02-22",
           "meetingDate": "",
-          "tags": ["setter placement", "enterprise coaches", "verified email"]
+          "tags": [
+            "setter placement",
+            "enterprise coaches",
+            "verified email"
+          ]
         },
         {
           "id": "pp005",
@@ -936,7 +1285,10 @@
           "notes": "Category: Setter placement. Generic email only (SMTP verified). Find founder via LinkedIn company page.",
           "added": "2026-02-22",
           "meetingDate": "",
-          "tags": ["setter placement", "generic email"]
+          "tags": [
+            "setter placement",
+            "generic email"
+          ]
         },
         {
           "id": "pp006",
@@ -951,7 +1303,11 @@
           "notes": "Category: Sales training for coaches. Email SMTP verified (score 99). LinkedIn: linkedin.com/in/chadaleo",
           "added": "2026-02-22",
           "meetingDate": "",
-          "tags": ["sales training", "coaches", "verified email"]
+          "tags": [
+            "sales training",
+            "coaches",
+            "verified email"
+          ]
         },
         {
           "id": "pp007",
@@ -959,14 +1315,21 @@
           "contact": "Kayvon Kay",
           "title": "Founder",
           "email": "kayvon@thesalesconnection.com",
-          "altContacts": ["affiliates@thesalesconnection.com"],
+          "altContacts": [
+            "affiliates@thesalesconnection.com"
+          ],
           "stage": "Lead",
           "source": "Research",
           "signal": "Canadian sales consultant for high-ticket coaches. Has live affiliate program.",
-          "notes": "Category: Sales training + consulting for coaches. CANADIAN. Has affiliate infrastructure at affiliates@thesalesconnection.com — could be formal rev-share deal. Email SMTP verified. LinkedIn: linkedin.com/in/kayvonkay",
+          "notes": "Category: Sales training + consulting for coaches. CANADIAN. Has affiliate infrastructure at affiliates@thesalesconnection.com \u2014 could be formal rev-share deal. Email SMTP verified. LinkedIn: linkedin.com/in/kayvonkay",
           "added": "2026-02-22",
           "meetingDate": "",
-          "tags": ["sales training", "Canadian", "affiliate program", "verified email"]
+          "tags": [
+            "sales training",
+            "Canadian",
+            "affiliate program",
+            "verified email"
+          ]
         },
         {
           "id": "pp008",
@@ -981,7 +1344,11 @@
           "notes": "Category: DFY funnel/marketing agency. Natural upsell: they build the funnel, Charlie converts the leads. Email verified 97/100. LinkedIn: linkedin.com/in/jasondrohn",
           "added": "2026-02-22",
           "meetingDate": "",
-          "tags": ["funnel agency", "coaches", "verified email"]
+          "tags": [
+            "funnel agency",
+            "coaches",
+            "verified email"
+          ]
         },
         {
           "id": "pp009",
@@ -993,10 +1360,13 @@
           "stage": "Lead",
           "source": "Research",
           "signal": "Trains coaches to 7 figures. 'Secrets of the 7-Figure Coach' book.",
-          "notes": "Category: Biz coach for coaches. Email invalid — LinkedIn DM only. Search 'Ryan Magdziarz' on LinkedIn.",
+          "notes": "Category: Biz coach for coaches. Email invalid \u2014 LinkedIn DM only. Search 'Ryan Magdziarz' on LinkedIn.",
           "added": "2026-02-22",
           "meetingDate": "",
-          "tags": ["biz coach for coaches", "LinkedIn only"]
+          "tags": [
+            "biz coach for coaches",
+            "LinkedIn only"
+          ]
         },
         {
           "id": "pp010",
@@ -1011,7 +1381,11 @@
           "notes": "Category: Biz coach for coaches. Direct pipeline to brand-new coaches who need their first setter system. Email verified 96/100 TODAY.",
           "added": "2026-02-22",
           "meetingDate": "",
-          "tags": ["biz coach for coaches", "new coaches", "verified email"]
+          "tags": [
+            "biz coach for coaches",
+            "new coaches",
+            "verified email"
+          ]
         },
         {
           "id": "pp011",
@@ -1026,7 +1400,11 @@
           "notes": "Category: Biz coach for coaches. Email verified 96/100 TODAY. Active mastermind community.",
           "added": "2026-02-22",
           "meetingDate": "",
-          "tags": ["biz coach for coaches", "mastermind", "verified email"]
+          "tags": [
+            "biz coach for coaches",
+            "mastermind",
+            "verified email"
+          ]
         },
         {
           "id": "pp012",
@@ -1041,7 +1419,11 @@
           "notes": "Category: Biz coach for coaches. Her students = coaches with inbound leads needing conversion. Email verified 96/100.",
           "added": "2026-02-22",
           "meetingDate": "",
-          "tags": ["biz coach for coaches", "digital courses", "verified email"]
+          "tags": [
+            "biz coach for coaches",
+            "digital courses",
+            "verified email"
+          ]
         },
         {
           "id": "pp013",
@@ -1056,7 +1438,11 @@
           "notes": "Category: Launch & systems agency for coaches. She literally knows when coaches have a launch with leads pouring in and no follow-up. Email verified 97/100. LinkedIn: linkedin.com/in/thelaunchguild",
           "added": "2026-02-22",
           "meetingDate": "",
-          "tags": ["launch agency", "coaches", "verified email"]
+          "tags": [
+            "launch agency",
+            "coaches",
+            "verified email"
+          ]
         },
         {
           "id": "pp014",
@@ -1071,7 +1457,11 @@
           "notes": "Category: OBM/operations agency for coaches. Her team literally operates coaching businesses and sees the lead follow-up gap daily. Email verified 97/100.",
           "added": "2026-02-22",
           "meetingDate": "",
-          "tags": ["OBM agency", "coaches", "verified email"]
+          "tags": [
+            "OBM agency",
+            "coaches",
+            "verified email"
+          ]
         },
         {
           "id": "pp015",
@@ -1086,7 +1476,12 @@
           "notes": "Category: Biz coach for coaches. CANADIAN. His students pivot from 1:1 to group/membership and suddenly have inbound interest they can't manage. Email verified 97/100.",
           "added": "2026-02-22",
           "meetingDate": "",
-          "tags": ["biz coach for coaches", "membership", "Canadian", "verified email"]
+          "tags": [
+            "biz coach for coaches",
+            "membership",
+            "Canadian",
+            "verified email"
+          ]
         },
         {
           "id": "pp016",
@@ -1098,10 +1493,14 @@
           "stage": "Lead",
           "source": "Research",
           "signal": "High-performance coach + mastermind platform. ULTRA Mastermind with Lewis Howes.",
-          "notes": "Category: Biz coach for coaches. Massive following. Email not in Hunter — LinkedIn DM only. High-effort, high-reward target.",
+          "notes": "Category: Biz coach for coaches. Massive following. Email not in Hunter \u2014 LinkedIn DM only. High-effort, high-reward target.",
           "added": "2026-02-22",
           "meetingDate": "",
-          "tags": ["biz coach for coaches", "mastermind", "LinkedIn only"]
+          "tags": [
+            "biz coach for coaches",
+            "mastermind",
+            "LinkedIn only"
+          ]
         },
         {
           "id": "pp017",
@@ -1116,7 +1515,11 @@
           "notes": "Category: Biz coach for coaches. Thousands of students who are coaches needing setter automation. Email verified 99/100.",
           "added": "2026-02-22",
           "meetingDate": "",
-          "tags": ["biz coach for coaches", "new coaches", "verified email"]
+          "tags": [
+            "biz coach for coaches",
+            "new coaches",
+            "verified email"
+          ]
         },
         {
           "id": "pp018",
@@ -1131,7 +1534,11 @@
           "notes": "Category: Biz coach for coaches. Her community = coaches with warm inbound leads needing conversion. Email verified 95/100. LinkedIn: linkedin.com/in/jasminestar",
           "added": "2026-02-22",
           "meetingDate": "",
-          "tags": ["biz coach for coaches", "social media", "verified email"]
+          "tags": [
+            "biz coach for coaches",
+            "social media",
+            "verified email"
+          ]
         },
         {
           "id": "pp019",
@@ -1143,10 +1550,14 @@
           "stage": "Lead",
           "source": "Research",
           "signal": "17-yr Fortune 500 sales rep turned sales coach. Forbes-recognized. Clients are coaches.",
-          "notes": "Category: Sales training for coaches. Her clients have a sales process — Charlie completes it with the setter layer. Email verified 95/100. LinkedIn: linkedin.com/in/kendrickshope",
+          "notes": "Category: Sales training for coaches. Her clients have a sales process \u2014 Charlie completes it with the setter layer. Email verified 95/100. LinkedIn: linkedin.com/in/kendrickshope",
           "added": "2026-02-22",
           "meetingDate": "",
-          "tags": ["sales training", "coaches", "verified email"]
+          "tags": [
+            "sales training",
+            "coaches",
+            "verified email"
+          ]
         },
         {
           "id": "pp020",
@@ -1161,7 +1572,11 @@
           "notes": "Category: Biz coach for coaches. Teaches coaches to build + launch their own programs. Coaches with inbound interest need Charlie. Email verified 95/100.",
           "added": "2026-02-22",
           "meetingDate": "",
-          "tags": ["biz coach for coaches", "courses", "verified email"]
+          "tags": [
+            "biz coach for coaches",
+            "courses",
+            "verified email"
+          ]
         },
         {
           "id": "pp021",
@@ -1176,7 +1591,11 @@
           "notes": "Category: Biz coach for coaches. Her 'Coach The Coach' program = coaches who need setter systems. Email verified 96/100 TODAY (accept-all domain). LinkedIn: linkedin.com/in/reganhillyer",
           "added": "2026-02-22",
           "meetingDate": "",
-          "tags": ["biz coach for coaches", "mastermind", "verified email"]
+          "tags": [
+            "biz coach for coaches",
+            "mastermind",
+            "verified email"
+          ]
         },
         {
           "id": "pp022",
@@ -1188,10 +1607,15 @@
           "stage": "Lead",
           "source": "Research",
           "signal": "3,400+ coaches on platform generating $41M revenue. Platform partnership = massive multiplier.",
-          "notes": "Category: Coaching software platform. If Lachlan recommends Charlie to his 3.4K coaches, it's a pipeline explosion. LinkedIn only: linkedin.com/in/lachlancotter. Hunter limit hit — email research pending next billing cycle.",
+          "notes": "Category: Coaching software platform. If Lachlan recommends Charlie to his 3.4K coaches, it's a pipeline explosion. LinkedIn only: linkedin.com/in/lachlancotter. Hunter limit hit \u2014 email research pending next billing cycle.",
           "added": "2026-02-22",
           "meetingDate": "",
-          "tags": ["platform", "coaching software", "LinkedIn only", "high priority"]
+          "tags": [
+            "platform",
+            "coaching software",
+            "LinkedIn only",
+            "high priority"
+          ]
         }
       ]
     }
