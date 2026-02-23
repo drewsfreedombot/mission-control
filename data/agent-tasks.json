@@ -31,6 +31,11 @@
       "tasks": []
     },
     {
+      "title": "Completed:",
+      "status": "info",
+      "tasks": []
+    },
+    {
       "title": "Other Tasks for Drew (Tomorrow):",
       "status": "info",
       "tasks": []
@@ -46,5 +51,5 @@
       "tasks": []
     }
   ],
-  "updatedAt": "2026-02-23T17:00:00.201484+00:00"
+  "updatedAt": "2026-02-23T17:51:15.051392+00:00"
 }
