@@ -15,6 +15,26 @@
         }
       ],
       "notes": "Trip with Dwayne (SolveWorks). Detected from Nmbr calendar — confirm dates/details when available."
+    },
+    {
+      "destination": "Toronto, ON, Canada",
+      "startDate": "2026-05-28",
+      "endDate": "2026-05-28",
+      "purpose": "business",
+      "status": "upcoming",
+      "flights": [],
+      "hotels": [],
+      "itinerary": [
+        {
+          "date": "2026-05-28",
+          "items": [
+            "Canadian Finance Summit — 800+ fintech/financial services execs",
+            "Topics: AI, Banking-as-a-Service, embedded finance, InsurTech",
+            "Stack Nmbr pipeline meetings around event"
+          ]
+        }
+      ],
+      "notes": "Register at financeevents.ca. Prime Nmbr networking — embedded finance crowd. Drew confirmed going Feb 23."
     }
   ]
 }

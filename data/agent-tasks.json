@@ -1,6 +1,11 @@
 {
   "sections": [
     {
+      "title": "Confirmed Travel",
+      "status": "info",
+      "tasks": []
+    },
+    {
       "title": "High Priority Task for Drew (Tomorrow):",
       "status": "info",
       "tasks": []
@@ -36,5 +41,5 @@
       "tasks": []
     }
   ],
-  "updatedAt": "2026-02-23T11:00:00.923971+00:00"
+  "updatedAt": "2026-02-23T12:00:00.615545+00:00"
 }

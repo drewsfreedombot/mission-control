@@ -1,1 +1,56 @@
-{}
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Register for Canadian Finance Summit (May 28, Toronto)",
+      "priority": "medium",
+      "status": "todo",
+      "category": "Nmbr",
+      "due": "2026-03-07",
+      "notes": "financeevents.ca — Drew confirmed going Feb 23. Stack Nmbr pipeline meetings same day."
+    },
+    {
+      "id": 2,
+      "title": "Send Chung Tang Loom / Charlie referral info",
+      "priority": "high",
+      "status": "todo",
+      "category": "Charlie",
+      "due": "2026-02-23",
+      "notes": "48hr commitment made Feb 22. Do before Lullaboo demo at 10:30 AM."
+    },
+    {
+      "id": 3,
+      "title": "Atlas training pitch — close it out",
+      "priority": "high",
+      "status": "todo",
+      "category": "Nmbr",
+      "due": "2026-02-23",
+      "notes": "Was professional MUST-DO from last week. Still open."
+    },
+    {
+      "id": 4,
+      "title": "Watch Jonny's Loom + film own Loom",
+      "priority": "medium",
+      "status": "todo",
+      "category": "Nmbr",
+      "due": "2026-02-23"
+    },
+    {
+      "id": 5,
+      "title": "Film Loom for LinkedIn time & attendance provider",
+      "priority": "medium",
+      "status": "todo",
+      "category": "Nmbr",
+      "due": "2026-02-23"
+    },
+    {
+      "id": 6,
+      "title": "Check IIN affiliate/partner program for Charlie",
+      "priority": "low",
+      "status": "todo",
+      "category": "Charlie",
+      "due": "2026-02-25",
+      "notes": "IIN hosting AI for Coaches webinar Feb 25 — check if Charlie can get in front of their community."
+    }
+  ]
+}
