@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-24T15:07:25Z",
+  "lastUpdated": "2026-02-24T17:32:42Z",
   "stocks": [
     {
       "ticker": "ENB.TO",
@@ -208,6 +208,91 @@
       "risks": "No margin of safety at ATH \u2014 any BoC rate pause or reversal hits utilities hard and fast; stock is 4% above average analyst target of $74.97 CAD.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+28%"
+    },
+    {
+      "ticker": "SHOP.TO",
+      "name": "Shopify Inc.",
+      "currentPrice": 131.23,
+      "currency": "CAD",
+      "week52Low": 97.0,
+      "week52High": 168.45,
+      "conservativeEstimate": 185.0,
+      "optimisticEstimate": 230.0,
+      "yield": "0%",
+      "dividendPerShare": 0,
+      "rating": "Watch / Buy on Dips",
+      "thesis": "Canadian tech flagship. Down 22% in 6 weeks from $168.45 (Jan 6 high) \u2014 macro/tariff fears creating potential entry. Analyst consensus Buy, avg target ~$162 USD (~$232 CAD) = 77% upside from current. Commerce infrastructure story intact: Payments, Capital, Markets, B2B growing. No dividend \u2014 pure growth play. Best entry zone $115-125 CAD if it pulls back further.",
+      "risks": "No dividend, elevated valuation even post-selloff (fwd P/E still 50x+). Revenue growth decelerating from hypergrowth era. Macro sensitivity. Tariff/trade war rhetoric hurts e-commerce sentiment.",
+      "researchDate": "2026-02-24",
+      "priceVs52wLow": "+35%"
+    },
+    {
+      "ticker": "BAM.TO",
+      "name": "Brookfield Asset Management Ltd.",
+      "currentPrice": 71.68,
+      "currency": "CAD",
+      "week52Low": 52.0,
+      "week52High": 78.0,
+      "conservativeEstimate": 85.0,
+      "optimisticEstimate": 100.0,
+      "yield": "3.8%",
+      "dividendPerShare": 2.6,
+      "rating": "Buy/Accumulate",
+      "thesis": "World-class alternative asset manager with $1T+ AUM across infra, renewable energy, real estate, private equity, credit. Record 2025 results announced Feb 27. 15% dividend increase announced same day. Analyst consensus target ~$63.94 USD (~$91 CAD) = 27% upside from current CAD price. Fee-related earnings growing 20%+ annually. Long-duration compounding machine with a growing income stream. Best alternative asset manager on TSX.",
+      "risks": "Payout ratio 115%+ in USD terms \u2014 dividend covered by fee-related earnings but optics are weak. Rate sensitivity (AUM growth slows when rate environment hurts fundraising). Complex structure \u2014 BAM vs BN (Brookfield Corp) can be confusing.",
+      "researchDate": "2026-02-24",
+      "priceVs52wLow": "+38%"
+    },
+    {
+      "ticker": "XEI.TO",
+      "name": "iShares S&P/TSX Composite High Dividend Index ETF",
+      "currentPrice": 35.54,
+      "currency": "CAD",
+      "week52Low": 25.0,
+      "week52High": 35.6,
+      "conservativeEstimate": 36.0,
+      "optimisticEstimate": 40.0,
+      "yield": "4.0%",
+      "dividendPerShare": 1.34,
+      "rating": "Income/Accumulate",
+      "thesis": "iShares high-dividend Canadian equity ETF \u2014 75 holdings across energy, financials, utilities, REITs. Monthly distributions ($0.112/month = ~$1.34/yr). Ex-div Feb 24, 2026. Low-cost passive income \u2014 simple, diversified Canadian dividend exposure in one ticker. Good core income holding for TFSA/RRSP. Near 52wk high so not a screaming entry \u2014 add on dips below $34.",
+      "risks": "Near 52wk high \u2014 limited short-term upside. Heavy energy and financials weighting = sector concentration. Passive instrument won't avoid dividend cuts within holdings (e.g. BCE-type situations). MER small but not zero.",
+      "researchDate": "2026-02-24",
+      "priceVs52wLow": "+42%"
+    },
+    {
+      "ticker": "XGRO.TO",
+      "name": "iShares Core Growth ETF Portfolio",
+      "currentPrice": 36.41,
+      "currency": "CAD",
+      "week52Low": 29.0,
+      "week52High": 37.5,
+      "conservativeEstimate": 40.0,
+      "optimisticEstimate": 45.0,
+      "yield": "1.5%",
+      "dividendPerShare": 0.55,
+      "rating": "Growth/Accumulate",
+      "thesis": "One-ticker diversified growth portfolio \u2014 80% global equities / 20% bonds. MER 0.17% (just reduced from 0.18% Dec 2025). Holds iShares equity and bond ETFs across global markets. Simple, low-cost, automatic rebalancing. Ideal for TFSA growth allocation \u2014 set-and-forget core holding. Not a dividend story \u2014 total return play.",
+      "risks": "Not a dividend vehicle (small distributions). 20% bond allocation drags return vs pure equity in bull markets. Currency exposure to USD/global. Near 52wk high.",
+      "researchDate": "2026-02-24",
+      "priceVs52wLow": "+26%"
+    },
+    {
+      "ticker": "AMD.TO",
+      "name": "Advanced Micro Devices CDR (CAD Hedged)",
+      "currentPrice": 20.0,
+      "currency": "CAD",
+      "week52Low": 12.0,
+      "week52High": 26.0,
+      "conservativeEstimate": 22.0,
+      "optimisticEstimate": 30.0,
+      "yield": "0%",
+      "dividendPerShare": 0,
+      "rating": "Watch / Speculative Growth",
+      "thesis": "CDR (Canadian Depositary Receipt) of AMD \u2014 CAD-hedged exposure to Advanced Micro Devices without USD currency risk. AMD US is a top AI/data centre chip play alongside NVIDIA. MI300X GPU gaining traction in hyperscaler AI workloads. Forward P/E ~29x (reasonable for AI semis). CDR ratio means each unit represents a fraction of one AMD share. Analyst consensus targets imply significant upside on AI infrastructure build-out. NOTE: Verify current CDR price \u2014 approximate entry used here.",
+      "risks": "No dividend. High volatility (AI hype cycle). NVIDIA dominates GPU market \u2014 AMD is the #2 play. CDR liquidity lower than NASDAQ AMD. AI capex could compress if hyperscaler spending slows. Price is approximate \u2014 verify before buying.",
+      "researchDate": "2026-02-24",
+      "priceVs52wLow": "+67%"
     }
   ]
 }
