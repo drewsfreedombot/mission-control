@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-24T17:32:42Z",
+  "lastUpdated": "2026-02-24T17:41:16Z",
   "stocks": [
     {
       "ticker": "ENB.TO",
@@ -293,6 +293,40 @@
       "risks": "No dividend. High volatility (AI hype cycle). NVIDIA dominates GPU market \u2014 AMD is the #2 play. CDR liquidity lower than NASDAQ AMD. AI capex could compress if hyperscaler spending slows. Price is approximate \u2014 verify before buying.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+67%"
+    },
+    {
+      "ticker": "TOU.TO",
+      "name": "Tourmaline Oil Corp.",
+      "currentPrice": 63.55,
+      "currency": "CAD",
+      "week52Low": 48.0,
+      "week52High": 70.0,
+      "conservativeEstimate": 68.0,
+      "optimisticEstimate": 80.0,
+      "yield": "5.6%",
+      "dividendPerShare": 3.55,
+      "rating": "Watch / Buy on Pullback",
+      "thesis": "Canada's largest natural gas producer. Base dividend + special dividends = ~$3.55/yr (~5.6% at current price). Monthly distributions. Real tailwinds: LNG Canada coming online, rising US nat gas demand, AI data centre electricity demand. Just crossed its 200-day MA ($62.67) \u2014 improving momentum. Earnings Mar 11, 2026. Best entry below $58-60 CAD for a 6%+ yield and meaningful upside. Nat gas is the clean energy bridge fuel \u2014 TOU is the dominant Canadian play.",
+      "risks": "Special dividends variable \u2014 base dividend alone is ~2.5%, so yield depends on commodity prices and cash flow. Natural gas price is cyclical. If nat gas prices drop, specials get cut first. Current price near short-term resistance.",
+      "researchDate": "2026-02-24",
+      "priceVs52wLow": "+32%"
+    },
+    {
+      "ticker": "TRP.TO",
+      "name": "TC Energy Corporation",
+      "currentPrice": 84.0,
+      "currency": "CAD",
+      "week52Low": 62.17,
+      "week52High": 86.97,
+      "conservativeEstimate": 82.0,
+      "optimisticEstimate": 95.0,
+      "yield": "5.6%",
+      "dividendPerShare": 3.51,
+      "rating": "Watch / Wait for Pullback",
+      "thesis": "Pure-play natural gas infrastructure \u2014 93,000 km of pipelines across Canada, US, Mexico. Spun off South Bow (liquids) in 2024 to focus on nat gas. $3.51/yr dividend, 5.6% yield. Regulated/contracted revenues = steady cashflow. Trump energy policy is a tailwind for continental nat gas. Goldman Sachs raised target to $53 USD ($75 CAD) Feb 18. Analyst consensus target CAD$82. DO NOT BUY AT ATH \u2014 wait for pullback to $75-78 CAD where yield opens to ~4.5%+ and upside reappears.",
+      "risks": "Payout ratio 106% \u2014 dividend slightly stretched vs free cash flow. Debt/equity 2.23 \u2014 highly levered. Currently at ALL-TIME HIGH ($86.97 on Feb 13) and above analyst consensus. Buying here = chasing. Keystone XL history shows regulatory/political risk. Wait for the entry.",
+      "researchDate": "2026-02-24",
+      "priceVs52wLow": "+35%"
     }
   ]
 }
