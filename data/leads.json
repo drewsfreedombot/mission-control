@@ -556,6 +556,84 @@
           "notes": "LinkedIn: linkedin.com/in/chrismccullough | rotageek.com — expanding to North America. Pitch angle: Nmbr as the exclusive Canadian payroll partner to complement Rotageek scheduling, similar to how ADP partners with US-focused WFM tools."
         },
         {
+          "id": "nmbr-20260224-8",
+          "company": "Evolia",
+          "contact": "Martin Ouellet",
+          "title": "Founder & CEO",
+          "email": "martin.ouellet@evolia.com",
+          "signal": "Quebec City-based workforce management SaaS (Series A, $13M raised). Founded by ex-Taleo/Oracle team. Official ADP Workforce Now partner — but ADP handles the payroll, Evolia owns none of it. Restaurant, hospitality, local Quebec employers = RL-1 slips, QPP, Revenu Québec complexity that Nmbr handles natively. Classic Nmbr ICP.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-24",
+          "tags": ["workforce-management", "Quebec", "Series-A", "ADP-dependent", "French", "restaurant", "hospitality"],
+          "notes": "LinkedIn: linkedin.com/company/evolia-hr-rh | evolia.com — Martin Ouellet also appeared on TVA (Québec business TV). Quebec angle is a strong differentiator. Warm pitch: Nmbr is the native payroll layer Evolia's Quebec clients actually need vs. ADP's complexity/cost."
+        },
+        {
+          "id": "nmbr-20260224-9",
+          "company": "Synerion",
+          "contact": "Gil Yuval",
+          "title": "Co-Founder",
+          "email": "gyuval@synerion.com",
+          "signal": "Toronto-based workforce management with 40+ years in market, millions of users, thousands of Canadian clients (manufacturing, retail, healthcare, government). Pure WFM — integrates with ADP, SAP, QuickBooks for payroll export but has ZERO native payroll. Every Canadian client needs a payroll provider separately.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-24",
+          "tags": ["workforce-management", "Canadian", "Toronto", "manufacturing", "healthcare", "no-payroll", "enterprise"],
+          "notes": "LinkedIn: ca.linkedin.com/company/synerion | synerion.com — Co-founders: Gil Yuval & Eli Avni. No funding raised (bootstrapped/profitable). Pitch: Nmbr as the embedded Canadian payroll option Synerion can offer inside the platform — revenue share model."
+        },
+        {
+          "id": "nmbr-20260224-10",
+          "company": "BookJane",
+          "contact": "Curtis Khan",
+          "title": "Founder & CEO",
+          "email": "curtis.khan@bookjane.com",
+          "signal": "Toronto Canadian healthcare scheduling SaaS. 700+ healthcare facilities (LTC homes, hospitals, care agencies) across North America. Listed on ADP Canada Marketplace as a scheduling integration — meaning ADP runs the payroll, BookJane just feeds shift data. Healthcare payroll in Canada = provincial licensing, seniority rules, union agreements, stat holiday premiums = massive complexity Nmbr solves.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-24",
+          "tags": ["healthcare", "Canadian", "Toronto", "scheduling", "ADP-marketplace", "LTC", "no-payroll"],
+          "notes": "LinkedIn: linkedin.com/company/bookjane | bookjane.com — Curtis Khan confirmed Founder & CEO via CBInsights. 9,700+ LinkedIn followers. Pitch: Nmbr as the embedded Canadian payroll layer BookJane sells alongside scheduling to LTC and hospital clients."
+        },
+        {
+          "id": "nmbr-20260224-11",
+          "company": "AlayaCare",
+          "contact": "Adrian Schauer",
+          "title": "Founder & CEO",
+          "email": "adrian.schauer@alayacare.com",
+          "signal": "Montreal-based homecare software scale-up, $225M+ raised, global expansion. Website says 'automate payroll with custom reports' — this is payroll EXPORT, not processing. Every Canadian home care agency on AlayaCare runs payroll in a separate tool (Ceridian, Payworks, ADP). Home-based care payroll = complex shift differentials, mileage, caregiver classifications. Nmbr can close this loop natively.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-24",
+          "tags": ["homecare", "Canadian", "Montreal", "Series-C", "no-payroll", "healthcare", "enterprise"],
+          "notes": "LinkedIn: linkedin.com/company/alayacare | alayacare.com — Adrian Schauer is serial tech entrepreneur, very founder-accessible. $225M raised from MaRS, CDPQ, and US VCs. Pitch: Nmbr as the embedded Canadian payroll module — completing the platform from scheduling to payment."
+        },
+        {
+          "id": "nmbr-20260224-12",
+          "company": "Planday",
+          "contact": "Christian Brøndum",
+          "title": "CEO",
+          "email": "christian.brondum@planday.com",
+          "signal": "Danish WFM platform acquired by Xero (2021). Active in Canadian restaurant, retail, hospitality market. Xero has payroll in AU/NZ/UK/US but ZERO Canadian payroll module. Planday exports Canadian hours to 3rd-party payroll (ADP, Ceridian) — leaving Canadian clients with a manual gap. Nmbr = the missing Canadian payroll layer for Xero/Planday's Canadian base.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-24",
+          "tags": ["workforce-management", "Xero-acquired", "Canadian-market", "restaurant", "retail", "no-Canadian-payroll", "Danish"],
+          "notes": "LinkedIn: linkedin.com/company/planday | planday.com — Xero-owned since 2021. Christian Brøndum is CEO. Better entry point may be VP Partnerships North America. Pitch angle: Nmbr as the exclusive embedded Canadian payroll partner, completing what Xero Payroll can't do in Canada."
+        },
+        {
+          "id": "nmbr-20260224-13",
+          "company": "Lightspeed Commerce",
+          "contact": "Dax Dasilva",
+          "title": "CEO & Founder",
+          "email": "dax.dasilva@lightspeedhq.com",
+          "signal": "Montreal-born restaurant + retail POS giant (~$900M revenue, NYSE/TSX listed). Labour cost tools and time tracking built into the platform but ZERO embedded payroll. Every Canadian restaurant and retailer on Lightspeed processes payroll in a completely separate system. Lightspeed serves exactly the vertical SaaS partners Nmbr targets — and they have thousands of Canadian merchants.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-24",
+          "tags": ["POS", "restaurant", "retail", "Canadian", "Montreal", "enterprise", "public-company", "no-payroll", "flagship"],
+          "notes": "LinkedIn: linkedin.com/in/daxdasilva | lightspeedhq.com — Dax Dasilva returned as CEO March 2023. Better first contact may be SVP Partnerships. This is an enterprise/partnership play — could be Nmbr's largest distribution deal if landed. Start with a warm intro if possible (ATB? Scotiabank?)."
+        },
+        {
           "id": "n008",
           "company": "Agendrix",
           "contact": "Unknown",
@@ -1574,5 +1652,5 @@
       ]
     }
   ],
-  "updated": "2026-02-24"
+  "updated": "2026-02-24T10:01:00-04:00"
 }
