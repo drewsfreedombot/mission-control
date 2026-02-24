@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-24T17:42:38Z",
+  "lastUpdated": "2026-02-24T17:43:21Z",
   "stocks": [
     {
       "ticker": "ENB.TO",
@@ -361,6 +361,57 @@
       "risks": "More concentrated than XIC (60 vs 240 stocks). Higher MER than XIC. At 52-week high \u2014 near ATH. XIC is generally superior for long-term buy-and-hold.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+46%"
+    },
+    {
+      "ticker": "SU.TO",
+      "name": "Suncor Energy Inc.",
+      "currentPrice": 49.5,
+      "currency": "CAD",
+      "week52Low": 38.0,
+      "week52High": 57.0,
+      "conservativeEstimate": 50.0,
+      "optimisticEstimate": 60.0,
+      "yield": "3.2%",
+      "dividendPerShare": 2.4,
+      "rating": "Watch / At Fair Value",
+      "thesis": "Canada's premier integrated oil sands company \u2014 upstream production, downstream refining, and Petro-Canada retail. Warren Buffett owned it (Berkshire). Aggressive buyback program (billions annually). Analyst avg target ~$48.86 \u2014 currently slightly above. Strong FCF generator at $70+ WTI. Wait for pullback below $42-44 to get meaningful upside + 3.5%+ yield.",
+      "risks": "Currently trading above analyst consensus target. Oil price sensitive \u2014 WTI below $60 compresses margins hard. Oilsands have high breakeven vs shale. Buybacks slow when oil prices drop.",
+      "researchDate": "2026-02-24",
+      "priceVs52wLow": "+30%"
+    },
+    {
+      "ticker": "PPL.TO",
+      "name": "Pembina Pipeline Corporation",
+      "currentPrice": 60.36,
+      "currency": "CAD",
+      "week52Low": 42.0,
+      "week52High": 61.0,
+      "conservativeEstimate": 60.0,
+      "optimisticEstimate": 70.0,
+      "yield": "5.25%",
+      "dividendPerShare": 3.24,
+      "rating": "Watch / At Ceiling",
+      "thesis": "Western Canadian midstream infrastructure \u2014 18,000 km of pipelines, NGL fractionation, gas processing. Monthly dividends (5.25% yield). Take-or-pay contracts = highly predictable cashflow. One of the most reliable dividend payers on the TSX. Analyst target $58-60 \u2014 currently AT the ceiling. Wait for pullback to $52-54 where yield opens to 6%+ and upside returns.",
+      "risks": "At analyst consensus ceiling right now. Monthly dividends are attractive but yield compression likely near ATH. Commodity-adjacent despite fee-based model. Acquisition of Alliance/Aux Sable added leverage.",
+      "researchDate": "2026-02-24",
+      "priceVs52wLow": "+44%"
+    },
+    {
+      "ticker": "CVE.TO",
+      "name": "Cenovus Energy Inc.",
+      "currentPrice": 29.0,
+      "currency": "CAD",
+      "week52Low": 14.48,
+      "week52High": 30.15,
+      "conservativeEstimate": 29.0,
+      "optimisticEstimate": 36.0,
+      "yield": "2.5%",
+      "dividendPerShare": 0.72,
+      "rating": "Watch / At Fair Value",
+      "thesis": "Integrated oil sands + refining + US downstream (acquired Husky). Second-largest Canadian oil company. RBC raised target to C$32 (Outperform) Feb 20. Analyst avg target ~$29-31 CAD. Was at $14.48 eight months ago \u2014 has nearly doubled. Variable dividend component means payout grows with oil prices. Best entry below $24 where upside to $32 target = 33%+ plus yield.",
+      "risks": "At analyst consensus now. Low base yield (2.5%). Took on significant debt with Husky acquisition \u2014 balance sheet still healing. Oil price dependent. Refining margins volatile.",
+      "researchDate": "2026-02-24",
+      "priceVs52wLow": "+100%"
     }
   ]
 }
