@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-24T17:43:21Z",
+  "lastUpdated": "2026-02-24T17:44:08Z",
   "stocks": [
     {
       "ticker": "ENB.TO",
@@ -412,6 +412,23 @@
       "risks": "At analyst consensus now. Low base yield (2.5%). Took on significant debt with Husky acquisition \u2014 balance sheet still healing. Oil price dependent. Refining margins volatile.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+100%"
+    },
+    {
+      "ticker": "DOL.TO",
+      "name": "Dollarama Inc.",
+      "currentPrice": 192.0,
+      "currency": "CAD",
+      "week52Low": 137.42,
+      "week52High": 209.96,
+      "conservativeEstimate": 211.0,
+      "optimisticEstimate": 235.0,
+      "yield": "0.21%",
+      "dividendPerShare": 0.42,
+      "rating": "Watch / Growth Play",
+      "thesis": "Canada's dominant discount retailer \u2014 1,500+ stores, recession-proof model (foot traffic INCREASES in downturns), 32% EBITDA margins, Q3 revenue +22.4% YoY. Expanding internationally via Dollarcity (Latin America). Analyst avg target C$211-216 = ~10-12% upside from current $192. High estimate C$235. Payout ratio only 9.5% \u2014 almost all earnings reinvested. NOT a dividend play (0.21% yield). Pure total return/growth story. Best entry below $170-175 (~15-20% discount to current, meaningful upside to targets).",
+      "risks": "Effectively zero dividend \u2014 not for income investors. Premium valuation (fwd P/E ~30x). Tariff risk on imported goods (most products sourced from China). FX exposure on Dollarcity earnings. Consumer spending slowdown could compress same-store sales growth.",
+      "researchDate": "2026-02-24",
+      "priceVs52wLow": "+40%"
     }
   ]
 }
