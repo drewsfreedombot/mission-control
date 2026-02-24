@@ -465,6 +465,97 @@
           ]
         },
         {
+          "id": "nmbr-20260224-1",
+          "company": "Jane App",
+          "contact": "Trevor Johnston",
+          "title": "Co-CEO",
+          "email": "trevor@jane.app",
+          "signal": "Canadian health/wellness practice management SaaS (600+ staff, bootstrapped, North Vancouver). Timesheets built in, zero payroll processing. Every clinic on Jane manually exports to a payroll tool. Nmbr closes the loop natively.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-24",
+          "tags": ["healthcare", "Canadian", "SaaS", "bootstrapped", "no-payroll"],
+          "notes": "LinkedIn: linkedin.com/in/trevorjohnston | Co-CEO with Alison Taylor. jane.app — 50,000+ health practitioners globally, strong Canadian base. Email is a best-guess (standard pattern). Confirm before outreach."
+        },
+        {
+          "id": "nmbr-20260224-2",
+          "company": "Folks HR",
+          "contact": "Jimmy Plante",
+          "title": "CEO",
+          "email": "jimmy.plante@folksrh.com",
+          "signal": "Quebec-based HRIS for Canadian SMBs. New CEO as of 2025 (new leadership = new partnerships window). Explicitly integrates with 3rd-party payroll (ADP, Nethris) but owns zero payroll processing. Quebec market = RL-1 slips, QPP, Revenu Québec — Nmbr handles all of it.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-24",
+          "tags": ["HRIS", "Quebec", "Canadian", "SaaS", "French", "new-CEO"],
+          "notes": "LinkedIn: linkedin.com/in/jimmyplante | folksrh.com — former CEO was Sylvain Roy. Jimmy Plante joined 2025. Email is a best-guess pattern. Quebec angle = strong differentiator over generic payroll providers."
+        },
+        {
+          "id": "nmbr-20260224-3",
+          "company": "TrackTik",
+          "contact": "Simon Ferragne",
+          "title": "Founder & CEO",
+          "email": "simon.ferragne@tracktik.com",
+          "signal": "Montreal-born #1 global security workforce management SaaS (now Trackforce). Does 'payroll preparation' (timesheet exports) but zero actual Canadian payroll processing. Security clients span all provinces — complex overtime rules, union agreements, stat holiday pay.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-24",
+          "tags": ["security", "Canadian", "Montreal", "workforce-management", "no-payroll"],
+          "notes": "LinkedIn: linkedin.com/in/simonferragne | tracktik.com — merged with US-based Trackforce. Simon is the founder. Despite US acquisition, Canadian operations still run from Montreal. Email is best-guess pattern."
+        },
+        {
+          "id": "nmbr-20260224-4",
+          "company": "Quinyx",
+          "contact": "Erik Fjellborg",
+          "title": "CEO & Founder",
+          "email": "erik.fjellborg@quinyx.com",
+          "signal": "Swedish AI-powered WFM platform serving Canadian enterprise clients (Kal Tire confirmed customer). Raised $50M+. Integrates with ADP for payroll but has no native Canadian payroll layer — leaving Canadian clients to stitch it together manually. Active North America expansion.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-24",
+          "tags": ["WFM", "enterprise", "Swedish", "Canadian-clients", "ADP-dependent", "North-America-expansion"],
+          "notes": "LinkedIn: linkedin.com/company/quinyx | quinyx.com — ~299 employees. Kal Tire is a confirmed Canadian Quinyx client. Pitch angle: Nmbr as the embedded Canadian payroll partner so Quinyx can compete with Deputy and When I Work in Canada without ADP dependency."
+        },
+        {
+          "id": "nmbr-20260224-5",
+          "company": "Homebase",
+          "contact": "John Waldmann",
+          "title": "CEO",
+          "email": "john@joinhomebase.com",
+          "signal": "US scheduling/time tracking platform with 100,000+ businesses including a large Canadian SMB base. Payroll feature exists but is US-only — Canadian businesses on Homebase manually export timesheets to Payworks/ADP every period. Opened Canadian engineering office in 2025.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-24",
+          "tags": ["scheduling", "SMB", "US-platform", "Canadian-presence", "US-only-payroll", "100K-businesses"],
+          "notes": "LinkedIn: linkedin.com/in/johnwaldmann | joinhomebase.com — opened Canadian tech office March 2025 per TechBeat CA. Pitch: Nmbr as the embedded Canadian payroll layer to unlock the full product for Canadian users, matching what US users already get."
+        },
+        {
+          "id": "nmbr-20260224-6",
+          "company": "Wello Virtual Healthcare",
+          "contact": "Lori Casselman",
+          "title": "President & Chief Revenue Officer",
+          "email": "lori.casselman@wello.ca",
+          "signal": "Canadian national virtual healthcare platform (subsidiary of INLIV, Calgary). Uses Quinyx for workforce scheduling. No embedded payroll — all payroll runs outside the platform for their hundreds of virtual care clinicians. Healthcare payroll in Canada = provincial licensing complexity.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-24",
+          "tags": ["healthcare", "Canadian", "Calgary", "virtual-care", "Quinyx-customer", "no-payroll"],
+          "notes": "LinkedIn: ca.linkedin.com/company/getwello | wello.ca — Quinyx confirmed Wello as a North American healthcare customer. Lori Casselman joined as President & CRO per ZoomInfo. Warm path: if you have a Quinyx contact, that's the bridge. Email is best-guess."
+        },
+        {
+          "id": "nmbr-20260224-7",
+          "company": "Rotageek",
+          "contact": "Chris McCullough",
+          "title": "CEO & Co-Founder",
+          "email": "chris@rotageek.com",
+          "signal": "UK-based AI scheduling for healthcare and retail, active North America expansion push. No native Canadian payroll capability. NHS-grade precision scheduling for shift workers — their Canadian clients (pharmacy chains, healthcare networks) need a payroll partner to complete the stack.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-24",
+          "tags": ["scheduling", "UK-platform", "North-America-expansion", "healthcare", "retail", "no-Canadian-payroll"],
+          "notes": "LinkedIn: linkedin.com/in/chrismccullough | rotageek.com — expanding to North America. Pitch angle: Nmbr as the exclusive Canadian payroll partner to complement Rotageek scheduling, similar to how ADP partners with US-focused WFM tools."
+        },
+        {
           "id": "n008",
           "company": "Agendrix",
           "contact": "Unknown",
@@ -1483,5 +1574,5 @@
       ]
     }
   ],
-  "updated": "2026-02-23"
+  "updated": "2026-02-24"
 }
