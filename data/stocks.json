@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2026-02-24T10:45:00Z",
+  "lastUpdated": "2026-02-24T13:10:00Z",
   "stocks": [
+    {
+      "ticker": "ENB.TO",
+      "name": "Enbridge Inc.",
+      "currentPrice": 70.33,
+      "currency": "CAD",
+      "week52Low": 57.00,
+      "week52High": 73.71,
+      "conservativeEstimate": 76.70,
+      "optimisticEstimate": 85.95,
+      "yield": "5.5%",
+      "rating": "Buy/Accumulate",
+      "thesis": "Record 2025 EBITDA ($20B, +7%), 31 consecutive dividend raises, $39B secured backlog growing at 5%/year post-2026. Forward P/DCF of ~11.9x sits at the LOW end of regulated infrastructure's 12–16x historical range — earnings have grown into the price premium. Trump energy policy is a direct tailwind for ENB's massive US natural gas network. Price near ATH but valuation justified by fundamentals; add aggressively on any pullback to $65–67 CAD.",
+      "risks": "D/EBITDA at 4.8x — manageable but limited buffer. Ongoing equity dilution from $39B growth capex. No price margin of safety at near-ATH levels — best entry $65–67 CAD for a 5.8–6.0% yield.",
+      "researchDate": "2026-02-24",
+      "priceVs52wLow": "+23%"
+    },
+    {
+      "ticker": "BNS.TO",
+      "name": "Bank of Nova Scotia",
+      "currentPrice": 104.34,
+      "currency": "CAD",
+      "week52Low": 78.00,
+      "week52High": 108.50,
+      "conservativeEstimate": 108.00,
+      "optimisticEstimate": 115.00,
+      "yield": "4.2%",
+      "rating": "Watch/Add on Dips",
+      "thesis": "Q1 2026 earnings released Feb 24: $2.3B net income vs $993M year ago (+132% YoY) — massive beat. Pacific Alliance diversification (LatAm) is contrarian value play. At ~$104 CAD, trading above 200-day MA with fresh earnings catalyst. Add on pullback to $98–101 CAD for yield ~4.4–4.5%.",
+      "risks": "Higher international credit exposure (LatAm) vs RY/TD creates more earnings volatility across credit cycles. Not a core sleep-at-night holding at full weight.",
+      "researchDate": "2026-02-24",
+      "priceVs52wLow": "+34%"
+    },
     {
       "ticker": "NBIS",
       "name": "Nebius Group N.V.",
