@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-23",
+  "updated": "2026-02-24T13:23:37",
   "pipelines": [
     {
       "id": "nmbr",
@@ -641,67 +641,6 @@
           ]
         },
         {
-          "id": "cp002",
-          "company": "Naqvi Injury Law",
-          "contact": "Farhan Naqvi",
-          "title": "Founder",
-          "email": "info@naqvilaw.com",
-          "altContacts": [],
-          "stage": "Lead",
-          "source": "Job Scan",
-          "signal": "Active LinkedIn post about team expansion. Heavy TV + digital advertiser in Las Vegas.",
-          "notes": "Premier PI firm in Las Vegas. 'Never lost a trial' positioning. High-volume inbound leads from ads. Speed-to-contact = 6x more likely to win case. Founder email not findable \u2014 use info@naqvilaw.com (verified 100/100). LinkedIn DM to Farhan Naqvi preferred first.",
-          "added": "2026-02-22",
-          "meetingDate": "",
-          "tags": [
-            "PI law",
-            "Las Vegas",
-            "speed-to-contact"
-          ]
-        },
-        {
-          "id": "cp003",
-          "company": "J&Y Law",
-          "contact": "Jason Javaheri",
-          "title": "Co-Founder & CEO",
-          "email": "jason@jnylaw.com",
-          "altContacts": [
-            "jsanchez@jnylaw.com"
-          ],
-          "stage": "Lead",
-          "source": "Job Scan",
-          "signal": "Actively hiring intake specialists. Heavy TV + digital advertiser in LA.",
-          "notes": "Personal injury firm in Los Angeles. 80+ years combined team experience. High-volume inbound. jason@jnylaw.com verified valid. Jonathan Sanchez (Marketing Director) jsanchez@jnylaw.com also verified. Marketing director is a great alt entry point.",
-          "added": "2026-02-22",
-          "meetingDate": "",
-          "tags": [
-            "PI law",
-            "LA",
-            "hiring intake"
-          ]
-        },
-        {
-          "id": "cp004",
-          "company": "Ostroff Godshall",
-          "contact": "Richard Godshall",
-          "title": "Owner & Managing Partner",
-          "email": "rgodshall@ostrofflaw.com",
-          "altContacts": [
-            "jostroff@ostrofflaw.com"
-          ],
-          "stage": "Lead",
-          "source": "Job Scan",
-          "signal": "Posted 'Legal Intake Specialist' job on Indeed this week. Blue Bell, PA.",
-          "notes": "Catastrophic injury law firm with $7M+ verdicts. Domain is accept-all (94 confidence). Jon Ostroff (Founding Partner) also contactable at jostroff@ostrofflaw.com (91 conf).",
-          "added": "2026-02-22",
-          "meetingDate": "",
-          "tags": [
-            "PI law",
-            "Pennsylvania",
-            "hiring intake"
-          ]
-        },
-        {
           "id": "cp005",
           "company": "REI Game Changers",
           "contact": "James Hodges",
@@ -737,28 +676,6 @@
             "fitness coaching",
             "high-ticket",
             "LinkedIn only"
-          ]
-        },
-        {
-          "id": "cp007",
-          "company": "Thomas J. Henry Law",
-          "contact": "Thomas J. Henry",
-          "title": "Owner",
-          "email": "thenry@thomasjhenrylaw.com",
-          "altContacts": [
-            "rherrera@thomasjhenrylaw.com"
-          ],
-          "stage": "Lead",
-          "source": "Job Scan",
-          "signal": "5 Texas offices, major PI advertiser, rapid growth phase.",
-          "notes": "30-year Texas PI firm. Massive advertising spend. Ruben Herrera (EVP Marketing) at rherrera@thomasjhenrylaw.com is a better entry point for tech/marketing pitches. Both emails on accept-all domain. Pitch: after-hours and weekend lead capture.",
-          "added": "2026-02-22",
-          "meetingDate": "",
-          "tags": [
-            "PI law",
-            "Texas",
-            "enterprise",
-            "high volume"
           ]
         },
         {
@@ -836,103 +753,6 @@
           "tags": [
             "inbound",
             "unknown"
-          ]
-        },
-        {
-          "id": "cp012",
-          "company": "Tishbi Law Firm",
-          "contact": "Payam Tishbi",
-          "title": "Founder & Managing Attorney",
-          "email": "ptishbi@tishbilaw.com",
-          "altContacts": [],
-          "stage": "Lead",
-          "source": "Lead Scan Feb 23",
-          "signal": "Active LinkedIn posting for PI Intake Specialist Feb 2026. Solo firm \u2014 Payam handles every case personally = clear bottleneck.",
-          "notes": "Confirmed email. LinkedIn: linkedin.com/in/payam-tishbi-161b0377. Speed-to-lead + after-hours coverage pitch.",
-          "added": "2026-02-23",
-          "meetingDate": "",
-          "tags": [
-            "PI law",
-            "solo firm",
-            "confirmed email",
-            "hot"
-          ]
-        },
-        {
-          "id": "cp013",
-          "company": "Dimopoulos Injury Law",
-          "contact": "Steve Dimopoulos",
-          "title": "Founder & Owner",
-          "email": "steve@stevedimopoulos.com",
-          "altContacts": [],
-          "stage": "Lead",
-          "source": "Lead Scan Feb 23",
-          "signal": "4.9\u2605 / 3,197 Google reviews = massive inbound. Active full-time Intake Specialist posting Feb 2026. LV Review-Journal Top Workplace.",
-          "notes": "Las Vegas. After-hours AI setter pitch is a slam dunk given the volume.",
-          "added": "2026-02-23",
-          "meetingDate": "",
-          "tags": [
-            "PI law",
-            "Las Vegas",
-            "high volume",
-            "hot"
-          ]
-        },
-        {
-          "id": "cp014",
-          "company": "The Law Brothers",
-          "contact": "Shawn Lalezary",
-          "title": "Managing Attorney & Co-Founder",
-          "email": "shawn@lawbrothers.com",
-          "altContacts": [],
-          "stage": "Lead",
-          "source": "Lead Scan Feb 23",
-          "signal": "Hiring bilingual EN/Spanish Intake Specialist Dec 2025. $200M+ recovered = high case volume. Bilingual gap = leads falling through.",
-          "notes": "Speed-to-lead pain is real. LinkedIn: linkedin.com/company/the-law-brothers",
-          "added": "2026-02-23",
-          "meetingDate": "",
-          "tags": [
-            "PI law",
-            "bilingual",
-            "high volume"
-          ]
-        },
-        {
-          "id": "cp015",
-          "company": "Cohen & Cohen Personal Injury Lawyers",
-          "contact": "Albert Cohen",
-          "title": "Founder",
-          "email": "albert@cohenandcohenlawgroup.com",
-          "altContacts": [],
-          "stage": "Lead",
-          "source": "Lead Scan Feb 23",
-          "signal": "Active intake specialist posting Feb 2026. NYC PI market. Million Dollar Advocates Forum member.",
-          "notes": "NYC PI = leads go cold in minutes. High cost-per-missed-lead. LinkedIn: linkedin.com/in/albert-cohen-37362222",
-          "added": "2026-02-23",
-          "meetingDate": "",
-          "tags": [
-            "PI law",
-            "NYC",
-            "high stakes"
-          ]
-        },
-        {
-          "id": "cp016",
-          "company": "Law Offices of Sylvia V. Gonzalez",
-          "contact": "Sylvia V. Gonzalez",
-          "title": "Founder & Managing Attorney",
-          "email": "sylvia@gonzalezlawoffice.com",
-          "altContacts": [],
-          "stage": "Lead",
-          "source": "Lead Scan Feb 23",
-          "signal": "Active ZipRecruiter posting for PI Intake Specialist Feb 2026. 'I personally handle every case' = she IS the bottleneck.",
-          "notes": "La Mirada, CA. Solo PI attorney. Charlie handling first contact 24/7 = direct revenue unlock.",
-          "added": "2026-02-23",
-          "meetingDate": "",
-          "tags": [
-            "PI law",
-            "California",
-            "solo attorney"
           ]
         },
         {
@@ -1054,109 +874,6 @@
           ]
         },
         {
-          "id": "cp024",
-          "company": "Ostroff Godshall Injury & Accident Lawyers",
-          "contact": "Richard Godshall",
-          "title": "Managing Partner",
-          "email": "rgodshall@ostrofflaw.com",
-          "altContacts": [
-            "jostroff@ostrofflaw.com"
-          ],
-          "stage": "Lead",
-          "source": "Lead Scan Feb 23",
-          "signal": "Actively hiring Legal Intake Specialist (Indeed, active). Speed is core brand identity \u2014 'settled in under 45 days.'",
-          "notes": "Blue Bell, PA. Speed = their brand. First contact speed is where cases are won. LinkedIn: linkedin.com/company/ostroffgodshall",
-          "added": "2026-02-23",
-          "meetingDate": "",
-          "tags": [
-            "PI law",
-            "Pennsylvania",
-            "speed brand",
-            "hot"
-          ]
-        },
-        {
-          "id": "cp025",
-          "company": "Parnall Law Firm",
-          "contact": "Bert Parnall",
-          "title": "Owner & Founder",
-          "email": "bert@hurtcallbert.com",
-          "altContacts": [],
-          "stage": "Lead",
-          "source": "Lead Scan Feb 23",
-          "signal": "Hiring remote intake specialist on LinkedIn. Largest PI firm in NM. High inbound volume.",
-          "notes": "Albuquerque, NM. 'Hurt? Call Bert' brand. LinkedIn: linkedin.com/company/parnall-law",
-          "added": "2026-02-23",
-          "meetingDate": "",
-          "tags": [
-            "PI law",
-            "New Mexico",
-            "largest in state",
-            "remote intake"
-          ]
-        },
-        {
-          "id": "cp026",
-          "company": "Anderson Injury Lawyers",
-          "contact": "Mark Anderson",
-          "title": "Founding Attorney & Managing Partner",
-          "email": "mark@andersoninjurylawyers.com",
-          "altContacts": [],
-          "stage": "Lead",
-          "source": "Lead Scan Feb 23",
-          "signal": "Active LinkedIn intake posting. Board-certified PI, 20+ years. Texas PI = hyper-competitive speed-to-lead.",
-          "notes": "Dallas/Fort Worth, TX. LinkedIn: linkedin.com/in/mark-anderson-0a630211",
-          "added": "2026-02-23",
-          "meetingDate": "",
-          "tags": [
-            "PI law",
-            "Texas",
-            "Dallas",
-            "board-certified"
-          ]
-        },
-        {
-          "id": "cp027",
-          "company": "AK Law Firm",
-          "contact": "Andrew Kumar",
-          "title": "Founder & Managing Attorney",
-          "email": "andrew@akfirm.com",
-          "altContacts": [],
-          "stage": "Lead",
-          "source": "Lead Scan Feb 23",
-          "signal": "Active intake posting. Multi-city (Dallas + Houston + San Antonio). Coordinating 3 markets with human reps = major logistics challenge.",
-          "notes": "Texas. Multi-market expansion = AI intake advantage. LinkedIn: linkedin.com/in/andrew-kumar-54074763",
-          "added": "2026-02-23",
-          "meetingDate": "",
-          "tags": [
-            "PI law",
-            "Texas",
-            "multi-city",
-            "scaling"
-          ]
-        },
-        {
-          "id": "cp028",
-          "company": "M&Y Personal Injury Lawyers",
-          "contact": "Nick Movaghar",
-          "title": "Co-Founder",
-          "email": "nick@mylawcompany.com",
-          "altContacts": [],
-          "stage": "Lead",
-          "source": "Lead Scan Feb 23",
-          "signal": "Active intake posting Feb 2026. Self-described #1 car accident firm in CA. After-hours gap is critical.",
-          "notes": "Los Angeles, CA. Highest-volume PI in CA. Fri 5PM \u2013 Mon 9AM gap is where cases are lost. LinkedIn: linkedin.com/company/movaghar-yamin-plc",
-          "added": "2026-02-23",
-          "meetingDate": "",
-          "tags": [
-            "PI law",
-            "Los Angeles",
-            "California",
-            "high volume",
-            "car accidents"
-          ]
-        },
-        {
           "id": "cp021",
           "company": "REI Accelerator",
           "contact": "Jonathan Cronin",
@@ -1175,6 +892,36 @@
             "mastermind",
             "faith-based"
           ]
+        },
+        {
+          "id": "cp029",
+          "contact": "Jeremy Baronner",
+          "company": "Mastermind.com",
+          "title": "Sales Director",
+          "email": "",
+          "stage": "Lead",
+          "source": "Lead Scan Feb 24",
+          "notes": "Hiring appointment setter on LinkedIn Feb 2026"
+        },
+        {
+          "id": "cp030",
+          "contact": "Patrick Bet-David",
+          "company": "Valuetainment / Bet-David Consulting",
+          "title": "CEO",
+          "email": "",
+          "stage": "Lead",
+          "source": "Lead Scan Feb 24",
+          "notes": "Active setter/sales associate hiring; high-ticket coaching + consulting"
+        },
+        {
+          "id": "cp031",
+          "contact": "Brandon Dawson",
+          "company": "Cardone Ventures",
+          "title": "CEO",
+          "email": "",
+          "stage": "Lead",
+          "source": "Lead Scan Feb 24",
+          "notes": "Confirmed appointment setter role hiring Feb 2026"
         }
       ]
     },
@@ -1616,6 +1363,16 @@
             "LinkedIn only",
             "high priority"
           ]
+        },
+        {
+          "id": "pp023",
+          "contact": "Julien Copithorne",
+          "company": "High Ticket Solutions",
+          "title": "CEO & Founder",
+          "email": "julien@highticketsolutions.com",
+          "stage": "Lead",
+          "source": "Lead Scan Feb 24",
+          "notes": "Setter/closer placement agency; co-sell play \u2014 Charlie qualifies, his closers close. $40M+ personally closed."
         }
       ]
     }
