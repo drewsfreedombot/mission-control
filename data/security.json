@@ -1,1 +1,21 @@
-{}
+{
+  "lastCheck": "2026-02-24T04:00:00-04:00",
+  "status": "WARNING",
+  "flags": [
+    "openclaw.json config hash changed since last check (modified Feb 23 at 14:20)"
+  ],
+  "checks": {
+    "diskSpace": { "status": "ok", "used": "11Gi", "available": "420Gi", "capacity": "3%" },
+    "loginAttempts": { "status": "ok", "detail": "Only freedombot logins, no unauthorized access" },
+    "uptime": { "status": "ok", "detail": "2 days 19h 17m, load avg 1.79/1.65/1.65" },
+    "gateway": { "status": "ok", "detail": "Running (pid 96638), RPC probe ok, loopback 127.0.0.1:18789" },
+    "processes": { "status": "ok", "detail": "All processes recognized — OpenClaw, Tailscale, Telegram, Chrome, macOS system" },
+    "tailscale": { "status": "ok", "detail": "Active, direct connection to dwaynes-mac-mini" },
+    "configHash": {
+      "status": "warning",
+      "previous": "1954b804c085239e2b5db9b76f01c7f3e00d3ddb77e60aebb3deb6fdec947684",
+      "current": "5b26974972d59215b3b0020c072c45c98ea85cee333f69949428cf51405765ea",
+      "fileModified": "2026-02-23T14:20:00-04:00"
+    }
+  }
+}
