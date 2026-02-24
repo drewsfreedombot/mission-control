@@ -1,6 +1,12 @@
 {
   "feed": [
     {
+      "timestamp": "2026-02-24T10:30:00Z",
+      "type": "intel",
+      "title": "Opportunity Scan — Feb 24",
+      "detail": "4 opportunities: (1) Wagepoint VP of Product confirms 'first of several launches' this year — expanding into full workforce platform; (2) 3 new AI platforms launched for PI law firms this week (Parambil, Supio, ProPlaintiff) — sector in active buying mode for Charlie; (3) Dayforce wins $350M federal government contract — retreating to enterprise, leaving mid-market/embedded wide open for Nmbr; (4) SaaS North 2026 Ottawa (November) — Canada's largest SaaS conference, prime Nmbr partner pipeline event."
+    },
+    {
       "timestamp": "2026-02-23T17:51:09Z",
       "type": "intel",
       "title": "Chung Tang confirmed as Charlie referral partner",
