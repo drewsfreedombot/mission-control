@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-24T17:46:50Z",
+  "lastUpdated": "2026-02-24T17:49:21Z",
   "stocks": [
     {
       "ticker": "ENB.TO",
@@ -531,6 +531,57 @@
       "risks": "QB2 mine in Chile has had engineering challenges (CEO acknowledged Feb 2026). Copper price risk. Chile = higher political/regulatory risk than Canada. Small dividend (1%). Not a significant income play.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+45%"
+    },
+    {
+      "ticker": "LUN.TO",
+      "name": "Lundin Mining Corporation",
+      "currentPrice": 39.55,
+      "currency": "CAD",
+      "week52Low": 8.94,
+      "week52High": 41.84,
+      "conservativeEstimate": 45.0,
+      "optimisticEstimate": 55.0,
+      "yield": "0.3%",
+      "dividendPerShare": 0.12,
+      "rating": "Watch / Momentum Play",
+      "thesis": "Diversified base metals miner (copper, zinc, nickel, gold) \u2014 Vancouver-based. TD Securities just raised price target to C$45 on Feb 24, 2026. Has run from a 52-week low of C$8.94 to $40 \u2014 one of the most explosive moves on the TSX. Not a dividend play (0.3%) but copper demand tailwinds are real. Wait for pullback below $32-35 for a better risk/reward entry.",
+      "risks": "Massive 52-week run (+340% from lows) \u2014 buying near ATH is high risk. Almost no dividend. Diversified metals = less pure copper exposure than IVN/TECK. Operational risk across multiple jurisdictions.",
+      "researchDate": "2026-02-24",
+      "priceVs52wLow": "+342%"
+    },
+    {
+      "ticker": "FCX",
+      "name": "Freeport-McMoRan Inc.",
+      "currentPrice": 65.55,
+      "currency": "USD",
+      "week52Low": 27.66,
+      "week52High": 69.44,
+      "conservativeEstimate": 64.0,
+      "optimisticEstimate": 76.0,
+      "yield": "0.6%",
+      "dividendPerShare": 0.3,
+      "rating": "Watch / Near ATH",
+      "thesis": "The world's largest publicly traded copper company \u2014 Grasberg mine in Indonesia is the biggest copper/gold deposit on Earth. Also has major operations in Americas. Copper hit an all-time high Jan 28, 2026 \u2014 FCX hit its ATH ($69.44) the next day. Analyst avg target $64 = at fair value, but high estimate $76 = 16% upside. The most liquid, most direct copper play for US-listed exposure. Best entry on a copper price pullback below $52-55.",
+      "risks": "At/near ATH after massive copper price run. Analyst consensus target is below current price. Geopolitical risk (Indonesia operations). Low dividend (0.6%). Copper price highly cyclical.",
+      "researchDate": "2026-02-24",
+      "priceVs52wLow": "+137%"
+    },
+    {
+      "ticker": "HBM.TO",
+      "name": "Hudbay Minerals Inc.",
+      "currentPrice": 30.0,
+      "currency": "CAD",
+      "week52Low": 12.0,
+      "week52High": 38.8,
+      "conservativeEstimate": 31.66,
+      "optimisticEstimate": 40.0,
+      "yield": "0.3%",
+      "dividendPerShare": 0.08,
+      "rating": "Watch / Pullback from ATH",
+      "thesis": "Canadian copper + gold + silver + zinc miner \u2014 operations in Canada, Peru, and Arizona (Copper World). Strong Buy consensus, analyst target C$31.66. Hit ATH of C$38.80 on Jan 29 (copper all-time high day), has pulled back since. Growing production profile with Copper World development. More diversified than a pure copper play. Best entry below C$24-26 where upside to targets is meaningful.",
+      "risks": "Pulled back significantly from ATH \u2014 confirm current price before buying. Multi-jurisdictional (Canada, Peru, US) = varied political risk. Copper World (Arizona) project still in permitting. Small dividend.",
+      "researchDate": "2026-02-24",
+      "priceVs52wLow": "+150%"
     }
   ]
 }
