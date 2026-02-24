@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-24T17:41:16Z",
+  "lastUpdated": "2026-02-24T17:42:38Z",
   "stocks": [
     {
       "ticker": "ENB.TO",
@@ -327,6 +327,40 @@
       "risks": "Payout ratio 106% \u2014 dividend slightly stretched vs free cash flow. Debt/equity 2.23 \u2014 highly levered. Currently at ALL-TIME HIGH ($86.97 on Feb 13) and above analyst consensus. Buying here = chasing. Keystone XL history shows regulatory/political risk. Wait for the entry.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+35%"
+    },
+    {
+      "ticker": "XIC.TO",
+      "name": "iShares Core S&P/TSX Capped Composite Index ETF",
+      "currentPrice": 53.98,
+      "currency": "CAD",
+      "week52Low": 37.0,
+      "week52High": 54.5,
+      "conservativeEstimate": 56.0,
+      "optimisticEstimate": 65.0,
+      "yield": "2.3%",
+      "dividendPerShare": 1.24,
+      "rating": "Watch / Wait for Correction",
+      "thesis": "Broadest TSX index exposure \u2014 ~240 Canadian stocks, heavily weighted to financials and energy. MER 0.05% (cheapest broad Canadian index ETF). The go-to vehicle for passive TSX exposure in a TFSA. TSX composite just closed at an ALL-TIME HIGH of 33,818 on Feb 21, 2026 \u2014 XIC is near ATH at $54. Best entry below $46 (~15% correction). Long-term: Canadian equities are cheap vs S&P 500 on P/E, commodity-backed, and benefit from a weaker CAD. Buy at the right price.",
+      "risks": "At ATH \u2014 buying now means buying at peak. Heavy financials + energy exposure = Canada-specific concentration risk. USD/CAD moves affect international comparisons. Low yield (2.3%) vs picking individual dividend stocks.",
+      "researchDate": "2026-02-24",
+      "priceVs52wLow": "+46%"
+    },
+    {
+      "ticker": "XIU.TO",
+      "name": "iShares S&P/TSX 60 Index ETF",
+      "currentPrice": 49.41,
+      "currency": "CAD",
+      "week52Low": 33.87,
+      "week52High": 49.79,
+      "conservativeEstimate": 52.0,
+      "optimisticEstimate": 60.0,
+      "yield": "2.4%",
+      "dividendPerShare": 1.13,
+      "rating": "Watch / Wait for Correction",
+      "thesis": "Canada's most liquid ETF \u2014 tracks the S&P/TSX 60 (top 60 TSX companies). $21B in assets. More concentrated than XIC but very tradeable. Same core thesis as XIC: excellent long-term hold, terrible entry at ATH. MER 0.15% (3x higher than XIC \u2014 prefer XIC for buy-and-hold). Ex-div was today Feb 24 ($0.277/unit). Best entry below $42.",
+      "risks": "More concentrated than XIC (60 vs 240 stocks). Higher MER than XIC. At 52-week high \u2014 near ATH. XIC is generally superior for long-term buy-and-hold.",
+      "researchDate": "2026-02-24",
+      "priceVs52wLow": "+46%"
     }
   ]
 }
