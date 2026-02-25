@@ -1,94 +1,101 @@
+
 {
   "feed": [
     {
+      "timestamp": "2026-02-24T14:40:44",
+      "type": "expense",
+      "title": "Petro-Canada Fuel & Lotto",
+      "detail": "Fuel (Supreme): 54.462 L @ $1.464/L = $79.73 CAD, Lotto 6/49 Max: $12.00 CAD. Total: $91.73 CAD at Petro-Canada, Upper Vaughan, Nova Scotia."
+    },
+    {
       "timestamp": "2026-02-24T12:03:00",
       "type": "intel",
-      "title": "Nmbr Lead Scan \u2014 7 New Leads",
+      "title": "Nmbr Lead Scan — 7 New Leads",
       "detail": "WorkJam, PointClickCare, Hireology, Fourth (HotSchedules), Belfry Software, BambooHR, Procare Solutions added to Nmbr pipeline. All confirmed no Canadian payroll with active Canadian client base."
     },
     {
       "timestamp": "2026-02-24T12:33:00Z",
       "type": "intel",
-      "title": "Charlie Lead Scan \u2014 10 Leads Found",
+      "title": "Charlie Lead Scan — 10 Leads Found",
       "detail": "Setter/coaching lead scan complete. 5 PI law firms actively hiring intake staff (speed-to-contact pain): Ostroff Godshall (PA), Dimopoulos Injury Law (NV), Buckfire & Buckfire (MI), Firouzbakht Law Firm (TX), Omega Law Group (CA). 5 high-ticket coaches hiring setters: Mastermind.com (Robbins/Graziosi), Total Life Fitness, Valuetainment/Bet-David Consulting, Cardone Ventures, Martin Law Firm (TX). All 10 sent to Drew via Telegram."
     },
     {
       "timestamp": "2026-02-24T10:30:00Z",
       "type": "intel",
-      "title": "Opportunity Scan \u2014 Feb 24",
-      "detail": "4 opportunities: (1) Wagepoint VP of Product confirms 'first of several launches' this year \u2014 expanding into full workforce platform; (2) 3 new AI platforms launched for PI law firms this week (Parambil, Supio, ProPlaintiff) \u2014 sector in active buying mode for Charlie; (3) Dayforce wins $350M federal government contract \u2014 retreating to enterprise, leaving mid-market/embedded wide open for Nmbr; (4) SaaS North 2026 Ottawa (November) \u2014 Canada's largest SaaS conference, prime Nmbr partner pipeline event."
+      "title": "Opportunity Scan — Feb 24",
+      "detail": "4 opportunities: (1) Wagepoint VP of Product confirms 'first of several launches' this year — expanding into full workforce platform; (2) 3 new AI platforms launched for PI law firms this week (Parambil, Supio, ProPlaintiff) — sector in active buying mode for Charlie; (3) Dayforce wins $350M federal government contract — retreating to enterprise, leaving mid-market/embedded wide open for Nmbr; (4) SaaS North 2026 Ottawa (November) — Canada's largest SaaS conference, prime Nmbr partner pipeline event."
     },
     {
       "timestamp": "2026-02-23T17:51:09Z",
       "type": "intel",
       "title": "Chung Tang confirmed as Charlie referral partner",
-      "detail": "chung@morecustomersonline.ca \u2014 committed to refer Charlie to all his clients. Referral handoff complete."
+      "detail": "chung@morecustomersonline.ca — committed to refer Charlie to all his clients. Referral handoff complete."
     },
     {
       "timestamp": "2026-02-23T13:02:00",
       "type": "research",
-      "title": "Dividend Research \u2014 CCA (Cogeco Communications) 5.75% Yield",
+      "title": "Dividend Research — CCA (Cogeco Communications) 5.75% Yield",
       "detail": "Primary pick: CCA.TO at C$68.70. P/E 9.4x, EV/EBITDA 5.6x, P/B 0.77. Alpha Spread intrinsic value C$122.93 (44% undervalued). Morningstar 5-star. S&P + Moody's credit upgraded Jan 2026. Dividend $3.948/yr = 5.75% yield, 10+ consecutive raises, +7% Oct 2025, FCF payout only 38%. Also watching: NPI, CPX. Full report sent to Telegram."
     },
     {
       "timestamp": "2026-02-23T12:32:00",
       "type": "intel",
-      "title": "Charlie Lead Scan \u2014 10 New Leads (Noon Run)",
+      "title": "Charlie Lead Scan — 10 New Leads (Noon Run)",
       "detail": "6 PI law firms + 4 high-ticket coaches actively hiring setters/intake. Top picks: Naqvi Injury Law (confirmed email, 11x #1 LV), Omega Law Group (16 offices, confirmed email), Paul Bickford Solutions (multiple setter postings). All 10 leads sent to Telegram with DM name, LinkedIn, and email."
     },
     {
       "timestamp": "2026-02-23T10:00:00",
       "type": "intel",
-      "title": "Nmbr Lead Scan \u2014 10 New Leads (Refresh)",
-      "detail": "Deep-research scan of vertical SaaS companies with Canadian customers but no native embedded payroll. Top 3 \ud83d\udd25: Teambridge (publicly said they want to add payroll), Sona (Series A, expanding to Canada with UK payroll only), Jobber ($100M+ ARR, field service, no payroll). All 10 leads have decision-maker name, LinkedIn, and email. Report saved to opportunity-intel.md."
+      "title": "Nmbr Lead Scan — 10 New Leads (Refresh)",
+      "detail": "Deep-research scan of vertical SaaS companies with Canadian customers but no native embedded payroll. Top 3 🔥: Teambridge (publicly said they want to add payroll), Sona (Series A, expanding to Canada with UK payroll only), Jobber ($100M+ ARR, field service, no payroll). All 10 leads have decision-maker name, LinkedIn, and email. Report saved to opportunity-intel.md."
     },
     {
       "timestamp": "2026-02-23T09:02:00",
       "type": "research",
-      "title": "Dividend Research \u2014 T.TO (TELUS) Primary Pick",
-      "detail": "Scanned full TSX dividend universe. Most stalwarts (ENB, FTS, PPL, TRP, BNS) near all-time or 52-week highs. Primary pick: TELUS (T.TO) at ~$18 CAD \u2014 near 52-week lows, 15% below 5-yr avg, 9.2% yield, record 2025 FCF $2.2B (+11% YoY), 21%+ analyst upside. Dividend frozen not cut. Report sent to Telegram."
+      "title": "Dividend Research — T.TO (TELUS) Primary Pick",
+      "detail": "Scanned full TSX dividend universe. Most stalwarts (ENB, FTS, PPL, TRP, BNS) near all-time or 52-week highs. Primary pick: TELUS (T.TO) at ~$18 CAD — near 52-week lows, 15% below 5-yr avg, 9.2% yield, record 2025 FCF $2.2B (+11% YoY), 21%+ analyst upside. Dividend frozen not cut. Report sent to Telegram."
     },
     {
       "timestamp": "2026-02-23T08:36:00",
       "type": "intel",
-      "title": "Charlie Lead Scan \u2014 10 New Leads Added",
-      "detail": "5 PI law firms + 5 high-ticket coaches actively hiring setters/intake specialists. All added to CRM (cp012\u2013cp021). Top picks: Tishbi Law (confirmed email), Dimopoulos Injury Law, Royston G King."
+      "title": "Charlie Lead Scan — 10 New Leads Added",
+      "detail": "5 PI law firms + 5 high-ticket coaches actively hiring setters/intake specialists. All added to CRM (cp012–cp021). Top picks: Tishbi Law (confirmed email), Dimopoulos Injury Law, Royston G King."
     },
     {
       "timestamp": "2026-02-23T08:06:00",
       "type": "intel",
-      "title": "Nmbr Lead Scan \u2014 10 New Leads Added",
-      "detail": "10 Canadian workforce SaaS companies with no native Canadian payroll added to CRM (n009\u2013n018). Top picks: Workstaff (seed-funded, Montreal), MakeShift (SAP partner, 50% growth), Bridgit (Canadian construction)."
+      "title": "Nmbr Lead Scan — 10 New Leads Added",
+      "detail": "10 Canadian workforce SaaS companies with no native Canadian payroll added to CRM (n009–n018). Top picks: Workstaff (seed-funded, Montreal), MakeShift (SAP partner, 50% growth), Bridgit (Canadian construction)."
     },
     {
       "timestamp": "2026-02-23T08:06:00",
       "type": "research",
-      "title": "Payroll Marketing Intel \u2014 Week of Feb 23",
+      "title": "Payroll Marketing Intel — Week of Feb 23",
       "detail": "Weekly payroll marketing playbook delivered. Focus: Restaurant SaaS vertical. All 11 channels covered with 33 actionable tactics. Top 3 priorities: 'paying twice' email campaign, LinkedIn job-posting outbound trigger, dedicated /payroll landing page. Saved to memory/payroll-marketing/2026-02-23.md"
     },
     {
       "timestamp": "2026-02-23T06:30:00",
       "type": "intel",
-      "title": "Opportunity Scan \u2014 Feb 23",
+      "title": "Opportunity Scan — Feb 23",
       "detail": "5 opportunities identified: Wagepoint competitor expansion (Nmbr angle), Canadian fintech funding surge, Brookfield 17% dividend hike (BN), Enbridge 3% hike (ENB payable Mar 1), Canadian Finance Summit May 28 Toronto (Nmbr networking)."
     },
     {
       "timestamp": "2026-02-23T06:00:00",
       "type": "alert",
-      "title": "\u26a0\ufe0f Chung Tang 48hr Deadline \u2014 TODAY",
+      "title": "⚠️ Chung Tang 48hr Deadline — TODAY",
       "detail": "Drew committed to sending Chung Tang (More Customers Online) a Loom or Charlie referral info within 48hrs of Feb 22. Deadline is Feb 23. Must action today."
     },
     {
       "timestamp": "2026-02-23T06:00:00",
       "type": "research",
-      "title": "Morning Briefing \u2014 Feb 23",
+      "title": "Morning Briefing — Feb 23",
       "detail": "French Lesson 6 (Quebec weather), FTS.TO dividend pick (51yr growth, ~4.5% yield, C$69 analyst avg target), Nmbr/Charlie lead scans (no fresh leads), calendar reconnection needed."
     },
     {
       "timestamp": "2026-02-22T21:00:00",
       "type": "research",
       "title": "Weekly Digest Generated",
-      "detail": "Week of Feb 17\u201322: 3 major infrastructure wins, Chung Tang referral partner committed, 50+ leads compiled, calendars + Mission Control dashboard live. Saved to ~/clawd/weekly-digests/2026-02-22.md"
+      "detail": "Week of Feb 17–22: 3 major infrastructure wins, Chung Tang referral partner committed, 50+ leads compiled, calendars + Mission Control dashboard live. Saved to ~/clawd/weekly-digests/2026-02-22.md"
     }
   ]
 }
