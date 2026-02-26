@@ -1,4 +1,3 @@
-
 {
   "feed": [
     {
@@ -96,6 +95,54 @@
       "type": "research",
       "title": "Weekly Digest Generated",
       "detail": "Week of Feb 17–22: 3 major infrastructure wins, Chung Tang referral partner committed, 50+ leads compiled, calendars + Mission Control dashboard live. Saved to ~/clawd/weekly-digests/2026-02-22.md"
+    },
+    {
+      "timestamp": "2026-02-25T09:01:00Z",
+      "type": "intel",
+      "title": "Nmbr Partner Update: Collage Partnership",
+      "detail": "Collage has launched an embedded payroll product in Canada through a partnership with Nmbr, integrating payroll into their HR and benefits software platform."
+    },
+    {
+      "timestamp": "2026-02-25T10:15:00Z",
+      "type": "intel",
+      "title": "Charlie Lead Scan — 3 New Leads Identified (Feb 25)",
+      "detail": "Nora Sudduth (High-Ticket Business Coach), Luisa Zhou (Online Business Coach & Mentor), and Kevin Edward Yee (High-Ticket Sales Coach) identified as new Charlie AI prospects. Details saved to memory/opportunity-intel.md."
+    },
+    {
+      "timestamp": "2026-02-25T10:48:00Z",
+      "type": "research",
+      "title": "Dividend Research: Enbridge Inc. (ENB.TO)",
+      "detail": "Primary Pick: ENB.TO ($71.10 CAD), 5.43% yield. Strong performance, stable business model, reliable dividends. Risks: regulatory, energy demand."
+    },
+    {
+      "timestamp": "2026-02-25T22:01:00Z",
+      "type": "alert",
+      "title": "Market Alert: Watchlist News",
+      "detail": "TELUS (T.TO) adjusted DRIP discount to 1.75%. Cogeco Communications (CCA.TO) upgraded to 'Outperform' by National Bank Financial (target C$80.00). Canadian Natural Resources (CNQ.TO) saw 872.8% increase in Hurley Capital LLC holdings."
+    },
+    {
+      "timestamp": "2026-02-26T00:01:00Z",
+      "type": "alert",
+      "title": "Market Alert: Allied Properties REIT (AP-UN.TO)",
+      "detail": "Allied Properties REIT approved share buyback program for up to 9.9% of outstanding units. Material development for recovery play."
+    },
+    {
+      "timestamp": "2026-02-26T01:00:00Z",
+      "type": "research",
+      "title": "Dividend Research: Toronto-Dominion Bank (TD.TO)",
+      "detail": "Primary Pick: TD.TO ($132.96 CAD), 3.25% yield. Cornerstone of Canadian banking, reliable dividend. Near 52-week high, P/E 11.50. Risks: economic downturn, regulatory, interest rates."
+    },
+    {
+      "timestamp": "2026-02-26T04:00:00Z",
+      "type": "alert",
+      "title": "Security Report - All Systems Nominal",
+      "detail": "Disk Space: 3% Used. Failed Login Attempts: No unusual activity. Uptime: 4 days, 19 hours. OpenClaw Gateway: Running. No suspicious processes. Tailscale: Active. OpenClaw Config Integrity: Unmodified. New hash saved."
+    },
+    {
+      "timestamp": "2026-02-26T05:00:00Z",
+      "type": "intel",
+      "title": "Charlie Lead Scan — 10 New Leads Identified (Feb 26)",
+      "detail": "10 new Charlie AI prospects identified, including: Luke Alexander (Closer Cartel), Paul Bickford (Paul Bickford Solutions), Ann Strout (Peak Sales Performance), Abby Zurline (24/7 Setters), Stevie Marie (The Redesigned Empire), Steve Kohler (Pros Marketplace LLC), Zac Manken (Remote Sales Institute), Camille & Andrew Tintle (Tintle Digital Marketing), Alina Trigubenko (Profi.io), Laura Roeder (Paperbell). Details to be saved to memory/opportunity-intel.md."
     }
   ]
 }

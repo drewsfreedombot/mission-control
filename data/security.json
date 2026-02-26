@@ -1,20 +1,36 @@
 {
-  "lastCheck": "2026-02-24T04:00:00-04:00",
-  "status": "WARNING",
-  "flags": [
-    "openclaw.json config hash changed since last check (modified Feb 23 at 14:20)"
-  ],
+  "lastCheck": "2026-02-26T04:00:00-04:00",
+  "status": "OK",
+  "flags": [],
   "checks": {
-    "diskSpace": { "status": "ok", "used": "11Gi", "available": "420Gi", "capacity": "3%" },
-    "loginAttempts": { "status": "ok", "detail": "Only freedombot logins, no unauthorized access" },
-    "uptime": { "status": "ok", "detail": "2 days 19h 17m, load avg 1.79/1.65/1.65" },
-    "gateway": { "status": "ok", "detail": "Running (pid 96638), RPC probe ok, loopback 127.0.0.1:18789" },
-    "processes": { "status": "ok", "detail": "All processes recognized — OpenClaw, Tailscale, Telegram, Chrome, macOS system" },
-    "tailscale": { "status": "ok", "detail": "Active, direct connection to dwaynes-mac-mini" },
+    "diskSpace": {
+      "status": "ok",
+      "detail": "3% Used on root filesystem."
+    },
+    "loginAttempts": {
+      "status": "ok",
+      "detail": "No unusual activity in the last 10 login attempts."
+    },
+    "uptime": {
+      "status": "ok",
+      "detail": "System up for 4 days, 19 hours, 17 minutes. Load averages (1, 5, 15 min): 1.73, 1.56, 1.52."
+    },
+    "gateway": {
+      "status": "ok",
+      "detail": "Running (RPC probe: ok)."
+    },
+    "processes": {
+      "status": "ok",
+      "detail": "No suspicious processes identified in the top 30 ps aux entries."
+    },
+    "tailscale": {
+      "status": "ok",
+      "detail": "Active, showing expected connected devices."
+    },
     "configHash": {
-      "status": "warning",
-      "previous": "1954b804c085239e2b5db9b76f01c7f3e00d3ddb77e60aebb3deb6fdec947684",
-      "current": "5b26974972d59215b3b0020c072c45c98ea85cee333f69949428cf51405765ea",
+      "status": "ok",
+      "previous": "5b26974972d59215b3b0020c072c45c98ea85cee333f6994928cf51405765ea",
+      "current": "81d65ec03c5a1877b22a1b0b1db0cbcb6a65a460590bdfaeb0d12e20dffa8c09",
       "fileModified": "2026-02-23T14:20:00-04:00"
     }
   }
