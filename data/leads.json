@@ -635,6 +635,7 @@
           "signal": "Toronto-based workforce management with 40+ years in market, millions of users, thousands of Canadian clients (manufacturing, retail, healthcare, government). Pure WFM — integrates with ADP, SAP, QuickBooks for payroll export but has ZERO native payroll. Every Canadian client needs a payroll provider separately.",
           "notes": "LinkedIn: ca.linkedin.com/company/synerion | synerion.com — Co-founders: Gil Yuval & Eli Avni. No funding raised (bootstrapped/profitable). Pitch: Nmbr as the embedded Canadian payroll option Synerion can offer inside the platform — revenue share model.",
           "added": "2026-02-24",
+          "meetingDate": "",
           "tags": [
             "workforce-management",
             "Canadian",
@@ -877,26 +878,6 @@
           "notes": "LinkedIn: linkedin.com/company/procare-solutions | procaresolutions.com — Jim Crawford is CEO. 37,000+ centers globally. Pitch: Nmbr as the embedded Canadian payroll partner so Canadian childcare providers get the same integrated experience US operators get. Warm angle: you're already closing Lullaboo (Canadian childcare SaaS) — use that as a proof point. Email is best-guess."
         },
         {
-          "id": "n008",
-          "company": "Agendrix",
-          "contact": "Unknown",
-          "title": "Unknown",
-          "email": "",
-          "altContacts": [],
-          "stage": "closed-won",
-          "source": "Known Client",
-          "signal": "Confirmed existing Nmbr client as of Feb 20, 2026.",
-          "notes": "Quebec-based bilingual workforce scheduling SaaS. Do NOT pitch — active client. Star example of Nmbr ICP.",
-          "added": "2026-02-20",
-          "meetingDate": "",
-          "tags": [
-            "client",
-            "Quebec",
-            "scheduling",
-            "Canadian"
-          ]
-        },
-        {
           "id": "nmbr-20260225-1",
           "company": "Procore",
           "contact": "Wyatt Jenkins",
@@ -970,6 +951,91 @@
             "enterprise"
           ],
           "notes": "LinkedIn: https://www.linkedin.com/in/vladtene/ | robinhood.com. Email is a best-guess pattern."
+        },
+        {
+          "id": "n008",
+          "company": "Agendrix",
+          "contact": "Unknown",
+          "title": "Unknown",
+          "email": "",
+          "altContacts": [],
+          "stage": "closed-won",
+          "source": "Known Client",
+          "signal": "Confirmed existing Nmbr client as of Feb 20, 2026.",
+          "notes": "Quebec-based bilingual workforce scheduling SaaS. Do NOT pitch — active client. Star example of Nmbr ICP.",
+          "added": "2026-02-20",
+          "meetingDate": "",
+          "tags": [
+            "client",
+            "Quebec",
+            "scheduling",
+            "Canadian"
+          ]
+        },
+        {
+          "id": "nmbr-20260226-1",
+          "company": "Fieldy",
+          "contact": "Gavasakar Raj",
+          "title": "Founder & CEO",
+          "email": "gavaskar.raj@getfieldy.com",
+          "signal": "Field service management software for scheduling, invoicing, dispatch, and work automation for field crews. No explicit payroll. Nmbr can offer complete solution for mobile workforces.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-26",
+          "tags": ["field service", "Canadian-clients", "no-payroll"],
+          "notes": "LinkedIn: https://in.linkedin.com/in/gavaskar-raj-6a984134"
+        },
+        {
+          "id": "nmbr-20260226-2",
+          "company": "Join It",
+          "contact": "Mitch Colleran",
+          "title": "CEO",
+          "email": "mitch.colleran@joinit.com",
+          "signal": "Membership management software for organizations to sell, track, and grow memberships, process payments. No payroll/HR for staff. Nmbr can provide a full solution for their clients with employees.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-26",
+          "tags": ["membership management", "Canadian-clients", "no-payroll"],
+          "notes": "LinkedIn: https://www.linkedin.com/in/mitchcolleran/"
+        },
+        {
+          "id": "nmbr-20260226-3",
+          "company": "SalonMonster",
+          "contact": "Key Contact",
+          "title": "Partnerships Lead",
+          "email": "info@salonmonster.com",
+          "signal": "Business management toolkit for Canadian salons/stylists (online booking, client management, sales, staff productivity, taxes). Integrated payments 'coming soon.' Manages staff productivity/taxes but no explicit payroll. As they expand payment features, embedded payroll is a natural fit.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-26",
+          "tags": ["salon management", "Canadian", "no-payroll"],
+          "notes": "LinkedIn: https://www.linkedin.com/company/salonmonster/"
+        },
+        {
+          "id": "nmbr-20260226-4",
+          "company": "ezyVet",
+          "contact": "Rebecca Kemp",
+          "title": "Group Product Manager",
+          "email": "rebecca.kemp@ezyvet.com",
+          "signal": "Cloud-based veterinary practice management software that helps clinics with productivity, patient care, and streamlining operations; emphasizes integrations. Comprehensive practice management, but no explicit payroll. Nmbr can complete their HR/financial offering for vet clinics.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-26",
+          "tags": ["veterinary", "Canadian-clients", "no-payroll", "integrations"],
+          "notes": "LinkedIn: https://www.linkedin.com/in/rebecca-kemp-01588a48/"
+        },
+        {
+          "id": "nmbr-20260226-5",
+          "company": "Vagaro",
+          "contact": "Fred (Fady) Helou",
+          "title": "CEO",
+          "email": "fady.helou@vagaro.com",
+          "signal": "Gym management software for class scheduling, member billing, client management, marketing, and staff management. Handles staff management but no explicit payroll. Nmbr can offer a complete HR/financial solution for gyms/studios.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-26",
+          "tags": ["gym management", "Canadian-clients", "no-payroll"],
+          "notes": "LinkedIn: https://www.linkedin.com/company/vagaro/"
         }
       ]
     },
@@ -1027,7 +1093,7 @@
           "stage": "lead",
           "source": "Job Scan",
           "signal": "Hiring 'High-Ticket Closer' on Indeed. Needs setter upstream to fill the pipeline.",
-          "notes": "High-ticket fitness coaching for women 40-50. Domain has no MX records — LinkedIn DM only (linkedin.com/in/jeff-katz-214331b5). Pitch: Charlie as the setter layer feeding Jeff's closers.",
+          "notes": "Multi-million dollar breathwork + wellness coaching company. Sells $10K+ 12-month coaching/facilitator programs. 'Book a call with our team' model. Charlie replaces the human setter hire. Pitch: 'You're about to pay $40-45K/yr for a human setter. Charlie does it 24/7 for a fraction.' Email verified 100/100.High-ticket fitness coaching for women 40-50. Domain has no MX records — LinkedIn DM only (linkedin.com/in/jeff-katz-214331b5). Pitch: Charlie as the setter layer feeding Jeff's closers.",
           "added": "2026-02-22",
           "meetingDate": "",
           "tags": [
@@ -1567,7 +1633,7 @@
           "stage": "lead",
           "source": "Research",
           "signal": "Teaches coaches to build + scale membership communities. Canadian.",
-          "notes": "Category: Biz coach for coaches. CANADIAN. His students pivot from 1:1 to group/membership and suddenly have inbound interest they can't manage. Email verified 97/100.",
+          "notes": "Category: Biz coach for coaches. CANADIAN. His students pivot from 1:1 to group/membership and suddenly have inbound interest they can't manage. Email verified 97/100.",",
           "added": "2026-02-22",
           "meetingDate": "",
           "tags": [
@@ -1723,5 +1789,5 @@
       ]
     }
   ],
-  "updated": "2026-02-25T22:01:00Z"
+  "updated": "2026-02-26T04:04:20Z"
 }
