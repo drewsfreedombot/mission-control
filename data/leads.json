@@ -982,7 +982,11 @@
           "source": "AI",
           "stage": "lead",
           "added": "2026-02-26",
-          "tags": ["field service", "Canadian-clients", "no-payroll"],
+          "tags": [
+            "field service",
+            "Canadian-clients",
+            "no-payroll"
+          ],
           "notes": "LinkedIn: https://in.linkedin.com/in/gavaskar-raj-6a984134"
         },
         {
@@ -995,7 +999,11 @@
           "source": "AI",
           "stage": "lead",
           "added": "2026-02-26",
-          "tags": ["membership management", "Canadian-clients", "no-payroll"],
+          "tags": [
+            "membership management",
+            "Canadian-clients",
+            "no-payroll"
+          ],
           "notes": "LinkedIn: https://www.linkedin.com/in/mitchcolleran/"
         },
         {
@@ -1008,7 +1016,11 @@
           "source": "AI",
           "stage": "lead",
           "added": "2026-02-26",
-          "tags": ["salon management", "Canadian", "no-payroll"],
+          "tags": [
+            "salon management",
+            "Canadian",
+            "no-payroll"
+          ],
           "notes": "LinkedIn: https://www.linkedin.com/company/salonmonster/"
         },
         {
@@ -1021,7 +1033,12 @@
           "source": "AI",
           "stage": "lead",
           "added": "2026-02-26",
-          "tags": ["veterinary", "Canadian-clients", "no-payroll", "integrations"],
+          "tags": [
+            "veterinary",
+            "Canadian-clients",
+            "no-payroll",
+            "integrations"
+          ],
           "notes": "LinkedIn: https://www.linkedin.com/in/rebecca-kemp-01588a48/"
         },
         {
@@ -1034,7 +1051,11 @@
           "source": "AI",
           "stage": "lead",
           "added": "2026-02-26",
-          "tags": ["gym management", "Canadian-clients", "no-payroll"],
+          "tags": [
+            "gym management",
+            "Canadian-clients",
+            "no-payroll"
+          ],
           "notes": "LinkedIn: https://www.linkedin.com/company/vagaro/"
         }
       ]
@@ -1321,7 +1342,7 @@
           "id": "cp029",
           "name": "Jeremy Baronner",
           "company": "Mastermind.com",
-          "stage": "new",
+          "stage": "lead",
           "value": 0,
           "contact": "Jeremy Baronner",
           "email": ""
@@ -1330,7 +1351,7 @@
           "id": "cp030",
           "name": "Patrick Bet-David",
           "company": "Valuetainment / Bet-David Consulting",
-          "stage": "new",
+          "stage": "lead",
           "value": 0,
           "contact": "Patrick Bet-David",
           "email": ""
@@ -1339,7 +1360,7 @@
           "id": "cp031",
           "name": "Brandon Dawson",
           "company": "Cardone Ventures",
-          "stage": "new",
+          "stage": "lead",
           "value": 0,
           "contact": "Brandon Dawson",
           "email": ""
@@ -1633,7 +1654,7 @@
           "stage": "lead",
           "source": "Research",
           "signal": "Teaches coaches to build + scale membership communities. Canadian.",
-          "notes": "Category: Biz coach for coaches. CANADIAN. His students pivot from 1:1 to group/membership and suddenly have inbound interest they can't manage. Email verified 97/100.",",
+          "notes": "Category: Biz coach for coaches. CANADIAN. His students pivot from 1:1 to group/membership and suddenly have inbound interest they can't manage. Email verified 97/100.",
           "added": "2026-02-22",
           "meetingDate": "",
           "tags": [
@@ -1781,7 +1802,7 @@
           "id": "pp023",
           "name": "Julien Copithorne",
           "company": "High Ticket Solutions",
-          "stage": "new",
+          "stage": "lead",
           "value": 0,
           "contact": "Julien Copithorne",
           "email": "julien@highticketsolutions.com"
