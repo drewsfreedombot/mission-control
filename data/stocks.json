@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-27T13:10:00.000Z",
+  "lastUpdated": "2026-02-27T16:00:00.000Z",
   "stocks": [
     {
       "ticker": "ENB.TO",
@@ -695,6 +695,54 @@
       "risks": "US asset cap is an indefinite headwind on the highest-growth segment. Currently AT all-time high ($134.69) and above analyst consensus — zero margin of safety at current price. AML remediation costs continue (full resolution timeline unclear). Buying ATH after an earnings pop is chasing.",
       "researchDate": "2026-02-27",
       "priceVs52wLow": "+72%"
+    },
+    {
+      "ticker": "KEY.TO",
+      "name": "Keyera Corp.",
+      "currentPrice": 51.04,
+      "currency": "CAD",
+      "week52Low": 37.80,
+      "week52High": 52.66,
+      "conservativeEstimate": 54.0,
+      "optimisticEstimate": 65.0,
+      "yield": "4.2%",
+      "rating": "Watch / Accumulate on Dips $47-48",
+      "thesis": "Keyera closed the transformative $5.15B Plains Midstream Canada NGL acquisition in Q1 2026, making it one of Canada's largest NGL infrastructure operators. Record 2025 EBITDA of $1.16B, DCF of $3.36/share covers the $2.16 annual dividend 1.55x. Management guides 7-8% EBITDA growth for 2026. Analyst consensus of $51.09 is pre-Plains modelling — upgrades to $54-65 range are coming as buy-side models in the acquired cashflows. ~80% fee-based/take-or-pay revenues = toll-road model, not an oil price bet. Best entry $47-48 (4.5%+ yield, 15-30% upside to post-acquisition targets).",
+      "risks": "Integration risk on $5.15B Plains deal. Marketing margin volatile ($300M in 2025 vs $485M prior year, guidance withheld until May 2026). Elevated leverage post-deal limits M&A flexibility. Stock at analyst consensus now — needs upgrade cycle to move higher.",
+      "researchDate": "2026-02-27",
+      "priceVs52wLow": "+35%"
+    },
+    {
+      "ticker": "EIF.TO",
+      "name": "Exchange Income Corporation",
+      "currentPrice": 109.15,
+      "currency": "CAD",
+      "week52Low": 45.0,
+      "week52High": 109.15,
+      "conservativeEstimate": 114.42,
+      "optimisticEstimate": 135.0,
+      "yield": "2.5%",
+      "rating": "Watch / Buy on Consolidation $104-106",
+      "thesis": "Diversified industrial conglomerate (aerospace/aviation + manufacturing) with monthly distributions. Q4 2025 earnings beat (Feb 25, 2026) triggered four analyst upgrades in one day: TD $125, Raymond James $125, Ventum $135, consensus repriced to $114.42. Stock broke to new 52-week highs — 5-24% upside remains to analyst targets. Not a high-yield play (2.5%) — total return story with strong management track record. Watch for post-earnings-pop consolidation to $104-106 for better risk/reward entry.",
+      "risks": "Post-earnings pop means buying at new highs. Moderate yield (2.5%) limits income appeal. Aviation segment cyclically exposed. Significant debt load ($3.5B credit facility).",
+      "researchDate": "2026-02-27",
+      "priceVs52wLow": "+142%"
+    },
+    {
+      "ticker": "AQN.TO",
+      "name": "Algonquin Power & Utilities Corp.",
+      "currentPrice": 9.44,
+      "currency": "CAD",
+      "week52Low": 6.17,
+      "week52High": 9.38,
+      "conservativeEstimate": 10.0,
+      "optimisticEstimate": 11.5,
+      "yield": "0%",
+      "rating": "Watch / Speculative Recovery",
+      "thesis": "Pivoted to pure regulated utility after selling Liberty Renewables. Now focused on regulated water, gas, and electric distribution with aggressive debt reduction. Q4 2025 earnings due March 6, 2026 — first clean quarter as simplified utility. Targets 20% EPS growth in 2026. Analyst Buy consensus, targets C$10-11. Near 52-week high; if management delivers on deleverage and earnings growth, this is a boring regulated utility in recovery mode and a potential 2026-2027 dividend rebuilder.",
+      "risks": "Dividend was cut — not for income today. Near 52-week high after major recovery from $6.17 low. March 6 earnings are make-or-break for the deleverage thesis. Speculative — size accordingly.",
+      "researchDate": "2026-02-27",
+      "priceVs52wLow": "+53%"
     }
   ]
 }
