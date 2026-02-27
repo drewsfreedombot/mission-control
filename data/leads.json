@@ -1057,6 +1057,71 @@
             "no-payroll"
           ],
           "notes": "LinkedIn: https://www.linkedin.com/company/vagaro/"
+        },
+        {
+          "id": "nmbr-20260226-6",
+          "company": "actiTIME",
+          "contact": "Unknown",
+          "title": "VP Product (Target Role)",
+          "email": "info@actitime.com",
+          "signal": "Canadian-based time tracking software that facilitates payroll information but doesn't offer full embedded payroll. Nmbr could be an embed partner for their Canadian clients.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-26",
+          "tags": [],
+          "notes": "LinkedIn: https://ca.linkedin.com/company/actitime"
+        },
+        {
+          "id": "nmbr-20260226-7",
+          "company": "Time Champ",
+          "contact": "Unknown",
+          "title": "Head of Partnerships (Target Role)",
+          "email": "info@timechamp.io",
+          "signal": "Workforce intelligence software with automated time tracking and productivity monitoring, integrating with HR and payroll tools. Integrates with payroll solutions but does not offer its own embedded payroll. Nmbr could provide a native, integrated Canadian payroll solution for their clients.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-26",
+          "tags": [],
+          "notes": "LinkedIn: https://www.linkedin.com/showcase/timechamp"
+        },
+        {
+          "id": "nmbr-20260226-8",
+          "company": "Techware Hut",
+          "contact": "Unknown",
+          "title": "Founder (Target Role)",
+          "email": "info@techwarehut.com",
+          "signal": "Developing employee scheduling software for the Canadian market and explicitly states they do not yet have payroll, but are looking to add more features. Prime opportunity for Nmbr to partner and embed Canadian payroll.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-26",
+          "tags": [],
+          "notes": "LinkedIn: https://ca.linkedin.com/company/techware-hut"
+        },
+        {
+          "id": "nmbr-20260226-9",
+          "company": "SIGMA-RH",
+          "contact": "Unknown",
+          "title": "VP Product (Target Role)",
+          "email": "info@sigma-rh.com",
+          "signal": "Global HRIS software powered by AI, specializing in administrative management, talent tracking, compliance, reporting, and workforce planning for companies with over 300 employees in Canada. Their website does not explicitly list payroll processing as a core feature. Ideal partner for Nmbr to embed a full Canadian payroll solution.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-26",
+          "tags": [],
+          "notes": "LinkedIn: https://www.linkedin.com/company/sigma-rh"
+        },
+        {
+          "id": "nmbr-20260226-10",
+          "company": "Finch",
+          "contact": "Unknown",
+          "title": "Head of Partnerships (Target Role)",
+          "email": "info@tryfinch.com",
+          "signal": "Provides an API platform that democratizes access to employment sector infrastructure, enabling innovations in benefits management and other HR services through payroll integrations. Don't appear to offer direct payroll services. Ideal partner for Nmbr to provide seamless, embedded Canadian payroll for their clients.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-26",
+          "tags": [],
+          "notes": "LinkedIn: https://www.linkedin.com/company/finchapi"
         }
       ]
     },
@@ -1496,9 +1561,7 @@
           "contact": "Kayvon Kay",
           "title": "Founder",
           "email": "kayvon@thesalesconnection.com",
-          "altContacts": [
-            "affiliates@thesalesconnection.com"
-          ],
+          "altContacts": [],
           "stage": "lead",
           "source": "Research",
           "signal": "Canadian sales consultant for high-ticket coaches. Has live affiliate program.",
