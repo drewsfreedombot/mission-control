@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-27T16:00:00.000Z",
+  "lastUpdated": "2026-02-27T18:00:00.000Z",
   "stocks": [
     {
       "ticker": "ENB.TO",
@@ -743,6 +743,22 @@
       "risks": "Dividend was cut — not for income today. Near 52-week high after major recovery from $6.17 low. March 6 earnings are make-or-break for the deleverage thesis. Speculative — size accordingly.",
       "researchDate": "2026-02-27",
       "priceVs52wLow": "+53%"
+    },
+    {
+      "ticker": "BIP.UN.TO",
+      "name": "Brookfield Infrastructure Partners L.P.",
+      "currentPrice": 53.68,
+      "currency": "CAD",
+      "week52Low": 36.61,
+      "week52High": 54.97,
+      "conservativeEstimate": 57.0,
+      "optimisticEstimate": 62.57,
+      "yield": "4.6%",
+      "rating": "Accumulate / Add on Dips $50-51",
+      "thesis": "Global infrastructure LP (utilities, transport, midstream, data) with 17 consecutive annual distribution increases. Q4 2025 FFO $3.32/unit (+6% YoY), EPS $0.87 vs $0.34 estimate — massive beat. Distribution raised 6% (17th straight year). 1.93x FFO coverage ratio means zero cut risk. Data segment +50% YoY (hidden AI infrastructure play). 2026 FFO guidance: +10%+ per unit. Trades at ~10.3x 2026E FFO vs infrastructure peer average of 11-14x — re-rating to 12x implies $62.57 CAD (+16.6% upside) plus 4.6% distribution yield = 21%+ total return on bull case. Hold in RRSP.",
+      "risks": "USD distributions expose CAD investors to FX risk. Rate-sensitive — BoC/Fed tightening compresses infrastructure multiples. Near 52-week high with limited price cushion. LP tax complexity — RRSP/TFSA recommended. Best entry $50-51 CAD.",
+      "researchDate": "2026-02-27",
+      "priceVs52wLow": "+47%"
     }
   ]
 }
