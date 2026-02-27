@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-27T11:01:29.645Z",
+  "lastUpdated": "2026-02-27T13:10:00.000Z",
   "stocks": [
     {
       "ticker": "ENB.TO",
@@ -310,6 +310,54 @@
       "risks": "Special dividends variable — base dividend alone is ~2.5%, so yield depends on commodity prices and cash flow. Natural gas price is cyclical. If nat gas prices drop, specials get cut first. Current price near short-term resistance.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+32%"
+    },
+    {
+      "ticker": "CU.TO",
+      "name": "Canadian Utilities Limited",
+      "currentPrice": 46.77,
+      "currency": "CAD",
+      "week52Low": 33.47,
+      "week52High": 48.36,
+      "conservativeEstimate": 50.0,
+      "optimisticEstimate": 54.0,
+      "yield": "3.95%",
+      "rating": "Watch / Add on Pullback $42-44",
+      "thesis": "Canada's longest dividend streak — 54 consecutive annual increases since 1972. The $2.9B Yellowhead Pipeline (100% contracted, AUC-approved, construction 2026) and CETO project are rate-base growth catalysts that drove re-rating from $33.47 to $47. BoC rate cuts provide structural tailwind for regulated utilities. At $42-44, yield opens to 4.3-4.4% with 15-20% total return potential to $50-54 fair value.",
+      "risks": "Currently 8% above analyst consensus of $43.43 — post-earnings momentum may be short-term overextended. AUC regulatory risk on allowed returns (2025 temp ROE cut already proved this). $2.9B+ capex financed with debt; rate reversal compresses returns.",
+      "researchDate": "2026-02-27",
+      "priceVs52wLow": "+40%"
+    },
+    {
+      "ticker": "WCN.TO",
+      "name": "Waste Connections Inc.",
+      "currentPrice": 285.0,
+      "currency": "CAD",
+      "week52Low": 220.0,
+      "week52High": 295.0,
+      "conservativeEstimate": 285.0,
+      "optimisticEstimate": 310.0,
+      "yield": "0.75%",
+      "rating": "Watch / Buy on Market Correction",
+      "thesis": "Canada's largest waste management company — essential, recession-proof, irreplaceable infrastructure. Nobody stops throwing out garbage in a downturn. 12+ years of double-digit dividend growth. Analyst consensus Buy, avg target ~$205 USD. Pure quality compounder — total return story, not a yield story. Buy on broad market pullbacks.",
+      "risks": "Low current yield (0.75%) — not for income investors. Premium valuation requires continued revenue growth. US market concentration.",
+      "researchDate": "2026-02-27",
+      "priceVs52wLow": "+30%"
+    },
+    {
+      "ticker": "GRT.UN.TO",
+      "name": "Granite Real Estate Investment Trust",
+      "currentPrice": 87.5,
+      "currency": "CAD",
+      "week52Low": 70.0,
+      "week52High": 92.04,
+      "conservativeEstimate": 95.0,
+      "optimisticEstimate": 105.0,
+      "yield": "3.87%",
+      "rating": "Watch / Buy on Dip $82-84",
+      "thesis": "Premium industrial/logistics REIT with warehouses and distribution centres across Canada, US, and Europe. Monthly distributions (~3.87% yield). Q4 2025 beat recently reported. Industrial real estate is the anti-office play — e-commerce and reshoring provide structural demand tailwinds. Wait for pullback to $82-84 for meaningful upside to analyst targets.",
+      "risks": "Q4 beat may already be priced in at ~$87. Rate-sensitive REIT structure. Some European exposure adds FX and geopolitical risk.",
+      "researchDate": "2026-02-27",
+      "priceVs52wLow": "+25%"
     },
     {
       "ticker": "TRP.TO",
