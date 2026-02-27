@@ -1908,6 +1908,150 @@
             "EVV"
           ],
           "notes": "Website: axiscare.com | AlayaCare is already a Nmbr partner \u2014 AxisCare is the next-tier competitor in same vertical. CEO unconfirmed."
+        },
+        {
+          "id": "nmbr-20260227-28",
+          "company": "Breezeway",
+          "contact": "Jonathan Farber",
+          "title": "CEO & Co-Founder",
+          "email": "jonathan@breezeway.io",
+          "signal": "Boston-based property operations SaaS for vacation rental operators and hotel groups. Manages housekeeping/maintenance staff scheduling, task assignment, and property inspections. Major Canadian STR market (Whistler BC, Muskoka ON, PEI, Banff) = thousands of properties with seasonal hourly staff. Zero native payroll \u2014 Canadian vacation rental operators export hours manually to ADP/Payworks every pay cycle. Seasonal workforce + multi-property = complex Canadian payroll complexity. Nmbr = embedded Canadian payroll to close the property ops \u2192 paystub loop.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-27",
+          "tags": [
+            "vacation-rental",
+            "hospitality",
+            "property-ops",
+            "seasonal-workforce",
+            "no-payroll"
+          ],
+          "notes": "LinkedIn: linkedin.com/company/breezeway | breezeway.io \u2014 Jonathan Farber CEO & co-founder. Raised $30M+. Canadian STR operators are active users (Whistler, Banff ski properties, Muskoka cottages). Email is best-guess (matches standard founder pattern). Alternative entry: VP Partnerships or Head of Integrations."
+        },
+        {
+          "id": "nmbr-20260227-29",
+          "company": "Buildertrend",
+          "contact": "Steve Malany",
+          "title": "CEO",
+          "email": "steve.malany@buildertrend.com",
+          "signal": "Omaha-based #1 construction PM software with thousands of Canadian custom homebuilders and contractors. Time tracking and labour management built in \u2014 but their ONLY payroll integration is Gusto, which is US-only and does not support Canadian T4s, CPP, EI, or provincial rules. Every Canadian homebuilder on Buildertrend exports hours to a separate Canadian payroll tool manually. Nmbr = the embedded Canadian payroll layer that closes the Gusto gap for their entire Canadian base.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-27",
+          "tags": [
+            "construction",
+            "homebuilding",
+            "US-platform",
+            "Gusto-dependent",
+            "Canadian-clients",
+            "no-Canadian-payroll"
+          ],
+          "notes": "LinkedIn: linkedin.com/company/buildertrend | buildertrend.com \u2014 Steve Malany CEO. Co-founders Dan Houghton & Jeff Dugger. Confirmed: site says 'integrates with Gusto for time clock and payroll' \u2014 Gusto = US only. Canadian homebuilders confirmed as significant user base on Capterra Canada. Email is best-guess. Pitch: Nmbr as the official Canadian payroll partner to match what Gusto delivers for US builders."
+        },
+        {
+          "id": "nmbr-20260227-30",
+          "company": "Harri",
+          "contact": "Luke Fryer",
+          "title": "CEO & Co-Founder",
+          "email": "luke.fryer@harri.com",
+          "signal": "Hospitality WFM platform for restaurants, hotels, and QSR chains. Just launched ADP-powered Canadian payroll integration (Nov 2025) \u2014 meaning they STILL own zero native payroll and are locked into ADP Canada dependency. Canadian restaurant groups on Harri pay ADP fees on top of Harri fees with no integrated payroll experience. ADP Canada integration = their clients are asking for payroll in-platform. Nmbr = opportunity to displace the ADP dependency with a native embedded Canadian payroll layer that gives Harri margin ownership.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-27",
+          "tags": [
+            "hospitality",
+            "restaurant",
+            "WFM",
+            "ADP-dependent",
+            "fresh-signal",
+            "hot"
+          ],
+          "notes": "LinkedIn: linkedin.com/company/harri | harri.com \u2014 Luke Fryer CEO & co-founder confirmed. ADP partnership announced Nov 10, 2025 \u2014 ADP Canada President Laura Brown quoted. This is the FRESHEST payroll signal in today\u2019s scan. Their Canadian clients are literally asking for payroll in the platform right now. Pitch angle: Nmbr as the white-label embedded Canadian payroll to replace the ADP dependency \u2014 Harri keeps the margin, clients get a seamless experience, no ADP overhead. Email is best-guess."
+        },
+        {
+          "id": "nmbr-20260227-31",
+          "company": "Rose Rocket",
+          "contact": "Justin Sky",
+          "title": "CEO & Co-Founder",
+          "email": "justin@roserocket.com",
+          "signal": "Toronto-based AI-native TMS for Canadian trucking companies and freight brokers. Manages dispatch, driver scheduling, load tracking across Canada. Zero embedded payroll \u2014 Canadian carriers export driver hours to ADP/Ceridian separately every cycle. Canadian trucking payroll = complex (per-diem rules, cross-province driving, EI, CPP, union agreements for Teamsters/IBT members, T4-A for owner-operators). Just acquired Centro and launched TMS.ai (Sep 2025) = active product expansion. Nmbr = embedded Canadian payroll to complete their logistics stack.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-27",
+          "tags": [
+            "trucking",
+            "logistics",
+            "TMS",
+            "Canadian",
+            "Toronto",
+            "no-payroll",
+            "AI-native",
+            "fresh-signal"
+          ],
+          "notes": "LinkedIn: ca.linkedin.com/company/rose-rocket | roserocket.com \u2014 Justin Sky CEO & co-founder confirmed (PR Newswire Sep 2025). Co-founder Justin Bailie is CSO. TMS.ai launch Sep 2025 = velocity signal. Email is best-guess (matches standard founder pattern). Canadian HQ in Toronto = strong Nmbr cultural fit. Pitch: Nmbr as the embedded Canadian payroll partner so Rose Rocket carriers get a closed-loop from dispatch \u2192 paystub without leaving the platform."
+        },
+        {
+          "id": "nmbr-20260227-32",
+          "company": "CareSmartz360",
+          "contact": "Ankur Mahajan",
+          "title": "Founder & CEO",
+          "email": "ankur.mahajan@caresmartz.com",
+          "signal": "Home care agency management SaaS \u2014 scheduling, billing, EVV, and AI-powered caregiver management. Canadian home care agencies actively use it (Capterra Canada reviews confirmed). Their payroll feature = QuickBooks integration only \u2014 zero native Canadian payroll processing. Canadian caregiver payroll = PSW classifications, provincial stat holiday premiums, T4s, mileage reimbursements, EI/CPP. AlayaCare and WellSky are already Nmbr targets in the same vertical \u2014 CareSmartz360 is the mid-market tier with easier founder access.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-27",
+          "tags": [
+            "homecare",
+            "healthcare",
+            "Canadian-clients",
+            "QuickBooks-payroll-only",
+            "PSW",
+            "no-native-payroll"
+          ],
+          "notes": "LinkedIn: linkedin.com/company/caresmartz360 | caresmartz.com \u2014 Ankur Mahajan confirmed Founder & CEO. US-based but significant Canadian home care agency client base. Capterra Canada reviews active. QuickBooks is their only payroll path = clear Nmbr embed opportunity. Email is best-guess pattern. Founder-accessible startup = faster decision cycle than AlayaCare or WellSky."
+        },
+        {
+          "id": "nmbr-20260227-33",
+          "company": "Findmyshift",
+          "contact": "Phil Ewels",
+          "title": "CEO & Co-Founder",
+          "email": "phil@findmyshift.com",
+          "signal": "UK-based staff scheduling SaaS used globally \u2014 Canadian hospitals, care homes, restaurants, and retail chains are active users (confirmed on Capterra Canada with 100+ Canadian reviews). Zero payroll functionality \u2014 explicitly positioned as scheduling-only, with users manually exporting timesheet data to their payroll provider. Every Canadian employer on Findmyshift (300,000+ users globally) does payroll completely outside the platform. Nmbr = the embedded Canadian payroll module that completes their stack for Canadian clients.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-27",
+          "tags": [
+            "scheduling",
+            "UK-platform",
+            "global-Canadian-users",
+            "healthcare",
+            "hospitality",
+            "retail",
+            "no-payroll"
+          ],
+          "notes": "LinkedIn: linkedin.com/company/findmyshift | findmyshift.com \u2014 Phil Ewels CEO & co-founder confirmed. 300,000+ users globally. Capterra Canada: strong user presence in Canadian healthcare and hospitality. Bootstrapped/profitable UK company = different pitch dynamic (revenue share over VC growth). Email is best-guess. Pitch: Nmbr as the embedded Canadian payroll partner Findmyshift has never had \u2014 zero dev lift on their side, revenue share per run."
+        },
+        {
+          "id": "nmbr-20260227-34",
+          "company": "ZoomShift",
+          "contact": "Jake Nyberg",
+          "title": "CEO & Co-Founder",
+          "email": "jake@zoomshift.com",
+          "signal": "US-based staff scheduling and time tracking SaaS for restaurants, retail, and hourly workforce. Active Canadian user base (Capterra Canada reviews confirmed). Their own site lists payroll export via QuickBooks only \u2014 no native payroll. Canadian restaurants and retail stores on ZoomShift manually bridge to Payworks/ADP every pay cycle. Small, founder-accessible team = fast decision cycle. Nmbr = embedded Canadian payroll to turn their scheduling-only product into a full workforce management suite for Canadian clients.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-27",
+          "tags": [
+            "scheduling",
+            "time-tracking",
+            "US-platform",
+            "Canadian-clients",
+            "restaurant",
+            "retail",
+            "no-payroll",
+            "founder-accessible"
+          ],
+          "notes": "LinkedIn: linkedin.com/company/zoomshift | zoomshift.com \u2014 Jake Nyberg CEO & co-founder. Small profitable SaaS. Capterra Canada reviews show Canadian restaurant/retail users actively using it. QuickBooks = their only payroll path. Email is best-guess. Pitch: Nmbr as the embedded Canadian payroll layer so Canadian ZoomShift clients get a closed-loop scheduling \u2192 paystub experience \u2014 revenue share model, no engineering lift."
         }
       ]
     },
@@ -2659,5 +2803,5 @@
       ]
     }
   ],
-  "updated": "2026-02-27T10:00:00Z"
+  "updated": "2026-02-27T16:01:00Z"
 }
