@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-27T19:05:00.000Z",
+  "lastUpdated": "2026-02-27T21:05:47.000Z",
   "stocks": [
     {
       "ticker": "ENB.TO",
@@ -775,6 +775,54 @@
       "risks": "Currently 9% above analyst consensus target of $53.40 \u2014 zero margin of safety at $58. BoC rate pause/reversal hits regulated utilities hard. Low 2.27% yield at current price is unattractive vs pipeline/REIT alternatives. OEB can cut allowed ROE.",
       "researchDate": "2026-02-27",
       "priceVs52wLow": "+29%"
+    },
+    {
+      "ticker": "MRU.TO",
+      "name": "Metro Inc.",
+      "currentPrice": 97.87,
+      "currency": "CAD",
+      "week52Low": 89.64,
+      "week52High": 109.2,
+      "conservativeEstimate": 110.0,
+      "optimisticEstimate": 120.0,
+      "yield": "1.67%",
+      "rating": "Buy/Accumulate",
+      "thesis": "Canada's third-largest grocer with 30 consecutive years of dividend increases, just hiking the payout 10.1% in Q1 FY2026 despite a temporary distribution centre shutdown that caused an earnings-day selloff. Grocery oligopoly with real pricing power, tariff-proof domestic business, beta 0.34. BMO target  = 17.5% upside. Best entry -97 CAD.",
+      "risks": "Low current yield (1.67%) \u2014 a dividend growth story, not income. Distribution centre drag could compress Q2 margins and re-test  if the rebuild takes longer than expected.",
+      "researchDate": "2026-02-27",
+      "priceVs52wLow": "+9%"
+    },
+    {
+      "ticker": "SLF.TO",
+      "name": "Sun Life Financial Inc.",
+      "currentPrice": 97.0,
+      "currency": "CAD",
+      "week52Low": 75.0,
+      "week52High": 102.0,
+      "conservativeEstimate": 103.0,
+      "optimisticEstimate": 115.0,
+      "yield": "3.7%",
+      "rating": "Watch / Buy Below $93",
+      "thesis": "Canada's second-largest insurer with a growing Asia wealth management franchise as its structural growth engine. Structural beneficiary of higher-for-longer rates. Well-covered dividend (55% payout), 10+ consecutive years of raises. Next payment March 31, 2026. Canadian eligible dividends.",
+      "risks": "Asia operations (Hong Kong, Singapore, China) introduce geopolitical and FX risk. Insurance earnings can be lumpy. Near 52-week highs \u2014 wait for entry below $93 CAD for 4%+ yield.",
+      "researchDate": "2026-02-27",
+      "priceVs52wLow": "+29%"
+    },
+    {
+      "ticker": "CNR.TO",
+      "name": "Canadian National Railway Company",
+      "currentPrice": 155.0,
+      "currency": "CAD",
+      "week52Low": 135.0,
+      "week52High": 165.0,
+      "conservativeEstimate": 160.0,
+      "optimisticEstimate": 180.0,
+      "yield": "2.4%",
+      "rating": "Watch / Buy on Correction",
+      "thesis": "The most irreplaceable physical infrastructure in Canada \u2014 one of two Class 1 railways connecting Canada coast-to-coast and into the US Midwest. 29 consecutive years of dividend raises ($0.92/quarter = $3.68/yr). Toll-road model: shippers have no alternative. Buy on first 10-15% broad market correction.",
+      "risks": "Near fair value currently \u2014 no margin of safety at current price. Rail volumes cyclically sensitive to industrial activity. Two-player oligopoly means CP Rail is the only competitor for volume share.",
+      "researchDate": "2026-02-27",
+      "priceVs52wLow": "+15%"
     }
   ]
 }
