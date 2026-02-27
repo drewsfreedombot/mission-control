@@ -1778,6 +1778,136 @@
             "payroll-gap"
           ],
           "notes": "LinkedIn: https://www.linkedin.com/company/vonigo | Vancouver HQ. Franchise model = multiple employers needing consistent Canadian payroll across provinces."
+        },
+        {
+          "id": "nmbr-20260227-1",
+          "company": "OnShift",
+          "contact": "Mark Woodka",
+          "title": "CEO",
+          "email": "mark.woodka@onshift.com",
+          "signal": "Senior care WFM platform with thousands of Canadian LTC and senior living clients. Partners with external payroll (ADP, Ceridian) \u2014 no native Canadian payroll. Canadian LTC = PSW union rates, complex stat holiday pay, provincial rules. Classic embedded payroll partner play.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-27",
+          "tags": [
+            "senior-care",
+            "workforce-mgmt",
+            "LTC",
+            "scheduling"
+          ],
+          "notes": "LinkedIn: linkedin.com/in/mark-woodka | Uses payroll partner integrations only \u2014 prime Nmbr opportunity."
+        },
+        {
+          "id": "nmbr-20260227-2",
+          "company": "ServiceTitan",
+          "contact": "Ara Mahdessian",
+          "title": "CEO & Co-Founder",
+          "email": "ara@servicetitan.com",
+          "signal": "World's #1 field service management SaaS. Thousands of Canadian HVAC, plumbing, electrical, roofing contractors use it. Payroll integrations (Miter, Inova) are US-only. Canadian contractors need T4s, CPP/EI, journeyman/apprentice differentials, provincial stat holiday rules \u2014 zero native Canadian payroll support.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-27",
+          "tags": [
+            "field-service",
+            "HVAC",
+            "plumbing",
+            "trades",
+            "enterprise"
+          ],
+          "notes": "LinkedIn: linkedin.com/in/aramahdessian | Larger than Jobber \u2014 enterprise trades. Canadian expansion is active. Miter integration exists but US-only \u2014 Nmbr fills the Canada gap."
+        },
+        {
+          "id": "nmbr-20260227-3",
+          "company": "Indeavor",
+          "contact": "Head of Partnerships",
+          "title": "VP Partnerships",
+          "email": "partnerships@indeavor.com",
+          "signal": "Industrial workforce scheduling for oil & gas, utilities, and manufacturing with Canadian energy sector clients (AB, BC, SK). Scheduling and timekeeping only \u2014 exports hours to separate payroll systems. Rotational workers, shift differentials, and complex Canadian provincial rules are completely unaddressed.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-27",
+          "tags": [
+            "oil-gas",
+            "energy",
+            "industrial",
+            "workforce-mgmt",
+            "scheduling"
+          ],
+          "notes": "LinkedIn: linkedin.com/company/indeavor | CEO/leadership not confirmed \u2014 approach via partnerships channel first."
+        },
+        {
+          "id": "nmbr-20260227-4",
+          "company": "Propra",
+          "contact": "Founder/CEO",
+          "title": "CEO",
+          "email": "hello@propra.tech",
+          "signal": "Canada's property management SaaS (Toronto). Manages staff scheduling, maintenance teams, and building operations for Canadian property managers. Zero payroll module \u2014 building supers, cleaners, maintenance staff all paid via separate/manual payroll. Embedded Canadian payroll = strong add-on sell.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-27",
+          "tags": [
+            "property-mgmt",
+            "Canadian",
+            "SaaS",
+            "scheduling"
+          ],
+          "notes": "Website: propra.tech | Small Canadian startup \u2014 founder-accessible. CEO name unconfirmed; cold outreach to hello@propra.tech."
+        },
+        {
+          "id": "nmbr-20260227-5",
+          "company": "Amilia",
+          "contact": "Hugo Lachance",
+          "title": "CEO",
+          "email": "hugo.lachance@amilia.com",
+          "signal": "Montreal-based recreation management SaaS, $35M funded, 1,500+ clients (Canadian municipalities, sports clubs, parks & rec). Manages instructor and staff scheduling but zero payroll. Seasonal/part-time recreation workers = T4s, CPP/EI, summer student rules, provincial regs. Massive Canadian footprint with unmet payroll gap.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-27",
+          "tags": [
+            "recreation",
+            "municipalities",
+            "sports-clubs",
+            "seasonal-workers",
+            "Quebec"
+          ],
+          "notes": "LinkedIn: linkedin.com/in/hugolachance | $35M growth round (CBGF 2022). 1,500+ Canadian clients. Founder: Fran\u00e7ois Gaouette. Bilingual market \u2014 Quebec French a plus."
+        },
+        {
+          "id": "nmbr-20260227-6",
+          "company": "Orbital Shift",
+          "contact": "Founder/CEO",
+          "title": "CEO",
+          "email": "info@orbitalshift.com",
+          "signal": "Staff scheduling platform strong in assisted living, hospitality, and small business. Canadian presence in healthcare sector. Preps timesheets for payroll but does not run payroll. Assisted living = PSW pay rates, stat holiday premiums, shift differentials \u2014 all Canadian payroll complexity they punt to users.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-27",
+          "tags": [
+            "assisted-living",
+            "healthcare",
+            "hospitality",
+            "scheduling"
+          ],
+          "notes": "Website: orbitalshift.com | Smaller player \u2014 founder-accessible. Capterra reviews show Canadians actively using it. CEO/founder name unconfirmed."
+        },
+        {
+          "id": "nmbr-20260227-7",
+          "company": "AxisCare",
+          "contact": "Founder/CEO",
+          "title": "CEO",
+          "email": "info@axiscare.com",
+          "signal": "Home care agency management software (scheduling, billing, EVV). Canadian agencies use AxisCare for caregiver scheduling. No native Canadian payroll \u2014 integrates with QuickBooks only. PSW workers in Canada = T4s, CPP, EI, mileage reimbursement, provincial rules. Direct parallel to AlayaCare (already a Nmbr partner) \u2014 same vertical, same gap.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-27",
+          "tags": [
+            "home-care",
+            "healthcare",
+            "PSW",
+            "scheduling",
+            "EVV"
+          ],
+          "notes": "Website: axiscare.com | AlayaCare is already a Nmbr partner \u2014 AxisCare is the next-tier competitor in same vertical. CEO unconfirmed."
         }
       ]
     },
