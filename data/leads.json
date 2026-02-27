@@ -1476,6 +1476,84 @@
             "healthcare"
           ],
           "notes": "LinkedIn: linkedin.com/company/wellsky | wellsky.com \u2014 Bill Miller CEO. WellSky acquired ClearCare in 2018 (rebranded to WellSky Personal Care). Confirmed #1 non-medical home care platform in Canada per Straight.com Dec 2025 review. Enterprise play \u2014 better first entry point may be VP Partnerships or Head of Alliances. Email is best-guess."
+        },
+        {
+          "id": "nmbr-20260227-22",
+          "company": "Tulip Retail",
+          "contact": "Ian Rawlins",
+          "title": "CEO",
+          "email": "ian.rawlins@tulip.com",
+          "signal": "Waterloo-based retail associate SaaS (clienteling, staff scheduling, task management) serving major brands like Lululemon, Burberry, and Coach. Full scheduling module with zero embedded payroll \u2014 Canadian retail associates' hours flow to a completely separate payroll system. New CEO Ian Rawlins appointed Jan 2024 = new partnerships window. Nmbr = native embedded Canadian payroll to close the scheduling \u2192 paystub loop for Canadian retail brands.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-27",
+          "tags": ["retail", "SaaS", "Canadian", "scheduling", "no-payroll", "new-CEO"],
+          "notes": "LinkedIn: linkedin.com/company/tulip-retail | tulip.com \u2014 Ian Rawlins appointed CEO Jan 2024 replacing founder Ali Asaria. HQ: Kitchener-Waterloo, ON. Serves luxury and mid-market retail. $44M+ raised. Email is best-guess (standard pattern). Better early contact may be VP Product or Head of Partnerships."
+        },
+        {
+          "id": "nmbr-20260227-23",
+          "company": "Float Financial",
+          "contact": "Rob Khazzam",
+          "title": "CEO & Co-Founder",
+          "email": "rob@floatfinancial.com",
+          "signal": "Toronto-based Canadian business finance platform \u2014 6,000+ SMB clients, $2B+ in spend managed. Their own marketing explicitly calls Float 'the first business finance platform in Canada for all non-payroll spending.' Payroll is a stated gap, not an oversight. Just published 2025 Year in Review showing scale. Nmbr = the embedded Canadian payroll layer that completes Float\u2019s financial suite and turns it into a full-stack business finance platform.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-27",
+          "tags": ["fintech", "Canadian", "Toronto", "SMB", "explicit-gap", "banking", "hot"],
+          "notes": "LinkedIn: linkedin.com/company/float-financial | floatfinancial.com \u2014 Rob Khazzam CEO & Co-founder. Previously at Uber (international expansion). ~177 employees. 6,000+ Canadian businesses. Their own copy says 'non-payroll' = the door is wide open. Fresh signal: 2025 Year in Review published 1 week ago. Email confirmed pattern (rob@ matches founder email format)."
+        },
+        {
+          "id": "nmbr-20260227-24",
+          "company": "Loop Financial",
+          "contact": "Cato Pastoll",
+          "title": "Founder & CEO",
+          "email": "cato@loopfinancial.com",
+          "signal": "Toronto cross-border banking platform for Canadian businesses (CAD/USD/GBP/EUR accounts, corporate cards, global payments). 3,000+ Canadian businesses, $2B+ transacted. Just announced Canada\u2019s first direct API banking infrastructure for accounting (QuickBooks, Xero, Wave) \u2014 published Feb 25, 2026 (2 days ago). Building out full financial infrastructure stack. Payroll is the most obvious gap. Nmbr = embedded Canadian payroll to complete Loop\u2019s business finance suite.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-27",
+          "tags": ["fintech", "Canadian", "Toronto", "cross-border", "fresh-signal", "API", "hot"],
+          "notes": "LinkedIn: ca.linkedin.com/company/loop-financial | loopfinancial.com \u2014 Cato Pastoll founder & CEO confirmed via LinkedIn. Named BetaKit's Most Ambitious Company 2025. Funding from Graphite Ventures. Fresh signal: API banking announcement Feb 25 shows product expansion velocity. Payroll is the logical next module. Pitch: Nmbr as the embedded Canadian payroll partner to complete what Loop is building."
+        },
+        {
+          "id": "nmbr-20260227-25",
+          "company": "Ubeya",
+          "contact": "Avi Barel",
+          "title": "CEO",
+          "email": "avi.barel@ubeya.com",
+          "signal": "Israeli WFM platform for staffing agencies, events, and hospitality \u2014 active Canadian client base in events and food service. Platform includes scheduling, time tracking, and 'payroll integrations' (ADP, Gusto) but zero native Canadian payroll compliance. Canadian events and hospitality staff need CRA-compliant payroll (T4s, EI, CPP, provincial rules) \u2014 none of which Ubeya\u2019s US-centric integrations cover. Nmbr = the embedded Canadian payroll partner to close Ubeya\u2019s Canadian compliance gap.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-27",
+          "tags": ["WFM", "Israeli", "events", "hospitality", "staffing", "Canadian-clients", "payroll-gap"],
+          "notes": "LinkedIn: linkedin.com/company/ubeya | ubeya.com \u2014 Avi Barel confirmed CEO. Tel Aviv HQ with North American expansion. Their Canadian events clients (stadiums, food service, hospitality groups) are currently on non-compliant payroll. Email is best-guess. VP Partnerships may be a better first touch. Pitch: Nmbr as the exclusive embedded Canadian payroll partner so Ubeya can properly serve Canadian clients."
+        },
+        {
+          "id": "nmbr-20260227-26",
+          "company": "Plooto",
+          "contact": "Hamed Abbasi",
+          "title": "CEO & Co-Founder",
+          "email": "hamed.abbasi@plooto.com",
+          "signal": "Toronto-based Canadian AP/AR payment automation platform \u2014 6,000+ Canadian SMBs use Plooto to pay vendors and collect from customers. Zero payroll functionality. Their clients run all vendor payments through Plooto but process payroll in a completely separate system (ADP, Payworks). Nmbr = the embedded Canadian payroll layer that makes Plooto a complete business payments platform covering both vendor payments AND employee payroll.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-27",
+          "tags": ["fintech", "Canadian", "Toronto", "AP-AR", "payments", "no-payroll", "SMB"],
+          "notes": "LinkedIn: linkedin.com/company/plooto | plooto.com \u2014 Hamed Abbasi CEO & co-founder. ~50-100 employees. 6,000+ SMB clients. Previously integrated with QuickBooks, Xero. Natural pitch: Plooto handles vendor payments, Nmbr handles employee payroll \u2014 together they own all of a Canadian SMB\u2019s payment flows. Email is best-guess (standard pattern)."
+        },
+        {
+          "id": "nmbr-20260227-27",
+          "company": "Workleap",
+          "contact": "Simon De Baene",
+          "title": "CEO & Co-Founder",
+          "email": "simon.debaene@workleap.com",
+          "signal": "Montreal-based HR tech suite (formerly GSoft) \u2014 20,000+ customers across Officevibe (employee engagement), Skills (LMS), ShareGate, and Pingboard. Pivoted 2023-2024 to become a full-stack HR platform for modern teams. Strong Canadian SMB and mid-market base. Zero embedded payroll \u2014 all customers still manage payroll separately through ADP or Ceridian. With 20K clients and a 'complete HR suite' pitch, the missing payroll module is the biggest gap in their story. Nmbr = the embedded Canadian payroll layer that makes Workleap truly all-in-one.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-27",
+          "tags": ["HRIS", "Canadian", "Montreal", "enterprise", "20K-clients", "no-payroll", "hot"],
+          "notes": "LinkedIn: linkedin.com/company/workleap | workleap.com \u2014 Simon De Baene CEO & co-founder. Former GSoft rebranded to Workleap in 2023. 20,000+ customers is the largest unserved Canadian payroll opportunity on this list. Pitch: Nmbr as the embedded Canadian payroll module that closes Workleap\u2019s platform story \u2014 revenue share on every payroll run. Montreal-founded = natural Nmbr culture fit."
         }
       ]
     },
@@ -2227,5 +2305,5 @@
       ]
     }
   ],
-  "updated": "2026-02-27T08:00:00Z"
+  "updated": "2026-02-27T10:00:00Z"
 }
