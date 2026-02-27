@@ -2052,6 +2052,152 @@
             "founder-accessible"
           ],
           "notes": "LinkedIn: linkedin.com/company/zoomshift | zoomshift.com \u2014 Jake Nyberg CEO & co-founder. Small profitable SaaS. Capterra Canada reviews show Canadian restaurant/retail users actively using it. QuickBooks = their only payroll path. Email is best-guess. Pitch: Nmbr as the embedded Canadian payroll layer so Canadian ZoomShift clients get a closed-loop scheduling \u2192 paystub experience \u2014 revenue share model, no engineering lift."
+        },
+        {
+          "id": "nmbr-20260227-35",
+          "company": "Petal Health",
+          "contact": "Patrice Gilbert",
+          "title": "CEO & Founder",
+          "email": "patrice.gilbert@petal-health.com",
+          "signal": "Quebec City-based healthcare workforce scheduling SaaS. Powers physician scheduling for 3,000+ Canadian healthcare organizations including CHUM (U of Montreal Hospital). Gartner-recognized in 2024 and 2025 Hype Cycle. They manage shift scheduling for hospitals but have NO payroll module \u2014 hospitals and health authorities using Petal still pay staff through separate legacy systems. Nmbr = natural embedded payroll layer for Canadian healthcare orgs already scheduling through Petal.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-27",
+          "tags": [
+            "healthcare",
+            "workforce-scheduling",
+            "Quebec",
+            "hospitals",
+            "no-payroll",
+            "Gartner-recognized",
+            "Canadian-SaaS"
+          ],
+          "notes": "LinkedIn: linkedin.com/company/petalhealth | petal-health.com. Founded 2010. 3,000+ healthcare orgs in Canada. Strong institutional credibility. Pitch: Nmbr as the payroll backend for healthcare orgs already on Petal, closing the scheduling\u2192paystub loop for nurses/physicians/admin staff. CEO Patrice Gilbert based in Quebec City."
+        },
+        {
+          "id": "nmbr-20260227-36",
+          "company": "BrightHR Canada",
+          "contact": "Paul Tooth",
+          "title": "CEO (BrightHR Group)",
+          "email": "paul.tooth@brighthr.com",
+          "signal": "UK-based HR software with active Canadian operations serving thousands of Canadian SMBs. G2 reviewer explicitly wrote: 'I would love if the Payroll module worked in Canada and we could move over completely to BrightHR's system.' Their payroll does NOT work for Canada \u2014 a verified gap from their own customers. They offer HR, absence management, scheduling, and H&S tools but Canadian clients have to use a separate payroll system. Nmbr = the partner to power BrightHR's missing Canadian payroll.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-27",
+          "tags": [
+            "HR-software",
+            "Canadian-operations",
+            "no-canadian-payroll",
+            "SMB",
+            "UK-platform",
+            "verified-gap"
+          ],
+          "notes": "LinkedIn: linkedin.com/company/brighthr | brighthr.com/ca. Confirmed payroll gap from G2 review: 'would love if the Payroll module worked in Canada.' Serves thousands of Canadian businesses. Group CEO Paul Tooth. Find Canada-specific contact via LinkedIn. Pitch: Nmbr to power BrightHR's embedded Canadian payroll \u2014 their customers are asking for it."
+        },
+        {
+          "id": "nmbr-20260227-37",
+          "company": "Helcim",
+          "contact": "Nicolas Beique",
+          "title": "CEO & Co-Founder",
+          "email": "nicolas@helcim.com",
+          "signal": "Calgary-based Canadian payment processing fintech serving thousands of Canadian SMBs with card processing, invoicing, and POS tools. No payroll product. Their merchant customer base (restaurants, retailers, service businesses) ALL need Canadian payroll. Helcim is a trusted Canadian financial platform \u2014 adding Nmbr-powered payroll would round out their financial suite and deepen merchant lock-in. Xero Awards Canada 2023 Emerging App Partner finalist. Growing fast.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-27",
+          "tags": [
+            "fintech",
+            "payments",
+            "Calgary",
+            "Canadian-SaaS",
+            "SMB-merchants",
+            "no-payroll",
+            "financial-platform"
+          ],
+          "notes": "LinkedIn: linkedin.com/company/helcim | helcim.com. Calgary-based, founded 2006. Thousands of Canadian merchant clients. Founder-led company. No payroll offering. Pitch: Nmbr as embedded payroll for Helcim's merchant base \u2014 same trust, same platform, Canadian-compliant payroll without Helcim needing to build it."
+        },
+        {
+          "id": "nmbr-20260227-38",
+          "company": "Citation Canada",
+          "contact": "Dave Lacey",
+          "title": "CEO (Canada)",
+          "email": "dave.lacey@citationcanada.com",
+          "signal": "Formerly HRdownloads \u2014 London, Ontario HR compliance SaaS rebranded after acquisition by UK's Citation Group in 2023. $21M revenue. Serves thousands of Canadian SMBs with HR policies, compliance documents, and advisory tools. No payroll processing. Their entire customer base (Canadian employers) needs payroll \u2014 they just don't offer it. Citation Group is actively investing in Canadian expansion. New CEO Dave Lacey appointed March 2025. Prime moment for a new product partnership.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-27",
+          "tags": [
+            "HR-compliance",
+            "Ontario",
+            "Canadian-SaaS",
+            "no-payroll",
+            "new-CEO",
+            "acquired-company",
+            "SMB"
+          ],
+          "notes": "LinkedIn: linkedin.com/company/citation-canada | hrdownloads.com / citationcanada.com. Formerly HRdownloads, acquired by UK Citation Group 2023. New CEO Dave Lacey appointed March 2025. ~$21M revenue. London, Ontario HQ. Pitch: Nmbr embedded payroll to extend their HR compliance suite \u2014 their Canadian SMB clients need payroll and trust Citation for HR already."
+        },
+        {
+          "id": "nmbr-20260227-39",
+          "company": "Rotessa",
+          "contact": "Greg Lepp",
+          "title": "Founder & CEO",
+          "email": "greg@rotessa.com",
+          "signal": "Winnipeg-based Canadian bank-to-bank payment automation SaaS. Helps Canadian businesses collect recurring payments via EFT directly from customers' bank accounts. 15-year-old company, profitable, no outside capital. Their clients (nonprofits, service businesses, subscription companies, private schools) ALL employ people and need Canadian payroll but Rotessa doesn't offer it. Adjacent product to payroll \u2014 they're already in the 'move money' business. Nmbr is the natural add-on to complete the financial workflow.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-27",
+          "tags": [
+            "payments",
+            "EFT",
+            "Manitoba",
+            "Canadian-SaaS",
+            "no-payroll",
+            "recurring-payments",
+            "bootstrapped"
+          ],
+          "notes": "LinkedIn: linkedin.com/company/rotessa | rotessa.com. Founded 2010 by Greg Lepp. Winnipeg, MB. Bootstrapped, profitable. Xero and QuickBooks integrations already in place. Capterra reviews confirm happy Canadian business clients. Pitch: Nmbr as their payroll layer \u2014 Rotessa handles collecting money IN, Nmbr handles paying employees OUT. Natural pairing for their existing client base."
+        },
+        {
+          "id": "nmbr-20260227-40",
+          "company": "Nudge",
+          "contact": "Kevin Haverty",
+          "title": "CEO",
+          "email": "kevin@nudge.co",
+          "signal": "Toronto-based frontline employee communications SaaS platform. Used by large Canadian retailers, restaurants, and hospitality companies to connect and engage shift workers. Their enterprise clients (Tim Hortons, Compass Group, etc.) employ thousands of hourly Canadian workers. Nudge handles comms and engagement but NOT payroll \u2014 those clients use legacy payroll systems. As Nudge expands its workforce suite, Nmbr is the embedded Canadian payroll backbone to complete the frontline worker experience from communications\u2192scheduling\u2192pay.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-27",
+          "tags": [
+            "frontline-workforce",
+            "Toronto",
+            "Canadian-SaaS",
+            "retail",
+            "hospitality",
+            "no-payroll",
+            "enterprise-clients"
+          ],
+          "notes": "LinkedIn: linkedin.com/company/nudge | nudge.co. Toronto, Ontario. Series A funded. Serves large Canadian retail/restaurant/hospitality brands. Frontline employee comms platform. CEO Kevin Haverty (verify on LinkedIn). Pitch: Nmbr as the payroll engine to build into Nudge's workforce platform \u2014 close the comms\u2192pay loop for hourly Canadian workers already in their ecosystem."
+        },
+        {
+          "id": "nmbr-20260227-41",
+          "company": "Practice Better",
+          "contact": "Megan Sumrell",
+          "title": "Head of Partnerships",
+          "email": "megan@practicebetter.io",
+          "signal": "Toronto-based SaaS for health coaches, dietitians, therapists, and wellness practitioners managing a private practice. Scheduling, billing, client notes \u2014 but no payroll. Their clients (clinic owners in Canada) hire administrative staff, health coaches, and practitioners who need to be paid. Canadian health and wellness practice ownership is growing fast. Nmbr = the embedded payroll for Canadian clinic operators already managing their practice through Practice Better.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-27",
+          "tags": [
+            "health-coaching",
+            "wellness",
+            "Toronto",
+            "Canadian-SaaS",
+            "no-payroll",
+            "practice-management",
+            "clinic-owners"
+          ],
+          "notes": "LinkedIn: linkedin.com/company/practice-better | practicebetter.io. Toronto, Ontario. Growing Canadian healthtech SaaS. Serves coaches, dietitians, therapists. No payroll. Pitch: Nmbr embedded payroll for Canadian wellness practice owners who hire staff \u2014 keep them in the Practice Better ecosystem from intake to paystub."
         }
       ]
     },
