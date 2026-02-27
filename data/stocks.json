@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-27T18:00:00.000Z",
+  "lastUpdated": "2026-02-27T19:05:00.000Z",
   "stocks": [
     {
       "ticker": "ENB.TO",
@@ -12,8 +12,8 @@
       "optimisticEstimate": 85.95,
       "yield": "5.5%",
       "rating": "Buy/Accumulate",
-      "thesis": "Record 2025 EBITDA ($20B, +7%), 31 consecutive dividend raises, $39B secured backlog growing at 5%/year post-2026. Forward P/DCF of ~11.9x sits at the LOW end of regulated infrastructure's 12–16x historical range — earnings have grown into the price premium. Trump energy policy is a direct tailwind for ENB's massive US natural gas network. Price near ATH but valuation justified by fundamentals; add aggressively on any pullback to $65–67 CAD.",
-      "risks": "D/EBITDA at 4.8x — manageable but limited buffer. Ongoing equity dilution from $39B growth capex. No price margin of safety at near-ATH levels — best entry $65–67 CAD for a 5.8–6.0% yield.",
+      "thesis": "Record 2025 EBITDA ($20B, +7%), 31 consecutive dividend raises, $39B secured backlog growing at 5%/year post-2026. Forward P/DCF of ~11.9x sits at the LOW end of regulated infrastructure's 12\u201316x historical range \u2014 earnings have grown into the price premium. Trump energy policy is a direct tailwind for ENB's massive US natural gas network. Price near ATH but valuation justified by fundamentals; add aggressively on any pullback to $65\u201367 CAD.",
+      "risks": "D/EBITDA at 4.8x \u2014 manageable but limited buffer. Ongoing equity dilution from $39B growth capex. No price margin of safety at near-ATH levels \u2014 best entry $65\u201367 CAD for a 5.8\u20136.0% yield.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+23%"
     },
@@ -28,7 +28,7 @@
       "optimisticEstimate": 115,
       "yield": "4.2%",
       "rating": "Watch/Add on Dips",
-      "thesis": "Q1 2026 earnings released Feb 24: $2.3B net income vs $993M year ago (+132% YoY) — massive beat. Pacific Alliance diversification (LatAm) is contrarian value play. At ~$104 CAD, trading above 200-day MA with fresh earnings catalyst. Add on pullback to $98–101 CAD for yield ~4.4–4.5%.",
+      "thesis": "Q1 2026 earnings released Feb 24: $2.3B net income vs $993M year ago (+132% YoY) \u2014 massive beat. Pacific Alliance diversification (LatAm) is contrarian value play. At ~$104 CAD, trading above 200-day MA with fresh earnings catalyst. Add on pullback to $98\u2013101 CAD for yield ~4.4\u20134.5%.",
       "risks": "Higher international credit exposure (LatAm) vs RY/TD creates more earnings volatility across credit cycles. Not a core sleep-at-night holding at full weight.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+34%"
@@ -45,7 +45,7 @@
       "yield": "0%",
       "rating": "Strong Buy",
       "thesis": "European AI cloud infrastructure company (formerly Yandex NV) building GPU clusters to compete with AWS/Azure for AI workloads. Up 430%+ from 52-wk low, but analysts still see 45%+ upside to avg target of $143-155. Targets 40% adjusted EBITDA margins by 2026. This is a growth play, not a dividend play.",
-      "risks": "No dividend. Highly volatile — ranged from $18 to $141 in 52 weeks. AI infrastructure buildout is massively capex-intensive. Sentiment-driven stock that can drop 30%+ quickly.",
+      "risks": "No dividend. Highly volatile \u2014 ranged from $18 to $141 in 52 weeks. AI infrastructure buildout is massively capex-intensive. Sentiment-driven stock that can drop 30%+ quickly.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+435%"
     },
@@ -60,7 +60,7 @@
       "optimisticEstimate": 23.5,
       "yield": "9.0%",
       "rating": "Buy",
-      "thesis": "5G capex tapering driving FCF surge — record $2.2B FCF in 2025, up 11% YoY with 10%+ CAGR guided through 2028. Committed to 3-8% annual dividend increases from 2026 through 2028. A 9% yield with dividend growth in a telecom with hard infrastructure moat.",
+      "thesis": "5G capex tapering driving FCF surge \u2014 record $2.2B FCF in 2025, up 11% YoY with 10%+ CAGR guided through 2028. Committed to 3-8% annual dividend increases from 2026 through 2028. A 9% yield with dividend growth in a telecom with hard infrastructure moat.",
       "risks": "High debt load; TELUS International drag and CRTC regulatory risk remain. Dividend growth lower end of 3-8% range if macro deteriorates.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+7%"
@@ -76,8 +76,8 @@
       "optimisticEstimate": 18,
       "yield": "7.5%",
       "rating": "Speculative",
-      "thesis": "Office REIT trading near 52-week lows, down 57% from 52-week high. Dividend was cut from C$0.15/month to C$0.06/month but forward yield still ~7.5% at current price. Analyst consensus target C$14.33 implies +48% upside. Distressed but not dead — high-quality urban office assets in major Canadian cities.",
-      "risks": "DISTRESSED. Negative EPS (-$4.10). Office sector under structural WFH pressure. Dividend was already cut once — another cut possible. Not suitable as a core dividend holding — speculative recovery play only.",
+      "thesis": "Office REIT trading near 52-week lows, down 57% from 52-week high. Dividend was cut from C$0.15/month to C$0.06/month but forward yield still ~7.5% at current price. Analyst consensus target C$14.33 implies +48% upside. Distressed but not dead \u2014 high-quality urban office assets in major Canadian cities.",
+      "risks": "DISTRESSED. Negative EPS (-$4.10). Office sector under structural WFH pressure. Dividend was already cut once \u2014 another cut possible. Not suitable as a core dividend holding \u2014 speculative recovery play only.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+6%"
     },
@@ -93,7 +93,7 @@
       "yield": "4.1%",
       "rating": "Buy",
       "thesis": "Canada's largest oil sands producer with 24 consecutive years of dividend growth. $6.3B 2026 capex budget targeting high-return oil sands growth. Long-life, low-decline assets mean dividends are structurally sustainable across oil price cycles. Analyst avg target implies ~14% upside.",
-      "risks": "Oil price exposure — dividend safety depends on WTI staying above ~$50. Tariff/trade war impacts on Canadian energy exports. Not for the risk-averse.",
+      "risks": "Oil price exposure \u2014 dividend safety depends on WTI staying above ~$50. Tariff/trade war impacts on Canadian energy exports. Not for the risk-averse.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+28%"
     },
@@ -108,7 +108,7 @@
       "optimisticEstimate": 34.5,
       "yield": "3.4%",
       "rating": "Strong Buy",
-      "thesis": "Premier Montney natural gas producer with exceptional dividend growth — 10x since 2020 including +11% raise announced with Q3 2025 results. Revenue up 19% and earnings up 13% in FY2025. LNG Canada export tailwind provides multi-year earnings catalyst. Analyst target C$31.96 = +30% upside.",
+      "thesis": "Premier Montney natural gas producer with exceptional dividend growth \u2014 10x since 2020 including +11% raise announced with Q3 2025 results. Revenue up 19% and earnings up 13% in FY2025. LNG Canada export tailwind provides multi-year earnings catalyst. Analyst target C$31.96 = +30% upside.",
       "risks": "Nat gas commodity price exposure and tariff/trade war impacts on Canadian energy exports.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+20%"
@@ -124,7 +124,7 @@
       "optimisticEstimate": 95,
       "yield": "5.75%",
       "rating": "Buy",
-      "thesis": "Deeply mispriced cable/internet operator trading at 9.4x P/E vs sector average of 15x, with P/B below 1.0 and Alpha Spread intrinsic value of $122.93 — implying 44% undervaluation. S&P and Moody's improved credit outlooks Jan 2026; Morningstar 5-star rated.",
+      "thesis": "Deeply mispriced cable/internet operator trading at 9.4x P/E vs sector average of 15x, with P/B below 1.0 and Alpha Spread intrinsic value of $122.93 \u2014 implying 44% undervaluation. S&P and Moody's improved credit outlooks Jan 2026; Morningstar 5-star rated.",
       "risks": "Cord-cutting structural headwind with revenue declining ~4% YoY, and $4.64B debt at 3.24x EBITDA.",
       "researchDate": "2026-02-23",
       "priceVs52wLow": "+16%"
@@ -141,7 +141,7 @@
       "yield": "6.72%",
       "rating": "Speculative",
       "thesis": "Canadian B2B software acquirer down 48% from 52-week high. $269M cash, zero debt. Serial acquisition model (41 deals since 1984). Forward P/E 10.2x vs software sector 20-30x. All three buy-low signals fire. Next earnings March 5.",
-      "risks": "89% payout ratio — dividend at risk if earnings decline further. Revenue flat/declining. Technically in downtrend.",
+      "risks": "89% payout ratio \u2014 dividend at risk if earnings decline further. Revenue flat/declining. Technically in downtrend.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+3%"
     },
@@ -157,7 +157,7 @@
       "yield": "6.6%",
       "rating": "Hold",
       "thesis": "Royalty income trust generating stable cash flows from private mid-market businesses, with an 8.82% dividend raise in January 2026. Crossed the 200-day moving average signalling improving momentum.",
-      "risks": "Currently trading ABOVE all historical averages — not a screaming value; better entry would be around $20.",
+      "risks": "Currently trading ABOVE all historical averages \u2014 not a screaming value; better entry would be around $20.",
       "researchDate": "2026-02-23",
       "priceVs52wLow": "+21%"
     },
@@ -172,7 +172,7 @@
       "optimisticEstimate": 22.75,
       "yield": "5.9%",
       "rating": "Buy",
-      "thesis": "Grocery-anchored retail REIT trading at 12x forward FFO vs 15x long-term historical average — a 20% valuation discount implying ~$24.40 fair value (25% upside). Three analyst target upgrades in four days from National Bank, CIBC, and BMO; 19M unit buyback underway.",
+      "thesis": "Grocery-anchored retail REIT trading at 12x forward FFO vs 15x long-term historical average \u2014 a 20% valuation discount implying ~$24.40 fair value (25% upside). Three analyst target upgrades in four days from National Bank, CIBC, and BMO; 19M unit buyback underway.",
       "risks": "Rate-sensitive retail REIT; Canadian consumer spending slowdown and historical dividend cut in COVID create psychological overhang.",
       "researchDate": "2026-02-23",
       "priceVs52wLow": "+27%"
@@ -188,7 +188,7 @@
       "optimisticEstimate": 44,
       "yield": "5.3%",
       "rating": "Avoid",
-      "thesis": "⚠️ DIVIDEND CUT — BCE announced a cut from $3.99 to $1.75/share (56% reduction) alongside restructuring and job reductions. The investment thesis as a dividend compounder is broken until management demonstrates FCF recovery.",
+      "thesis": "\u26a0\ufe0f DIVIDEND CUT \u2014 BCE announced a cut from $3.99 to $1.75/share (56% reduction) alongside restructuring and job reductions. The investment thesis as a dividend compounder is broken until management demonstrates FCF recovery.",
       "risks": "Dividend cut is structural, not tactical. Avoid until there is evidence of FCF stabilization and a credible path back to dividend growth.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+10%"
@@ -203,9 +203,9 @@
       "conservativeEstimate": 74.97,
       "optimisticEstimate": 81,
       "yield": "3.2%",
-      "rating": "Watch / Buy Dip $68–72",
-      "thesis": "52 consecutive years of dividend increases — the longest streak in Canada. $28.8B capex plan drives 7% annual rate base growth through 2030, supporting 4-6% dividend growth guidance. Rate-cut tailwind has re-rated the stock from 2024 lows (~$61) to current ATH (~$78); at P/E ~16x and 3.2% yield the stock is fairly valued, but 4% above average analyst consensus. Wait for a dip to $68-72 CAD (3.5-3.7% yield) for ideal entry.",
-      "risks": "No margin of safety at ATH — any BoC rate pause or reversal hits utilities hard and fast; stock is 4% above average analyst target of $74.97 CAD.",
+      "rating": "Watch / Buy Dip $68\u201372",
+      "thesis": "52 consecutive years of dividend increases \u2014 the longest streak in Canada. $28.8B capex plan drives 7% annual rate base growth through 2030, supporting 4-6% dividend growth guidance. Rate-cut tailwind has re-rated the stock from 2024 lows (~$61) to current ATH (~$78); at P/E ~16x and 3.2% yield the stock is fairly valued, but 4% above average analyst consensus. Wait for a dip to $68-72 CAD (3.5-3.7% yield) for ideal entry.",
+      "risks": "No margin of safety at ATH \u2014 any BoC rate pause or reversal hits utilities hard and fast; stock is 4% above average analyst target of $74.97 CAD.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+28%"
     },
@@ -221,7 +221,7 @@
       "yield": "0%",
       "dividendPerShare": 0,
       "rating": "Watch / Buy on Dips",
-      "thesis": "Canadian tech flagship. Down 22% in 6 weeks from $168.45 (Jan 6 high) — macro/tariff fears creating potential entry. Analyst consensus Buy, avg target ~$162 USD (~$232 CAD) = 77% upside from current. Commerce infrastructure story intact: Payments, Capital, Markets, B2B growing. No dividend — pure growth play. Best entry zone $115-125 CAD if it pulls back further.",
+      "thesis": "Canadian tech flagship. Down 22% in 6 weeks from $168.45 (Jan 6 high) \u2014 macro/tariff fears creating potential entry. Analyst consensus Buy, avg target ~$162 USD (~$232 CAD) = 77% upside from current. Commerce infrastructure story intact: Payments, Capital, Markets, B2B growing. No dividend \u2014 pure growth play. Best entry zone $115-125 CAD if it pulls back further.",
       "risks": "No dividend, elevated valuation even post-selloff (fwd P/E still 50x+). Revenue growth decelerating from hypergrowth era. Macro sensitivity. Tariff/trade war rhetoric hurts e-commerce sentiment.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+35%"
@@ -239,7 +239,7 @@
       "dividendPerShare": 2.6,
       "rating": "Buy/Accumulate",
       "thesis": "World-class alternative asset manager with $1T+ AUM across infra, renewable energy, real estate, private equity, credit. Record 2025 results announced Feb 27. 15% dividend increase announced same day. Analyst consensus target ~$63.94 USD (~$91 CAD) = 27% upside from current CAD price. Fee-related earnings growing 20%+ annually. Long-duration compounding machine with a growing income stream. Best alternative asset manager on TSX.",
-      "risks": "Payout ratio 115%+ in USD terms — dividend covered by fee-related earnings but optics are weak. Rate sensitivity (AUM growth slows when rate environment hurts fundraising). Complex structure — BAM vs BN (Brookfield Corp) can be confusing.",
+      "risks": "Payout ratio 115%+ in USD terms \u2014 dividend covered by fee-related earnings but optics are weak. Rate sensitivity (AUM growth slows when rate environment hurts fundraising). Complex structure \u2014 BAM vs BN (Brookfield Corp) can be confusing.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+38%"
     },
@@ -255,8 +255,8 @@
       "yield": "4.0%",
       "dividendPerShare": 1.34,
       "rating": "Income/Accumulate",
-      "thesis": "iShares high-dividend Canadian equity ETF — 75 holdings across energy, financials, utilities, REITs. Monthly distributions ($0.112/month = ~$1.34/yr). Ex-div Feb 24, 2026. Low-cost passive income — simple, diversified Canadian dividend exposure in one ticker. Good core income holding for TFSA/RRSP. Near 52wk high so not a screaming entry — add on dips below $34.",
-      "risks": "Near 52wk high — limited short-term upside. Heavy energy and financials weighting = sector concentration. Passive instrument won't avoid dividend cuts within holdings (e.g. BCE-type situations). MER small but not zero.",
+      "thesis": "iShares high-dividend Canadian equity ETF \u2014 75 holdings across energy, financials, utilities, REITs. Monthly distributions ($0.112/month = ~$1.34/yr). Ex-div Feb 24, 2026. Low-cost passive income \u2014 simple, diversified Canadian dividend exposure in one ticker. Good core income holding for TFSA/RRSP. Near 52wk high so not a screaming entry \u2014 add on dips below $34.",
+      "risks": "Near 52wk high \u2014 limited short-term upside. Heavy energy and financials weighting = sector concentration. Passive instrument won't avoid dividend cuts within holdings (e.g. BCE-type situations). MER small but not zero.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+42%"
     },
@@ -272,7 +272,7 @@
       "yield": "1.5%",
       "dividendPerShare": 0.55,
       "rating": "Growth/Accumulate",
-      "thesis": "One-ticker diversified growth portfolio — 80% global equities / 20% bonds. MER 0.17% (just reduced from 0.18% Dec 2025). Holds iShares equity and bond ETFs across global markets. Simple, low-cost, automatic rebalancing. Ideal for TFSA growth allocation — set-and-forget core holding. Not a dividend story — total return play.",
+      "thesis": "One-ticker diversified growth portfolio \u2014 80% global equities / 20% bonds. MER 0.17% (just reduced from 0.18% Dec 2025). Holds iShares equity and bond ETFs across global markets. Simple, low-cost, automatic rebalancing. Ideal for TFSA growth allocation \u2014 set-and-forget core holding. Not a dividend story \u2014 total return play.",
       "risks": "Not a dividend vehicle (small distributions). 20% bond allocation drags return vs pure equity in bull markets. Currency exposure to USD/global. Near 52wk high.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+26%"
@@ -289,8 +289,8 @@
       "yield": "0%",
       "dividendPerShare": 0,
       "rating": "Watch / Speculative Growth",
-      "thesis": "CDR (Canadian Depositary Receipt) of AMD — CAD-hedged exposure to Advanced Micro Devices without USD currency risk. AMD US is a top AI/data centre chip play alongside NVIDIA. MI300X GPU gaining traction in hyperscaler AI workloads. Forward P/E ~29x (reasonable for AI semis). CDR ratio means each unit represents a fraction of one AMD share. Analyst consensus targets imply significant upside on AI infrastructure build-out. NOTE: Verify current CDR price — approximate entry used here.",
-      "risks": "No dividend. High volatility (AI hype cycle). NVIDIA dominates GPU market — AMD is the #2 play. CDR liquidity lower than NASDAQ AMD. AI capex could compress if hyperscaler spending slows. Price is approximate — verify before buying.",
+      "thesis": "CDR (Canadian Depositary Receipt) of AMD \u2014 CAD-hedged exposure to Advanced Micro Devices without USD currency risk. AMD US is a top AI/data centre chip play alongside NVIDIA. MI300X GPU gaining traction in hyperscaler AI workloads. Forward P/E ~29x (reasonable for AI semis). CDR ratio means each unit represents a fraction of one AMD share. Analyst consensus targets imply significant upside on AI infrastructure build-out. NOTE: Verify current CDR price \u2014 approximate entry used here.",
+      "risks": "No dividend. High volatility (AI hype cycle). NVIDIA dominates GPU market \u2014 AMD is the #2 play. CDR liquidity lower than NASDAQ AMD. AI capex could compress if hyperscaler spending slows. Price is approximate \u2014 verify before buying.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+67%"
     },
@@ -306,8 +306,8 @@
       "yield": "5.6%",
       "dividendPerShare": 3.55,
       "rating": "Watch / Buy on Pullback",
-      "thesis": "Canada's largest natural gas producer. Base dividend + special dividends = ~$3.55/yr (~5.6% at current price). Monthly distributions. Real tailwinds: LNG Canada coming online, rising US nat gas demand, AI data centre electricity demand. Just crossed its 200-day MA ($62.67) — improving momentum. Earnings Mar 11, 2026. Best entry below $58-60 CAD for a 6%+ yield and meaningful upside. Nat gas is the clean energy bridge fuel — TOU is the dominant Canadian play.",
-      "risks": "Special dividends variable — base dividend alone is ~2.5%, so yield depends on commodity prices and cash flow. Natural gas price is cyclical. If nat gas prices drop, specials get cut first. Current price near short-term resistance.",
+      "thesis": "Canada's largest natural gas producer. Base dividend + special dividends = ~$3.55/yr (~5.6% at current price). Monthly distributions. Real tailwinds: LNG Canada coming online, rising US nat gas demand, AI data centre electricity demand. Just crossed its 200-day MA ($62.67) \u2014 improving momentum. Earnings Mar 11, 2026. Best entry below $58-60 CAD for a 6%+ yield and meaningful upside. Nat gas is the clean energy bridge fuel \u2014 TOU is the dominant Canadian play.",
+      "risks": "Special dividends variable \u2014 base dividend alone is ~2.5%, so yield depends on commodity prices and cash flow. Natural gas price is cyclical. If nat gas prices drop, specials get cut first. Current price near short-term resistance.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+32%"
     },
@@ -322,8 +322,8 @@
       "optimisticEstimate": 54.0,
       "yield": "3.95%",
       "rating": "Watch / Add on Pullback $42-44",
-      "thesis": "Canada's longest dividend streak — 54 consecutive annual increases since 1972. The $2.9B Yellowhead Pipeline (100% contracted, AUC-approved, construction 2026) and CETO project are rate-base growth catalysts that drove re-rating from $33.47 to $47. BoC rate cuts provide structural tailwind for regulated utilities. At $42-44, yield opens to 4.3-4.4% with 15-20% total return potential to $50-54 fair value.",
-      "risks": "Currently 8% above analyst consensus of $43.43 — post-earnings momentum may be short-term overextended. AUC regulatory risk on allowed returns (2025 temp ROE cut already proved this). $2.9B+ capex financed with debt; rate reversal compresses returns.",
+      "thesis": "Canada's longest dividend streak \u2014 54 consecutive annual increases since 1972. The $2.9B Yellowhead Pipeline (100% contracted, AUC-approved, construction 2026) and CETO project are rate-base growth catalysts that drove re-rating from $33.47 to $47. BoC rate cuts provide structural tailwind for regulated utilities. At $42-44, yield opens to 4.3-4.4% with 15-20% total return potential to $50-54 fair value.",
+      "risks": "Currently 8% above analyst consensus of $43.43 \u2014 post-earnings momentum may be short-term overextended. AUC regulatory risk on allowed returns (2025 temp ROE cut already proved this). $2.9B+ capex financed with debt; rate reversal compresses returns.",
       "researchDate": "2026-02-27",
       "priceVs52wLow": "+40%"
     },
@@ -338,8 +338,8 @@
       "optimisticEstimate": 310.0,
       "yield": "0.75%",
       "rating": "Watch / Buy on Market Correction",
-      "thesis": "Canada's largest waste management company — essential, recession-proof, irreplaceable infrastructure. Nobody stops throwing out garbage in a downturn. 12+ years of double-digit dividend growth. Analyst consensus Buy, avg target ~$205 USD. Pure quality compounder — total return story, not a yield story. Buy on broad market pullbacks.",
-      "risks": "Low current yield (0.75%) — not for income investors. Premium valuation requires continued revenue growth. US market concentration.",
+      "thesis": "Canada's largest waste management company \u2014 essential, recession-proof, irreplaceable infrastructure. Nobody stops throwing out garbage in a downturn. 12+ years of double-digit dividend growth. Analyst consensus Buy, avg target ~$205 USD. Pure quality compounder \u2014 total return story, not a yield story. Buy on broad market pullbacks.",
+      "risks": "Low current yield (0.75%) \u2014 not for income investors. Premium valuation requires continued revenue growth. US market concentration.",
       "researchDate": "2026-02-27",
       "priceVs52wLow": "+30%"
     },
@@ -354,7 +354,7 @@
       "optimisticEstimate": 105.0,
       "yield": "3.87%",
       "rating": "Watch / Buy on Dip $82-84",
-      "thesis": "Premium industrial/logistics REIT with warehouses and distribution centres across Canada, US, and Europe. Monthly distributions (~3.87% yield). Q4 2025 beat recently reported. Industrial real estate is the anti-office play — e-commerce and reshoring provide structural demand tailwinds. Wait for pullback to $82-84 for meaningful upside to analyst targets.",
+      "thesis": "Premium industrial/logistics REIT with warehouses and distribution centres across Canada, US, and Europe. Monthly distributions (~3.87% yield). Q4 2025 beat recently reported. Industrial real estate is the anti-office play \u2014 e-commerce and reshoring provide structural demand tailwinds. Wait for pullback to $82-84 for meaningful upside to analyst targets.",
       "risks": "Q4 beat may already be priced in at ~$87. Rate-sensitive REIT structure. Some European exposure adds FX and geopolitical risk.",
       "researchDate": "2026-02-27",
       "priceVs52wLow": "+25%"
@@ -371,8 +371,8 @@
       "yield": "5.6%",
       "dividendPerShare": 3.51,
       "rating": "Watch / Wait for Pullback",
-      "thesis": "Pure-play natural gas infrastructure — 93,000 km of pipelines across Canada, US, Mexico. Spun off South Bow (liquids) in 2024 to focus on nat gas. $3.51/yr dividend, 5.6% yield. Regulated/contracted revenues = steady cashflow. Trump energy policy is a tailwind for continental nat gas. Goldman Sachs raised target to $53 USD ($75 CAD) Feb 18. Analyst consensus target CAD$82. DO NOT BUY AT ATH — wait for pullback to $75-78 CAD where yield opens to ~4.5%+ and upside reappears.",
-      "risks": "Payout ratio 106% — dividend slightly stretched vs free cash flow. Debt/equity 2.23 — highly levered. Currently at ALL-TIME HIGH ($86.97 on Feb 13) and above analyst consensus. Buying here = chasing. Keystone XL history shows regulatory/political risk. Wait for the entry.",
+      "thesis": "Pure-play natural gas infrastructure \u2014 93,000 km of pipelines across Canada, US, Mexico. Spun off South Bow (liquids) in 2024 to focus on nat gas. $3.51/yr dividend, 5.6% yield. Regulated/contracted revenues = steady cashflow. Trump energy policy is a tailwind for continental nat gas. Goldman Sachs raised target to $53 USD ($75 CAD) Feb 18. Analyst consensus target CAD$82. DO NOT BUY AT ATH \u2014 wait for pullback to $75-78 CAD where yield opens to ~4.5%+ and upside reappears.",
+      "risks": "Payout ratio 106% \u2014 dividend slightly stretched vs free cash flow. Debt/equity 2.23 \u2014 highly levered. Currently at ALL-TIME HIGH ($86.97 on Feb 13) and above analyst consensus. Buying here = chasing. Keystone XL history shows regulatory/political risk. Wait for the entry.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+35%"
     },
@@ -388,8 +388,8 @@
       "yield": "2.3%",
       "dividendPerShare": 1.24,
       "rating": "Watch / Wait for Correction",
-      "thesis": "Broadest TSX index exposure — ~240 Canadian stocks, heavily weighted to financials and energy. MER 0.05% (cheapest broad Canadian index ETF). The go-to vehicle for passive TSX exposure in a TFSA. TSX composite just closed at an ALL-TIME HIGH of 33,818 on Feb 21, 2026 — XIC is near ATH at $54. Best entry below $46 (~15% correction). Long-term: Canadian equities are cheap vs S&P 500 on P/E, commodity-backed, and benefit from a weaker CAD. Buy at the right price.",
-      "risks": "At ATH — buying now means buying at peak. Heavy financials + energy exposure = Canada-specific concentration risk. USD/CAD moves affect international comparisons. Low yield (2.3%) vs picking individual dividend stocks.",
+      "thesis": "Broadest TSX index exposure \u2014 ~240 Canadian stocks, heavily weighted to financials and energy. MER 0.05% (cheapest broad Canadian index ETF). The go-to vehicle for passive TSX exposure in a TFSA. TSX composite just closed at an ALL-TIME HIGH of 33,818 on Feb 21, 2026 \u2014 XIC is near ATH at $54. Best entry below $46 (~15% correction). Long-term: Canadian equities are cheap vs S&P 500 on P/E, commodity-backed, and benefit from a weaker CAD. Buy at the right price.",
+      "risks": "At ATH \u2014 buying now means buying at peak. Heavy financials + energy exposure = Canada-specific concentration risk. USD/CAD moves affect international comparisons. Low yield (2.3%) vs picking individual dividend stocks.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+46%"
     },
@@ -405,8 +405,8 @@
       "yield": "2.4%",
       "dividendPerShare": 1.13,
       "rating": "Watch / Wait for Correction",
-      "thesis": "Canada's most liquid ETF — tracks the S&P/TSX 60 (top 60 TSX companies). $21B in assets. More concentrated than XIC but very tradeable. Same core thesis as XIC: excellent long-term hold, terrible entry at ATH. MER 0.15% (3x higher than XIC — prefer XIC for buy-and-hold). Ex-div was today Feb 24 ($0.277/unit). Best entry below $42.",
-      "risks": "More concentrated than XIC (60 vs 240 stocks). Higher MER than XIC. At 52-week high — near ATH. XIC is generally superior for long-term buy-and-hold.",
+      "thesis": "Canada's most liquid ETF \u2014 tracks the S&P/TSX 60 (top 60 TSX companies). $21B in assets. More concentrated than XIC but very tradeable. Same core thesis as XIC: excellent long-term hold, terrible entry at ATH. MER 0.15% (3x higher than XIC \u2014 prefer XIC for buy-and-hold). Ex-div was today Feb 24 ($0.277/unit). Best entry below $42.",
+      "risks": "More concentrated than XIC (60 vs 240 stocks). Higher MER than XIC. At 52-week high \u2014 near ATH. XIC is generally superior for long-term buy-and-hold.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+46%"
     },
@@ -422,8 +422,8 @@
       "yield": "3.2%",
       "dividendPerShare": 2.4,
       "rating": "Watch / At Fair Value",
-      "thesis": "Canada's premier integrated oil sands company — upstream production, downstream refining, and Petro-Canada retail. Warren Buffett owned it (Berkshire). Aggressive buyback program (billions annually). Analyst avg target ~$48.86 — currently slightly above. Strong FCF generator at $70+ WTI. Wait for pullback below $42-44 to get meaningful upside + 3.5%+ yield.",
-      "risks": "Currently trading above analyst consensus target. Oil price sensitive — WTI below $60 compresses margins hard. Oilsands have high breakeven vs shale. Buybacks slow when oil prices drop.",
+      "thesis": "Canada's premier integrated oil sands company \u2014 upstream production, downstream refining, and Petro-Canada retail. Warren Buffett owned it (Berkshire). Aggressive buyback program (billions annually). Analyst avg target ~$48.86 \u2014 currently slightly above. Strong FCF generator at $70+ WTI. Wait for pullback below $42-44 to get meaningful upside + 3.5%+ yield.",
+      "risks": "Currently trading above analyst consensus target. Oil price sensitive \u2014 WTI below $60 compresses margins hard. Oilsands have high breakeven vs shale. Buybacks slow when oil prices drop.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+30%"
     },
@@ -439,7 +439,7 @@
       "yield": "5.25%",
       "dividendPerShare": 3.24,
       "rating": "Watch / At Ceiling",
-      "thesis": "Western Canadian midstream infrastructure — 18,000 km of pipelines, NGL fractionation, gas processing. Monthly dividends (5.25% yield). Take-or-pay contracts = highly predictable cashflow. One of the most reliable dividend payers on the TSX. Analyst target $58-60 — currently AT the ceiling. Wait for pullback to $52-54 where yield opens to 6%+ and upside returns.",
+      "thesis": "Western Canadian midstream infrastructure \u2014 18,000 km of pipelines, NGL fractionation, gas processing. Monthly dividends (5.25% yield). Take-or-pay contracts = highly predictable cashflow. One of the most reliable dividend payers on the TSX. Analyst target $58-60 \u2014 currently AT the ceiling. Wait for pullback to $52-54 where yield opens to 6%+ and upside returns.",
       "risks": "At analyst consensus ceiling right now. Monthly dividends are attractive but yield compression likely near ATH. Commodity-adjacent despite fee-based model. Acquisition of Alliance/Aux Sable added leverage.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+44%"
@@ -456,8 +456,8 @@
       "yield": "2.5%",
       "dividendPerShare": 0.72,
       "rating": "Watch / At Fair Value",
-      "thesis": "Integrated oil sands + refining + US downstream (acquired Husky). Second-largest Canadian oil company. RBC raised target to C$32 (Outperform) Feb 20. Analyst avg target ~$29-31 CAD. Was at $14.48 eight months ago — has nearly doubled. Variable dividend component means payout grows with oil prices. Best entry below $24 where upside to $32 target = 33%+ plus yield.",
-      "risks": "At analyst consensus now. Low base yield (2.5%). Took on significant debt with Husky acquisition — balance sheet still healing. Oil price dependent. Refining margins volatile.",
+      "thesis": "Integrated oil sands + refining + US downstream (acquired Husky). Second-largest Canadian oil company. RBC raised target to C$32 (Outperform) Feb 20. Analyst avg target ~$29-31 CAD. Was at $14.48 eight months ago \u2014 has nearly doubled. Variable dividend component means payout grows with oil prices. Best entry below $24 where upside to $32 target = 33%+ plus yield.",
+      "risks": "At analyst consensus now. Low base yield (2.5%). Took on significant debt with Husky acquisition \u2014 balance sheet still healing. Oil price dependent. Refining margins volatile.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+100%"
     },
@@ -473,8 +473,8 @@
       "yield": "0.21%",
       "dividendPerShare": 0.42,
       "rating": "Watch / Growth Play",
-      "thesis": "Canada's dominant discount retailer — 1,500+ stores, recession-proof model (foot traffic INCREASES in downturns), 32% EBITDA margins, Q3 revenue +22.4% YoY. Expanding internationally via Dollarcity (Latin America). Analyst avg target C$211-216 = ~10-12% upside from current $192. High estimate C$235. Payout ratio only 9.5% — almost all earnings reinvested. NOT a dividend play (0.21% yield). Pure total return/growth story. Best entry below $170-175 (~15-20% discount to current, meaningful upside to targets).",
-      "risks": "Effectively zero dividend — not for income investors. Premium valuation (fwd P/E ~30x). Tariff risk on imported goods (most products sourced from China). FX exposure on Dollarcity earnings. Consumer spending slowdown could compress same-store sales growth.",
+      "thesis": "Canada's dominant discount retailer \u2014 1,500+ stores, recession-proof model (foot traffic INCREASES in downturns), 32% EBITDA margins, Q3 revenue +22.4% YoY. Expanding internationally via Dollarcity (Latin America). Analyst avg target C$211-216 = ~10-12% upside from current $192. High estimate C$235. Payout ratio only 9.5% \u2014 almost all earnings reinvested. NOT a dividend play (0.21% yield). Pure total return/growth story. Best entry below $170-175 (~15-20% discount to current, meaningful upside to targets).",
+      "risks": "Effectively zero dividend \u2014 not for income investors. Premium valuation (fwd P/E ~30x). Tariff risk on imported goods (most products sourced from China). FX exposure on Dollarcity earnings. Consumer spending slowdown could compress same-store sales growth.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+40%"
     },
@@ -490,8 +490,8 @@
       "yield": "0.03%",
       "dividendPerShare": 0.04,
       "rating": "Watch / Strong Buy on Dips",
-      "thesis": "The definitive AI infrastructure company — every major data centre runs on H100/B200 GPUs. 37 analysts, Strong Buy consensus, avg target $256 = 35% upside from current $188. No real competition at scale (AMD is distant #2). Revenue growing 100%+ YoY. The 'picks and shovels' of AI — whoever wins the AI race, they all need NVIDIA chips. Available as NVDA.TO CDR on TSX (CAD-hedged). Best entry on any market correction below $160.",
-      "risks": "No dividend (0.03%). Very high valuation. DeepSeek/open-source AI models could reduce GPU demand if training gets more efficient. China export restrictions limit TAM. Single-product dependency risk. Has already run massively — not a cheap entry.",
+      "thesis": "The definitive AI infrastructure company \u2014 every major data centre runs on H100/B200 GPUs. 37 analysts, Strong Buy consensus, avg target $256 = 35% upside from current $188. No real competition at scale (AMD is distant #2). Revenue growing 100%+ YoY. The 'picks and shovels' of AI \u2014 whoever wins the AI race, they all need NVIDIA chips. Available as NVDA.TO CDR on TSX (CAD-hedged). Best entry on any market correction below $160.",
+      "risks": "No dividend (0.03%). Very high valuation. DeepSeek/open-source AI models could reduce GPU demand if training gets more efficient. China export restrictions limit TAM. Single-product dependency risk. Has already run massively \u2014 not a cheap entry.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+119%"
     },
@@ -507,8 +507,8 @@
       "yield": "0%",
       "dividendPerShare": 0,
       "rating": "Watch / Already Ran Hard",
-      "thesis": "Toronto-based contract manufacturer building AI server hardware for hyperscalers (think: the company that physically assembles the AI infrastructure). Just raised 2026 revenue guidance to $17B. Stock +177% in 12 months. Analyst avg target CAD$571 = ~35% upside. The most direct Canadian pure-play on AI hardware buildout. No dividend — pure growth. Best entry below $350 CAD on a meaningful pullback.",
-      "risks": "Already ran 177% in 12 months — buying here means chasing. Low margins (contract manufacturing). Customer concentration risk — loses a hyperscaler contract = big hit. No dividend.",
+      "thesis": "Toronto-based contract manufacturer building AI server hardware for hyperscalers (think: the company that physically assembles the AI infrastructure). Just raised 2026 revenue guidance to $17B. Stock +177% in 12 months. Analyst avg target CAD$571 = ~35% upside. The most direct Canadian pure-play on AI hardware buildout. No dividend \u2014 pure growth. Best entry below $350 CAD on a meaningful pullback.",
+      "risks": "Already ran 177% in 12 months \u2014 buying here means chasing. Low margins (contract manufacturing). Customer concentration risk \u2014 loses a hyperscaler contract = big hit. No dividend.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+257%"
     },
@@ -524,8 +524,8 @@
       "yield": "0.2%",
       "dividendPerShare": 0.24,
       "rating": "Watch / Speculative",
-      "thesis": "World's largest publicly traded uranium company. The AI power thesis: data centres need massive, reliable electricity — nuclear is the only 24/7 clean baseload solution. Microsoft, Amazon, Google all signing nuclear PPAs. Cameco supplies the uranium that fuels those reactors. RBC target C$160 (Outperform). Analyst consensus ~C$172. Stock +128% in 52 weeks. Trades at 90x PE — expensive. Best entry below C$130 where valuation becomes more palatable.",
-      "risks": "90x PE — very expensive on current earnings. Uranium price is volatile. Already +128% in 52 weeks — massive run. Small dividend (0.2%). Nuclear regulatory timelines are long — AI power demand is real but nuclear buildout takes years.",
+      "thesis": "World's largest publicly traded uranium company. The AI power thesis: data centres need massive, reliable electricity \u2014 nuclear is the only 24/7 clean baseload solution. Microsoft, Amazon, Google all signing nuclear PPAs. Cameco supplies the uranium that fuels those reactors. RBC target C$160 (Outperform). Analyst consensus ~C$172. Stock +128% in 52 weeks. Trades at 90x PE \u2014 expensive. Best entry below C$130 where valuation becomes more palatable.",
+      "risks": "90x PE \u2014 very expensive on current earnings. Uranium price is volatile. Already +128% in 52 weeks \u2014 massive run. Small dividend (0.2%). Nuclear regulatory timelines are long \u2014 AI power demand is real but nuclear buildout takes years.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+261%"
     },
@@ -541,7 +541,7 @@
       "yield": "4.99%",
       "dividendPerShare": 2.16,
       "rating": "Watch / Accumulate on Dips",
-      "thesis": "Brookfield's renewable energy arm — hydro, wind, solar, storage across 30 countries. The AI power angle: tech giants (Microsoft, Google, Meta) are signing 15-20 year PPAs directly with renewable providers to power data centres. BEP is already signing these deals. $10B invested over 5 years for AI-linked power projects. 5% distribution yield + AI demand tailwind = rare combo of income + growth. Best entry below $38-40 CAD.",
+      "thesis": "Brookfield's renewable energy arm \u2014 hydro, wind, solar, storage across 30 countries. The AI power angle: tech giants (Microsoft, Google, Meta) are signing 15-20 year PPAs directly with renewable providers to power data centres. BEP is already signing these deals. $10B invested over 5 years for AI-linked power projects. 5% distribution yield + AI demand tailwind = rare combo of income + growth. Best entry below $38-40 CAD.",
       "risks": "Distribution in USD (currency risk for CAD investors). Interest rate sensitive (utilities trade inversely with rates). Complex LP structure has tax implications. Slower growth than pure tech AI plays.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+43%"
@@ -558,8 +558,8 @@
       "yield": "0%",
       "dividendPerShare": 0,
       "rating": "Watch / Interesting Entry Zone",
-      "thesis": "World-class copper producer — Kamoa-Kakula in the DRC is one of the largest and highest-grade copper mines on the planet. AI data centres need massive amounts of copper for wiring, cooling systems, power distribution. EV + AI = structural copper demand supercycle. Stock is DOWN 16% from its 52-week high of $20.34 (hit Jan 29) — the most interesting entry point on this list right now. No dividend yet but FCF building fast.",
-      "risks": "No dividend. DRC (Democratic Republic of Congo) = political/operational risk. Copper price volatile. No dividend — capital appreciation only. Robert Friedland-led company (controversial but effective). Currency/sovereign risk in Africa.",
+      "thesis": "World-class copper producer \u2014 Kamoa-Kakula in the DRC is one of the largest and highest-grade copper mines on the planet. AI data centres need massive amounts of copper for wiring, cooling systems, power distribution. EV + AI = structural copper demand supercycle. Stock is DOWN 16% from its 52-week high of $20.34 (hit Jan 29) \u2014 the most interesting entry point on this list right now. No dividend yet but FCF building fast.",
+      "risks": "No dividend. DRC (Democratic Republic of Congo) = political/operational risk. Copper price volatile. No dividend \u2014 capital appreciation only. Robert Friedland-led company (controversial but effective). Currency/sovereign risk in Africa.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+42%"
     },
@@ -592,8 +592,8 @@
       "yield": "0.3%",
       "dividendPerShare": 0.12,
       "rating": "Watch / Momentum Play",
-      "thesis": "Diversified base metals miner (copper, zinc, nickel, gold) — Vancouver-based. TD Securities just raised price target to C$45 on Feb 24, 2026. Has run from a 52-week low of C$8.94 to $40 — one of the most explosive moves on the TSX. Not a dividend play (0.3%) but copper demand tailwinds are real. Wait for pullback below $32-35 for a better risk/reward entry.",
-      "risks": "Massive 52-week run (+340% from lows) — buying near ATH is high risk. Almost no dividend. Diversified metals = less pure copper exposure than IVN/TECK. Operational risk across multiple jurisdictions.",
+      "thesis": "Diversified base metals miner (copper, zinc, nickel, gold) \u2014 Vancouver-based. TD Securities just raised price target to C$45 on Feb 24, 2026. Has run from a 52-week low of C$8.94 to $40 \u2014 one of the most explosive moves on the TSX. Not a dividend play (0.3%) but copper demand tailwinds are real. Wait for pullback below $32-35 for a better risk/reward entry.",
+      "risks": "Massive 52-week run (+340% from lows) \u2014 buying near ATH is high risk. Almost no dividend. Diversified metals = less pure copper exposure than IVN/TECK. Operational risk across multiple jurisdictions.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+342%"
     },
@@ -609,7 +609,7 @@
       "yield": "0.6%",
       "dividendPerShare": 0.3,
       "rating": "Watch / Near ATH",
-      "thesis": "The world's largest publicly traded copper company — Grasberg mine in Indonesia is the biggest copper/gold deposit on Earth. Also has major operations in Americas. Copper hit an all-time high Jan 28, 2026 — FCX hit its ATH ($69.44) the next day. Analyst avg target $64 = at fair value, but high estimate $76 = 16% upside. The most liquid, most direct copper play for US-listed exposure. Best entry on a copper price pullback below $52-55.",
+      "thesis": "The world's largest publicly traded copper company \u2014 Grasberg mine in Indonesia is the biggest copper/gold deposit on Earth. Also has major operations in Americas. Copper hit an all-time high Jan 28, 2026 \u2014 FCX hit its ATH ($69.44) the next day. Analyst avg target $64 = at fair value, but high estimate $76 = 16% upside. The most liquid, most direct copper play for US-listed exposure. Best entry on a copper price pullback below $52-55.",
       "risks": "At/near ATH after massive copper price run. Analyst consensus target is below current price. Geopolitical risk (Indonesia operations). Low dividend (0.6%). Copper price highly cyclical.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+137%"
@@ -626,8 +626,8 @@
       "yield": "0.3%",
       "dividendPerShare": 0.08,
       "rating": "Watch / Pullback from ATH",
-      "thesis": "Canadian copper + gold + silver + zinc miner — operations in Canada, Peru, and Arizona (Copper World). Strong Buy consensus, analyst target C$31.66. Hit ATH of C$38.80 on Jan 29 (copper all-time high day), has pulled back since. Growing production profile with Copper World development. More diversified than a pure copper play. Best entry below C$24-26 where upside to targets is meaningful.",
-      "risks": "Pulled back significantly from ATH — confirm current price before buying. Multi-jurisdictional (Canada, Peru, US) = varied political risk. Copper World (Arizona) project still in permitting. Small dividend.",
+      "thesis": "Canadian copper + gold + silver + zinc miner \u2014 operations in Canada, Peru, and Arizona (Copper World). Strong Buy consensus, analyst target C$31.66. Hit ATH of C$38.80 on Jan 29 (copper all-time high day), has pulled back since. Growing production profile with Copper World development. More diversified than a pure copper play. Best entry below C$24-26 where upside to targets is meaningful.",
+      "risks": "Pulled back significantly from ATH \u2014 confirm current price before buying. Multi-jurisdictional (Canada, Peru, US) = varied political risk. Copper World (Arizona) project still in permitting. Small dividend.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+150%"
     },
@@ -643,7 +643,7 @@
       "yield": "4.2%",
       "rating": "Watch / Add on Dips ($65-67)",
       "thesis": "Record 2025 EPS of $3.49 (+19% YoY) and first $1B+ adjusted net income milestone. Extended 5-7% EPS growth target through 2030 on Feb 23 is the key catalyst. Regulated Florida (Tampa Electric) + Atlantic Canada utility with zero commodity/tariff exposure. At $65-67 entry, yield opens to 4.4-4.5% with ~8% upside to analyst consensus $71.72 and TD target $75.",
-      "risks": "Trading near 52-week high — limited margin of safety at current price. Heavy capex ($3.6B/yr) requires ongoing debt financing; any rate spike hits cost of capital. Nova Scotia Power regulatory headwinds remain a drag.",
+      "risks": "Trading near 52-week high \u2014 limited margin of safety at current price. Heavy capex ($3.6B/yr) requires ongoing debt financing; any rate spike hits cost of capital. Nova Scotia Power regulatory headwinds remain a drag.",
       "researchDate": "2026-02-27",
       "priceVs52wLow": "+36%"
     },
@@ -658,8 +658,8 @@
       "optimisticEstimate": 62,
       "yield": "3.5%",
       "rating": "Watch / Accumulate",
-      "thesis": "Canada's largest life insurer with top-5 Asia wealth management franchise — the structural growth driver. 55% payout ratio means dividend is well-covered with room to grow. 10+ consecutive years of dividend increases, Canadian eligible dividends. Pulled back ~4% from 52-week high of $52.97 — better entry than 3 months ago. Insurance earnings are structural beneficiaries of higher-for-longer rates.",
-      "risks": "Asia operations (Hong Kong, Singapore, Mainland China) introduce geopolitical and FX risk. Insurance earnings can be lumpy. Not a pure boring utility — actuarial surprises happen.",
+      "thesis": "Canada's largest life insurer with top-5 Asia wealth management franchise \u2014 the structural growth driver. 55% payout ratio means dividend is well-covered with room to grow. 10+ consecutive years of dividend increases, Canadian eligible dividends. Pulled back ~4% from 52-week high of $52.97 \u2014 better entry than 3 months ago. Insurance earnings are structural beneficiaries of higher-for-longer rates.",
+      "risks": "Asia operations (Hong Kong, Singapore, Mainland China) introduce geopolitical and FX risk. Insurance earnings can be lumpy. Not a pure boring utility \u2014 actuarial surprises happen.",
       "researchDate": "2026-02-27",
       "priceVs52wLow": "+37%"
     },
@@ -674,7 +674,7 @@
       "optimisticEstimate": 44,
       "yield": "2.6%",
       "rating": "Watch / Buy Below $33",
-      "thesis": "Sobeys, FreshCo, IGA and Farm Boy operator — Atlantic and Western Canada grocery dominance. Trades at ~12x P/E vs Metro/Loblaw peers at ~18x, a meaningful valuation discount. Groceries are structurally recession-proof with pricing power. Scene+ loyalty program is an underappreciated margin catalyst. Best entry below $33 where yield approaches 3% and upside to fair value is 15-20%.",
+      "thesis": "Sobeys, FreshCo, IGA and Farm Boy operator \u2014 Atlantic and Western Canada grocery dominance. Trades at ~12x P/E vs Metro/Loblaw peers at ~18x, a meaningful valuation discount. Groceries are structurally recession-proof with pricing power. Scene+ loyalty program is an underappreciated margin catalyst. Best entry below $33 where yield approaches 3% and upside to fair value is 15-20%.",
       "risks": "Grocery margin compression from private label competition and discounters. Western Canada concentration creates regional economic exposure. Loblaw price investment cycle can compress sector multiples.",
       "researchDate": "2026-02-27",
       "priceVs52wLow": "+15%"
@@ -691,8 +691,8 @@
       "yield": "3.2%",
       "dividendPerShare": 4.32,
       "rating": "Watch / Wait for Pullback $118-122",
-      "thesis": "Record Q1 2026 EPS of C$2.44 (+8% beat vs C$2.26 consensus), net income +45% YoY to C$4.04B. Core Canadian banking is firing. But at ATH ($134.57 CAD = ALL-TIME HIGH), TD trades 4.2% ABOVE analyst consensus target of C$129.17 — not a great entry. US asset cap ($434B, imposed post-$3.09B AML penalty) remains the overhang: until the Fed lifts it (2026-2028?), US retail growth is frozen. New CEO Raymond Chun executing cleanly. Best entry at $118-122 CAD (3.5-3.7% yield) on any pullback.",
-      "risks": "US asset cap is an indefinite headwind on the highest-growth segment. Currently AT all-time high ($134.69) and above analyst consensus — zero margin of safety at current price. AML remediation costs continue (full resolution timeline unclear). Buying ATH after an earnings pop is chasing.",
+      "thesis": "Record Q1 2026 EPS of C$2.44 (+8% beat vs C$2.26 consensus), net income +45% YoY to C$4.04B. Core Canadian banking is firing. But at ATH ($134.57 CAD = ALL-TIME HIGH), TD trades 4.2% ABOVE analyst consensus target of C$129.17 \u2014 not a great entry. US asset cap ($434B, imposed post-$3.09B AML penalty) remains the overhang: until the Fed lifts it (2026-2028?), US retail growth is frozen. New CEO Raymond Chun executing cleanly. Best entry at $118-122 CAD (3.5-3.7% yield) on any pullback.",
+      "risks": "US asset cap is an indefinite headwind on the highest-growth segment. Currently AT all-time high ($134.69) and above analyst consensus \u2014 zero margin of safety at current price. AML remediation costs continue (full resolution timeline unclear). Buying ATH after an earnings pop is chasing.",
       "researchDate": "2026-02-27",
       "priceVs52wLow": "+72%"
     },
@@ -701,14 +701,14 @@
       "name": "Keyera Corp.",
       "currentPrice": 51.04,
       "currency": "CAD",
-      "week52Low": 37.80,
+      "week52Low": 37.8,
       "week52High": 52.66,
       "conservativeEstimate": 54.0,
       "optimisticEstimate": 65.0,
       "yield": "4.2%",
       "rating": "Watch / Accumulate on Dips $47-48",
-      "thesis": "Keyera closed the transformative $5.15B Plains Midstream Canada NGL acquisition in Q1 2026, making it one of Canada's largest NGL infrastructure operators. Record 2025 EBITDA of $1.16B, DCF of $3.36/share covers the $2.16 annual dividend 1.55x. Management guides 7-8% EBITDA growth for 2026. Analyst consensus of $51.09 is pre-Plains modelling — upgrades to $54-65 range are coming as buy-side models in the acquired cashflows. ~80% fee-based/take-or-pay revenues = toll-road model, not an oil price bet. Best entry $47-48 (4.5%+ yield, 15-30% upside to post-acquisition targets).",
-      "risks": "Integration risk on $5.15B Plains deal. Marketing margin volatile ($300M in 2025 vs $485M prior year, guidance withheld until May 2026). Elevated leverage post-deal limits M&A flexibility. Stock at analyst consensus now — needs upgrade cycle to move higher.",
+      "thesis": "Keyera closed the transformative $5.15B Plains Midstream Canada NGL acquisition in Q1 2026, making it one of Canada's largest NGL infrastructure operators. Record 2025 EBITDA of $1.16B, DCF of $3.36/share covers the $2.16 annual dividend 1.55x. Management guides 7-8% EBITDA growth for 2026. Analyst consensus of $51.09 is pre-Plains modelling \u2014 upgrades to $54-65 range are coming as buy-side models in the acquired cashflows. ~80% fee-based/take-or-pay revenues = toll-road model, not an oil price bet. Best entry $47-48 (4.5%+ yield, 15-30% upside to post-acquisition targets).",
+      "risks": "Integration risk on $5.15B Plains deal. Marketing margin volatile ($300M in 2025 vs $485M prior year, guidance withheld until May 2026). Elevated leverage post-deal limits M&A flexibility. Stock at analyst consensus now \u2014 needs upgrade cycle to move higher.",
       "researchDate": "2026-02-27",
       "priceVs52wLow": "+35%"
     },
@@ -723,7 +723,7 @@
       "optimisticEstimate": 135.0,
       "yield": "2.5%",
       "rating": "Watch / Buy on Consolidation $104-106",
-      "thesis": "Diversified industrial conglomerate (aerospace/aviation + manufacturing) with monthly distributions. Q4 2025 earnings beat (Feb 25, 2026) triggered four analyst upgrades in one day: TD $125, Raymond James $125, Ventum $135, consensus repriced to $114.42. Stock broke to new 52-week highs — 5-24% upside remains to analyst targets. Not a high-yield play (2.5%) — total return story with strong management track record. Watch for post-earnings-pop consolidation to $104-106 for better risk/reward entry.",
+      "thesis": "Diversified industrial conglomerate (aerospace/aviation + manufacturing) with monthly distributions. Q4 2025 earnings beat (Feb 25, 2026) triggered four analyst upgrades in one day: TD $125, Raymond James $125, Ventum $135, consensus repriced to $114.42. Stock broke to new 52-week highs \u2014 5-24% upside remains to analyst targets. Not a high-yield play (2.5%) \u2014 total return story with strong management track record. Watch for post-earnings-pop consolidation to $104-106 for better risk/reward entry.",
       "risks": "Post-earnings pop means buying at new highs. Moderate yield (2.5%) limits income appeal. Aviation segment cyclically exposed. Significant debt load ($3.5B credit facility).",
       "researchDate": "2026-02-27",
       "priceVs52wLow": "+142%"
@@ -739,8 +739,8 @@
       "optimisticEstimate": 11.5,
       "yield": "0%",
       "rating": "Watch / Speculative Recovery",
-      "thesis": "Pivoted to pure regulated utility after selling Liberty Renewables. Now focused on regulated water, gas, and electric distribution with aggressive debt reduction. Q4 2025 earnings due March 6, 2026 — first clean quarter as simplified utility. Targets 20% EPS growth in 2026. Analyst Buy consensus, targets C$10-11. Near 52-week high; if management delivers on deleverage and earnings growth, this is a boring regulated utility in recovery mode and a potential 2026-2027 dividend rebuilder.",
-      "risks": "Dividend was cut — not for income today. Near 52-week high after major recovery from $6.17 low. March 6 earnings are make-or-break for the deleverage thesis. Speculative — size accordingly.",
+      "thesis": "Pivoted to pure regulated utility after selling Liberty Renewables. Now focused on regulated water, gas, and electric distribution with aggressive debt reduction. Q4 2025 earnings due March 6, 2026 \u2014 first clean quarter as simplified utility. Targets 20% EPS growth in 2026. Analyst Buy consensus, targets C$10-11. Near 52-week high; if management delivers on deleverage and earnings growth, this is a boring regulated utility in recovery mode and a potential 2026-2027 dividend rebuilder.",
+      "risks": "Dividend was cut \u2014 not for income today. Near 52-week high after major recovery from $6.17 low. March 6 earnings are make-or-break for the deleverage thesis. Speculative \u2014 size accordingly.",
       "researchDate": "2026-02-27",
       "priceVs52wLow": "+53%"
     },
@@ -755,10 +755,26 @@
       "optimisticEstimate": 62.57,
       "yield": "4.6%",
       "rating": "Accumulate / Add on Dips $50-51",
-      "thesis": "Global infrastructure LP (utilities, transport, midstream, data) with 17 consecutive annual distribution increases. Q4 2025 FFO $3.32/unit (+6% YoY), EPS $0.87 vs $0.34 estimate — massive beat. Distribution raised 6% (17th straight year). 1.93x FFO coverage ratio means zero cut risk. Data segment +50% YoY (hidden AI infrastructure play). 2026 FFO guidance: +10%+ per unit. Trades at ~10.3x 2026E FFO vs infrastructure peer average of 11-14x — re-rating to 12x implies $62.57 CAD (+16.6% upside) plus 4.6% distribution yield = 21%+ total return on bull case. Hold in RRSP.",
-      "risks": "USD distributions expose CAD investors to FX risk. Rate-sensitive — BoC/Fed tightening compresses infrastructure multiples. Near 52-week high with limited price cushion. LP tax complexity — RRSP/TFSA recommended. Best entry $50-51 CAD.",
+      "thesis": "Global infrastructure LP (utilities, transport, midstream, data) with 17 consecutive annual distribution increases. Q4 2025 FFO $3.32/unit (+6% YoY), EPS $0.87 vs $0.34 estimate \u2014 massive beat. Distribution raised 6% (17th straight year). 1.93x FFO coverage ratio means zero cut risk. Data segment +50% YoY (hidden AI infrastructure play). 2026 FFO guidance: +10%+ per unit. Trades at ~10.3x 2026E FFO vs infrastructure peer average of 11-14x \u2014 re-rating to 12x implies $62.57 CAD (+16.6% upside) plus 4.6% distribution yield = 21%+ total return on bull case. Hold in RRSP.",
+      "risks": "USD distributions expose CAD investors to FX risk. Rate-sensitive \u2014 BoC/Fed tightening compresses infrastructure multiples. Near 52-week high with limited price cushion. LP tax complexity \u2014 RRSP/TFSA recommended. Best entry $50-51 CAD.",
       "researchDate": "2026-02-27",
       "priceVs52wLow": "+47%"
+    },
+    {
+      "ticker": "H.TO",
+      "name": "Hydro One Limited",
+      "currentPrice": 58.05,
+      "currency": "CAD",
+      "week52Low": 45.05,
+      "week52High": 58.09,
+      "conservativeEstimate": 53.4,
+      "optimisticEstimate": 57.0,
+      "yield": "2.27%",
+      "rating": "Watch / Buy on Pullback $51-53",
+      "thesis": "Ontario's monopoly electricity transmission grid \u2014 47% government-owned, cannot be disrupted or taken over. Q4 2025 EPS +18% YoY; full-year EPS $2.23 (+15.5%). OEB-regulated rate base growth locks in 6-8% annual EPS growth through 2027. Ontario electrification (EVs, AI data centres, industrial reshoring) is a structural demand tailwind. Buy at $51-53 CAD where yield opens to 2.5%+ and P/E drops to ~23x \u2014 analyst consensus zone.",
+      "risks": "Currently 9% above analyst consensus target of $53.40 \u2014 zero margin of safety at $58. BoC rate pause/reversal hits regulated utilities hard. Low 2.27% yield at current price is unattractive vs pipeline/REIT alternatives. OEB can cut allowed ROE.",
+      "researchDate": "2026-02-27",
+      "priceVs52wLow": "+29%"
     }
   ]
 }
