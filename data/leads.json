@@ -1251,6 +1251,140 @@
             "scheduling"
           ],
           "notes": "LinkedIn: https://www.linkedin.com/in/robertpatin | nowsta.com \u2014 hospitality/events staffing with Canadian venue clients."
+        },
+        {
+          "id": "nmbr-20260227-8",
+          "company": "dala.care",
+          "contact": "Finnur Magnusson",
+          "title": "CEO & Co-Founder",
+          "email": "finnur@dala.care",
+          "signal": "Canadian home care SaaS startup \u2014 scheduling, care plans, client management. Zero embedded payroll. Canadian home care agencies manage complex caregiver payroll (PSW classifications, mileage, overtime, stat holidays) entirely outside the platform via ADP/Payworks. Nmbr closes the scheduling \u2192 payroll loop natively for Canadian home care agencies.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-27",
+          "tags": [
+            "homecare",
+            "Canadian",
+            "startup",
+            "no-payroll",
+            "healthcare"
+          ],
+          "notes": "LinkedIn: linkedin.com/company/dala-care | dala.care \u2014 Finnur Magnusson confirmed CEO & Co-founder per dala.care/about. Built on foundation of TheKey (US home care). Email is best-guess (matches standard pattern). Founder-accessible startup = fast decision."
+        },
+        {
+          "id": "nmbr-20260227-9",
+          "company": "Symplr",
+          "contact": "BJ Schaknowski",
+          "title": "CEO",
+          "email": "bj.schaknowski@symplr.com",
+          "signal": "US healthcare WFM platform serving Canadian hospitals and health systems at scale. Manages scheduling, timekeeping, and compliance \u2014 but payroll is all via third-party integrations (not native Canadian payroll). Every Canadian hospital on Symplr still runs payroll in ADP/Ceridian separately. Nmbr = embedded Canadian payroll layer for Symplr's growing Canadian health system client base.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-27",
+          "tags": [
+            "healthcare",
+            "enterprise",
+            "Canadian-clients",
+            "hospital",
+            "payroll-integrations"
+          ],
+          "notes": "LinkedIn: linkedin.com/company/symplr | symplr.com \u2014 BJ Schaknowski confirmed CEO per Fortune interview April 2025. Email is best-guess. Enterprise play \u2014 longer sales cycle but high-value if landed. Better entry may be VP Partnerships or SVP Canada."
+        },
+        {
+          "id": "nmbr-20260227-10",
+          "company": "Aspire Software",
+          "contact": "Chris Andriesen",
+          "title": "CEO",
+          "email": "chris.andriesen@youraspire.com",
+          "signal": "Leading landscaping/green industry operations platform \u2014 estimating, scheduling, job costing, mobile time tracking. Integrates with US payroll partner (Inova) but zero native Canadian payroll. Massive Canadian landscaping industry (Clintar, HomeTeam, Weed Man all operate complex seasonal crews). Canadian landscaping payroll = T4s, EI, provincial stat holidays, seasonal worker complexity. Nmbr = native Canadian payroll to replace the Inova gap north of the border.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-27",
+          "tags": [
+            "landscaping",
+            "Canadian-clients",
+            "seasonal-workforce",
+            "no-Canadian-payroll",
+            "field-service"
+          ],
+          "notes": "LinkedIn: linkedin.com/company/aspire-software | youraspire.com \u2014 Platform explicitly lists payroll integrations (Inova) as add-on, not native. Canadian landscaping is a B+ industry with complex seasonal workforce. Email is best-guess. Verify CEO name before outreach."
+        },
+        {
+          "id": "nmbr-20260227-11",
+          "company": "SpotOn",
+          "contact": "Matt Hyman",
+          "title": "CEO",
+          "email": "matt.hyman@spoton.com",
+          "signal": "Restaurant/hospitality POS + workforce management platform with a growing Canadian restaurant client base. SpotOn Payroll = US only \u2014 no Canadian payroll product exists. Canadian restaurants on SpotOn manually export timesheets to ADP/Payworks every pay cycle. Nmbr = the embedded Canadian payroll layer to complete their stack north of the border and match what US users already get.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-27",
+          "tags": [
+            "restaurant",
+            "POS",
+            "US-platform",
+            "Canadian-presence",
+            "no-Canadian-payroll"
+          ],
+          "notes": "LinkedIn: linkedin.com/company/spoton | spoton.com \u2014 Matt Hyman co-CEO. M+ raised. Growing Canadian restaurant partnerships. Pitch: Nmbr as the exclusive embedded Canadian payroll partner to close the gap for their Canadian restaurants \u2014 same move Toast and 7shifts need to make."
+        },
+        {
+          "id": "nmbr-20260227-12",
+          "company": "Fonn",
+          "contact": "Trond Bruflot",
+          "title": "CEO & Co-Founder",
+          "email": "trond@fonn.io",
+          "signal": "Norwegian-born construction project management SaaS (.5M USD raised). Active and growing in Canadian construction market \u2014 RFIs, punch lists, drawings, site documentation. Zero payroll functionality. Canadian construction = union agreements, provincial prevailing wage rules, certified payroll requirements. Nmbr = embedded Canadian payroll for their growing Canadian contractor base.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-27",
+          "tags": [
+            "construction",
+            "Norwegian",
+            "Canadian-market",
+            "no-payroll",
+            "seed-funded"
+          ],
+          "notes": "LinkedIn: linkedin.com/company/fonn-construction | fonn.io \u2014 .5M raised (2022). Trond Bruflot confirmed CEO & Co-founder. Email is best-guess. Canadian construction market is primary English-speaking expansion target. Founder-accessible = faster decision cycle than enterprise WFM players."
+        },
+        {
+          "id": "nmbr-20260227-13",
+          "company": "Arcoro",
+          "contact": "Mike Merrill",
+          "title": "CEO",
+          "email": "mike.merrill@arcoro.com",
+          "signal": "Construction-specific HR, onboarding, and workforce management platform serving US and Canadian contractors. Integrates with payroll providers via exports but zero native Canadian payroll processing. Canadian construction clients = complex union payroll, prevailing wage, and provincial compliance (Holdback rules, provincial Employment Standards Act differences). Nmbr = native Canadian payroll partner to complete Arcoro's construction HR stack.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-27",
+          "tags": [
+            "construction",
+            "HR",
+            "WFM",
+            "Canadian-clients",
+            "no-Canadian-payroll"
+          ],
+          "notes": "LinkedIn: linkedin.com/company/arcoro | arcoro.com \u2014 Mike Merrill confirmed CEO. Construction vertical = complex payroll (union rules, certified payroll, provincial rules). Strong Nmbr ICP \u2014 they manage the workforce, Nmbr handles the payroll processing layer."
+        },
+        {
+          "id": "nmbr-20260227-14",
+          "company": "WellSky Personal Care",
+          "contact": "Bill Miller",
+          "title": "CEO",
+          "email": "bill.miller@wellsky.com",
+          "signal": "Leading non-medical home care platform \u2014 ranked #1 for Canadian home care agencies (Straight.com Dec 2025). Integrates with payroll systems (not native payroll). Thousands of Canadian home care agencies on WellSky export caregiver hours to third-party payroll every pay cycle. Caregiver payroll in Canada = mileage, PSW classifications, provincial stat holiday pay. Nmbr = embedded Canadian payroll layer for WellSky's Canadian client base.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-27",
+          "tags": [
+            "homecare",
+            "US-platform",
+            "Canadian-market",
+            "no-payroll",
+            "enterprise",
+            "healthcare"
+          ],
+          "notes": "LinkedIn: linkedin.com/company/wellsky | wellsky.com \u2014 Bill Miller CEO. WellSky acquired ClearCare in 2018 (rebranded to WellSky Personal Care). Confirmed #1 non-medical home care platform in Canada per Straight.com Dec 2025 review. Enterprise play \u2014 better first entry point may be VP Partnerships or Head of Alliances. Email is best-guess."
         }
       ]
     },
@@ -2002,5 +2136,5 @@
       ]
     }
   ],
-  "updated": "2026-02-27T04:07:44.483966Z"
+  "updated": "2026-02-27T06:06:49Z"
 }
