@@ -958,12 +958,20 @@
           "contact": "Alex Barrotti",
           "title": "Founder & CEO",
           "email": "alex.barrotti@touchbistro.com",
-          "signal": "Toronto-based restaurant POS with 29,000+ restaurant locations. Labor Management explicitly excludes Quebec. Refers out to Push Operations & 7shifts for Canadian payroll — owns zero payroll processing. Every Canadian restaurant on TouchBistro manually bridges to a separate payroll provider. Nmbr = native embedded Canadian payroll (including Quebec) for their entire base.",
+          "signal": "Toronto-based restaurant POS with 29,000+ restaurant locations. Labor Management explicitly excludes Quebec. Refers out to Push Operations & 7shifts for Canadian payroll \u2014 owns zero payroll processing. Every Canadian restaurant on TouchBistro manually bridges to a separate payroll provider. Nmbr = native embedded Canadian payroll (including Quebec) for their entire base.",
           "source": "AI",
           "stage": "lead",
           "added": "2026-02-27",
-          "tags": ["restaurant", "POS", "Canadian", "Toronto", "no-payroll", "Quebec-gap", "hot"],
-          "notes": "LinkedIn: linkedin.com/in/alexbarrotti | touchbistro.com — Founded in Toronto, serves 29K+ restaurants globally with heavy Canadian base. Their own payroll guide says to use Push Operations. Email is best-guess. Confirmed signal: site says 'Labor Management available in Canada excluding Quebec' — Nmbr covers the whole country."
+          "tags": [
+            "restaurant",
+            "POS",
+            "Canadian",
+            "Toronto",
+            "no-payroll",
+            "Quebec-gap",
+            "hot"
+          ],
+          "notes": "LinkedIn: linkedin.com/in/alexbarrotti | touchbistro.com \u2014 Founded in Toronto, serves 29K+ restaurants globally with heavy Canadian base. Their own payroll guide says to use Push Operations. Email is best-guess. Confirmed signal: site says 'Labor Management available in Canada excluding Quebec' \u2014 Nmbr covers the whole country."
         },
         {
           "id": "nmbr-20260227-16",
@@ -971,12 +979,19 @@
           "contact": "Ronni Zehavi",
           "title": "Co-Founder & CEO",
           "email": "ronni.zehavi@hibob.com",
-          "signal": "Israeli HRIS scale-up ($274M raised, Series D). Growing Canadian mid-market client base. Their 'Payroll Hub' routes Canadian payroll to ADP WFN — they own zero payroll processing. Nmbr = opportunity to become HiBob's embedded Canadian payroll partner, displacing the ADP dependency with a native integration.",
+          "signal": "Israeli HRIS scale-up ($274M raised, Series D). Growing Canadian mid-market client base. Their 'Payroll Hub' routes Canadian payroll to ADP WFN \u2014 they own zero payroll processing. Nmbr = opportunity to become HiBob's embedded Canadian payroll partner, displacing the ADP dependency with a native integration.",
           "source": "AI",
           "stage": "lead",
           "added": "2026-02-27",
-          "tags": ["HRIS", "Israeli", "Series-D", "ADP-dependent", "Canadian-clients", "partnership"],
-          "notes": "LinkedIn: linkedin.com/company/hibob | hibob.com — Ronni Zehavi confirmed CEO. HiBob explicitly lists 'ADP WFN Canada' as their Canadian payroll integration on their Payroll Hub page. Pitch angle: Nmbr as the native Canadian payroll partner embedded directly in Bob — cleaner UX, less ADP complexity, revenue share opportunity."
+          "tags": [
+            "HRIS",
+            "Israeli",
+            "Series-D",
+            "ADP-dependent",
+            "Canadian-clients",
+            "partnership"
+          ],
+          "notes": "LinkedIn: linkedin.com/company/hibob | hibob.com \u2014 Ronni Zehavi confirmed CEO. HiBob explicitly lists 'ADP WFN Canada' as their Canadian payroll integration on their Payroll Hub page. Pitch angle: Nmbr as the native Canadian payroll partner embedded directly in Bob \u2014 cleaner UX, less ADP complexity, revenue share opportunity."
         },
         {
           "id": "nmbr-20260227-17",
@@ -984,12 +999,18 @@
           "contact": "Fritz Lanman",
           "title": "CEO",
           "email": "fritz.lanman@mindbodyonline.com",
-          "signal": "Wellness/fitness SaaS with 50,000+ businesses globally including thousands of Canadian yoga studios, gyms, and spas (confirmed on Capterra Canada). Their 'payroll' feature is US-only wage calculation — not T4, CPP, or EI compliant. Canadian fitness studios using Mindbody manage payroll entirely outside the platform via ADP or Payworks. Nmbr = the embedded Canadian payroll layer for their Canadian studio base.",
+          "signal": "Wellness/fitness SaaS with 50,000+ businesses globally including thousands of Canadian yoga studios, gyms, and spas (confirmed on Capterra Canada). Their 'payroll' feature is US-only wage calculation \u2014 not T4, CPP, or EI compliant. Canadian fitness studios using Mindbody manage payroll entirely outside the platform via ADP or Payworks. Nmbr = the embedded Canadian payroll layer for their Canadian studio base.",
           "source": "AI",
           "stage": "lead",
           "added": "2026-02-27",
-          "tags": ["fitness", "wellness", "US-platform", "Canadian-clients", "no-Canadian-payroll"],
-          "notes": "LinkedIn: linkedin.com/company/mindbody | mindbodyonline.com — Fritz Lanman CEO since 2016. 50K+ businesses on platform. Canadian studios confirmed using it (Capterra Canada reviews). Payroll integration marketplace exists but no native Canadian payroll. Pitch: Nmbr as the embedded Canadian payroll partner for Mindbody's Canadian studio and spa clients."
+          "tags": [
+            "fitness",
+            "wellness",
+            "US-platform",
+            "Canadian-clients",
+            "no-Canadian-payroll"
+          ],
+          "notes": "LinkedIn: linkedin.com/company/mindbody | mindbodyonline.com \u2014 Fritz Lanman CEO since 2016. 50K+ businesses on platform. Canadian studios confirmed using it (Capterra Canada reviews). Payroll integration marketplace exists but no native Canadian payroll. Pitch: Nmbr as the embedded Canadian payroll partner for Mindbody's Canadian studio and spa clients."
         },
         {
           "id": "nmbr-20260227-18",
@@ -997,12 +1018,19 @@
           "contact": "TJ Waldorf",
           "title": "CMO (Co-Founder)",
           "email": "tj@clockshark.com",
-          "signal": "Construction and field service time tracking — 9,500+ customers. Canadian HVAC, electrical, and plumbing contractors are active users. Integrates with QuickBooks/ADP for payroll export but zero native Canadian payroll. Canadian tradespeople = complex provincial overtime rules, certification pay premiums, T4s, CPP/EI. Nmbr closes the time tracking → payroll gap natively.",
+          "signal": "Construction and field service time tracking \u2014 9,500+ customers. Canadian HVAC, electrical, and plumbing contractors are active users. Integrates with QuickBooks/ADP for payroll export but zero native Canadian payroll. Canadian tradespeople = complex provincial overtime rules, certification pay premiums, T4s, CPP/EI. Nmbr closes the time tracking \u2192 payroll gap natively.",
           "source": "AI",
           "stage": "lead",
           "added": "2026-02-27",
-          "tags": ["construction", "field-service", "time-tracking", "Canadian-clients", "no-payroll", "trades"],
-          "notes": "LinkedIn: linkedin.com/company/clockshark | clockshark.com — Co-founders Cliff Mitchell & TJ Waldorf. Based in Chico, CA. 9,500+ customers. Canadian contractor base active on platform. Pitch: Nmbr as the embedded Canadian payroll partner so Canadian tradespeople get a closed-loop from clock-out to paystub without leaving ClockShark."
+          "tags": [
+            "construction",
+            "field-service",
+            "time-tracking",
+            "Canadian-clients",
+            "no-payroll",
+            "trades"
+          ],
+          "notes": "LinkedIn: linkedin.com/company/clockshark | clockshark.com \u2014 Co-founders Cliff Mitchell & TJ Waldorf. Based in Chico, CA. 9,500+ customers. Canadian contractor base active on platform. Pitch: Nmbr as the embedded Canadian payroll partner so Canadian tradespeople get a closed-loop from clock-out to paystub without leaving ClockShark."
         },
         {
           "id": "nmbr-20260227-19",
@@ -1014,8 +1042,15 @@
           "source": "AI",
           "stage": "lead",
           "added": "2026-02-27",
-          "tags": ["youth-activities", "dance", "gymnastics", "Canadian-clients", "no-payroll", "childcare-adjacent"],
-          "notes": "LinkedIn: linkedin.com/company/jackrabbit-technologies | jackrabbittech.com — Lynne Hunsicker CEO. Platform used by 8,000+ dance/activity studios across North America with heavy Canadian presence. Pitch: Nmbr as the embedded Canadian payroll partner for Jackrabbit's Canadian studio clients — same angle as Procare/Lullaboo but in the dance/gymnastics vertical."
+          "tags": [
+            "youth-activities",
+            "dance",
+            "gymnastics",
+            "Canadian-clients",
+            "no-payroll",
+            "childcare-adjacent"
+          ],
+          "notes": "LinkedIn: linkedin.com/company/jackrabbit-technologies | jackrabbittech.com \u2014 Lynne Hunsicker CEO. Platform used by 8,000+ dance/activity studios across North America with heavy Canadian presence. Pitch: Nmbr as the embedded Canadian payroll partner for Jackrabbit's Canadian studio clients \u2014 same angle as Procare/Lullaboo but in the dance/gymnastics vertical."
         },
         {
           "id": "nmbr-20260227-20",
@@ -1027,8 +1062,15 @@
           "source": "AI",
           "stage": "lead",
           "added": "2026-02-27",
-          "tags": ["restaurant", "accounting", "US-platform", "Canadian-clients", "no-Canadian-payroll", "enterprise"],
-          "notes": "LinkedIn: linkedin.com/company/restaurant365 | restaurant365.com — Tony Smith confirmed CEO. Series D, $150M+ raised. Multi-unit restaurant groups as primary clients. Pitch: Nmbr as the exclusive embedded Canadian payroll integration for R365 — gives their Canadian franchise and chain clients a native payroll solution to match what US operators already get."
+          "tags": [
+            "restaurant",
+            "accounting",
+            "US-platform",
+            "Canadian-clients",
+            "no-Canadian-payroll",
+            "enterprise"
+          ],
+          "notes": "LinkedIn: linkedin.com/company/restaurant365 | restaurant365.com \u2014 Tony Smith confirmed CEO. Series D, $150M+ raised. Multi-unit restaurant groups as primary clients. Pitch: Nmbr as the exclusive embedded Canadian payroll integration for R365 \u2014 gives their Canadian franchise and chain clients a native payroll solution to match what US operators already get."
         },
         {
           "id": "nmbr-20260227-21",
@@ -1036,12 +1078,19 @@
           "contact": "John Mandell",
           "title": "CEO",
           "email": "john.mandell@fieldedge.com",
-          "signal": "HVAC, plumbing, and electrical field service management platform. Canadian trades companies are active users. Integrates with QuickBooks for payroll export — no native Canadian payroll processing. Canadian HVAC/plumbing contractors = complex provincial licensing premiums, journeyman vs. apprentice pay differentials, seasonal workforce, T4s. Nmbr = native Canadian payroll embedded in their platform for trades businesses.",
+          "signal": "HVAC, plumbing, and electrical field service management platform. Canadian trades companies are active users. Integrates with QuickBooks for payroll export \u2014 no native Canadian payroll processing. Canadian HVAC/plumbing contractors = complex provincial licensing premiums, journeyman vs. apprentice pay differentials, seasonal workforce, T4s. Nmbr = native Canadian payroll embedded in their platform for trades businesses.",
           "source": "AI",
           "stage": "lead",
           "added": "2026-02-27",
-          "tags": ["HVAC", "plumbing", "field-service", "Canadian-clients", "no-payroll", "trades"],
-          "notes": "LinkedIn: linkedin.com/company/fieldedge | fieldedge.com — John Mandell CEO. Owned by ESO Software Group. HVAC/plumbing/electrical vertical = perfect Nmbr ICP (trades companies with hourly workers, complex provincial payroll rules). Pitch: Nmbr as embedded Canadian payroll so Canadian FieldEdge clients stop manually exporting to QuickBooks payroll every cycle."
+          "tags": [
+            "HVAC",
+            "plumbing",
+            "field-service",
+            "Canadian-clients",
+            "no-payroll",
+            "trades"
+          ],
+          "notes": "LinkedIn: linkedin.com/company/fieldedge | fieldedge.com \u2014 John Mandell CEO. Owned by ESO Software Group. HVAC/plumbing/electrical vertical = perfect Nmbr ICP (trades companies with hourly workers, complex provincial payroll rules). Pitch: Nmbr as embedded Canadian payroll so Canadian FieldEdge clients stop manually exporting to QuickBooks payroll every cycle."
         },
         {
           "id": "n008",
@@ -1487,7 +1536,14 @@
           "source": "AI",
           "stage": "lead",
           "added": "2026-02-27",
-          "tags": ["retail", "SaaS", "Canadian", "scheduling", "no-payroll", "new-CEO"],
+          "tags": [
+            "retail",
+            "SaaS",
+            "Canadian",
+            "scheduling",
+            "no-payroll",
+            "new-CEO"
+          ],
           "notes": "LinkedIn: linkedin.com/company/tulip-retail | tulip.com \u2014 Ian Rawlins appointed CEO Jan 2024 replacing founder Ali Asaria. HQ: Kitchener-Waterloo, ON. Serves luxury and mid-market retail. $44M+ raised. Email is best-guess (standard pattern). Better early contact may be VP Product or Head of Partnerships."
         },
         {
@@ -1500,7 +1556,15 @@
           "source": "AI",
           "stage": "lead",
           "added": "2026-02-27",
-          "tags": ["fintech", "Canadian", "Toronto", "SMB", "explicit-gap", "banking", "hot"],
+          "tags": [
+            "fintech",
+            "Canadian",
+            "Toronto",
+            "SMB",
+            "explicit-gap",
+            "banking",
+            "hot"
+          ],
           "notes": "LinkedIn: linkedin.com/company/float-financial | floatfinancial.com \u2014 Rob Khazzam CEO & Co-founder. Previously at Uber (international expansion). ~177 employees. 6,000+ Canadian businesses. Their own copy says 'non-payroll' = the door is wide open. Fresh signal: 2025 Year in Review published 1 week ago. Email confirmed pattern (rob@ matches founder email format)."
         },
         {
@@ -1513,7 +1577,15 @@
           "source": "AI",
           "stage": "lead",
           "added": "2026-02-27",
-          "tags": ["fintech", "Canadian", "Toronto", "cross-border", "fresh-signal", "API", "hot"],
+          "tags": [
+            "fintech",
+            "Canadian",
+            "Toronto",
+            "cross-border",
+            "fresh-signal",
+            "API",
+            "hot"
+          ],
           "notes": "LinkedIn: ca.linkedin.com/company/loop-financial | loopfinancial.com \u2014 Cato Pastoll founder & CEO confirmed via LinkedIn. Named BetaKit's Most Ambitious Company 2025. Funding from Graphite Ventures. Fresh signal: API banking announcement Feb 25 shows product expansion velocity. Payroll is the logical next module. Pitch: Nmbr as the embedded Canadian payroll partner to complete what Loop is building."
         },
         {
@@ -1526,7 +1598,15 @@
           "source": "AI",
           "stage": "lead",
           "added": "2026-02-27",
-          "tags": ["WFM", "Israeli", "events", "hospitality", "staffing", "Canadian-clients", "payroll-gap"],
+          "tags": [
+            "WFM",
+            "Israeli",
+            "events",
+            "hospitality",
+            "staffing",
+            "Canadian-clients",
+            "payroll-gap"
+          ],
           "notes": "LinkedIn: linkedin.com/company/ubeya | ubeya.com \u2014 Avi Barel confirmed CEO. Tel Aviv HQ with North American expansion. Their Canadian events clients (stadiums, food service, hospitality groups) are currently on non-compliant payroll. Email is best-guess. VP Partnerships may be a better first touch. Pitch: Nmbr as the exclusive embedded Canadian payroll partner so Ubeya can properly serve Canadian clients."
         },
         {
@@ -1539,7 +1619,15 @@
           "source": "AI",
           "stage": "lead",
           "added": "2026-02-27",
-          "tags": ["fintech", "Canadian", "Toronto", "AP-AR", "payments", "no-payroll", "SMB"],
+          "tags": [
+            "fintech",
+            "Canadian",
+            "Toronto",
+            "AP-AR",
+            "payments",
+            "no-payroll",
+            "SMB"
+          ],
           "notes": "LinkedIn: linkedin.com/company/plooto | plooto.com \u2014 Hamed Abbasi CEO & co-founder. ~50-100 employees. 6,000+ SMB clients. Previously integrated with QuickBooks, Xero. Natural pitch: Plooto handles vendor payments, Nmbr handles employee payroll \u2014 together they own all of a Canadian SMB\u2019s payment flows. Email is best-guess (standard pattern)."
         },
         {
@@ -1552,8 +1640,144 @@
           "source": "AI",
           "stage": "lead",
           "added": "2026-02-27",
-          "tags": ["HRIS", "Canadian", "Montreal", "enterprise", "20K-clients", "no-payroll", "hot"],
+          "tags": [
+            "HRIS",
+            "Canadian",
+            "Montreal",
+            "enterprise",
+            "20K-clients",
+            "no-payroll",
+            "hot"
+          ],
           "notes": "LinkedIn: linkedin.com/company/workleap | workleap.com \u2014 Simon De Baene CEO & co-founder. Former GSoft rebranded to Workleap in 2023. 20,000+ customers is the largest unserved Canadian payroll opportunity on this list. Pitch: Nmbr as the embedded Canadian payroll module that closes Workleap\u2019s platform story \u2014 revenue share on every payroll run. Montreal-founded = natural Nmbr culture fit."
+        },
+        {
+          "id": "nmbr-20260227-1",
+          "company": "Cova Software",
+          "contact": "Gary Cohen",
+          "title": "CEO",
+          "email": "gcohen@covasoftware.com",
+          "signal": "Canadian cannabis POS leader serving 1,000+ dispensaries \u2014 currently partnered with KayaPush for payroll/HR. Nmbr could replace or compete for that embed slot with superior Canadian payroll.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-27",
+          "tags": [
+            "cannabis",
+            "POS",
+            "Canada",
+            "payroll-gap"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/in/gary-cohen-1616a2/ | Open API / partner-friendly platform. Already has payroll partner relationship = buying signal."
+        },
+        {
+          "id": "nmbr-20260227-2",
+          "company": "Oxilia",
+          "contact": "Fran\u00e7ois Asselin",
+          "title": "CEO & Co-Founder",
+          "email": "fasselin@oxilia.ca",
+          "signal": "Canada's largest veterinary locum staffing platform. Matches vets + RVTs to clinics across Canada for locum shifts \u2014 pays contractors but almost certainly no native Canadian payroll engine. Perfect Nmbr fit.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-27",
+          "tags": [
+            "veterinary",
+            "staffing",
+            "Canada",
+            "locum",
+            "payroll-gap"
+          ],
+          "notes": "LinkedIn: https://ca.linkedin.com/company/oxilia-inc | $5M revenue (2025). Montreal-based. 1,300+ vet profiles."
+        },
+        {
+          "id": "nmbr-20260227-3",
+          "company": "Knowify",
+          "contact": "Marc Visent",
+          "title": "CEO & Co-Founder",
+          "email": "marc@knowify.com",
+          "signal": "Job management SaaS for trade contractors (plumbing, electrical, HVAC). Explicitly has team members + customers in Canada. Integrates with Lumber (AI workforce) and QuickBooks \u2014 no native Canadian payroll.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-27",
+          "tags": [
+            "construction",
+            "trades",
+            "Canada",
+            "payroll-gap"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/company/knowify-llc | NYC-based. Recent Lumber partnership = workforce expansion signals. G2 top-rated construction SaaS."
+        },
+        {
+          "id": "nmbr-20260227-4",
+          "company": "Truckbase",
+          "contact": "Bryan Jones",
+          "title": "CEO & Founder",
+          "email": "bryan@truckbase.com",
+          "signal": "Modern TMS for small/growing FTL trucking fleets. Handles dispatch, scheduling, driver management across Canada and US. Has driver payroll features but likely no compliant Canadian payroll processing.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-27",
+          "tags": [
+            "trucking",
+            "TMS",
+            "Canada",
+            "driver-payroll"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/company/truckbaseinc | Fast-growing trucking SaaS. Canadian trucking companies are active users. Strong payroll gap for Canadian drivers."
+        },
+        {
+          "id": "nmbr-20260227-5",
+          "company": "Shepherd Veterinary Software",
+          "contact": "Cindy Barnes",
+          "title": "Founder & CEO",
+          "email": "cindy@shepherd.vet",
+          "signal": "AI-powered vet practice management SaaS. Recently added time clock feature 'to make tracking payroll hours easier' \u2014 but no actual payroll engine. Has Canadian vet clinic clients.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-27",
+          "tags": [
+            "veterinary",
+            "practice-management",
+            "Canada",
+            "payroll-gap"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/company/shepherd-veterinary-software | Just built time clock = natural next step to embed payroll. Canadian vet shortage driving clinic growth."
+        },
+        {
+          "id": "nmbr-20260227-6",
+          "company": "Adit",
+          "contact": "Adam Zilko",
+          "title": "Co-Founder & CEO",
+          "email": "adam@adit.com",
+          "signal": "AI-powered dental practice management SaaS. Handles scheduling, billing, communications for multi-location dental groups. Serves Canadian dental practices. No payroll module \u2014 dentists/hygienists paid via ADP or manual.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-27",
+          "tags": [
+            "dental",
+            "healthcare",
+            "Canada",
+            "payroll-gap"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/company/adit-dental | Canadian dental groups growing via consolidation \u2014 perfect Nmbr embed story for DSOs with multi-location payroll."
+        },
+        {
+          "id": "nmbr-20260227-7",
+          "company": "Vonigo",
+          "contact": "Mark Lowe",
+          "title": "CEO & Co-Founder",
+          "email": "mark@vonigo.com",
+          "signal": "Vancouver-based field service management SaaS for franchise and multi-location service businesses (cleaning, pest control, movers). Manages staff scheduling + dispatch \u2014 no payroll. Canadian HQ = strong Nmbr fit.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-27",
+          "tags": [
+            "field-service",
+            "franchise",
+            "Canada",
+            "Vancouver",
+            "payroll-gap"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/company/vonigo | Vancouver HQ. Franchise model = multiple employers needing consistent Canadian payroll across provinces."
         }
       ]
     },
