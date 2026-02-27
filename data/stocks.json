@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-24T17:49:21Z",
+  "lastUpdated": "2026-02-27T05:05:39.183070Z",
   "stocks": [
     {
       "ticker": "ENB.TO",
@@ -582,6 +582,54 @@
       "risks": "Pulled back significantly from ATH \u2014 confirm current price before buying. Multi-jurisdictional (Canada, Peru, US) = varied political risk. Copper World (Arizona) project still in permitting. Small dividend.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+150%"
+    },
+    {
+      "ticker": "EMA.TO",
+      "name": "Emera Inc.",
+      "currentPrice": 69.5,
+      "currency": "CAD",
+      "week52Low": 51.23,
+      "week52High": 70.1,
+      "conservativeEstimate": 71.72,
+      "optimisticEstimate": 76.0,
+      "yield": "4.2%",
+      "rating": "Watch / Add on Dips ($65-67)",
+      "thesis": "Record 2025 EPS of $3.49 (+19% YoY) and first $1B+ adjusted net income milestone. Extended 5-7% EPS growth target through 2030 on Feb 23 is the key catalyst. Regulated Florida (Tampa Electric) + Atlantic Canada utility with zero commodity/tariff exposure. At $65-67 entry, yield opens to 4.4-4.5% with ~8% upside to analyst consensus $71.72 and TD target $75.",
+      "risks": "Trading near 52-week high \u2014 limited margin of safety at current price. Heavy capex ($3.6B/yr) requires ongoing debt financing; any rate spike hits cost of capital. Nova Scotia Power regulatory headwinds remain a drag.",
+      "researchDate": "2026-02-27",
+      "priceVs52wLow": "+36%"
+    },
+    {
+      "ticker": "MFC.TO",
+      "name": "Manulife Financial Corporation",
+      "currentPrice": 50.5,
+      "currency": "CAD",
+      "week52Low": 36.93,
+      "week52High": 52.97,
+      "conservativeEstimate": 54.0,
+      "optimisticEstimate": 62.0,
+      "yield": "3.5%",
+      "rating": "Watch / Accumulate",
+      "thesis": "Canada's largest life insurer with top-5 Asia wealth management franchise \u2014 the structural growth driver. 55% payout ratio means dividend is well-covered with room to grow. 10+ consecutive years of dividend increases, Canadian eligible dividends. Pulled back ~4% from 52-week high of $52.97 \u2014 better entry than 3 months ago. Insurance earnings are structural beneficiaries of higher-for-longer rates.",
+      "risks": "Asia operations (Hong Kong, Singapore, Mainland China) introduce geopolitical and FX risk. Insurance earnings can be lumpy. Not a pure boring utility \u2014 actuarial surprises happen.",
+      "researchDate": "2026-02-27",
+      "priceVs52wLow": "+37%"
+    },
+    {
+      "ticker": "EMP.A.TO",
+      "name": "Empire Company Ltd. (Sobeys)",
+      "currentPrice": 34.5,
+      "currency": "CAD",
+      "week52Low": 30.0,
+      "week52High": 40.0,
+      "conservativeEstimate": 38.0,
+      "optimisticEstimate": 44.0,
+      "yield": "2.6%",
+      "rating": "Watch / Buy Below $33",
+      "thesis": "Sobeys, FreshCo, IGA and Farm Boy operator \u2014 Atlantic and Western Canada grocery dominance. Trades at ~12x P/E vs Metro/Loblaw peers at ~18x, a meaningful valuation discount. Groceries are structurally recession-proof with pricing power. Scene+ loyalty program is an underappreciated margin catalyst. Best entry below $33 where yield approaches 3% and upside to fair value is 15-20%.",
+      "risks": "Grocery margin compression from private label competition and discounters. Western Canada concentration creates regional economic exposure. Loblaw price investment cycle can compress sector multiples.",
+      "researchDate": "2026-02-27",
+      "priceVs52wLow": "+15%"
     }
   ]
 }
