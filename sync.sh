@@ -101,6 +101,70 @@ with open(sys.argv[2], 'w') as fh:
 PYEOF
 echo "→ call-analyses.json updated"
 
+# ── Generate documents.json with file content ──────────────────────────────
+python3 - "$WORKSPACE" "$DATA_DIR/documents.json" << 'DOCSEOF'
+import json, os, sys
+from datetime import datetime, timezone
+
+workspace = sys.argv[1]
+out_path = sys.argv[2]
+MAX_FILE_SIZE = 50 * 1024  # 50KB
+EXTENSIONS = {'.md', '.txt', '.sh', '.json', '.py', '.yml', '.yaml', '.toml', '.cfg', '.conf'}
+SKIP_DIRS = {'node_modules', '.git', '__pycache__', '.cache', 'dashboard/data', '.openclaw'}
+
+import re as _re
+
+def sanitize(text):
+    # Redact tokens, keys, passwords
+    patterns = [
+        r'(sk-[a-zA-Z0-9_-]{20,})',
+        r'(ghp_[a-zA-Z0-9]{36,})',
+        r'(bot_token["\':\s]*[0-9]+:[A-Za-z0-9_-]{30,})',
+        r'([0-9]+:[A-Za-z0-9_-]{35,})',
+        r'(Bearer\s+[A-Za-z0-9._-]{20,})',
+        r'(xoxb-[A-Za-z0-9-]+)',
+        r'(AAAA[A-Za-z0-9+/=]{20,})',
+        r'(GOCSPX-[A-Za-z0-9_-]+)',
+        r'([0-9]+-[a-z0-9]+\.apps\.googleusercontent\.com)',
+        r'("client_secret"\s*:\s*"[^"]+")',
+        r'("client_id"\s*:\s*"[^"]+")',
+    ]
+    for p in patterns:
+        text = _re.sub(p, '[REDACTED]', text)
+    return text
+
+folders = []
+for root, dirs, files in os.walk(workspace):
+    dirs[:] = [d for d in dirs if d not in {'node_modules', '.git', '__pycache__', '.cache'}]
+    rel = os.path.relpath(root, workspace)
+    if rel == '.': rel = 'root'
+    if any(skip in rel for skip in SKIP_DIRS):
+        continue
+    folder_files = []
+    for f in sorted(files):
+        if f.startswith('.env') or f in {'config-hash.txt', 'openclaw.json', 'credentials.json'}:
+            continue
+        ext = os.path.splitext(f)[1].lower()
+        if ext not in EXTENSIONS:
+            continue
+        fpath = os.path.join(root, f)
+        try:
+            size = os.path.getsize(fpath)
+            if size > MAX_FILE_SIZE or size == 0:
+                continue
+            with open(fpath, 'r', errors='replace') as fh:
+                content = fh.read()
+            folder_files.append({"name": f, "content": sanitize(content)})
+        except:
+            folder_files.append({"name": f, "content": None})
+    if folder_files:
+        folders.append({"name": rel, "files": folder_files})
+
+with open(out_path, 'w') as fh:
+    json.dump({"folders": folders}, fh)
+print(f"→ documents.json updated ({len(folders)} folders)")
+DOCSEOF
+
 # ── Sync docs.json ─────────────────────────────────────────────────────────
 if [ -f "$SCRIPT_DIR/docs.json" ]; then
   cp "$SCRIPT_DIR/docs.json" "$DATA_DIR/docs.json"
