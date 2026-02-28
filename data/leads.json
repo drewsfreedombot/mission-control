@@ -2940,6 +2940,111 @@
             "recreation"
           ],
           "notes": "Website: clarro.ca | Canadian-built. Natural embedded payroll opportunity for gyms/rec centers."
+        },
+        {
+          "id": "nmbr-20260228-1",
+          "company": "Buildxact",
+          "contact": "Steve Yates",
+          "title": "CEO",
+          "email": "steve.yates@buildxact.com",
+          "signal": "Construction estimating & project management SaaS active in Canada (US/CA/AU). Manages labor rates and subcontractor costs but has NO native payroll \u2014 relies on QuickBooks/Xero integrations. Embedded Canadian payroll would be a natural add-on for their residential builder customers.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-28",
+          "tags": [
+            "construction",
+            "vertical-saas",
+            "canada-active"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/in/ceobuildxact/"
+        },
+        {
+          "id": "nmbr-20260228-2",
+          "company": "JobTread",
+          "contact": "Eric Fortenberry",
+          "title": "Founder & CEO",
+          "email": "eric@jobtread.com",
+          "signal": "Fast-growing construction estimating & project management SaaS. Manages budgets, invoicing, and job costing for thousands of builders. No native payroll \u2014 exports to QB/Xero. Canadian contractor base growing. Embedded payroll integration would differentiate them.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-28",
+          "tags": [
+            "construction",
+            "vertical-saas",
+            "high-growth"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/in/efortenberry/"
+        },
+        {
+          "id": "nmbr-20260228-3",
+          "company": "IntelyCare",
+          "contact": "David Quirke",
+          "title": "CEO",
+          "email": "david.quirke@intelycare.com",
+          "signal": "Healthcare staffing platform managing 35K+ nursing professionals. Acquired CareRev (Jan 2026) to expand into acute care. Manages scheduling and pay rates. If they expand into Canada (massive nurse shortage), they will need Canadian payroll compliance \u2014 Nmbr is the perfect embedded partner.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-28",
+          "tags": [
+            "healthcare",
+            "staffing",
+            "acquisition-signal",
+            "us-to-canada"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/company/intelycare/ | Just acquired CareRev Jan 2026"
+        },
+        {
+          "id": "nmbr-20260228-4",
+          "company": "Gatik",
+          "contact": "Gautam Narang",
+          "title": "Co-Founder & CEO",
+          "email": "gautam@gatik.ai",
+          "signal": "Autonomous trucking company with major Canadian operations \u2014 deploying 50 trucks with Loblaw by end of 2026. Canadian HQ, hiring drivers and ops staff in Canada. M+ in customer contracts. Growing Canadian workforce = growing payroll need. Vertical SaaS for logistics could embed Nmbr for their fleet operator partners.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-28",
+          "tags": [
+            "logistics",
+            "autonomous-vehicles",
+            "canada-hq",
+            "high-growth"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/company/gatik_ai | Loblaw partnership scaling"
+        },
+        {
+          "id": "nmbr-20260228-5",
+          "company": "Contractor Foreman",
+          "contact": "Unknown",
+          "title": "CEO",
+          "email": "info@contractorforeman.com",
+          "signal": "Affordable construction management SaaS (-199/mo) serving contractors across NA including Canada. Has time tracking, scheduling, and job costing but relies on external payroll integrations. Perfect candidate for embedded Canadian payroll \u2014 their SMB contractor customers struggle with payroll compliance.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-28",
+          "tags": [
+            "construction",
+            "vertical-saas",
+            "smb-focus"
+          ],
+          "notes": "Website: contractorforeman.com | Need to identify CEO/decision maker"
+        },
+        {
+          "id": "nmbr-20260228-6",
+          "company": "QGenda",
+          "contact": "Greg Derkacz",
+          "title": "CEO",
+          "email": "greg.derkacz@qgenda.com",
+          "signal": "Healthcare workforce scheduling platform (acquired by Hearst Corp Aug 2024). Handles physician/nurse scheduling, time tracking, and payroll calculations for US hospitals. Listed on GetApp Canada \u2014 expanding north. Canadian healthcare payroll is uniquely complex (provincial rules, union contracts). Nmbr could be their Canadian payroll engine.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-28",
+          "tags": [
+            "healthcare",
+            "scheduling",
+            "enterprise",
+            "us-to-canada"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/company/qgenda/ | Acquired by Hearst 2024"
         }
       ]
     },
