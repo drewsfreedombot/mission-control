@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-27T23:04:57.000Z",
+  "lastUpdated": "2026-02-28T11:03:07.857066Z",
   "stocks": [
     {
       "ticker": "ENB.TO",
@@ -839,6 +839,22 @@
       "risks": "~35% of gross profit from road transportation fuel creates long-term EV headwind; stock near 52-week high with no price margin of safety \u2014 wait for dip to $79-80 for best entry.",
       "researchDate": "2026-02-27",
       "priceVs52wLow": "+25%"
+    },
+    {
+      "ticker": "NPI.TO",
+      "name": "Northland Power Inc.",
+      "currentPrice": 21.77,
+      "currency": "CAD",
+      "week52Low": 15.96,
+      "week52High": 25.99,
+      "conservativeEstimate": 23.63,
+      "optimisticEstimate": 25.0,
+      "yield": "3.3%",
+      "rating": "Buy",
+      "thesis": "Renewable utility trading 27% below 5-year average after a strategic 40% dividend cut to fund offshore wind construction. Q4 2025 EBITDA +25% YoY, 2026 guidance of C$1.45-1.65B implies 16-32% growth. Baltic Power (1.1 GW) on track for H2 2026, Hai Long (1.0 GW) for 2027 \u2014 once online, FCF ramps and dividend growth resumes.",
+      "risks": "Hai Long commissioning delays could impact C$150-200M pre-completion revenue. Debt/equity 181% \u2014 heavy project-finance leverage. Rate-sensitive.",
+      "researchDate": "2026-02-28",
+      "priceVs52wLow": "+36%"
     }
   ]
 }
