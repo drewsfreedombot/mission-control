@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-28T11:03:07.857066Z",
+  "lastUpdated": "2026-02-28T13:02:57.214460Z",
   "stocks": [
     {
       "ticker": "ENB.TO",
@@ -853,6 +853,22 @@
       "rating": "Buy",
       "thesis": "Renewable utility trading 27% below 5-year average after a strategic 40% dividend cut to fund offshore wind construction. Q4 2025 EBITDA +25% YoY, 2026 guidance of C$1.45-1.65B implies 16-32% growth. Baltic Power (1.1 GW) on track for H2 2026, Hai Long (1.0 GW) for 2027 \u2014 once online, FCF ramps and dividend growth resumes.",
       "risks": "Hai Long commissioning delays could impact C$150-200M pre-completion revenue. Debt/equity 181% \u2014 heavy project-finance leverage. Rate-sensitive.",
+      "researchDate": "2026-02-28",
+      "priceVs52wLow": "+36%"
+    },
+    {
+      "ticker": "ALA.TO",
+      "name": "AltaGas Ltd.",
+      "currentPrice": 46.36,
+      "currency": "CAD",
+      "week52Low": 34.18,
+      "week52High": 46.36,
+      "conservativeEstimate": 48.11,
+      "optimisticEstimate": 54.0,
+      "yield": "2.9%",
+      "rating": "Watch / Buy on Pullback $42-43",
+      "thesis": "Hybrid midstream/utility with REEF LPG export terminal (first-mover Canadian LPG exports to Asia-Pacific) coming online 2026, plus regulated US gas distribution. Six consecutive 6% dividend raises, 5-7% CAGR guided through 2030. 2026 EBITDA guidance $1.925-2.025B (+8% YoY). Quality compounder but at ATH \u2014 wait for pullback to $42-43 for 3.1%+ yield and 10-15% upside.",
+      "risks": "At all-time high with only 4% upside to analyst consensus. Leverage 4.5-5.0x. REEF construction risk. 7% share dilution over 5 years.",
       "researchDate": "2026-02-28",
       "priceVs52wLow": "+36%"
     }
