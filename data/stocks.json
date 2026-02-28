@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-28T15:03:52.621599+00:00",
+  "lastUpdated": "2026-02-28T17:02:23.868857+00:00",
   "stocks": [
     {
       "ticker": "ENB.TO",
@@ -887,6 +887,22 @@
       "risks": "Management flagged softer rental market; rate-sensitive REIT; Netherlands exposure being divested but adds near-term complexity; revenue declined on dispositions (per-unit metrics improved).",
       "researchDate": "2026-02-28",
       "priceVs52wLow": "+7%"
+    },
+    {
+      "ticker": "SAP.TO",
+      "name": "Saputo Inc.",
+      "currentPrice": 42.47,
+      "currency": "CAD",
+      "week52Low": 23.72,
+      "week52High": 44.0,
+      "conservativeEstimate": 46.25,
+      "optimisticEstimate": 52.0,
+      "yield": "1.9%",
+      "rating": "Buy on Pullback C$38-40",
+      "thesis": "Canada's largest dairy processor with PEG of 0.56 and beta of 0.04 \u2014 rare defensive + growth combo. Just broke above 200-day MA after 12+ months below. Five analyst upgrades in Feb 2026. Q3 FY2026 Canada segment posted record profitability. Earnings recovering as dairy commodity costs normalize.",
+      "risks": "Near 52-week high with limited margin of safety. 43% US revenue exposure creates tariff risk. Dairy commodity swings can compress margins quarter-to-quarter.",
+      "researchDate": "2026-02-28",
+      "priceVs52wLow": "+79%"
     }
   ]
 }
