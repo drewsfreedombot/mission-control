@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-28T17:02:23.868857+00:00",
+  "lastUpdated": "2026-02-28T17:04:04.266439",
   "stocks": [
     {
       "ticker": "ENB.TO",
@@ -903,6 +903,22 @@
       "risks": "Near 52-week high with limited margin of safety. 43% US revenue exposure creates tariff risk. Dairy commodity swings can compress margins quarter-to-quarter.",
       "researchDate": "2026-02-28",
       "priceVs52wLow": "+79%"
+    },
+    {
+      "ticker": "SRU.UN.TO",
+      "name": "SmartCentres Real Estate Investment Trust",
+      "currentPrice": 26.11,
+      "currency": "CAD",
+      "week52Low": 23.18,
+      "week52High": 27.84,
+      "conservativeEstimate": 27.87,
+      "optimisticEstimate": 31.0,
+      "yield": "7.1%",
+      "rating": "Buy",
+      "thesis": "Canada's largest Walmart-anchored REIT trading at a 27% discount to NAV (C$35.65/unit). 98.6% occupancy, 84% AFFO payout ratio, monthly distributions never cut through COVID. Rate cuts are a direct tailwind for NAV re-rating. Buying essential real estate at 73 cents on the dollar.",
+      "risks": "Rate-sensitive REIT; real thesis is NAV gap closing over 2-3 years, near-term analyst upside limited to 6.7%. Development income lumpy.",
+      "researchDate": "2026-02-28",
+      "priceVs52wLow": "+13%"
     }
   ]
 }
