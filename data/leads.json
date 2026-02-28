@@ -2290,6 +2290,124 @@
             "municipalities"
           ],
           "notes": "LinkedIn: https://www.linkedin.com/in/gwen-mcewen-5b964212a/ | HQ: North Saanich, BC | Co-founder Shawn Millin (CTO) also key"
+        },
+        {
+          "id": "nmbr-20260228-1",
+          "company": "Kinfolk",
+          "contact": "Jeet Mukerji",
+          "title": "Co-founder & CEO",
+          "email": "jeet@kinfolkhq.com",
+          "signal": "Just raised $7.2M seed (Feb 2026). Explicitly plans to expand beyond core HR into payroll workflows. UK-based, growing fast.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-28",
+          "tags": [
+            "hot",
+            "freshly-funded",
+            "payroll-expansion"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/in/jeetmukerji/ | kinfolkhq.com"
+        },
+        {
+          "id": "nmbr-20260228-2",
+          "company": "Factorial HR",
+          "contact": "Jordi Romero",
+          "title": "Founder & CEO",
+          "email": "jordi@factorial.co",
+          "signal": "Barcelona HR SaaS ($80M+ raised), expanding North America via Miami. Needs Canadian payroll partner. On Capterra Canada, AWS Marketplace.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-28",
+          "tags": [
+            "enterprise",
+            "international-expansion"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/in/jordiromero/ | Offices: Barcelona, Miami, Mexico City, Sao Paulo"
+        },
+        {
+          "id": "nmbr-20260228-3",
+          "company": "PickTrace",
+          "contact": "Austin Steed",
+          "title": "Co-founder & CEO",
+          "email": "austin@picktrace.com",
+          "signal": "Ag labor management SaaS serving Canadian farms. Handles hiring, time tracking, harvest but exports to external payroll. No native Canadian payroll.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-28",
+          "tags": [
+            "agriculture",
+            "already-in-canada",
+            "payroll-gap"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/in/austinsteed/ | Serves US, Canada, LATAM, Australia"
+        },
+        {
+          "id": "nmbr-20260228-4",
+          "company": "FieldClock",
+          "contact": "Joshua Farray",
+          "title": "Founder & CEO",
+          "email": "josh@fieldclock.com",
+          "signal": "Farm labor tracking app (time & attendance, piece-rate) with no payroll. Targets large-scale farms. Natural embed partner for Canadian ag payroll.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-28",
+          "tags": [
+            "agriculture",
+            "payroll-gap",
+            "vertical-saas"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/in/joshuafarray/"
+        },
+        {
+          "id": "nmbr-20260228-5",
+          "company": "Seso",
+          "contact": "Michael Guirguis",
+          "title": "Co-founder & CEO",
+          "email": "michael@sesolabor.com",
+          "signal": "All-in-one ag employee management with US payroll, expanding into Canada. Needs Canadian payroll infrastructure \u2014 perfect Nmbr embed.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-28",
+          "tags": [
+            "agriculture",
+            "expanding-to-canada",
+            "has-us-payroll"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/in/michaelguirguis/ | Ex-McKinsey, Stanford Law CodeX"
+        },
+        {
+          "id": "nmbr-20260228-6",
+          "company": "Rosy Salon Software",
+          "contact": "Ron Guarisco",
+          "title": "Founder",
+          "email": "ron@rosysalonsoftware.com",
+          "signal": "Salon/spa management (scheduling, POS, client mgmt) with no integrated payroll. Competitor Mangomint just embedded payroll via Salsa \u2014 competitive pressure to add payroll.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-28",
+          "tags": [
+            "salon-spa",
+            "payroll-gap",
+            "competitive-pressure"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/in/ronguarisco/ | Parent: Floydware/SalonInteractive"
+        },
+        {
+          "id": "nmbr-20260228-7",
+          "company": "Leasey.AI",
+          "contact": "Juan Leal",
+          "title": "CEO & Co-founder",
+          "email": "juan@leasey.ai",
+          "signal": "Vancouver AI property management platform. No staff payroll for PMCs. Growing Canadian client base employing cleaners, maintenance, property managers.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-28",
+          "tags": [
+            "property-management",
+            "canadian-hq",
+            "payroll-gap"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/in/juanleal/ | Vancouver, BC"
         }
       ]
     },
