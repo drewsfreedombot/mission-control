@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-28T13:02:57.214460Z",
+  "lastUpdated": "2026-02-28T15:03:52.621599+00:00",
   "stocks": [
     {
       "ticker": "ENB.TO",
@@ -871,6 +871,22 @@
       "risks": "At all-time high with only 4% upside to analyst consensus. Leverage 4.5-5.0x. REEF construction risk. 7% share dilution over 5 years.",
       "researchDate": "2026-02-28",
       "priceVs52wLow": "+36%"
+    },
+    {
+      "ticker": "CAR.UN.TO",
+      "name": "Canadian Apartment Properties REIT (CAPREIT)",
+      "currentPrice": 37.88,
+      "currency": "CAD",
+      "week52Low": 35.32,
+      "week52High": 46.29,
+      "conservativeEstimate": 44.0,
+      "optimisticEstimate": 50.0,
+      "yield": "4.1%",
+      "rating": "Buy",
+      "thesis": "Canada's largest residential REIT trading at a 33% discount to NAV ($56.41/unit) near 52-week lows. 45,900 units of essential housing backed by Canada's structural housing shortage (400K+ immigrants/year). Monthly distributions with ultra-conservative 61% FFO payout ratio. Same-property NOI +4.7% YoY, rents +5%, 97% occupancy. Analyst consensus target C$46.74 = 23% upside plus 4.1% yield.",
+      "risks": "Management flagged softer rental market; rate-sensitive REIT; Netherlands exposure being divested but adds near-term complexity; revenue declined on dispositions (per-unit metrics improved).",
+      "researchDate": "2026-02-28",
+      "priceVs52wLow": "+7%"
     }
   ]
 }
