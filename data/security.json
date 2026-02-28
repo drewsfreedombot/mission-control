@@ -1,37 +1,14 @@
 {
-  "lastCheck": "2026-02-26T04:00:00-04:00",
-  "status": "OK",
-  "flags": [],
-  "checks": {
-    "diskSpace": {
-      "status": "ok",
-      "detail": "3% Used on root filesystem."
-    },
-    "loginAttempts": {
-      "status": "ok",
-      "detail": "No unusual activity in the last 10 login attempts."
-    },
-    "uptime": {
-      "status": "ok",
-      "detail": "System up for 4 days, 19 hours, 17 minutes. Load averages (1, 5, 15 min): 1.73, 1.56, 1.52."
-    },
-    "gateway": {
-      "status": "ok",
-      "detail": "Running (RPC probe: ok)."
-    },
-    "processes": {
-      "status": "ok",
-      "detail": "No suspicious processes identified in the top 30 ps aux entries."
-    },
-    "tailscale": {
-      "status": "ok",
-      "detail": "Active, showing expected connected devices."
-    },
-    "configHash": {
-      "status": "ok",
-      "previous": "5b26974972d59215b3b0020c072c45c98ea85cee333f6994928cf51405765ea",
-      "current": "81d65ec03c5a1877b22a1b0b1db0cbcb6a65a460590bdfaeb0d12e20dffa8c09",
-      "fileModified": "2026-02-23T14:20:00-04:00"
-    }
-  }
+  "lastCheck": "2026-02-28T04:00:00-04:00",
+  "status": "warning",
+  "summary": "Config hash changed — likely routine update. All other systems nominal.",
+  "checks": [
+    {"name": "Disk Space", "status": "ok", "detail": "3% used (11Gi/460Gi) — 415Gi available"},
+    {"name": "Login History", "status": "ok", "detail": "All logins from local user freedombot, no anomalies"},
+    {"name": "System Load", "status": "ok", "detail": "Up 6d 19h, load avg 2.44/2.38/2.32"},
+    {"name": "OpenClaw Gateway", "status": "ok", "detail": "Running (pid 76997), loopback-only, RPC probe ok"},
+    {"name": "Processes", "status": "ok", "detail": "No suspicious processes detected"},
+    {"name": "Tailscale", "status": "ok", "detail": "Connected, dwaynes-mac-mini-1 active direct link"},
+    {"name": "Config Integrity", "status": "warning", "detail": "openclaw.json hash changed since last check. Modified 2026-02-27 21:10. Previous: 81d65ec0... New: 34a656e9..."}
+  ]
 }
