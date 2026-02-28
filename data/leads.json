@@ -2198,6 +2198,98 @@
             "clinic-owners"
           ],
           "notes": "LinkedIn: linkedin.com/company/practice-better | practicebetter.io. Toronto, Ontario. Growing Canadian healthtech SaaS. Serves coaches, dietitians, therapists. No payroll. Pitch: Nmbr embedded payroll for Canadian wellness practice owners who hire staff \u2014 keep them in the Practice Better ecosystem from intake to paystub."
+        },
+        {
+          "id": "nmbr-20260227-42",
+          "company": "Swept",
+          "contact": "Michelle Audas",
+          "title": "CEO",
+          "email": "m.audas@sweptworks.com",
+          "signal": "Halifax-based janitorial workforce management SaaS \u2014 235M+ hours logged, staff scheduling & time tracking with no native Canadian payroll. Exports timesheet data externally. Perfect embedded payroll fit.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-27",
+          "tags": [
+            "janitorial",
+            "canadian-hq",
+            "workforce-management"
+          ],
+          "notes": "LinkedIn: https://ca.linkedin.com/in/michelle-audas | HQ: Halifax, NS | 11-50 employees | Founded 2014"
+        },
+        {
+          "id": "nmbr-20260227-43",
+          "company": "Hauler Hero",
+          "contact": "Mark Hoadley",
+          "title": "Co-Founder & CEO",
+          "email": "mark@haulerhero.com",
+          "signal": "Just raised $16M Series A (Feb 2026) \u2014 waste management SaaS for haulers including Canadian operators. Route planning, billing, dispatching but ZERO payroll. Customer base doubled YoY. Fresh funding = growth mode = payroll need.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-27",
+          "tags": [
+            "waste-management",
+            "fresh-funding",
+            "series-a",
+            "high-priority"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/in/markhoadley | $16M Series A closed Feb 10 2026 | Co-founder Ben Sikma also key contact"
+        },
+        {
+          "id": "nmbr-20260227-44",
+          "company": "Actenum",
+          "contact": "Paul Maurer",
+          "title": "CEO",
+          "email": "paul.maurer@actenum.com",
+          "signal": "Vancouver-based AI scheduling software for oil & gas and mining \u2014 manages field crews, rig scheduling, maintenance windows for Canadian resource companies. No payroll feature. Complex workforce = complex payroll = high Nmbr value.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-27",
+          "tags": [
+            "oil-gas",
+            "mining",
+            "canadian-hq",
+            "vancouver",
+            "industrial"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/company/actenum-corporation | HQ: Vancouver, BC | Est. 2003"
+        },
+        {
+          "id": "nmbr-20260227-45",
+          "company": "Univerus Software",
+          "contact": "Tony Esposito",
+          "title": "CEO",
+          "email": "tony.esposito@univerus.com",
+          "signal": "Port Moody BC-based enterprise SaaS for municipalities, recreation centres, utilities \u2014 3,500+ Canadian clients, staff scheduling with complex pay rate structures but no embedded payroll. Massive Nmbr distribution opportunity via partner channel.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-27",
+          "tags": [
+            "recreation",
+            "government",
+            "utilities",
+            "canadian-hq",
+            "high-volume"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/company/univerus | HQ: Port Moody, BC | 51-200 employees | Founded 2019 | Alt contact: batchison@univerus.com"
+        },
+        {
+          "id": "nmbr-20260227-46",
+          "company": "RecStaff",
+          "contact": "Gwen McEwen",
+          "title": "Co-Founder",
+          "email": "gwen@recstaff.com",
+          "signal": "North Saanich BC-based parks & rec staff scheduling platform \u2014 University of Toronto client, Canadian municipalities. Handles complex pay rates, shift premiums, credential tracking but exports to payroll externally. No native Canadian payroll.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-27",
+          "tags": [
+            "recreation",
+            "parks",
+            "canadian-hq",
+            "bc",
+            "municipalities"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/in/gwen-mcewen-5b964212a/ | HQ: North Saanich, BC | Co-founder Shawn Millin (CTO) also key"
         }
       ]
     },
@@ -2949,5 +3041,5 @@
       ]
     }
   ],
-  "updated": "2026-02-27T16:01:00Z"
+  "updated": "2026-02-27"
 }
