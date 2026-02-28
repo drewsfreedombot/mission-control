@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-27T21:05:47.000Z",
+  "lastUpdated": "2026-02-27T23:04:57.000Z",
   "stocks": [
     {
       "ticker": "ENB.TO",
@@ -823,6 +823,22 @@
       "risks": "Near fair value currently \u2014 no margin of safety at current price. Rail volumes cyclically sensitive to industrial activity. Two-player oligopoly means CP Rail is the only competitor for volume share.",
       "researchDate": "2026-02-27",
       "priceVs52wLow": "+15%"
+    },
+    {
+      "ticker": "ATD.TO",
+      "name": "Alimentation Couche-Tard Inc.",
+      "currentPrice": 82.78,
+      "currency": "CAD",
+      "week52Low": 65.95,
+      "week52High": 85.29,
+      "conservativeEstimate": 88.0,
+      "optimisticEstimate": 100.0,
+      "yield": "1.07%",
+      "rating": "Buy / Accumulate on Dips $79-82",
+      "thesis": "World class convenience store operator (17,000+ stores) trading at 21.5x P/E \u2014 9% below its 10-year historical average PE of 23.49x. On Feb 11, 2026, management issued first-ever formal guidance: 10%+ adjusted EPS CAGR to FY2030, >US$2.5B FY2026 FCF. The 7-Eleven walkaway reset the multiple while earnings kept growing \u2014 forward P/E drops to ~15x by FY2030 if guidance holds. 15+ consecutive years of dividend increases, 20% payout ratio, tariff-proof domestic operations.",
+      "risks": "~35% of gross profit from road transportation fuel creates long-term EV headwind; stock near 52-week high with no price margin of safety \u2014 wait for dip to $79-80 for best entry.",
+      "researchDate": "2026-02-27",
+      "priceVs52wLow": "+25%"
     }
   ]
 }
