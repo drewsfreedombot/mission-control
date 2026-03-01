@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-28T17:04:04.266439",
+  "lastUpdated": "2026-02-28T19:06:29.200662",
   "stocks": [
     {
       "ticker": "ENB.TO",
@@ -919,6 +919,22 @@
       "risks": "Rate-sensitive REIT; real thesis is NAV gap closing over 2-3 years, near-term analyst upside limited to 6.7%. Development income lumpy.",
       "researchDate": "2026-02-28",
       "priceVs52wLow": "+13%"
+    },
+    {
+      "ticker": "CPX.TO",
+      "name": "Capital Power Corporation",
+      "currentPrice": 64.03,
+      "currency": "CAD",
+      "week52Low": 41.87,
+      "week52High": 73.8,
+      "conservativeEstimate": 76.56,
+      "optimisticEstimate": 82.0,
+      "yield": "4.3%",
+      "rating": "Watch / Buy on Pullback C$55-58",
+      "thesis": "North American power generator (6,400+ MW) with structural AI data centre electricity demand tailwind. PEG of 0.91 means growth is underpriced. 10 analysts, Moderate Buy consensus, avg target C$76.56 = 20% upside + 4.3% yield. Earnings March 4, 2026 is near-term catalyst. Best entry C$55-58 where yield opens to 4.8-5.0%.",
+      "risks": "P/E of 23x elevated for a power generator; 136% debt-to-equity; Alberta power market volatility; coal-to-gas transition execution risk.",
+      "researchDate": "2026-02-28",
+      "priceVs52wLow": "+53%"
     }
   ]
 }
