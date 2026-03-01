@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-01T01:03:21.613587",
+  "lastUpdated": "2026-03-01T03:06:03.871809",
   "stocks": [
     {
       "ticker": "ENB.TO",
@@ -984,6 +984,22 @@
       "risks": "Holding company discount can persist. Complex structure (GWO + IGM + GBL). European exposure via GBL adds FX/geopolitical risk.",
       "researchDate": "2026-03-01",
       "priceVs52wLow": "+49%"
+    },
+    {
+      "ticker": "KMP.UN.TO",
+      "name": "Killam Apartment REIT",
+      "currentPrice": 17.12,
+      "currency": "CAD",
+      "week52Low": 15.48,
+      "week52High": 19.8,
+      "conservativeEstimate": 20.0,
+      "optimisticEstimate": 24.0,
+      "yield": "4.2%",
+      "rating": "Buy",
+      "thesis": "Atlantic Canada residential REIT trading 25% below 2021 levels at 13.9x P/FFO (peers 16-20x). Housing crisis + immigration = structural demand. FFO/unit grew 4.2% YoY, AFFO payout ratio 69%, 96.9% occupancy. Monthly payer. Rate cuts are a direct tailwind for REIT re-rating. Analyst consensus C$21.30 = 24% upside.",
+      "risks": "Rate-sensitive REIT; Atlantic Canada concentration; provincial rent control risk; C$120.5M fair value losses in 2025.",
+      "researchDate": "2026-03-01",
+      "priceVs52wLow": "+10.6%"
     }
   ]
 }
