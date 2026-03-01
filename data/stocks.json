@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-01T09:03:35.010304",
+  "lastUpdated": "2026-03-01T11:04:42.928817",
   "stocks": [
     {
       "ticker": "ENB.TO",
@@ -1112,6 +1112,22 @@
       "risks": "At ATH and above analyst consensus \u2014 no margin of safety at current price. 84% payout ratio. D/E 278%. Wait for pullback.",
       "researchDate": "2026-03-01",
       "priceVs52wLow": "+49%"
+    },
+    {
+      "ticker": "QBR.B.TO",
+      "name": "Quebecor Inc.",
+      "currentPrice": 56.41,
+      "currency": "CAD",
+      "week52Low": 32.57,
+      "week52High": 57.77,
+      "conservativeEstimate": 58.08,
+      "optimisticEstimate": 63.0,
+      "yield": "2.57%",
+      "rating": "Buy / Accumulate on Dips C$52-53",
+      "thesis": "Canada's 4th national carrier trading at 6.5x EV/EBITDA \u2014 a 25-35% discount to telecom peers (BCE 7-8x, Rogers 7.5x, TELUS 8x) despite having the BEST EBITDA margins in the sector at 40%. Freedom Mobile acquisition (1M+ subs in ON/BC/AB) transforms Quebecor from a Quebec regional player to a national telecom. ROE of 37.4% is absurd for a telecom. Six analyst upgrades on Feb 28 alone. 100% Canadian domestic revenue = tariff-proof.",
+      "risks": "Debt/equity 364% from Freedom Mobile acquisition. Near 52-week high with limited short-term margin of safety. Freedom Mobile integration still maturing in new markets. Quebec concentration remains ~60% of revenue.",
+      "researchDate": "2026-03-01",
+      "priceVs52wLow": "+73%"
     }
   ]
 }
