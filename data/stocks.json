@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-01T05:03:58.992720",
+  "lastUpdated": "2026-03-01T07:04:42.227178",
   "stocks": [
     {
       "ticker": "ENB.TO",
@@ -1016,6 +1016,54 @@
       "risks": "Near 52-week high with limited short-term margin of safety. D/E of 173% elevated (includes Financial Services lending). FY2025 benefited from extra retail week. Best entry on pullback to C$175-180.",
       "researchDate": "2026-03-01",
       "priceVs52wLow": "+37%"
+    },
+    {
+      "ticker": "RUS.TO",
+      "name": "Russel Metals Inc.",
+      "currentPrice": 48.04,
+      "currency": "CAD",
+      "week52Low": 34.62,
+      "week52High": 53.37,
+      "conservativeEstimate": 54.42,
+      "optimisticEstimate": 59.0,
+      "yield": "3.58%",
+      "rating": "Buy",
+      "thesis": "Industrial metals distributor with PEG of 0.59 \u2014 growth massively underpriced at 16x P/E. Kloeckner acquisition closed Dec 31, 2025 transforms the business; analyst models still catching up. FY2025 revenue C$4.6B, 58% payout ratio, $86M buybacks. Value-added processing pivot = margin expansion story.",
+      "risks": "Cyclical construction/energy exposure; Kloeckner integration risk; tariff uncertainty on steel volumes and pricing.",
+      "researchDate": "2026-03-01",
+      "priceVs52wLow": "+39%"
+    },
+    {
+      "ticker": "CRT.UN.TO",
+      "name": "CT REIT",
+      "currentPrice": 16.77,
+      "currency": "CAD",
+      "week52Low": 13.5,
+      "week52High": 17.1,
+      "conservativeEstimate": 17.03,
+      "optimisticEstimate": 17.5,
+      "yield": "5.5%",
+      "rating": "Watch / Buy on Dip C$15.50-16",
+      "thesis": "Canadian Tire's real estate arm \u2014 own the buildings CTC operates from. Monthly distributions, grocery-anchored stability. Near 52-week high after analyst upgrade. Wait for pullback to C$15.50-16 for 6%+ yield entry. Perfect TFSA income vehicle.",
+      "risks": "Near 52-week high with limited upside to analyst consensus. Rate-sensitive REIT. Concentrated tenant exposure to Canadian Tire.",
+      "researchDate": "2026-03-01",
+      "priceVs52wLow": "+24%"
+    },
+    {
+      "ticker": "MTL.TO",
+      "name": "Mullen Group Ltd.",
+      "currentPrice": 17.5,
+      "currency": "CAD",
+      "week52Low": 13.0,
+      "week52High": 18.5,
+      "conservativeEstimate": 19.0,
+      "optimisticEstimate": 22.0,
+      "yield": "4.8%",
+      "rating": "Watch / Accumulate",
+      "thesis": "Western Canadian trucking and logistics \u2014 boring backbone of Canadian supply chains. Monthly C$0.07 distributions (C$0.84/yr). Oil & gas services + LTL freight. Canadian eligible dividends. Buy-and-forget 5% income play.",
+      "risks": "Western Canada energy exposure creates cyclicality. Trucking is competitive with thin margins. Volume-sensitive to economic slowdowns.",
+      "researchDate": "2026-03-01",
+      "priceVs52wLow": "+35%"
     }
   ]
 }
