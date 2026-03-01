@@ -3170,6 +3170,125 @@
             "high-volume"
           ],
           "notes": "LinkedIn: https://www.linkedin.com/in/jonathanmorse/"
+        },
+        {
+          "id": "nmbr-20260301-1",
+          "company": "Booksy",
+          "contact": "Stefan Batory",
+          "title": "Co-Founder & CEO",
+          "email": "stefan@booksy.com",
+          "signal": "Beauty/wellness marketplace with 150M+ appointments/year across 6 countries. Backed by Inovia Capital (Canadian VC). Staff scheduling built in but NO payroll. Expanding aggressively \u2014 Canadian salon operators need Canadian payroll. Embedded payroll = new revenue line for Booksy.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-01",
+          "tags": [
+            "beauty-wellness",
+            "marketplace",
+            "high-volume"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/company/booksy | HQ: Chicago/Warsaw. Inovia Capital (Canadian investor) involved. 500M-1B revenue range."
+        },
+        {
+          "id": "nmbr-20260301-2",
+          "company": "AutoLeap",
+          "contact": "Steve Lau",
+          "title": "Co-Founder & Co-CEO",
+          "email": "steve@autoleap.com",
+          "signal": "Toronto-based auto repair shop management SaaS. Raised $40M CAD Series B. Manages scheduling, invoicing, DVI for auto shops but NO embedded payroll. Canadian HQ with deep North American shop base \u2014 perfect fit for embedded payroll.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-01",
+          "tags": [
+            "auto-repair",
+            "toronto",
+            "series-b",
+            "canadian-hq"
+          ],
+          "notes": "LinkedIn: https://ca.linkedin.com/in/steve-lau-33507935 | Co-CEO with Rameez Ansari. BetaKit covered their Series B."
+        },
+        {
+          "id": "nmbr-20260301-3",
+          "company": "MoeGo",
+          "contact": "Ethan (Yi) Dong",
+          "title": "Founder & CEO",
+          "email": "ethan@moego.pet",
+          "signal": "Pet grooming/care SaaS with $24M Series A (Base10 Partners). 10M+ pet parents, 69M+ appointments. Staff scheduling & payments but NO payroll. Growing Canadian pet care market = opportunity to embed payroll for groomers/boarding facilities.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-01",
+          "tags": [
+            "pet-care",
+            "series-a",
+            "high-growth"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/company/moego | Co-founder Emma Chen. Axios covered their $24M raise."
+        },
+        {
+          "id": "nmbr-20260301-4",
+          "company": "KinderLogix",
+          "contact": "Vincent",
+          "title": "Founder",
+          "email": "info@kinderlogix.com",
+          "signal": "Canadian-built childcare management SaaS. 650+ providers across Canada/US. Staff scheduling, compliance tracking, billing \u2014 but payroll is basic reporting/export only. Childcare is exploding in Canada ($10/day program driving massive expansion). Embedded payroll solves a real pain for daycare operators.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-01",
+          "tags": [
+            "childcare",
+            "canadian-hq",
+            "smb"
+          ],
+          "notes": "Website: kinderlogix.com | Founded 2008 as Timesavr. Canadian-first product."
+        },
+        {
+          "id": "nmbr-20260301-5",
+          "company": "Gingr",
+          "contact": "Aaron Nichols",
+          "title": "Co-Founder & General Manager",
+          "email": "info@gingrapp.com",
+          "signal": "Pet-care software (daycare, boarding, grooming) with staff scheduling, POS, multi-location. $6.6M revenue. No embedded payroll. Canadian pet businesses are a growing market and Gingr already serves them \u2014 payroll integration is a natural upsell.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-01",
+          "tags": [
+            "pet-care",
+            "staff-scheduling",
+            "multi-location"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/company/gingr-llc | HQ: Boulder, CO. Founded 2013."
+        },
+        {
+          "id": "nmbr-20260301-6",
+          "company": "ProPet Software",
+          "contact": "Debbie Moffat",
+          "title": "Co-Founder & CEO",
+          "email": "info@propetware.com",
+          "signal": "Pet boarding/daycare/grooming/training SaaS. Has scheduling, billing, CRM but NO payroll module. Serves Canadian market. Smaller player = more likely to partner than build. Embedded payroll adds sticky revenue.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-01",
+          "tags": [
+            "pet-care",
+            "partnership-ready"
+          ],
+          "notes": "Website: propetware.com | Niche but loyal customer base in boarding/daycare."
+        },
+        {
+          "id": "nmbr-20260301-7",
+          "company": "Guest Tracker (TCS Software)",
+          "contact": "TCS Software Management",
+          "title": "General Manager",
+          "email": "info@guesttracker.com",
+          "signal": "Canadian campground/RV park/marina management software. Handles reservations, POS, booking \u2014 but NO staff payroll. Seasonal campground/marina staff = complex payroll (seasonal workers, varying hours, multi-provincial). Embedded payroll is a natural extension.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-01",
+          "tags": [
+            "campground",
+            "canadian-hq",
+            "seasonal-workforce"
+          ],
+          "notes": "Website: guesttracker.com | Canadian-built. Serves campgrounds, RV parks, lodges, marinas across Canada."
         }
       ]
     },
