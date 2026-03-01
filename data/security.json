@@ -1,14 +1,14 @@
 {
-  "lastCheck": "2026-02-28T04:00:00-04:00",
-  "status": "warning",
-  "summary": "Config hash changed — likely routine update. All other systems nominal.",
+  "lastCheck": "2026-03-01T04:00:00-04:00",
+  "status": "nominal",
+  "summary": "All systems nominal. No anomalies detected.",
   "checks": [
-    {"name": "Disk Space", "status": "ok", "detail": "3% used (11Gi/460Gi) — 415Gi available"},
-    {"name": "Login History", "status": "ok", "detail": "All logins from local user freedombot, no anomalies"},
-    {"name": "System Load", "status": "ok", "detail": "Up 6d 19h, load avg 2.44/2.38/2.32"},
-    {"name": "OpenClaw Gateway", "status": "ok", "detail": "Running (pid 76997), loopback-only, RPC probe ok"},
-    {"name": "Processes", "status": "ok", "detail": "No suspicious processes detected"},
-    {"name": "Tailscale", "status": "ok", "detail": "Connected, dwaynes-mac-mini-1 active direct link"},
-    {"name": "Config Integrity", "status": "warning", "detail": "openclaw.json hash changed since last check. Modified 2026-02-27 21:10. Previous: 81d65ec0... New: 34a656e9..."}
+    {"name": "Disk Space", "status": "ok", "detail": "3% used (11Gi/460Gi) — 414Gi free"},
+    {"name": "Login Activity", "status": "ok", "detail": "All logins from user freedombot, no anomalies"},
+    {"name": "System Uptime", "status": "ok", "detail": "Up 7 days 19h, load avg 3.16/2.96/2.86"},
+    {"name": "OpenClaw Gateway", "status": "ok", "detail": "Running (pid 76997), RPC probe ok, loopback-only"},
+    {"name": "Processes", "status": "ok", "detail": "No suspicious processes — standard macOS + Chrome + Telegram + OpenClaw"},
+    {"name": "Tailscale", "status": "ok", "detail": "Connected at 100.124.57.91, dwaynes-mac-mini-1 active"},
+    {"name": "Config Integrity", "status": "ok", "detail": "SHA256 unchanged since last check (34a656e9...)"}
   ]
 }

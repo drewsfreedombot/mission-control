@@ -3398,6 +3398,139 @@
             "enterprise"
           ],
           "notes": "LinkedIn: https://www.linkedin.com/in/justindooley/ \u2014 Award-winning LMS. Clients include large Canadian employers who are Nmbr's ideal embedded payroll targets."
+        },
+        {
+          "id": "nmbr-20260301-1",
+          "company": "PHRBO (ConverjIT Technologies)",
+          "contact": "Jonathan Page",
+          "title": "Co-Founder",
+          "email": "support@phrbo.com",
+          "signal": "Ontario-based SaaS for staffing agencies, EORs & PEOs. Just launched new workforce management platform. Currently offers CSV payroll exports with 'direct payroll integrations planned for a future release' \u2014 textbook embedded payroll opportunity. Nmbr could be that integration.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-01",
+          "tags": [
+            "staffing",
+            "EOR",
+            "PEO",
+            "Ontario",
+            "payroll-gap"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/company/phrbo/ | Website: phrbo.com | HQ: Etobicoke, ON | Phone: (877) 407-6112"
+        },
+        {
+          "id": "nmbr-20260301-2",
+          "company": "Building Stack",
+          "contact": "Jonathan Margel",
+          "title": "Co-Founder & CEO",
+          "email": "info@buildingstack.com",
+          "signal": "Montreal-based Canadian property management SaaS with 150K+ doors. Manages staff scheduling, maintenance assignments, and work orders but has NO payroll feature. Property managers employ superintendents, maintenance staff, and cleaners \u2014 all need payroll. Quebec compliance adds complexity Nmbr handles well.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-01",
+          "tags": [
+            "property-management",
+            "Montreal",
+            "Quebec",
+            "staff-scheduling",
+            "150K-doors"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/company/building-stack/ | Website: buildingstack.com | HQ: Westmount, Montreal | Founded 2009"
+        },
+        {
+          "id": "nmbr-20260301-3",
+          "company": "FLiiP",
+          "contact": "David Bourbonni\u00e8re",
+          "title": "Founder & CEO",
+          "email": "info@myfliip.com",
+          "signal": "Canadian gym management SaaS for multi-location gyms & franchises. Raised $3.2M USD seed funding (Feb 2025). Manages memberships, staff scheduling, payments \u2014 but no embedded payroll. Gym franchises with hourly staff across provinces = complex payroll. Growing fast post-funding, perfect timing for partnership.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-01",
+          "tags": [
+            "fitness",
+            "gym",
+            "franchise",
+            "funded",
+            "staff-scheduling",
+            "Canadian"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/company/fliipapp/ | Website: myfliip.com | $3.2M seed funding"
+        },
+        {
+          "id": "nmbr-20260301-4",
+          "company": "ShapeNet Software",
+          "contact": "Larry King",
+          "title": "Founder & CEO",
+          "email": "info@shapenetsoftware.com",
+          "signal": "Health club/fitness management SaaS since 2002. Full suite: POS, staff scheduling, billing, class management, mobile app \u2014 but no payroll module. Serves gyms, country clubs, and wellness facilities. Enterprise-level clients with hourly staff across locations need payroll integration badly.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-01",
+          "tags": [
+            "fitness",
+            "health-club",
+            "enterprise",
+            "staff-scheduling",
+            "established"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/company/shapenetsoftware/ | Website: shapenetsoftware.com | Founded 2002"
+        },
+        {
+          "id": "nmbr-20260301-5",
+          "company": "Dayshape",
+          "contact": "Andrew Bone",
+          "title": "Co-Founder & CEO",
+          "email": "info@dayshape.com",
+          "signal": "AI-powered resource management for professional services firms. Processes 50K scheduling options/sec. Serves large accounting and consulting firms (500+ employees). No payroll \u2014 they schedule and assign staff to projects. Canadian accounting firms using Dayshape need Canadian payroll. Partner play: Nmbr handles payroll for Dayshape's Canadian client base.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-01",
+          "tags": [
+            "professional-services",
+            "AI",
+            "enterprise",
+            "accounting",
+            "resource-management"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/company/dayshape/ | Website: dayshape.com | UK-based, global clients including Canada"
+        },
+        {
+          "id": "nmbr-20260301-6",
+          "company": "Wellyx",
+          "contact": "TBD",
+          "title": "CEO",
+          "email": "info@wellyx.com",
+          "signal": "Cloud-based gym management SaaS with staff scheduling, billing, door access, class management. Growing in Canadian market. No embedded payroll feature. Gyms and fitness studios with hourly trainers and front-desk staff need payroll \u2014 especially multi-province chains.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-01",
+          "tags": [
+            "fitness",
+            "gym",
+            "SaaS",
+            "staff-scheduling",
+            "Canadian-market"
+          ],
+          "notes": "Website: wellyx.com | Need to identify CEO/decision maker via LinkedIn"
+        },
+        {
+          "id": "nmbr-20260301-7",
+          "company": "ProFinda",
+          "contact": "TBD",
+          "title": "CEO",
+          "email": "info@profinda.com",
+          "signal": "AI workforce optimization platform for professional services. Skills matching, resource scheduling, capacity planning. Serves large firms (500+ employees). No payroll capability \u2014 pure scheduling/matching. Canadian professional services firms using ProFinda need compliant Canadian payroll.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-01",
+          "tags": [
+            "professional-services",
+            "AI",
+            "enterprise",
+            "workforce-optimization"
+          ],
+          "notes": "Website: profinda.com | UK-based, enterprise clients globally"
         }
       ]
     },
