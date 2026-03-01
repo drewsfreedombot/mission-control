@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-28T19:06:29.200662",
+  "lastUpdated": "2026-02-28T21:06:43.746188",
   "stocks": [
     {
       "ticker": "ENB.TO",
@@ -935,6 +935,23 @@
       "risks": "P/E of 23x elevated for a power generator; 136% debt-to-equity; Alberta power market volatility; coal-to-gas transition execution risk.",
       "researchDate": "2026-02-28",
       "priceVs52wLow": "+53%"
+    },
+    {
+      "ticker": "RCI-B.TO",
+      "name": "Rogers Communications Inc.",
+      "currentPrice": 52.67,
+      "currency": "CAD",
+      "week52Low": 33.0,
+      "week52High": 57.0,
+      "conservativeEstimate": 62.0,
+      "optimisticEstimate": 72.0,
+      "yield": "3.8%",
+      "dividendPerShare": 2.0,
+      "rating": "Buy/Accumulate",
+      "thesis": "Canadian telecom oligopoly trading at 10.84x PE \u2014 a 30% discount to its 5-year average of 15-16x. Shaw acquisition synergies materializing: FY2025 revenue C$21.71B (+5.4%), earnings +297%. Still 30% below 2022 ATH despite being the largest wireless carrier post-Shaw (12.1M subs). Deleveraging catalyst as C$40B acquisition debt gets paid down.",
+      "risks": "Earnings normalization (297% jump includes one-time Shaw integration benefits \u2014 normalized PE likely 12-14x). C$40B+ debt load. CRTC regulatory risk. Quebecor/Freedom Mobile emerging as 4th national carrier.",
+      "researchDate": "2026-02-28",
+      "priceVs52wLow": "+60%"
     }
   ]
 }
