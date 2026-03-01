@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-01T03:06:03.871809",
+  "lastUpdated": "2026-03-01T05:03:58.992720",
   "stocks": [
     {
       "ticker": "ENB.TO",
@@ -1000,6 +1000,22 @@
       "risks": "Rate-sensitive REIT; Atlantic Canada concentration; provincial rent control risk; C$120.5M fair value losses in 2025.",
       "researchDate": "2026-03-01",
       "priceVs52wLow": "+10.6%"
+    },
+    {
+      "ticker": "CTC.A.TO",
+      "name": "Canadian Tire Corporation",
+      "currentPrice": 191.33,
+      "currency": "CAD",
+      "week52Low": 139.5,
+      "week52High": 196.46,
+      "conservativeEstimate": 200.0,
+      "optimisticEstimate": 211.0,
+      "yield": "3.8%",
+      "rating": "Buy",
+      "thesis": "Iconic Canadian retailer trading at 13.47x P/E \u2014 a 10% discount to its 10-year average of 14.91x \u2014 despite delivering 19% EPS growth in FY2025. PEG of 0.35 means growth is massively underpriced. 100% domestic revenue = zero tariff exposure, making it a rare safe haven. Three businesses in one: retail (Canadian Tire, SportChek, Mark's), CT REIT, and Financial Services (Triangle Rewards 16M+ members).",
+      "risks": "Near 52-week high with limited short-term margin of safety. D/E of 173% elevated (includes Financial Services lending). FY2025 benefited from extra retail week. Best entry on pullback to C$175-180.",
+      "researchDate": "2026-03-01",
+      "priceVs52wLow": "+37%"
     }
   ]
 }
