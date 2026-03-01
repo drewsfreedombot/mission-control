@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-01T07:04:42.227178",
+  "lastUpdated": "2026-03-01T09:03:35.010304",
   "stocks": [
     {
       "ticker": "ENB.TO",
@@ -1064,6 +1064,54 @@
       "risks": "Western Canada energy exposure creates cyclicality. Trucking is competitive with thin margins. Volume-sensitive to economic slowdowns.",
       "researchDate": "2026-03-01",
       "priceVs52wLow": "+35%"
+    },
+    {
+      "ticker": "DIR.UN.TO",
+      "name": "Dream Industrial REIT",
+      "currentPrice": 13.3,
+      "currency": "CAD",
+      "week52Low": 9.48,
+      "week52High": 13.62,
+      "conservativeEstimate": 14.82,
+      "optimisticEstimate": 15.75,
+      "yield": "5.3%",
+      "rating": "Buy",
+      "thesis": "Industrial REIT trading below 5-year average after rate-hike drawdown \u2014 still 22% below 2021 highs. Rate-cut cycle is the direct catalyst for NAV re-rating. Three analyst upgrades in 10 days (Desjardins, Raymond James, RBC). Monthly distributions, geographic diversification (Canada/US/Europe), and structural e-commerce/reshoring warehouse demand.",
+      "risks": "Rate-sensitive REIT; European FX exposure; near 52-week high \u2014 better entry on pullback to C$12.50.",
+      "researchDate": "2026-03-01",
+      "priceVs52wLow": "+40%"
+    },
+    {
+      "ticker": "CM.TO",
+      "name": "Canadian Imperial Bank of Commerce",
+      "currentPrice": 134.53,
+      "currency": "CAD",
+      "week52Low": 78.0,
+      "week52High": 137.0,
+      "conservativeEstimate": 137.0,
+      "optimisticEstimate": 145.0,
+      "yield": "3.1%",
+      "rating": "Watch / Buy on Pullback C$125",
+      "thesis": "Last Big 5 bank not on the watchlist. Record Q1 2026 revenue just reported Feb 25. P/E 15.7x reasonable for Canadian bank oligopoly. Canadian eligible dividends. Near 52-week highs \u2014 wait for pullback to C$125 for 3.4%+ yield entry.",
+      "risks": "Near 52-week high with limited margin of safety. US commercial real estate loan book is a potential headwind.",
+      "researchDate": "2026-03-01",
+      "priceVs52wLow": "+72%"
+    },
+    {
+      "ticker": "GEI.TO",
+      "name": "Gibson Energy Inc.",
+      "currentPrice": 29.31,
+      "currency": "CAD",
+      "week52Low": 19.63,
+      "week52High": 29.47,
+      "conservativeEstimate": 27.5,
+      "optimisticEstimate": 30.0,
+      "yield": "6.1%",
+      "rating": "Watch / Buy on Pullback C$25-26",
+      "thesis": "Boring midstream oil infrastructure (terminals, pipelines). Record Q4 infra EBITDA of $160M. 7th consecutive 5% dividend increase. $400M Teine acquisition expands Canadian crude footprint. Targets 7%+ infra EBITDA/share growth over 5 years. BUT at new 52-week high and above analyst consensus of C$27.50.",
+      "risks": "At ATH and above analyst consensus \u2014 no margin of safety at current price. 84% payout ratio. D/E 278%. Wait for pullback.",
+      "researchDate": "2026-03-01",
+      "priceVs52wLow": "+49%"
     }
   ]
 }
