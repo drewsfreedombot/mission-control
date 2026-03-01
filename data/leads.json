@@ -3045,6 +3045,131 @@
             "us-to-canada"
           ],
           "notes": "LinkedIn: https://www.linkedin.com/company/qgenda/ | Acquired by Hearst 2024"
+        },
+        {
+          "id": "nmbr-20260228-1",
+          "company": "Schedulefly",
+          "contact": "Weston Aiken",
+          "title": "Founder",
+          "email": "weston@schedulefly.com",
+          "signal": "Restaurant scheduling SaaS serving 6,000+ restaurants in US & Canada \u2014 explicitly has NO payroll feature. Perfect embedded payroll partner for Canadian restaurant clients.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-28",
+          "tags": [
+            "restaurant",
+            "scheduling",
+            "no-payroll",
+            "high-fit"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/in/westonaiken/"
+        },
+        {
+          "id": "nmbr-20260228-2",
+          "company": "Guesty",
+          "contact": "Amiad Soto",
+          "title": "CEO & Co-Founder",
+          "email": "amiad@guesty.com",
+          "signal": "Leading short-term rental management SaaS with Canadian property manager clients. Manages workforce scheduling for cleaners/staff but no payroll \u2014 massive hospitality workforce needing Canadian payroll.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-28",
+          "tags": [
+            "hospitality",
+            "property-mgmt",
+            "no-payroll",
+            "high-volume"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/in/amiadsoto/"
+        },
+        {
+          "id": "nmbr-20260228-3",
+          "company": "Kantata",
+          "contact": "Michael Speranza",
+          "title": "CEO",
+          "email": "msperanza@kantata.com",
+          "signal": "Professional services automation SaaS (ex-Mavenlink + Kimble) serving 2,000+ clients with 500K+ services professionals. Resource/workforce management without embedded payroll \u2014 Canadian consulting firms need compliant payroll.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-28",
+          "tags": [
+            "professional-services",
+            "workforce-mgmt",
+            "enterprise",
+            "mid-market"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/in/michaelsperanza/"
+        },
+        {
+          "id": "nmbr-20260228-4",
+          "company": "Buddy Punch",
+          "contact": "Eric Czerwonka",
+          "title": "Co-Founder & CEO",
+          "email": "eric@buddypunch.com",
+          "signal": "Time tracking SaaS with growing Canadian user base (listed on Capterra Canada). Has basic US payroll but relies on third-party integrations (ADP, Gusto) \u2014 no native Canadian payroll. Embedded Nmbr payroll would be a competitive differentiator.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-28",
+          "tags": [
+            "time-tracking",
+            "no-canadian-payroll",
+            "smb"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/in/ericczerwonka/"
+        },
+        {
+          "id": "nmbr-20260228-5",
+          "company": "HHAeXchange",
+          "contact": "Paul Joiner",
+          "title": "CEO",
+          "email": "pjoiner@hhaexchange.com",
+          "signal": "Leading homecare agency management SaaS \u2014 scheduling, EVV, billing for home health agencies. Growing Canadian presence but no embedded Canadian payroll. Homecare is massive hourly workforce with complex provincial compliance.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-28",
+          "tags": [
+            "homecare",
+            "healthcare",
+            "workforce-mgmt",
+            "enterprise"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/in/pauljoiner/"
+        },
+        {
+          "id": "nmbr-20260228-6",
+          "company": "Compt",
+          "contact": "Amy Spurling",
+          "title": "Founder & CEO",
+          "email": "amy@compt.io",
+          "signal": "Employee stipend/perks platform that integrates with HRIS and payroll systems. Expanding to support global teams including Canada \u2014 needs Canadian payroll partner for tax-compliant stipend processing. Natural channel partner.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-28",
+          "tags": [
+            "benefits",
+            "perks",
+            "payroll-adjacent",
+            "partnership"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/in/amyspurling/"
+        },
+        {
+          "id": "nmbr-20260228-7",
+          "company": "Tripleseat",
+          "contact": "Jonathan Morse",
+          "title": "Founder & CEO",
+          "email": "jonathan@tripleseat.com",
+          "signal": "Hospitality event management SaaS used by 19,000+ venues including Canadian restaurants/hotels. Manages event staff but no payroll \u2014 venues with hourly event staff need Canadian payroll for banquet servers, bartenders, etc.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-02-28",
+          "tags": [
+            "hospitality",
+            "events",
+            "no-payroll",
+            "high-volume"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/in/jonathanmorse/"
         }
       ]
     },
