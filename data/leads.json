@@ -3905,6 +3905,133 @@
             "legacy-platform"
           ],
           "notes": "Website: sportsmancloud.com | Long-running parks & rec software. Similar profile to RecDesk. Contact needs further research."
+        },
+        {
+          "id": "nmbr-20260301-1",
+          "company": "Lillio (HiMama)",
+          "contact": "Kai-le\u00e9 Berke",
+          "title": "CEO",
+          "email": "kailee@lillio.com",
+          "signal": "Toronto-based childcare SaaS serving Canadian daycares. Has staff management & scheduling but no native payroll \u2014 centers handle payroll externally. Thousands of Canadian childcare providers = massive embedded payroll opportunity.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-01",
+          "tags": [
+            "childcare",
+            "vertical-saas",
+            "canadian",
+            "staff-management"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/company/lillio | Founded in Toronto, rebranded from HiMama. Already manages attendance & billing \u2014 payroll is the missing piece."
+        },
+        {
+          "id": "nmbr-20260301-2",
+          "company": "Brightwheel",
+          "contact": "Dave Vasen",
+          "title": "Founder & CEO",
+          "email": "dave@mybrightwheel.com",
+          "signal": "Largest childcare management SaaS (US & Canada). Currently uses Gusto for payroll integration \u2014 not built for Canadian payroll compliance. Millions of educators on platform. Canadian expansion = needs a Canadian payroll partner.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-01",
+          "tags": [
+            "childcare",
+            "vertical-saas",
+            "us-to-canada",
+            "payroll-gap"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/in/davevasen/ | SF-based, Series C+. Uses Gusto for US payroll \u2014 no Canadian payroll capability. Perfect embedded partner."
+        },
+        {
+          "id": "nmbr-20260301-3",
+          "company": "Venn Financial",
+          "contact": "Unknown",
+          "title": "CEO / Head of Product",
+          "email": "hello@venn.ca",
+          "signal": "Canadian fintech banking platform serving 5,000+ SMBs. Offers accounts, cards, FX \u2014 but NO payroll. Integrates with QBO/Xero. Adding embedded payroll would be a massive upsell to existing 5K customer base.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-01",
+          "tags": [
+            "fintech",
+            "embedded-finance",
+            "canadian",
+            "banking-platform"
+          ],
+          "notes": "Website: venn.ca | Toronto-based. Part of growing Canadian embedded finance wave ($16.7B market by 2030). Payroll is the obvious missing module."
+        },
+        {
+          "id": "nmbr-20260301-4",
+          "company": "Neo Financial",
+          "contact": "Andrew Chicken",
+          "title": "Co-Founder & CEO",
+          "email": "info@neofinancial.com",
+          "signal": "Calgary fintech, just raised $68.5M (Feb 2026). Building full banking stack for Canadians. No payroll product yet \u2014 as they expand into business banking/SMB, embedded payroll is a natural next step. Massive scale opportunity.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-01",
+          "tags": [
+            "fintech",
+            "funded",
+            "calgary",
+            "banking",
+            "high-growth"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/in/andrewchicken/ | Co-founded by ex-SkipTheDishes team. $68.5M raised Feb 2026. If they enter business banking, payroll is table stakes."
+        },
+        {
+          "id": "nmbr-20260301-5",
+          "company": "Jolt",
+          "contact": "John Waldron",
+          "title": "Founder & CEO",
+          "email": "info@jolt.com",
+          "signal": "Restaurant/hospitality operations SaaS \u2014 scheduling, time tracking, task management, food safety. No payroll. Growing Canadian restaurant client base needs compliant Canadian payroll tied to scheduling data.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-01",
+          "tags": [
+            "hospitality",
+            "restaurant",
+            "operations",
+            "scheduling"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/in/johnpwaldron/ | Lehi, UT based. Strong in restaurant vertical. Canadian restaurants using Jolt have no integrated payroll path."
+        },
+        {
+          "id": "nmbr-20260301-6",
+          "company": "ChildPilot",
+          "contact": "Unknown",
+          "title": "CEO / Head of Partnerships",
+          "email": "info@childpilot.com",
+          "signal": "Childcare management SaaS \u2014 attendance, billing, staff management. Currently integrates with Gusto (US-only payroll). Canadian childcare clients have no payroll option through the platform. Clear integration opportunity.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-01",
+          "tags": [
+            "childcare",
+            "vertical-saas",
+            "gusto-integration",
+            "payroll-gap"
+          ],
+          "notes": "Website: childpilot.com | Uses Gusto for US payroll \u2014 completely unserved for Canadian market. Nmbr fills that gap."
+        },
+        {
+          "id": "nmbr-20260301-7",
+          "company": "Famly",
+          "contact": "Anders Quistorff",
+          "title": "CEO & Co-Founder",
+          "email": "hello@famly.co",
+          "signal": "Danish childcare SaaS expanding into North America. Staff management, billing, attendance \u2014 no embedded payroll. As they push into Canadian market, they'll need a Canadian payroll partner for compliance.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-01",
+          "tags": [
+            "childcare",
+            "vertical-saas",
+            "european-expansion",
+            "international"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/in/quistorff/ | Copenhagen HQ, expanding to NA. Growing Canadian presence = needs Canadian payroll infrastructure."
         }
       ]
     },
