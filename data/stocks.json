@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-28T23:02:51.617023",
+  "lastUpdated": "2026-03-01T01:03:21.613587",
   "stocks": [
     {
       "ticker": "ENB.TO",
@@ -968,6 +968,22 @@
       "risks": "Near 52-week high with limited margin of safety. Empower growth tied to US equity market fees. Insurance actuarial surprises possible. Best entry C$62-64.",
       "researchDate": "2026-02-28",
       "priceVs52wLow": "+47%"
+    },
+    {
+      "ticker": "POW.TO",
+      "name": "Power Corporation of Canada",
+      "currentPrice": 68.52,
+      "currency": "CAD",
+      "week52Low": 46.03,
+      "week52High": 74.91,
+      "conservativeEstimate": 75.0,
+      "optimisticEstimate": 92.0,
+      "yield": "3.56%",
+      "rating": "Buy",
+      "thesis": "Financial holding company trading at 34% discount to DCF fair value (C$91.98). P/E 14.3x, net income +39% TTM, 49.7% payout ratio with 8.9% dividend growth. Three catalysts: 20M share buyback (3.45% of float), new CEO July 2026, and Q4/FY2025 earnings March 18. Buying a dollar for 74 cents.",
+      "risks": "Holding company discount can persist. Complex structure (GWO + IGM + GBL). European exposure via GBL adds FX/geopolitical risk.",
+      "researchDate": "2026-03-01",
+      "priceVs52wLow": "+49%"
     }
   ]
 }
