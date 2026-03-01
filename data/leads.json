@@ -3289,6 +3289,115 @@
             "seasonal-workforce"
           ],
           "notes": "Website: guesttracker.com | Canadian-built. Serves campgrounds, RV parks, lodges, marinas across Canada."
+        },
+        {
+          "id": "nmbr-20260301-1",
+          "company": "Xplor Technologies",
+          "contact": "Pamela Joseph",
+          "title": "CEO",
+          "email": "pamela.joseph@xplortechnologies.com",
+          "signal": "Global vertical SaaS (childcare, fitness, field services) with embedded payments but NO embedded payroll. Serves 78K+ customers across 20 markets. Canadian expansion opportunity \u2014 their SMB clients need payroll and Xplor doesn't offer it natively.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-01",
+          "tags": [
+            "vertical-saas",
+            "embedded-payments",
+            "childcare",
+            "fitness",
+            "field-services"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/in/pamelajoseph/ \u2014 CEO sits on Paychex board (knows payroll space). Merged with Clubessential Holdings Sep 2025. HQ Atlanta but global."
+        },
+        {
+          "id": "nmbr-20260301-2",
+          "company": "TCP Software (Humanity)",
+          "contact": "Noel Golding",
+          "title": "CEO",
+          "email": "noel.golding@tcpsoftware.com",
+          "signal": "Workforce scheduling/time tracking SaaS used across healthcare, hospitality, retail. Integrates with payroll providers via API but doesn't offer payroll. Canadian customers need Canadian payroll \u2014 perfect embed opportunity.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-01",
+          "tags": [
+            "scheduling",
+            "time-tracking",
+            "healthcare",
+            "hospitality"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/in/noel-golding/ \u2014 Humanity product is their scheduling arm. Already has ADP Marketplace integration, proving payroll integration demand."
+        },
+        {
+          "id": "nmbr-20260301-4",
+          "company": "Wagepoint",
+          "contact": "Shrad Rao",
+          "title": "CEO & Co-Founder",
+          "email": "shrad@wagepoint.com",
+          "signal": "Canadian-built payroll for SMBs ($35M revenue, 155 employees). PARTNERSHIP angle \u2014 Wagepoint could white-label Nmbr's embedded payroll API to their SaaS partners instead of building it themselves. They know the pain of Canadian payroll complexity.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-01",
+          "tags": [
+            "payroll",
+            "partnership",
+            "canadian",
+            "smb"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/in/shradrao/ \u2014 Toronto-based. Direct competitor in SMB payroll but potential API/embedded partner for their own SaaS integrations."
+        },
+        {
+          "id": "nmbr-20260301-5",
+          "company": "Employment Hero",
+          "contact": "Ben Thompson",
+          "title": "CEO & Co-Founder",
+          "email": "ben.thompson@employmenthero.com",
+          "signal": "Australian HR/payroll SaaS actively expanding into Canada (en-ca site live). 350K+ businesses globally. They're building Canadian payroll from scratch \u2014 could partner with Nmbr instead of reinventing the wheel on CRA compliance, provincial rules, ROEs.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-01",
+          "tags": [
+            "hr-platform",
+            "international-expansion",
+            "partnership",
+            "australia"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/in/bthompson11/ \u2014 Recently launched en-ca comparison pages vs Rippling. Clear intent to win Canadian market."
+        },
+        {
+          "id": "nmbr-20260301-6",
+          "company": "Wages Canada Inc.",
+          "contact": "Unknown",
+          "title": "CEO",
+          "email": "info@wagescanada.com",
+          "signal": "Brand new EOR platform (launched this week) for US/European staffing firms expanding into Canada. Built for high-volume staffing payroll. Direct partnership opportunity \u2014 they need robust Canadian payroll rails and Nmbr could be their engine.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-01",
+          "tags": [
+            "eor",
+            "staffing",
+            "international-expansion",
+            "partnership"
+          ],
+          "notes": "Just announced expansion to support US and European staffing firms. CSV payroll exports now, direct integrations planned. Early-stage = best time to partner."
+        },
+        {
+          "id": "nmbr-20260301-7",
+          "company": "Absorb Software",
+          "contact": "Justin Dooley",
+          "title": "President",
+          "email": "justin.dooley@absorblms.com",
+          "signal": "Calgary-based LMS SaaS serving enterprise clients for employee training/onboarding. Their customers already manage large Canadian workforces. Natural adjacency \u2014 LMS clients need payroll for the same employees they're training. Partnership or integration play.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-01",
+          "tags": [
+            "lms",
+            "training",
+            "canadian",
+            "enterprise"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/in/justindooley/ \u2014 Award-winning LMS. Clients include large Canadian employers who are Nmbr's ideal embedded payroll targets."
         }
       ]
     },
