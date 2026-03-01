@@ -3783,6 +3783,128 @@
             "SMB"
           ],
           "notes": "LinkedIn: https://www.linkedin.com/company/sloneek/ | Pre-seed stage, growing"
+        },
+        {
+          "id": "nmbr-20260301-1",
+          "company": "Distru",
+          "contact": "Blaine Hatab",
+          "title": "Co-Founder & CEO",
+          "email": "blaine@distru.com",
+          "signal": "Cannabis ERP/distribution SaaS with no native payroll \u2014 partners with W\u00fcrk for payroll. Canadian cannabis market is large and growing; Distru could embed Nmbr for Canadian payroll instead of building it.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-01",
+          "tags": [
+            "cannabis",
+            "vertical-saas",
+            "no-payroll"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/in/blainehatab/ | Oakland-based, 3K+ LinkedIn followers. Seed-to-sale software for cannabis brands. Explicitly recommends W\u00fcrk for payroll \u2014 payroll gap confirmed."
+        },
+        {
+          "id": "nmbr-20260301-2",
+          "company": "W\u00fcrk",
+          "contact": "Deborah Saneman",
+          "title": "CEO",
+          "email": "deborah@enjoywurk.com",
+          "signal": "Cannabis-specific HCM/payroll provider, US-focused. Canadian cannabis employers need compliant payroll \u2014 W\u00fcrk could embed Nmbr to expand into Canada without building Canadian payroll from scratch.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-01",
+          "tags": [
+            "cannabis",
+            "payroll-adjacent",
+            "us-to-canada-expansion"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/company/wurk | Denver-based. Leading cannabis HCM. 25+ years payroll/compliance experience. Partnership angle: Nmbr powers their Canadian payroll module."
+        },
+        {
+          "id": "nmbr-20260301-3",
+          "company": "Flowhub",
+          "contact": "Kyle Sherman",
+          "title": "Founder & CEO",
+          "email": "kyle@flowhub.com",
+          "signal": "Cannabis dispensary POS platform expanding rapidly (250-400 dispensary target). Does scheduling/time tracking but no payroll. Canadian dispensaries need CRA-compliant payroll \u2014 Nmbr embed opportunity.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-01",
+          "tags": [
+            "cannabis",
+            "POS",
+            "no-payroll",
+            "high-growth"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/in/kylesherman/ | Denver-based. Recently partnered with Cheech & Chong. Expanding to 250-400 dispensaries. Open ecosystem philosophy \u2014 good for integration partnerships."
+        },
+        {
+          "id": "nmbr-20260301-4",
+          "company": "BLAZE",
+          "contact": "Christopher Violas",
+          "title": "CEO & Founder",
+          "email": "chris@blaze.me",
+          "signal": "Top cannabis dispensary POS for in-store and delivery. Handles e-commerce, payments, marketing \u2014 no embedded payroll. Canadian cannabis retailers running BLAZE need payroll.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-01",
+          "tags": [
+            "cannabis",
+            "POS",
+            "no-payroll"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/company/goblaze | Anaheim-based, 51-200 employees. Comprehensive cannabis retail suite without payroll."
+        },
+        {
+          "id": "nmbr-20260301-5",
+          "company": "RecDesk",
+          "contact": "Mike Morris",
+          "title": "Founder & CEO",
+          "email": "mike@recdesk.com",
+          "signal": "1000+ clients across US and Canada \u2014 parks, recreation, community centers. Manages staff scheduling and basic payroll exports but no embedded Canadian payroll processing. Municipal/public sector = stable recurring revenue.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-01",
+          "tags": [
+            "recreation",
+            "municipal",
+            "no-payroll",
+            "canadian-clients"
+          ],
+          "notes": "LinkedIn: N/A | Founded 2006, 1000+ recreation clients. Serves Canadian municipalities. Staff scheduling exists but payroll is basic/exported \u2014 Nmbr could embed full Canadian payroll."
+        },
+        {
+          "id": "nmbr-20260301-6",
+          "company": "CIRCUITREE (Togetherwork)",
+          "contact": "Neil Platt",
+          "title": "CEO (Togetherwork)",
+          "email": "info@circuitree.com",
+          "signal": "Camp management SaaS serving US and Canada \u2014 staff coordination, billing, scheduling. No payroll module. Summer camps in Canada have seasonal staff requiring provincial payroll compliance.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-01",
+          "tags": [
+            "camp-management",
+            "seasonal-workforce",
+            "no-payroll"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/company/circuitree-solutions | Owned by Togetherwork. Serves camps across US and Canada including Bunk1 mobile app. Seasonal payroll complexity = strong Nmbr fit."
+        },
+        {
+          "id": "nmbr-20260301-7",
+          "company": "Peak Software Systems (Sportsman Web)",
+          "contact": "Unknown",
+          "title": "CEO/Owner",
+          "email": "info@sportsmancloud.com",
+          "signal": "Parks & recreation management SaaS since 1993. Manages memberships, registrations, facility bookings, POS \u2014 no staff payroll. Canadian municipal clients need compliant payroll.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-01",
+          "tags": [
+            "recreation",
+            "municipal",
+            "no-payroll",
+            "legacy-platform"
+          ],
+          "notes": "Website: sportsmancloud.com | Long-running parks & rec software. Similar profile to RecDesk. Contact needs further research."
         }
       ]
     },
