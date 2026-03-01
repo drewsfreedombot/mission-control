@@ -3655,6 +3655,134 @@
             "small-business"
           ],
           "notes": "Website: busypaws.app | Newer entrant in pet care SaaS. Good test case for smaller vertical partner."
+        },
+        {
+          "id": "nmbr-20260301-1",
+          "company": "Push Operations",
+          "contact": "Tina Lum",
+          "title": "CEO & Co-founder",
+          "email": "tina@pushoperations.com",
+          "signal": "Canadian restaurant scheduling/payroll SaaS in Vancouver \u2014 has own payroll but could partner with Nmbr for deeper Canadian compliance and white-label embedded payroll for their restaurant clients expanding across provinces",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-01",
+          "tags": [
+            "restaurant",
+            "scheduling",
+            "Canadian-based",
+            "payroll-adjacent"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/company/push-operations/"
+        },
+        {
+          "id": "nmbr-20260301-2",
+          "company": "Netchex",
+          "contact": "David Giannetto",
+          "title": "CEO",
+          "email": "dgiannetto@netchex.com",
+          "signal": "US-based all-in-one HR/payroll/WFM platform for hourly workers \u2014 recently expanded PAR Technology integration for QSR restaurants. No Canadian payroll capability \u2014 Nmbr could power their Canada expansion",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-01",
+          "tags": [
+            "US-based",
+            "workforce-management",
+            "restaurant",
+            "Canada-expansion"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/company/netchex/ | New CEO as of Sept 2024 (founder Will Boudreaux moved to board)"
+        },
+        {
+          "id": "nmbr-20260301-3",
+          "company": "Personio",
+          "contact": "Hugues Vincent",
+          "title": "Head of Product Partnerships",
+          "email": "hugues.vincent@personio.com",
+          "signal": "\u20ac8.5B European HR platform actively expanding to North America \u2014 has localized payroll for DE/UK/AT/ES but NOT Canada. Analysts explicitly note NA expansion. Nmbr = instant Canadian payroll capability for their SMB clients",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-01",
+          "tags": [
+            "enterprise",
+            "HRIS",
+            "European",
+            "NA-expansion",
+            "high-value"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/in/hugues-vincent-367b8a19/ | Series E $270M, valued ~$8.5B"
+        },
+        {
+          "id": "nmbr-20260301-4",
+          "company": "ATOSS Software",
+          "contact": "Andreas Obereder",
+          "title": "Founder & CEO",
+          "email": "info@atoss.com",
+          "signal": "German WFM leader (publicly traded) with General Atlantic backing \u2014 explicitly targeting North American expansion. Strong in time tracking/scheduling but needs Canadian payroll partner. Enterprise-grade, 700+ employees",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-01",
+          "tags": [
+            "enterprise",
+            "workforce-management",
+            "European",
+            "NA-expansion",
+            "public-company"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/company/atoss-software-ag | General Atlantic invested Dec 2024 (~20% stake)"
+        },
+        {
+          "id": "nmbr-20260301-5",
+          "company": "Reflow",
+          "contact": "Ugur Kaner",
+          "title": "Founder & CEO",
+          "email": "ugur@reflow.ai",
+          "signal": "Just raised $15M+ seed (Feb 2026) for workforce & workflow intelligence platform \u2014 enterprise ops observability. Fresh funding = growth mode. Will need payroll data integration for Canadian enterprise clients",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-01",
+          "tags": [
+            "funded",
+            "workforce-intelligence",
+            "enterprise",
+            "fresh-funding"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/company/reflow-ai/ | $15M+ seed Feb 2026"
+        },
+        {
+          "id": "nmbr-20260301-6",
+          "company": "YOOBIC",
+          "contact": "Fabrice Haiat",
+          "title": "CEO & Co-founder",
+          "email": "fabrice@yoobic.com",
+          "signal": "Frontline employee experience platform for retail/hospitality \u2014 strong in task management, training, comms but no native payroll. Canadian retail clients would need Canadian payroll integration. Forbes Tech Council member",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-01",
+          "tags": [
+            "frontline",
+            "retail",
+            "hospitality",
+            "employee-experience"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/company/yoobic/ | London-based, global presence"
+        },
+        {
+          "id": "nmbr-20260301-7",
+          "company": "Sloneek",
+          "contact": "Filip Lukac",
+          "title": "CEO & Co-founder",
+          "email": "filip@sloneek.com",
+          "signal": "Czech HR platform expanding internationally \u2014 attendance, recruitment, performance, payroll features but no Canadian payroll compliance. Listed on Capterra Canada 2026 = actively targeting Canadian market",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-01",
+          "tags": [
+            "European",
+            "HRIS",
+            "Canada-expansion",
+            "SMB"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/company/sloneek/ | Pre-seed stage, growing"
         }
       ]
     },
