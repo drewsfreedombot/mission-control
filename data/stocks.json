@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-28T21:06:43.746188",
+  "lastUpdated": "2026-02-28T23:02:51.617023",
   "stocks": [
     {
       "ticker": "ENB.TO",
@@ -952,6 +952,22 @@
       "risks": "Earnings normalization (297% jump includes one-time Shaw integration benefits \u2014 normalized PE likely 12-14x). C$40B+ debt load. CRTC regulatory risk. Quebecor/Freedom Mobile emerging as 4th national carrier.",
       "researchDate": "2026-02-28",
       "priceVs52wLow": "+60%"
+    },
+    {
+      "ticker": "GWO.TO",
+      "name": "Great-West Lifeco Inc.",
+      "currentPrice": 65.9,
+      "currency": "CAD",
+      "week52Low": 44.89,
+      "week52High": 68.12,
+      "conservativeEstimate": 68.0,
+      "optimisticEstimate": 73.0,
+      "yield": "4.07%",
+      "rating": "Buy / Accumulate on Dips C$62-64",
+      "thesis": "Record 2025 base earnings ($4.6B, +11%), 10% dividend hike to C$0.67/qtr, base ROE 18.2% targeting 19%+. Empower (#2 US retirement platform) driving double-digit growth. Forward P/E ~13.1x on $5.03 base EPS is cheap for a financial delivering 18% ROE. $3.3T client assets, $1.6B buybacks in 2025. Boring, diversified, growing.",
+      "risks": "Near 52-week high with limited margin of safety. Empower growth tied to US equity market fees. Insurance actuarial surprises possible. Best entry C$62-64.",
+      "researchDate": "2026-02-28",
+      "priceVs52wLow": "+47%"
     }
   ]
 }
