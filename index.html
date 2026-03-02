@@ -1255,8 +1255,8 @@ async function init(){
   ];
   const stageOverrides=JSON.parse(localStorage.getItem('kanban-stages')||'{}');
   let deletedCards=JSON.parse(localStorage.getItem('kanban-deleted')||'[]');
-  let showDeleted=false;
-  let kanbanFilter='all';
+  window.showDeleted=window.showDeleted||false;
+  window.kanbanFilter=window.kanbanFilter||'all';
   function isDeleted(boardId,leadId){return deletedCards.includes(boardId+'::'+leadId)}
   function deleteCard(boardId,leadId,company){
     const key=boardId+'::'+leadId;
@@ -1389,17 +1389,18 @@ async function init(){
 
   function renderKanban(){
     if(!leadsData||!leadsData.boards)return;
-    const boards=kanbanFilter==='all'?leadsData.boards:leadsData.boards.filter(b=>b.id===kanbanFilter);
+    const kf=window.kanbanFilter;
+    const boards=kf==='all'?leadsData.boards:leadsData.boards.filter(b=>b.id===kf);
     const sw=document.getElementById('kanban-board-switcher');
     const delCount=deletedCards.length;
-    sw.innerHTML=`<div class="kb-tab ${kanbanFilter==='all'?'active':''}" style="${kanbanFilter==='all'?'background:var(--accent-light);':''}" onclick="kanbanFilter='all';renderKanban()">All Boards</div>`+
-      leadsData.boards.map(b=>`<div class="kb-tab ${kanbanFilter===b.id?'active':''}" style="${kanbanFilter===b.id?'background:'+b.color+';':''}" onclick="kanbanFilter='${b.id}';renderKanban()">${esc(b.name)}</div>`).join('')+
+    sw.innerHTML=`<div class="kb-tab ${kf==='all'?'active':''}" style="${kf==='all'?'background:var(--accent-light);':''}" onclick="window.kanbanFilter='all';renderKanban()">All Boards</div>`+
+      leadsData.boards.map(b=>`<div class="kb-tab ${kf===b.id?'active':''}" style="${kf===b.id?'background:'+b.color+';':''}" onclick="window.kanbanFilter='${b.id}';renderKanban()">${esc(b.name)}</div>`).join('')+
       `<div class="kb-tab" style="border-style:dashed;opacity:.7" onclick="openNewBoardModal()">+ Board</div>`+
-      (delCount?`<span class="show-deleted-toggle" onclick="showDeleted=!showDeleted;renderKanban()">${showDeleted?'Hide':'Show'} deleted (${delCount})</span>`:'');
+      (delCount?`<span class="show-deleted-toggle" onclick="window.showDeleted=!window.showDeleted;renderKanban()">${window.showDeleted?'Hide':'Show'} deleted (${delCount})</span>`:'');
     let totalActive=0;
     let html='';
     boards.forEach(board=>{
-      const leads=(board.leads||[]).filter(l=>showDeleted||!isDeleted(board.id,l.id));
+      const leads=(board.leads||[]).filter(l=>window.showDeleted||!isDeleted(board.id,l.id));
       const activeLeads=leads.filter(l=>{const s=getLeadStage(board.id,l.id,l.stage);return s!=='closed-won'&&s!=='closed-lost'&&s!=='dead'&&s!=='disqualified'});
       totalActive+=activeLeads.length;
       html+=`<div class="kanban-board-group"><div class="kb-group-header"><div class="kb-group-dot" style="background:${esc(board.color)}"></div><span class="kb-group-name">${esc(board.name)}</span><span class="kb-group-count">(${leads.length} cards)</span></div><div class="kanban-columns">`;
