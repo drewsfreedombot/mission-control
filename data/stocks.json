@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-01T11:04:42.928817",
+  "lastUpdated": "2026-03-02T07:07:04.315385",
   "stocks": [
     {
       "ticker": "ENB.TO",
@@ -1128,6 +1128,22 @@
       "risks": "Debt/equity 364% from Freedom Mobile acquisition. Near 52-week high with limited short-term margin of safety. Freedom Mobile integration still maturing in new markets. Quebec concentration remains ~60% of revenue.",
       "researchDate": "2026-03-01",
       "priceVs52wLow": "+73%"
+    },
+    {
+      "ticker": "QSR",
+      "name": "Restaurant Brands International Inc.",
+      "currentPrice": 71.71,
+      "currency": "USD",
+      "week52Low": 58.71,
+      "week52High": 73.7,
+      "conservativeEstimate": 77.0,
+      "optimisticEstimate": 92.0,
+      "yield": "3.6%",
+      "rating": "Buy",
+      "thesis": "Tim Hortons parent trading 7% below ATH despite 12% revenue growth and 10.7% adj EPS growth. At 19.4x adj earnings vs 25x historical PE, normalization alone implies $92+. Asset-light franchise model with 30,000+ restaurants across 100+ countries generates predictable royalty cash flows. $2.60 dividend just raised, 70.5% adj payout ratio sustainable.",
+      "risks": "Popeyes struggling (-3.2% FY comps), high debt D/E 2.62x (franchise model supports it), GAAP earnings distorted by one-time charges. Tim Hortons international expansion unproven at scale.",
+      "researchDate": "2026-03-02",
+      "priceVs52wLow": "+22%"
     }
   ]
 }
