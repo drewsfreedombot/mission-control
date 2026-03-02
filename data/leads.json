@@ -4155,6 +4155,29 @@
             "niche-vertical"
           ],
           "notes": "LinkedIn: https://www.linkedin.com/company/innovint | HQ: Portland, OR. UC Davis-trained founder. Growing winery customer base including Canadian operations. Okanagan/Niagara wineries are underserved for payroll."
+        },
+        {
+          "id": "n221",
+          "company": "AutoLeap",
+          "contact": "Rameez Ansari",
+          "title": "Co-Founder & Co-CEO",
+          "email": "rameez@autoleap.com",
+          "altContacts": [
+            "steve@autoleap.com"
+          ],
+          "stage": "lead",
+          "source": "Drew Direct",
+          "signal": "Canadian vertical SaaS for auto repair shops. $30M Series B. Ontario-based. No native payroll (QuickBooks integration only). Rameez connected to Mark Bluvshtein (Collage CEO) on LinkedIn. Collage just embedded Nmbr payroll 2 weeks ago \u2014 perfect warm intro angle.",
+          "notes": "Co-founded with Steve Lau. Previously exited FieldEdge for $100M+. Serves US & Canada. 4.9/5 on Gartner. Auto repair shops = high employee turnover, complex scheduling, tip/commission payroll. Custom sequence built leveraging Collage/Mark connection.",
+          "added": "2026-03-02",
+          "tags": [
+            "auto-repair",
+            "vertical-SaaS",
+            "Canadian",
+            "Series-B",
+            "Drew-direct",
+            "warm-intro"
+          ]
         }
       ]
     },
@@ -4906,5 +4929,5 @@
       ]
     }
   ],
-  "updated": "2026-02-28"
+  "updated": "2026-03-02T11:55:00"
 }
