@@ -1,14 +1,14 @@
 {
-  "lastCheck": "2026-03-01T04:00:00-04:00",
+  "lastCheck": "2026-03-02T04:00:00-04:00",
   "status": "nominal",
-  "summary": "All systems nominal. No anomalies detected.",
-  "checks": [
-    {"name": "Disk Space", "status": "ok", "detail": "3% used (11Gi/460Gi) — 414Gi free"},
-    {"name": "Login Activity", "status": "ok", "detail": "All logins from user freedombot, no anomalies"},
-    {"name": "System Uptime", "status": "ok", "detail": "Up 7 days 19h, load avg 3.16/2.96/2.86"},
-    {"name": "OpenClaw Gateway", "status": "ok", "detail": "Running (pid 76997), RPC probe ok, loopback-only"},
-    {"name": "Processes", "status": "ok", "detail": "No suspicious processes — standard macOS + Chrome + Telegram + OpenClaw"},
-    {"name": "Tailscale", "status": "ok", "detail": "Connected at 100.124.57.91, dwaynes-mac-mini-1 active"},
-    {"name": "Config Integrity", "status": "ok", "detail": "SHA256 unchanged since last check (34a656e9...)"}
-  ]
+  "checks": {
+    "disk": { "status": "ok", "detail": "3% used — 402Gi available of 460Gi" },
+    "logins": { "status": "ok", "detail": "All logins from freedombot — no unknown users" },
+    "uptime": { "status": "ok", "detail": "8 days 19h — load avg 2.44/2.33/2.25" },
+    "gateway": { "status": "ok", "detail": "Running (pid 78560), loopback-only, RPC ok" },
+    "processes": { "status": "ok", "detail": "No suspicious processes detected" },
+    "tailscale": { "status": "ok", "detail": "Connected — freedombots-macbook-pro online, dwaynes-mac-mini-1 active" },
+    "configIntegrity": { "status": "ok", "detail": "SHA256 unchanged since last check" }
+  },
+  "notes": "fseventsd high CPU (99%) — likely indexing after extended uptime. Monitor on next check."
 }
