@@ -4032,6 +4032,129 @@
             "international"
           ],
           "notes": "LinkedIn: https://www.linkedin.com/in/quistorff/ | Copenhagen HQ, expanding to NA. Growing Canadian presence = needs Canadian payroll infrastructure."
+        },
+        {
+          "id": "nmbr-20260302-1",
+          "company": "DRB Systems (Vontier)",
+          "contact": "Ian Williams",
+          "title": "President",
+          "email": "iwilliams@drb.com",
+          "signal": "Car wash vertical SaaS with PeopleBuilder workforce management + Washify labor tracking. Currently uses Deputy for scheduling/payroll integration \u2014 no embedded Canadian payroll. 2,700+ car wash locations served. Expanding service verticals. Massive addressable staff base needing payroll.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-02",
+          "tags": [
+            "car-wash",
+            "workforce-mgmt",
+            "high-value"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/company/tunneldrb | HQ: Akron, OH (Vontier subsidiary). Already has labor cost tracking and scheduling \u2014 payroll is the missing piece. Canadian car wash chains (Petro-Canada, Mr. Lube) would benefit."
+        },
+        {
+          "id": "nmbr-20260302-2",
+          "company": "Tribute Technology",
+          "contact": "Craig Greenseid",
+          "title": "CEO",
+          "email": "cgreenseid@tributetech.com",
+          "signal": "Funeral home management SaaS with case management, billing, accounting, and staff scheduling. Growing through acquisitions. No embedded payroll for funeral home employees. Niche vertical with 20K+ funeral homes in North America.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-02",
+          "tags": [
+            "funeral-home",
+            "niche-vertical",
+            "acquisitive"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/company/tribute-technology | Co-founders: Scott Mindrum, Matt Frazer. Product formerly CRaKN. Staff management exists but no payroll \u2014 clear integration opportunity."
+        },
+        {
+          "id": "nmbr-20260302-3",
+          "company": "Accesso Technology Group",
+          "contact": "Steve Brown",
+          "title": "CEO & Founder",
+          "email": "sbrown@accesso.com",
+          "signal": "Ski resort & attractions SaaS \u2014 ticketing, POS, operations for 50+ ski resorts in North America (many Canadian). Acquired Paradocs (MtnOS) for mountain operations. Seasonal workforce = massive payroll complexity. No embedded payroll.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-02",
+          "tags": [
+            "ski-resort",
+            "attractions",
+            "seasonal-workforce",
+            "high-value"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/company/accesso | LSE-listed (ACSO). Canadian ski resorts using MtnOS include Mont Orford. Heavy seasonal hiring = Canadian payroll pain (provincial rules, holiday pay, T4s)."
+        },
+        {
+          "id": "nmbr-20260302-4",
+          "company": "Altametrics",
+          "contact": "Mitesh Gala",
+          "title": "Founder & CEO",
+          "email": "mgala@altametrics.com",
+          "signal": "Restaurant operations SaaS \u2014 scheduling, timekeeping, inventory, workforce mgmt. M+ revenue. Serves thousands of franchise locations (DQ, Popeyes, etc.). Just launched payroll integration library with US-only partners. No Canadian payroll partner = gap Nmbr fills.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-02",
+          "tags": [
+            "restaurant",
+            "franchise",
+            "high-revenue",
+            "payroll-gap"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/company/altametrics | HQ: Costa Mesa, CA. Founded 1997. Current payroll integrations are US-only (PNIHCM, AllianceHCM). Canadian franchise operators have no option."
+        },
+        {
+          "id": "nmbr-20260302-5",
+          "company": "QSRSoft",
+          "contact": "Tim Burge",
+          "title": "CEO",
+          "email": "tburge@qsrsoft.com",
+          "signal": "Restaurant operations SaaS \u2014 labor management, food cost, operations analytics. .5M revenue, bootstrapped, thousands of locations. Integrates with US payroll but no Canadian payroll partner. Perfect Nmbr fit for Canadian QSR chains.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-02",
+          "tags": [
+            "restaurant",
+            "QSR",
+            "labor-mgmt",
+            "high-revenue"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/company/qsrsoft | Founded 2004, founder Michael Henkel. Currently integrates with US payroll only. Canadian Tim Hortons/A&W/Harvey operators need this."
+        },
+        {
+          "id": "nmbr-20260302-6",
+          "company": "TechPOS International",
+          "contact": "Amir Ahani",
+          "title": "Founder & CEO",
+          "email": "amir@techpos.ca",
+          "signal": "Canada-first cannabis dispensary POS \u2014 the only fully Canadian-built cannabis retail ecosystem. 5K+ LinkedIn followers. Has staff management features but NO payroll. 100% Canadian customer base = immediate Nmbr value.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-02",
+          "tags": [
+            "cannabis",
+            "canada-first",
+            "pos",
+            "immediate-fit"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/in/amirahani | Company: https://www.linkedin.com/company/techposinternationalcorp | HQ: Canada. Competitor Cova already partners with KayaPush for payroll \u2014 TechPOS has no payroll partner yet. Low-hanging fruit."
+        },
+        {
+          "id": "nmbr-20260302-7",
+          "company": "InnoVint",
+          "contact": "Ashley Leonard",
+          "title": "Founder & CEO",
+          "email": "ashley@innovint.us",
+          "signal": "Cloud-based winery management SaaS \u2014 vine to bottle operations. Growing platform with ERP integrations. Wineries have seasonal harvest crews + cellar door staff. BC and Ontario wine regions = Canadian payroll need. No payroll integration exists.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-02",
+          "tags": [
+            "winery",
+            "seasonal-workforce",
+            "niche-vertical"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/company/innovint | HQ: Portland, OR. UC Davis-trained founder. Growing winery customer base including Canadian operations. Okanagan/Niagara wineries are underserved for payroll."
         }
       ]
     },
