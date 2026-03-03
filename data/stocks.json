@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-02T07:07:04.315385",
+  "lastUpdated": "2026-03-03T07:10:09.622186",
   "stocks": [
     {
       "ticker": "ENB.TO",
@@ -1144,6 +1144,23 @@
       "risks": "Popeyes struggling (-3.2% FY comps), high debt D/E 2.62x (franchise model supports it), GAAP earnings distorted by one-time charges. Tim Hortons international expansion unproven at scale.",
       "researchDate": "2026-03-02",
       "priceVs52wLow": "+22%"
+    },
+    {
+      "ticker": "IFC.TO",
+      "name": "Intact Financial Corporation",
+      "currentPrice": 261.96,
+      "currency": "CAD",
+      "week52Low": 244.01,
+      "week52High": 317.35,
+      "conservativeEstimate": 310.0,
+      "optimisticEstimate": 330.0,
+      "yield": "2.25%",
+      "dividendPerShare": 5.88,
+      "rating": "Buy",
+      "thesis": "Canada's #1 P&C insurer at 14.1x P/E with 19.5% ROE \u2014 record FY2025 NOIPS of C$19.21 (+33%) and 48% EPS growth. Stock 17% below 52-week high after post-earnings overreaction despite beating estimates. 32% payout ratio with 10-year dividend CAGR of 10% (21 consecutive increases) means the dividend doubles in ~7 years. Ex-div March 17 at new higher C$1.47/qtr (11% hike). C$3.7B capital margin for acquisitions.",
+      "risks": "UK&I segment underperforming (-2% DPW). P/E of 14.1x above insurance peer average of 12.8x. Low yield (2.25%) \u2014 total return play, not high income. Catastrophe losses can spike unpredictably.",
+      "researchDate": "2026-03-03",
+      "priceVs52wLow": "+7%"
     }
   ]
 }
