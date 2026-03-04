@@ -4178,6 +4178,132 @@
             "Drew-direct",
             "warm-intro"
           ]
+        },
+        {
+          "id": "nmbr-20260304-1",
+          "company": "Phorest",
+          "contact": "Ronan Perceval",
+          "title": "CEO & Founder",
+          "email": "ronan@phorest.com",
+          "signal": "Salon/spa SaaS with 10,000+ salons in 10 countries incl Canada. Has scheduling, staff management, commission tracking \u2014 but NO native payroll. Currently relies on QuickBooks/Xero export. Actively hiring Director of Partnerships. Perfect embedded payroll partner for beauty vertical.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-04",
+          "tags": [
+            "beauty",
+            "salon",
+            "international",
+            "partnerships-hiring"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/company/phorest | HQ: Dublin, Ireland | Canada page: phorest.com/ca/ | 7M appointments/month processed | Co-founder: Jamie Mysercough"
+        },
+        {
+          "id": "nmbr-20260304-2",
+          "company": "Wodify",
+          "contact": "Ameet Shah",
+          "title": "Founder & CEO",
+          "email": "ameet@wodify.com",
+          "signal": "Gym management SaaS for 5,000+ CrossFit/boutique fitness gyms globally. Has payroll 'calculator' and staff availability tracking but NO actual payroll processing. Canadian gym owners need compliant payroll. Huge white-label embedded payroll opportunity.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-04",
+          "tags": [
+            "fitness",
+            "gym",
+            "crossfit",
+            "global"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/company/wodify | HQ: Cherry Hill, NJ | Features: scheduling, billing, task mgmt, staff tracking | Bootstrapped"
+        },
+        {
+          "id": "nmbr-20260304-3",
+          "company": "Virtuagym",
+          "contact": "Hugo Braam",
+          "title": "Co-Founder & CEO",
+          "email": "hugo@virtuagym.com",
+          "signal": "Dutch fitness SaaS expanding aggressively into North America. Serves gyms, studios, personal trainers. Has class scheduling and member management \u2014 NO embedded payroll. ACTIVELY HIRING Partnership Manager to build integration marketplace. Perfect timing for embedded payroll pitch.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-04",
+          "tags": [
+            "fitness",
+            "international",
+            "partnerships-hiring",
+            "high-priority"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/in/hugobraam/ | HQ: Amsterdam | \u20ac3M investment from Icecat | Partners: EGYM, Matrix Fitness | partnerships@virtuagym.com"
+        },
+        {
+          "id": "nmbr-20260304-4",
+          "company": "Daxko",
+          "contact": "Rudy Nieto",
+          "title": "Chief Revenue Officer",
+          "email": "rnieto@daxko.com",
+          "signal": "Software for ~10,000 health/fitness centers incl 70% of US YMCAs. Owns Zen Planner (6,000+ boutique gyms), SugarWOD, UpLaunch. No embedded Canadian payroll for any brand. Massive scale \u2014 single partnership could unlock thousands of Canadian fitness operators.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-04",
+          "tags": [
+            "fitness",
+            "enterprise",
+            "ymca",
+            "high-priority",
+            "multi-brand"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/company/daxko | HQ: Birmingham, AL | CEO: Ron Lamb | CMO: Wendy White | Brands: Zen Planner, SugarWOD, UpLaunch, Motionsoft, PlayerSpace"
+        },
+        {
+          "id": "nmbr-20260304-5",
+          "company": "Croptracker",
+          "contact": "Matt Deir",
+          "title": "CEO & Founder",
+          "email": "matt@croptracker.com",
+          "signal": "CANADIAN farm management SaaS (Ontario-based). Has labor tracking, scheduling, pay schedules \u2014 generates payroll reports but NO actual payroll processing. Won 2022 Harvest Solution Provider of Year. Canadian farms need compliant payroll for seasonal workers, TFWs. Niche with zero competition.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-04",
+          "tags": [
+            "agriculture",
+            "canadian",
+            "niche",
+            "high-priority"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/company/croptracker | HQ: Ontario, Canada | Award-winning ag tech | 16+ years in market | Seasonal worker payroll = complex"
+        },
+        {
+          "id": "nmbr-20260304-6",
+          "company": "ABC Fitness Solutions",
+          "contact": "Finn Schwingenschl\u00f6gl",
+          "title": "Chief Product Officer (leads Partnerships & M&A)",
+          "email": "partnerships@abcfitness.com",
+          "signal": "Largest fitness software company globally. Acquired Glofox ($30M+ funded). Brands: Ignite, Evo, Glofox, Trainerize. Has staff scheduling and time tracking across all brands \u2014 NO embedded Canadian payroll. Enterprise-scale partnership opportunity.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-04",
+          "tags": [
+            "fitness",
+            "enterprise",
+            "multi-brand",
+            "acquisitive"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/company/abc-fitness-solutions | HQ: Sherwood, AR | Glofox origin: Dublin | Trainerize: Vancouver, BC (Canadian presence!)"
+        },
+        {
+          "id": "nmbr-20260304-7",
+          "company": "Farmbrite",
+          "contact": "Team",
+          "title": "Founding Team",
+          "email": "support@farmbrite.com",
+          "signal": "Cloud farm management SaaS with employee time tracking and task scheduling. Generates timesheets but NO payroll processing. Used by Canadian farms. Agriculture vertical is completely untapped for embedded payroll \u2014 seasonal workers, piece-rate pay, multi-provincial compliance.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-04",
+          "tags": [
+            "agriculture",
+            "niche",
+            "time-tracking"
+          ],
+          "notes": "LinkedIn: https://www.linkedin.com/company/farmbrite | Cloud-based | Features: livestock, crop, labor, e-commerce | Smaller company = easier partnership decision"
         }
       ]
     },
