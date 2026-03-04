@@ -4304,6 +4304,64 @@
             "time-tracking"
           ],
           "notes": "LinkedIn: https://www.linkedin.com/company/farmbrite | Cloud-based | Features: livestock, crop, labor, e-commerce | Smaller company = easier partnership decision"
+        },
+        {
+          "id": "nmbr-20260304-1c596751",
+          "company": "Wages Canada",
+          "contact": "",
+          "title": "",
+          "email": "",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Scout AI",
+          "signal": "EOR platform expanded Feb 27, 2026 to serve US and European staffing firms. Plans direct payroll integrations in future release. Currently uses CSV exports for payroll \u2014 prime candidate for embedded payroll infrastructure.",
+          "notes": "Ontario-based EOR/PEO provider, founded 2019, 6 years supporting staffing agencies across Canada. Just announced expansion to international staffing firms. They handle payroll for staffing agencies but could embed Nmbr as their payroll engine instead of building their own. wagescanada.com",
+          "added": "2026-03-04",
+          "tags": [
+            "EOR",
+            "Staffing",
+            "Ontario",
+            "expanding"
+          ]
+        },
+        {
+          "id": "nmbr-20260304-5d3b9299",
+          "company": "Borderless AI",
+          "contact": "",
+          "title": "",
+          "email": "",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Scout AI",
+          "signal": "Just launched integration on ADP Marketplace Canada (Feb 2026). Highest-rated EOR on G2. Expanding Canadian hiring infrastructure \u2014 needs robust Canadian payroll engine for EOR clients.",
+          "notes": "SF-based EOR platform serving 150+ countries. Just went live on ADP Marketplace in both US and Canada. They enable companies to hire in Canada without entities \u2014 need Canadian payroll compliance expertise. hireborderless.com",
+          "added": "2026-03-04",
+          "tags": [
+            "EOR",
+            "Global",
+            "ADP-Marketplace",
+            "Canada-expansion"
+          ]
+        },
+        {
+          "id": "nmbr-20260304-a21677b7",
+          "company": "Lavu",
+          "contact": "",
+          "title": "",
+          "email": "",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Scout AI",
+          "signal": "Published major 2026 Restaurant POS AI report on March 3, 2026 identifying payroll integration as a 'market-wide gap' for multi-unit operators. Their Marty AI connects POS + payroll + scheduling \u2014 actively building payroll connectivity.",
+          "notes": "Restaurant POS platform serving multi-unit operators. Just published report highlighting that connecting POS data to payroll is a critical gap. Their AI product (Marty AI) needs payroll data feeds. Potential embedded payroll partner for restaurant vertical. US-based but could expand to Canadian restaurant chains. lavu.com",
+          "added": "2026-03-04",
+          "tags": [
+            "Restaurant",
+            "POS",
+            "AI",
+            "payroll-gap",
+            "US-based"
+          ]
         }
       ]
     },
@@ -5614,5 +5672,5 @@
       ]
     }
   ],
-  "updated": "2026-03-03T17:42:54.792358+00:00"
+  "updated": "2026-03-04T15:56:42.579225+00:00"
 }
