@@ -1,14 +1,18 @@
 {
-  "lastCheck": "2026-03-02T04:00:00-04:00",
+  "lastCheck": "2026-03-04T04:00:00-04:00",
   "status": "nominal",
   "checks": {
-    "disk": { "status": "ok", "detail": "3% used — 402Gi available of 460Gi" },
-    "logins": { "status": "ok", "detail": "All logins from freedombot — no unknown users" },
-    "uptime": { "status": "ok", "detail": "8 days 19h — load avg 2.44/2.33/2.25" },
-    "gateway": { "status": "ok", "detail": "Running (pid 78560), loopback-only, RPC ok" },
-    "processes": { "status": "ok", "detail": "No suspicious processes detected" },
-    "tailscale": { "status": "ok", "detail": "Connected — freedombots-macbook-pro online, dwaynes-mac-mini-1 active" },
-    "configIntegrity": { "status": "ok", "detail": "SHA256 unchanged since last check" }
+    "diskSpace": {"status": "ok", "detail": "3% used (11Gi/460Gi), 400Gi available"},
+    "logins": {"status": "ok", "detail": "All logins from local user 'freedombot', no anomalies"},
+    "uptime": {"status": "ok", "detail": "10 days 19h, load avg 3.29/3.64/3.70"},
+    "gateway": {"status": "ok", "detail": "Running (pid 39729), RPC probe ok, loopback-only"},
+    "processes": {"status": "ok", "detail": "No suspicious processes detected"},
+    "tailscale": {"status": "ok", "detail": "Connected, 3 peers visible (1 active direct)"},
+    "configIntegrity": {"status": "ok", "detail": "SHA256 unchanged since last check"}
   },
-  "notes": "fseventsd high CPU (99%) — likely indexing after extended uptime. Monitor on next check."
+  "notes": [
+    "fseventsd at 98% CPU — macOS indexing process, normal after extended uptime",
+    "Telegram at 40% CPU — elevated but within range for always-on desktop app",
+    "Doctor warning: telegram groupPolicy=allowlist with empty allowFrom list"
+  ]
 }
