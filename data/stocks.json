@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-03T07:10:09.622186",
+  "lastUpdated": "2026-03-04T07:07:26.211669",
   "stocks": [
     {
       "ticker": "ENB.TO",
@@ -1161,6 +1161,22 @@
       "risks": "UK&I segment underperforming (-2% DPW). P/E of 14.1x above insurance peer average of 12.8x. Low yield (2.25%) \u2014 total return play, not high income. Catastrophe losses can spike unpredictably.",
       "researchDate": "2026-03-03",
       "priceVs52wLow": "+7%"
+    },
+    {
+      "ticker": "NWC.TO",
+      "name": "North West Company Inc.",
+      "currentPrice": 55.33,
+      "currency": "CAD",
+      "week52Low": 44.63,
+      "week52High": 57.95,
+      "conservativeEstimate": 58.75,
+      "optimisticEstimate": 65.0,
+      "yield": "2.96%",
+      "rating": "Watch / Buy on Pullback",
+      "thesis": "Canada's remote grocery monopoly \u2014 operates stores in northern communities with zero competition, revenue backstopped by government Nutrition North subsidies. Just added to TSX Composite Index forcing passive fund buying. Next 100 initiative driving EBITDA +8% and EPS +14% YoY. Cheaper than Loblaw/Metro at 18.8x P/E despite stronger moat.",
+      "risks": "Near 52-week high with limited margin of safety. Northern logistics exposure to weather disruption. Low liquidity (~138K avg volume). Government subsidy policy changes could impact demand.",
+      "researchDate": "2026-03-04",
+      "priceVs52wLow": "+24%"
     }
   ]
 }
