@@ -5067,6 +5067,82 @@
           "dateAdded": "2026-03-01",
           "lastContact": "",
           "nextStep": "Initial outreach"
+        },
+        {
+          "id": "charlie-prospects-20260305-e37a8055",
+          "company": "The Redwine Law Firm",
+          "contact": "Symone Redwine",
+          "title": "Founder & Managing Attorney",
+          "email": "symone@redwinelaw.com",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Scout AI",
+          "signal": "PI lawyer with 123K Instagram followers, TV appearances (FOX, TMZ, ABC), consultation-based model - massive inbound lead volume needs fast AI intake",
+          "notes": "Houston-based PI firm. Also does expungements. Huge social media presence means high-volume inbound leads. Book consultations at +. Perfect Charlie fit for speed-to-lead on social media-driven inquiries.",
+          "added": "2026-03-05",
+          "tags": [
+            "PersonalInjury",
+            "HighVolume",
+            "SocialMedia",
+            "Texas"
+          ]
+        },
+        {
+          "id": "charlie-prospects-20260305-989d5e37",
+          "company": "Diamond Accelerator",
+          "contact": "Katlin Cauffman",
+          "title": "Founder & CEO",
+          "email": "info@diamondaccelerator.com",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Scout AI",
+          "signal": "High-ticket med spa consulting/coaching company selling strategy sessions and coaching programs - needs AI setter for inbound consultation booking from their marketing",
+          "notes": "Med spa marketing and consulting agency. Sells high-ticket consulting, coaching, and on-site visits to med spa owners. Has book-a-call model. LinkedIn active. Text: 208-271-9439.",
+          "added": "2026-03-05",
+          "tags": [
+            "Coaching",
+            "MedSpa",
+            "HighTicket",
+            "ConsultationBased"
+          ]
+        },
+        {
+          "id": "charlie-prospects-20260305-06dc848a",
+          "company": "Mayor Law LLC",
+          "contact": "Travis Mayor",
+          "title": "Founder & Personal Injury Attorney",
+          "email": "travis@mayorlaw.com",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Scout AI",
+          "signal": "Voted #1 Portland PI lawyer 2026, free consultation model, solo practitioner who can't scale intake team - perfect for AI setter",
+          "notes": "Solo PI attorney in Portland, OR. Handles motor vehicle, motorcycle, bicycle, trucking accidents, wrongful death. Offers free consultations. As a solo/small firm growing fast, intake speed is critical. Phone: 503-444-2825.",
+          "added": "2026-03-05",
+          "tags": [
+            "PersonalInjury",
+            "SoloPractice",
+            "Oregon",
+            "FreeConsultation"
+          ]
+        },
+        {
+          "id": "charlie-prospects-20260305-db8929e3",
+          "company": "Neal and Solevilla Personal Injury Lawyers",
+          "contact": "Katherine Neal",
+          "title": "Co-Founder & Attorney",
+          "email": "katherine@nealandsolevilla.com",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Scout AI",
+          "signal": "New firm (Dec 2023) actively expanding services in Clearwater FL - recently announced service expansion, needs to compete with bigger firms on intake speed",
+          "notes": "Clearwater FL PI firm founded Dec 2023 by Katherine Neal and Melissa Solevilla. 20+ years working together. Expanding rapidly. 760 Facebook likes, 34 talking about this. Free consultations, 24/7 availability claim. Young firm = needs cost-effective intake.",
+          "added": "2026-03-05",
+          "tags": [
+            "PersonalInjury",
+            "NewFirm",
+            "Expanding",
+            "Florida"
+          ]
         }
       ]
     },
@@ -5719,5 +5795,5 @@
       ]
     }
   ],
-  "updated": "2026-03-04T15:56:42.579225+00:00"
+  "updated": "2026-03-05T13:07:10.352080+00:00"
 }
