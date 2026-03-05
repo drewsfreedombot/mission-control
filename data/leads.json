@@ -4304,6 +4304,111 @@
             "time-tracking"
           ],
           "notes": "LinkedIn: https://www.linkedin.com/company/farmbrite | Cloud-based | Features: livestock, crop, labor, e-commerce | Smaller company = easier partnership decision"
+        },
+        {
+          "id": "nmbr-376329ecec",
+          "company": "Lumber (LumberFi)",
+          "contact": "Shreesha Ramdas",
+          "title": "Co-Founder & CEO",
+          "email": "shreesha@lumberfi.com",
+          "signal": "Series A ($15.5M) construction payroll platform. Already has /ca page \u2014 actively serving Canadian construction. Embedded payroll partner opportunity for their Canadian expansion.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-05",
+          "tags": [
+            "Construction",
+            "Series A",
+            "US-to-Canada",
+            "PayrollGap"
+          ],
+          "notes": "LinkedIn: https://linkedin.com/in/shreesharamdas | Has dedicated Canadian payroll page. Perfect embedded partner candidate."
+        },
+        {
+          "id": "nmbr-9bbc8f5e4d",
+          "company": "CrewTracks",
+          "contact": "Unknown",
+          "title": "CEO",
+          "email": "info@crewtracks.com",
+          "signal": "Construction workforce management (scheduling, dispatching, time tracking) with payroll data exports but no native payroll. Canadian construction clients need CRA-compliant payroll.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-05",
+          "tags": [
+            "Construction",
+            "WFM",
+            "PayrollGap"
+          ],
+          "notes": "Website: crewtracks.com | Exports payroll data to external systems \u2014 clear embedded payroll partner fit."
+        },
+        {
+          "id": "nmbr-d4fa9d939c",
+          "company": "Workforce.com",
+          "contact": "Unknown",
+          "title": "VP Partnerships",
+          "email": "partnerships@workforce.com",
+          "signal": "6K+ customers in 80 countries. Scheduling + time + attendance platform with payroll integration. Needs Canadian payroll partner \u2014 their payroll is US-built.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-05",
+          "tags": [
+            "Global-WFM",
+            "PayrollGap",
+            "Enterprise"
+          ],
+          "notes": "LinkedIn: https://linkedin.com/company/workforcemanagement | 14K LinkedIn followers. No native Canadian payroll."
+        },
+        {
+          "id": "nmbr-e5f9af8f61",
+          "company": "Rotaready (Access Group)",
+          "contact": "Jarmie Harvey",
+          "title": "CEO",
+          "email": "info@rotaready.com",
+          "signal": "Hospitality scheduling platform acquired by Access Group. UK-based expanding globally. No Canadian payroll \u2014 needs embedded partner for Canadian hospitality clients.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-05",
+          "tags": [
+            "Hospitality",
+            "UK-Expansion",
+            "Scheduling",
+            "PayrollGap"
+          ],
+          "notes": "LinkedIn: https://linkedin.com/in/jarmieharvey | Part of Access Group \u2014 large UK software conglomerate."
+        },
+        {
+          "id": "nmbr-6b1ff50ec4",
+          "company": "Alpaka",
+          "contact": "Ramiro Gomez",
+          "title": "Co-Founder",
+          "email": "ramiro@alpaka.io",
+          "signal": "Workforce management SaaS (time tracking, attendance, scheduling). No native payroll. Growing footprint in Canadian small business market.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-05",
+          "tags": [
+            "WFM",
+            "SMB",
+            "PayrollGap"
+          ],
+          "notes": "LinkedIn: https://linkedin.com/in/ramirogt | Small but growing \u2014 early-stage partnership opportunity."
+        },
+        {
+          "id": "nmbr-15a39b1335",
+          "company": "WorkForce Software",
+          "contact": "Mike Morini",
+          "title": "Former CEO (now SmarterD)",
+          "email": "info@workforcesoftware.com",
+          "signal": "Enterprise WFM (SAP partnership). Manages time, attendance, scheduling for large Canadian employers. Integrates with payroll but doesn't own it. SAP Time & Attendance partner.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-05",
+          "tags": [
+            "Enterprise",
+            "SAP-Partner",
+            "WFM",
+            "PayrollGap"
+          ],
+          "notes": "Website: workforcesoftware.com | New CEO likely \u2014 check current leadership. Enterprise-grade opportunity."
         }
       ]
     },
