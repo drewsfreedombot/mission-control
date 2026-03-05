@@ -5791,9 +5791,67 @@
           "dateAdded": "2026-03-02",
           "lastContact": "",
           "nextStep": "Initial outreach"
+        },
+        {
+          "id": "charlie-partners-20260305-6ac56576",
+          "company": "ClickATeam",
+          "contact": "Jose Soto",
+          "title": "CEO & Founder",
+          "email": "jose@clickateam.com",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Scout AI",
+          "signal": "Runs appointment setting for marketing agencies and coaches. Already builds AI assistants and uses GoHighLevel. Natural Charlie reseller \u2014 could replace their managed setter service with AI.",
+          "notes": "Miami-based. Offers cold email systems, managed appointment setters, AI assistant build-outs, Facebook ads. Serves agencies and coaching businesses. Instantly.ai certified expert. Phone: 786-753-7563. Also: sales@clickateam.com",
+          "added": "2026-03-05",
+          "tags": [
+            "GHL",
+            "appointment-setting",
+            "coaches",
+            "AI-ready"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260305-a1566e08",
+          "company": "The Funnels Guys",
+          "contact": "Cormac Reynolds",
+          "title": "Founder & CEO",
+          "email": "hello@thefunnelsguys.com",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Scout AI",
+          "signal": "GHL experts serving coaches, entrepreneurs, and consultants. Just unveiled new DFY GHL systems for 2026. Published GHL guide for lawyers/attorneys. 15-person team expanding across US and UK.",
+          "notes": "UK/US-based. Certified GoHighLevel specialists. Build funnels, CRM automation, pipeline optimization. Explicitly target coaches and consultants. Have a GHL for Lawyers guide \u2014 fits both Charlie verticals (coaches + PI law firms). Featured in Yahoo Finance, Business Insider.",
+          "added": "2026-03-05",
+          "tags": [
+            "GHL",
+            "coaches",
+            "law-firms",
+            "funnels",
+            "UK-US"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260305-3c176cb8",
+          "company": "1GS Digital Agency",
+          "contact": "Claudia Papa",
+          "title": "CEO",
+          "email": "info@1gslab.com",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Scout AI",
+          "signal": "Full-service digital marketing agency with AI-powered CRM and appointment setting. Serves law firms and professional services. 10+ team members, 75+ years combined experience. Offers fractional CMO services.",
+          "notes": "Miami-based (305 area code). Founded by Claudia Papa (NYU grad). Serves professional service firms, law firms, insurance brokers. Has AI-powered CRM offering. Phone: 305-900-5905. Also on Crunchbase. LinkedIn focus on insurance brokers doing 500K-5M revenue.",
+          "added": "2026-03-05",
+          "tags": [
+            "AI-CRM",
+            "law-firms",
+            "professional-services",
+            "fractional-CMO"
+          ]
         }
       ]
     }
   ],
-  "updated": "2026-03-05T13:07:10.352080+00:00"
+  "updated": "2026-03-05T19:04:54.986734+00:00"
 }
