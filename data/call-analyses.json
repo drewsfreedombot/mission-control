@@ -1,4 +1,19 @@
 {
-  "analyses": [],
-  "updatedAt": "2026-03-05T19:04:58.141402+00:00"
+  "analyses": [
+    {
+      "contact": "2026-03-05-kelly-jefferson-charlie-demo",
+      "date": "2026-03-05",
+      "business": "Charlie",
+      "takeaways": [],
+      "filename": "2026-03-05-kelly-jefferson-charlie-demo.md"
+    },
+    {
+      "contact": "2026-03-05-andrew-marsha-charlie-demo",
+      "date": "2026-03-05",
+      "business": "Charlie",
+      "takeaways": [],
+      "filename": "2026-03-05-andrew-marsha-charlie-demo.md"
+    }
+  ],
+  "updatedAt": "2026-03-05T20:00:01.635258+00:00"
 }
