@@ -1,18 +1,19 @@
 {
-  "lastCheck": "2026-03-04T04:00:00-04:00",
-  "status": "nominal",
+  "lastCheck": "2026-03-05T04:00:00-04:00",
+  "status": "warning",
   "checks": {
-    "diskSpace": {"status": "ok", "detail": "3% used (11Gi/460Gi), 400Gi available"},
+    "diskSpace": {"status": "ok", "detail": "3% used (11Gi/460Gi), 396Gi available"},
     "logins": {"status": "ok", "detail": "All logins from local user 'freedombot', no anomalies"},
-    "uptime": {"status": "ok", "detail": "10 days 19h, load avg 3.29/3.64/3.70"},
-    "gateway": {"status": "ok", "detail": "Running (pid 39729), RPC probe ok, loopback-only"},
-    "processes": {"status": "ok", "detail": "No suspicious processes detected"},
-    "tailscale": {"status": "ok", "detail": "Connected, 3 peers visible (1 active direct)"},
-    "configIntegrity": {"status": "ok", "detail": "SHA256 unchanged since last check"}
+    "uptime": {"status": "ok", "detail": "11 days 19h, load avg 3.02/3.07/3.18"},
+    "gateway": {"status": "ok", "detail": "Running (pid 10578), RPC probe ok, loopback-only"},
+    "processes": {"status": "warning", "detail": "fseventsd at 99.3% CPU; active SSH/SFTP session at 4:00 AM (likely cron-triggered)"},
+    "tailscale": {"status": "ok", "detail": "Connected, dwaynes-mac-mini-1 active direct connection"},
+    "configIntegrity": {"status": "warning", "detail": "SHA256 CHANGED since last check. Modified Mar 4 11:26 AST. Previous: 34a656e9..., Current: 3a8bde38..."}
   },
   "notes": [
-    "fseventsd at 98% CPU — macOS indexing process, normal after extended uptime",
-    "Telegram at 40% CPU — elevated but within range for always-on desktop app",
-    "Doctor warning: telegram groupPolicy=allowlist with empty allowFrom list"
+    "⚠️ openclaw.json config hash changed — modified Mar 4 at 11:26 AM. Likely a legitimate update but flagging for awareness.",
+    "fseventsd at 99.3% CPU — persistent macOS file indexing issue, 11+ days uptime",
+    "SSH session (PID 50096) + SFTP (PID 50100) active at scan time — likely OpenClaw cron execution",
+    "Doctor warning persists: telegram groupPolicy=allowlist with empty allowFrom list"
   ]
 }
