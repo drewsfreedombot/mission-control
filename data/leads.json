@@ -5875,9 +5875,81 @@
             "professional-services",
             "fractional-CMO"
           ]
+        },
+        {
+          "id": "charlie-partners-20260306-89e70457",
+          "company": "Automize",
+          "contact": "Ryan Van Tricht",
+          "title": "Founder",
+          "email": "connect@getautomized.com",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Scout AI",
+          "signal": "GHL-certified automation agency serving coaches & agencies \u2014 12+ yrs experience, builds lead gen & appointment booking systems on GoHighLevel. Natural Charlie reseller.",
+          "notes": "Hunter: valid/score 52. Sacramento, CA. Also Keap/Zapier certified.",
+          "added": "2026-03-06",
+          "tags": [
+            "GHL",
+            "Automation",
+            "Agency"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260306-16c6666f",
+          "company": "GHL Central",
+          "contact": "Nicholas Papp",
+          "title": "CEO & Founder",
+          "email": "nick@ghlcentral.com",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Scout AI",
+          "signal": "Runs the top GoHighLevel community/resource hub \u2014 massive audience of agency owners who serve coaches. Official GHL partner. Perfect channel partner for Charlie.",
+          "notes": "Hunter: valid/score 100. Austin, TX. Phone: 888.521.7440.",
+          "added": "2026-03-06",
+          "tags": [
+            "GHL",
+            "Community",
+            "Influencer"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260306-bebe9f40",
+          "company": "Fearless Business Boss",
+          "contact": "Tammy Durden",
+          "title": "Founder & CEO",
+          "email": "tammy@fearlessbusinessboss.com",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Scout AI",
+          "signal": "Business & marketing coach who exited her own agency \u2014 now coaches service providers on growth and marketing. Referral channel to coaching clients who need AI appointment setting.",
+          "notes": "Hunter: valid/score 100. Richmond, VA area. LinkedIn: /in/tammydurden.",
+          "added": "2026-03-06",
+          "tags": [
+            "Coach",
+            "Agency",
+            "Referral"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260306-74e1cf28",
+          "company": "Marketing Agency Coach",
+          "contact": "Lee Goff",
+          "title": "Founder",
+          "email": "lee@marketingagencycoach.com",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Scout AI",
+          "signal": "Coaches 100s of digital agency owners on sales, lead gen & scaling \u2014 built & exited a multi-million dollar agency. His network of agency clients all serve coaches/consultants and need AI setter solutions.",
+          "notes": "Hunter: email unverified (timeout). Gainesville, FL. LinkedIn: /in/leegoff. FB Group: Agency Nomads.",
+          "added": "2026-03-06",
+          "tags": [
+            "AgencyCoach",
+            "Network",
+            "Influencer"
+          ]
         }
       ]
     }
   ],
-  "updated": "2026-03-06T13:22:12.672159+00:00"
+  "updated": "2026-03-06T19:05:16.249473+00:00"
 }
