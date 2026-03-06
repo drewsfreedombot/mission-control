@@ -1,19 +1,19 @@
 {
-  "lastCheck": "2026-03-05T04:00:00-04:00",
-  "status": "warning",
+  "lastCheck": "2026-03-06T04:00:00-04:00",
+  "status": "ok",
   "checks": {
-    "diskSpace": {"status": "ok", "detail": "3% used (11Gi/460Gi), 396Gi available"},
+    "diskSpace": {"status": "ok", "detail": "3% used (11Gi/460Gi), 393Gi available"},
     "logins": {"status": "ok", "detail": "All logins from local user 'freedombot', no anomalies"},
-    "uptime": {"status": "ok", "detail": "11 days 19h, load avg 3.02/3.07/3.18"},
+    "uptime": {"status": "ok", "detail": "12 days 19h, load avg 1.55/2.19/2.39"},
     "gateway": {"status": "ok", "detail": "Running (pid 10578), RPC probe ok, loopback-only"},
-    "processes": {"status": "warning", "detail": "fseventsd at 99.3% CPU; active SSH/SFTP session at 4:00 AM (likely cron-triggered)"},
+    "processes": {"status": "warning", "detail": "fseventsd at 100.6% CPU (persistent); SSH session at 4:00 AM (cron-triggered)"},
     "tailscale": {"status": "ok", "detail": "Connected, dwaynes-mac-mini-1 active direct connection"},
-    "configIntegrity": {"status": "warning", "detail": "SHA256 CHANGED since last check. Modified Mar 4 11:26 AST. Previous: 34a656e9..., Current: 3a8bde38..."}
+    "configIntegrity": {"status": "ok", "detail": "SHA256 unchanged: 3a8bde38... — matches last check"}
   },
   "notes": [
-    "⚠️ openclaw.json config hash changed — modified Mar 4 at 11:26 AM. Likely a legitimate update but flagging for awareness.",
-    "fseventsd at 99.3% CPU — persistent macOS file indexing issue, 11+ days uptime",
-    "SSH session (PID 50096) + SFTP (PID 50100) active at scan time — likely OpenClaw cron execution",
-    "Doctor warning persists: telegram groupPolicy=allowlist with empty allowFrom list"
+    "fseventsd at 100.6% CPU — persistent macOS file indexing issue, 12+ days uptime. Consider restart if it persists.",
+    "SSH session (PID 9555) active at scan time — OpenClaw cron execution",
+    "Doctor warning persists: telegram groupPolicy=allowlist with empty allowFrom list",
+    "Load averages improved from yesterday (1.55 vs 3.02)"
   ]
 }
