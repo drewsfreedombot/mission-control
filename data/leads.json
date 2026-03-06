@@ -4854,71 +4854,6 @@
           "email": ""
         },
         {
-          "id": "cp032",
-          "company": "Johnson Law Group",
-          "contact": "Brian Johnson",
-          "title": "PI Attorney",
-          "email": "brian@johnsonlawgroup.com",
-          "stage": "lead",
-          "source": "Setter Lead Scan",
-          "signal": "PI law firm \u2014 direct buyer. Hot lead from Feb 20 scan.",
-          "dateAdded": "2026-02-20",
-          "lastContact": "",
-          "nextStep": "Initial outreach"
-        },
-        {
-          "id": "cp033",
-          "company": "BANA LAW",
-          "contact": "P. Ryan Banafshe",
-          "title": "PI Attorney",
-          "email": "ryan@banalaw.com",
-          "stage": "lead",
-          "source": "Setter Lead Scan",
-          "signal": "PI law firm \u2014 direct buyer. Hot lead from Feb 20 scan.",
-          "dateAdded": "2026-02-20",
-          "lastContact": "",
-          "nextStep": "Initial outreach"
-        },
-        {
-          "id": "cp034",
-          "company": "AK Injury Law",
-          "contact": "Dr. Azadeh Keshavarz",
-          "title": "PI Attorney",
-          "email": "azadeh@akinjurylawfirm.com",
-          "stage": "lead",
-          "source": "Setter Lead Scan",
-          "signal": "PI law firm hiring intake specialists.",
-          "dateAdded": "2026-02-20",
-          "lastContact": "",
-          "nextStep": "Initial outreach"
-        },
-        {
-          "id": "cp035",
-          "company": "DiPasquale Moore Law",
-          "contact": "DiPasquale Moore",
-          "title": "PI Firm",
-          "email": "",
-          "stage": "lead",
-          "source": "Setter Lead Scan",
-          "signal": "Kansas City PI firm \u2014 direct buyer.",
-          "dateAdded": "2026-02-20",
-          "lastContact": "",
-          "nextStep": "Initial outreach"
-        },
-        {
-          "id": "cp036",
-          "company": "Naqvi Injury Law",
-          "contact": "Farhan Naqvi",
-          "title": "Founder",
-          "email": "naqvi@naqvilaw.com",
-          "stage": "lead",
-          "source": "Setter Lead Scan",
-          "signal": "PI law firm (Las Vegas). Actively hiring intake specialists. Verified email.",
-          "dateAdded": "2026-02-23",
-          "lastContact": "",
-          "nextStep": "Initial outreach"
-        },
-        {
           "id": "cp037",
           "company": "Ostroff Godshall",
           "contact": "Rich Godshall",
@@ -4927,45 +4862,6 @@
           "stage": "lead",
           "source": "Setter Lead Scan",
           "signal": "PI law firm (Blue Bell PA). Hiring intake staff.",
-          "dateAdded": "2026-02-23",
-          "lastContact": "",
-          "nextStep": "Initial outreach"
-        },
-        {
-          "id": "cp038",
-          "company": "Anderson Injury Lawyers",
-          "contact": "Mark Anderson",
-          "title": "Founder",
-          "email": "mark@maafirm.com",
-          "stage": "lead",
-          "source": "Setter Lead Scan",
-          "signal": "PI law firm (Dallas). 21 open roles across 3 cities.",
-          "dateAdded": "2026-02-23",
-          "lastContact": "",
-          "nextStep": "Initial outreach"
-        },
-        {
-          "id": "cp039",
-          "company": "Yerushalmi Law Firm",
-          "contact": "David Yerushalmi",
-          "title": "Founder",
-          "email": "david@injuryneeds.com",
-          "stage": "lead",
-          "source": "Setter Lead Scan",
-          "signal": "PI law firm (Beverly Hills). Actively hiring intake.",
-          "dateAdded": "2026-02-23",
-          "lastContact": "",
-          "nextStep": "Initial outreach"
-        },
-        {
-          "id": "cp040",
-          "company": "Omega Law Group",
-          "contact": "Edwin Saghian",
-          "title": "Founder",
-          "email": "esaghian@omegalaw.com",
-          "stage": "lead",
-          "source": "Setter Lead Scan",
-          "signal": "PI law firm (Beverly Hills). 16 offices, 2 states.",
           "dateAdded": "2026-02-23",
           "lastContact": "",
           "nextStep": "Initial outreach"
@@ -5205,25 +5101,6 @@
           "nextStep": "Initial outreach"
         },
         {
-          "id": "charlie-prospects-20260305-e37a8055",
-          "company": "The Redwine Law Firm",
-          "contact": "Symone Redwine",
-          "title": "Founder & Managing Attorney",
-          "email": "symone@redwinelaw.com",
-          "altContacts": [],
-          "stage": "new",
-          "source": "Scout AI",
-          "signal": "PI lawyer with 123K Instagram followers, TV appearances (FOX, TMZ, ABC), consultation-based model - massive inbound lead volume needs fast AI intake",
-          "notes": "Houston-based PI firm. Also does expungements. Huge social media presence means high-volume inbound leads. Book consultations at +. Perfect Charlie fit for speed-to-lead on social media-driven inquiries.",
-          "added": "2026-03-05",
-          "tags": [
-            "PersonalInjury",
-            "HighVolume",
-            "SocialMedia",
-            "Texas"
-          ]
-        },
-        {
           "id": "charlie-prospects-20260305-989d5e37",
           "company": "Diamond Accelerator",
           "contact": "Katlin Cauffman",
@@ -5243,41 +5120,54 @@
           ]
         },
         {
-          "id": "charlie-prospects-20260305-06dc848a",
-          "company": "Mayor Law LLC",
-          "contact": "Travis Mayor",
-          "title": "Founder & Personal Injury Attorney",
-          "email": "travis@mayorlaw.com",
+          "id": "charlie-prospects-20260306-35fbfa8e",
+          "company": "Ferry International",
+          "contact": "Tom Ferry",
+          "title": "Founder and CEO",
+          "email": "tomferry@tomferry.com",
           "altContacts": [],
           "stage": "new",
           "source": "Scout AI",
-          "signal": "Voted #1 Portland PI lawyer 2026, free consultation model, solo practitioner who can't scale intake team - perfect for AI setter",
-          "notes": "Solo PI attorney in Portland, OR. Handles motor vehicle, motorcycle, bicycle, trucking accidents, wrongful death. Offers free consultations. As a solo/small firm growing fast, intake speed is critical. Phone: 503-444-2825.",
-          "added": "2026-03-05",
+          "signal": "Posted a job for an 'Appointment Setter' on LinkedIn 2 weeks ago, showing active need for this role.",
+          "notes": "Major player in the real estate coaching space. Signal indicates they are spending money on setters right now.",
+          "added": "2026-03-06",
           "tags": [
-            "PersonalInjury",
-            "SoloPractice",
-            "Oregon",
-            "FreeConsultation"
+            "real-estate-coaching",
+            "hiring-setters"
           ]
         },
         {
-          "id": "charlie-prospects-20260305-db8929e3",
-          "company": "Neal and Solevilla Personal Injury Lawyers",
-          "contact": "Katherine Neal",
-          "title": "Co-Founder & Attorney",
-          "email": "katherine@nealandsolevilla.com",
+          "id": "charlie-prospects-20260306-25c2a5fb",
+          "company": "Buffini & Company",
+          "contact": "Dermot Buffini",
+          "title": "CEO",
+          "email": "dermotb@buffiniandcompany.com",
           "altContacts": [],
           "stage": "new",
           "source": "Scout AI",
-          "signal": "New firm (Dec 2023) actively expanding services in Clearwater FL - recently announced service expansion, needs to compete with bigger firms on intake speed",
-          "notes": "Clearwater FL PI firm founded Dec 2023 by Katherine Neal and Melissa Solevilla. 20+ years working together. Expanding rapidly. 760 Facebook likes, 34 talking about this. Free consultations, 24/7 availability claim. Young firm = needs cost-effective intake.",
-          "added": "2026-03-05",
+          "signal": "Job posting for Sales Development Representative (SDR) indicates they are actively trying to generate sales conversations.",
+          "notes": "One of the largest coaching companies in North America. An SDR role is a direct use-case for Charlie AI.",
+          "added": "2026-03-06",
           "tags": [
-            "PersonalInjury",
-            "NewFirm",
-            "Expanding",
-            "Florida"
+            "real-estate-coaching",
+            "hiring-sdr"
+          ]
+        },
+        {
+          "id": "charlie-prospects-20260306-aca5fdad",
+          "company": "GSD Mode",
+          "contact": "Joshua Smith",
+          "title": "Founder",
+          "email": "Joshua@GSDMode.com",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Scout AI",
+          "signal": "Website has a prominent 'Book a free coaching call' CTA, which is a perfect use case for an AI setter.",
+          "notes": "Personality-driven brand with a clear, high-ticket coaching funnel.",
+          "added": "2026-03-06",
+          "tags": [
+            "real-estate-coaching",
+            "book-a-call-funnel"
           ]
         }
       ]
@@ -5989,5 +5879,5 @@
       ]
     }
   ],
-  "updated": "2026-03-06T12:03:41.264047+00:00"
+  "updated": "2026-03-06T13:22:12.672159+00:00"
 }
