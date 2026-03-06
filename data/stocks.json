@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-05T07:03:06.865412",
+  "lastUpdated": "2026-03-06T07:00:00.000000",
   "stocks": [
     {
       "ticker": "ENB.TO",
@@ -972,18 +972,18 @@
     {
       "ticker": "POW.TO",
       "name": "Power Corporation of Canada",
-      "currentPrice": 68.52,
+      "currentPrice": 67.30,
       "currency": "CAD",
-      "week52Low": 46.03,
+      "week52Low": 47.05,
       "week52High": 74.91,
-      "conservativeEstimate": 75.0,
-      "optimisticEstimate": 92.0,
-      "yield": "3.56%",
+      "conservativeEstimate": 72.0,
+      "optimisticEstimate": 82.0,
+      "yield": "3.64%",
       "rating": "Buy",
-      "thesis": "Financial holding company trading at 34% discount to DCF fair value (C$91.98). P/E 14.3x, net income +39% TTM, 49.7% payout ratio with 8.9% dividend growth. Three catalysts: 20M share buyback (3.45% of float), new CEO July 2026, and Q4/FY2025 earnings March 18. Buying a dollar for 74 cents.",
-      "risks": "Holding company discount can persist. Complex structure (GWO + IGM + GBL). European exposure via GBL adds FX/geopolitical risk.",
-      "researchDate": "2026-03-01",
-      "priceVs52wLow": "+49%"
+      "thesis": "Century-old holding company (Great-West Lifeco, IGM Financial, GBL) at 14.1x P/E — 22% discount to TSX avg. GWL just posted RECORD 2025 base earnings ($4.6B, +11%) and raised dividend 10%. NAV discount narrowed from 24% to 12% — the 10% pullback from Dec highs re-opens the discount as a re-entry window. 51.5% payout ratio means dividend growth ahead.",
+      "risks": "Holding company discount can persist. Complex structure (GWO + IGM + GBL). European exposure via GBL adds FX/geopolitical risk. Already tripled from 2021 lows.",
+      "researchDate": "2026-03-06",
+      "priceVs52wLow": "+43%"
     },
     {
       "ticker": "KMP.UN.TO",
