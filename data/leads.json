@@ -4409,6 +4409,142 @@
             "PayrollGap"
           ],
           "notes": "Website: workforcesoftware.com | New CEO likely \u2014 check current leadership. Enterprise-grade opportunity."
+        },
+        {
+          "id": "nmbr-20260306-71bcf06d",
+          "company": "SafetyCulture",
+          "contact": "Kelly Vohs",
+          "title": "CEO",
+          "email": "kelly.vohs@safetyculture.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "AI Lead Intel",
+          "signal": "Mobile-first safety/inspection platform (75K+ customers, .1B valuation). Expanding workforce management for frontline workers. Has scheduling/training but NO payroll. Construction, manufacturing, food service verticals \u2014 all need Canadian payroll.",
+          "notes": "LinkedIn: https://www.linkedin.com/company/safetyculturehq | New CEO as of Jan 2025, formerly customer \u2014 will understand product gaps. Luke Anear (founder) now Exec Chairman.",
+          "added": "2026-03-06",
+          "tags": [
+            "Frontline",
+            "Safety",
+            "Workforce",
+            "AUS-HQ"
+          ]
+        },
+        {
+          "id": "nmbr-20260306-ba4308a6",
+          "company": "Hubstaff",
+          "contact": "Jared Brown",
+          "title": "CEO & Co-Founder",
+          "email": "jared@hubstaff.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "AI Lead Intel",
+          "signal": "Time tracking + productivity monitoring SaaS, 95K+ teams. Has basic US payroll only \u2014 NO Canadian payroll. Canadian customers must export data to separate payroll provider. Perfect embedded payroll candidate.",
+          "notes": "LinkedIn: https://www.linkedin.com/in/jaredbrown/ | Co-founder Dave Nevogt also involved. Remote-first company, Atlanta HQ.",
+          "added": "2026-03-06",
+          "tags": [
+            "TimeTracking",
+            "Remote",
+            "US-HQ",
+            "ProductivitySaaS"
+          ]
+        },
+        {
+          "id": "nmbr-20260306-0aafa9f6",
+          "company": "Gusto",
+          "contact": "Ritu Khanna",
+          "title": "Chief Commercial Officer",
+          "email": "ritu@gusto.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "AI Lead Intel",
+          "signal": "Major US payroll/HR SaaS (B+ valuation). Canadian payroll 'still maturing' per 2026 industry reviews. Actively hiring in Toronto. Massive white-label/embedded partnership opportunity \u2014 Nmbr could power their Canadian payroll module.",
+          "notes": "LinkedIn: https://www.linkedin.com/company/gustohq | Hiring Senior PM for Benefits/PEO in Toronto NOW. CRA support still limited.",
+          "added": "2026-03-06",
+          "tags": [
+            "Payroll",
+            "Enterprise",
+            "US-HQ",
+            "WhiteLabel",
+            "HighPriority"
+          ]
+        },
+        {
+          "id": "nmbr-20260306-b1074bb9",
+          "company": "Justworks",
+          "contact": "Michael Seckler",
+          "title": "CEO",
+          "email": "michael@justworks.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "AI Lead Intel",
+          "signal": "US PEO/payroll platform (M+ valuation). NO Canadian payroll support at all. SMB customers expanding to Canada need Canadian payroll. Recently acquired Maite/Itziar Diez-Canedo's company for global expansion \u2014 shows intent.",
+          "notes": "LinkedIn: https://www.linkedin.com/in/mikeseckler/ | CRO: Robert Lopez. Recently expanding internationally \u2014 timing is perfect.",
+          "added": "2026-03-06",
+          "tags": [
+            "PEO",
+            "US-HQ",
+            "SMB",
+            "InternationalExpansion"
+          ]
+        },
+        {
+          "id": "nmbr-20260306-c41a7aa8",
+          "company": "Paylocity",
+          "contact": "Toby Williams",
+          "title": "President & CEO",
+          "email": "twilliams@paylocity.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "AI Lead Intel",
+          "signal": "Major US HCM platform ($25B+ market cap, 177K+ customers). Canadian payroll offered through 'global payroll' partner model \u2014 NOT native. Could embed Nmbr for robust, native Canadian payroll instead of reselling.",
+          "notes": "LinkedIn: https://www.linkedin.com/company/paylocity/ | VP Sales: Chris Stratton. VP Product: Christine Pellini. Partner program exists.",
+          "added": "2026-03-06",
+          "tags": [
+            "HCM",
+            "Enterprise",
+            "US-HQ",
+            "PublicCompany",
+            "HighPriority"
+          ]
+        },
+        {
+          "id": "nmbr-20260306-4b2ce4c1",
+          "company": "NCR Voyix",
+          "contact": "Benny Tadele",
+          "title": "EVP & President, Restaurants",
+          "email": "benny.tadele@ncrvoyix.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "AI Lead Intel",
+          "signal": "Massive restaurant tech company (Aloha POS). Time tracking + scheduling for restaurants but NO embedded Canadian payroll. Push Operations already partners with them \u2014 validates the model. Nmbr could be the Canadian payroll layer.",
+          "notes": "LinkedIn: https://www.linkedin.com/company/ncr-voyix/ | Appointed Feb 2024. Push Ops partnership validates embedded payroll need.",
+          "added": "2026-03-06",
+          "tags": [
+            "Restaurant",
+            "POS",
+            "Enterprise",
+            "US-HQ",
+            "PublicCompany"
+          ]
+        },
+        {
+          "id": "nmbr-20260306-3b724e5e",
+          "company": "isolved",
+          "contact": "Mark Duffell",
+          "title": "CEO",
+          "email": "mduffell@isolvedhcm.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "AI Lead Intel",
+          "signal": "US HCM platform, 177K+ customers across SMB/mid-market. US-only payroll. Active partner program seeking integrations. No Canadian payroll capability \u2014 customers expanding north are underserved. CPO: Pragya Malhotra Gupta.",
+          "notes": "LinkedIn: https://www.linkedin.com/company/isolved-hcm/ | COO: Todd La Fever. Has established partner/channel program.",
+          "added": "2026-03-06",
+          "tags": [
+            "HCM",
+            "US-HQ",
+            "PartnerProgram",
+            "MidMarket"
+          ]
         }
       ]
     },
@@ -5853,5 +5989,5 @@
       ]
     }
   ],
-  "updated": "2026-03-05T19:04:54.986734+00:00"
+  "updated": "2026-03-06T12:03:41.264047+00:00"
 }
