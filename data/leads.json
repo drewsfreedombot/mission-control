@@ -4545,6 +4545,126 @@
             "PartnerProgram",
             "MidMarket"
           ]
+        },
+        {
+          "id": "nmbr-20260307-1",
+          "company": "Singenuity",
+          "contact": "Grady Dycus",
+          "title": "Founder & CEO",
+          "email": "grady@singenuity.com",
+          "signal": "Attractions & ski resort operations SaaS \u2014 booking, scheduling, staffing reports with no payroll. Ski resorts have massive seasonal hiring needs across multiple provinces. Embedded payroll would be a killer add-on.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-07",
+          "tags": [
+            "Attractions",
+            "Ski Resorts",
+            "Seasonal Workforce"
+          ],
+          "notes": "Hunter: valid/score 100. LinkedIn: https://www.linkedin.com/company/singenuity"
+        },
+        {
+          "id": "nmbr-20260307-2",
+          "company": "CenterEdge Software",
+          "contact": "Marcus Mayer",
+          "title": "CEO",
+          "email": "marcus@centeredgesoftware.com",
+          "signal": "FEC/amusement park management SaaS \u2014 POS, ticketing, scheduling, time clock, but NO payroll. Serves trampoline parks, water parks, museums, roller rinks, amusement parks. Canadian FECs need compliant payroll.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-07",
+          "tags": [
+            "FEC",
+            "Amusement Parks",
+            "Entertainment"
+          ],
+          "notes": "Hunter: valid/score 100. North Carolina HQ. LinkedIn: https://www.linkedin.com/company/centeredge-software"
+        },
+        {
+          "id": "nmbr-20260307-3",
+          "company": "Clubspeed",
+          "contact": "Alok Pandey",
+          "title": "CEO",
+          "email": "alok@clubspeed.com",
+          "signal": "Go-kart & FEC venue management SaaS \u2014 booking, scheduling, POS, financial mgmt but no payroll. Acquired KartingManager for global expansion. Canadian venues = payroll opportunity.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-07",
+          "tags": [
+            "FEC",
+            "Go-Kart",
+            "Entertainment"
+          ],
+          "notes": "Hunter: accept_all/score 74 (risky). Owned by Nadavon Capital. LinkedIn: https://www.linkedin.com/in/alok-pandey"
+        },
+        {
+          "id": "nmbr-20260307-4",
+          "company": "Dockwa",
+          "contact": "Mike Melillo",
+          "title": "Co-founder & CEO",
+          "email": "mike@dockwa.com",
+          "signal": "Marina management SaaS \u2014 1000+ marina partners, slip booking, fuel sales, service mgmt, contracts. No payroll. Canadian marinas have seasonal staff and complex provincial payroll needs.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-07",
+          "tags": [
+            "Marina",
+            "Seasonal Workforce",
+            "Marine Industry"
+          ],
+          "notes": "Hunter: valid/score 88. Newport RI HQ. LinkedIn: https://www.linkedin.com/in/mike-melillo-6a942629/"
+        },
+        {
+          "id": "nmbr-20260307-5",
+          "company": "SpeedyDock",
+          "contact": "Travis Wolfe",
+          "title": "Founder",
+          "email": "travis@speedydock.com",
+          "signal": "Boat club & dry stack marina SaaS \u2014 launch scheduling, reservations, boat tracking. No payroll or HR. Niche vertical with seasonal staff \u2014 embedded payroll is natural extension.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-07",
+          "tags": [
+            "Marina",
+            "Boat Club",
+            "Seasonal Workforce"
+          ],
+          "notes": "Hunter: valid/score 100. LinkedIn: https://www.linkedin.com/company/speedydock"
+        },
+        {
+          "id": "nmbr-20260307-6",
+          "company": "Adventure Bucket List",
+          "contact": "Ryan Stobie",
+          "title": "Co-founder",
+          "email": "ryan@adventurebucketlist.com",
+          "signal": "Canadian tour & activity booking SaaS \u2014 scheduling, staff management, online reservations for adventure operators. 500 Startups alum. No payroll. Canadian company = natural Nmbr fit.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-07",
+          "tags": [
+            "Tours & Activities",
+            "Canadian",
+            "Booking Software"
+          ],
+          "notes": "Hunter: valid/score 100. Canadian company. LinkedIn: https://ca.linkedin.com/company/adventure-bucket-list"
+        },
+        {
+          "id": "nmbr-20260307-7",
+          "company": "Softworks Group",
+          "contact": "Tim Edlund",
+          "title": "CEO",
+          "email": "",
+          "signal": "Edmonton-based regulatory & workforce management SaaS \u2014 just received strategic investment from Tributary Group (March 5, 2026). WFM, scheduling, time tracking. Fresh capital = expansion mode. Payroll partner opportunity.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-07",
+          "tags": [
+            "WFM",
+            "Canadian",
+            "Recently Funded",
+            "Edmonton"
+          ],
+          "notes": "LinkedIn only \u2014 email unverifiable. LinkedIn: https://www.linkedin.com/in/tim-edlund-59934814/. Tributary Group investment announced March 5, 2026."
         }
       ]
     },
@@ -5168,6 +5288,78 @@
           "tags": [
             "real-estate-coaching",
             "book-a-call-funnel"
+          ]
+        },
+        {
+          "id": "charlie-prospects-20260307-1c0e8404",
+          "company": "LuisaZhou.com",
+          "contact": "Luisa Zhou",
+          "title": "Founder",
+          "email": "luisa@luisazhou.com",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Setter Scan",
+          "signal": "M+ coaching biz, 4K+ clients, teaches coaches to scale \u2014 perfect high-ticket prospect running FB/IG ads + funnels",
+          "notes": "Hunter: valid/100",
+          "added": "2026-03-07",
+          "tags": [
+            "coaching",
+            "high-ticket",
+            "course-creator"
+          ]
+        },
+        {
+          "id": "charlie-prospects-20260307-3a661449",
+          "company": "Divine Navigation",
+          "contact": "Ronda Ren\u00e9e",
+          "title": "Founder",
+          "email": "ronda@divinenavigation.com",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Setter Scan",
+          "signal": "High-ticket coaching since 2011, publishing fresh content on creating K+ offers \u2014 needs setter to handle inbound from content",
+          "notes": "Hunter: valid/100",
+          "added": "2026-03-07",
+          "tags": [
+            "coaching",
+            "high-ticket",
+            "spiritual"
+          ]
+        },
+        {
+          "id": "charlie-prospects-20260307-ed4d8532",
+          "company": "Brianna Johnston / Overflow",
+          "contact": "Brianna Johnston",
+          "title": "Founder",
+          "email": "hello@briannajohnston.com",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Setter Scan",
+          "signal": "170K followers, coaching entrepreneurs to -50K months, Overflow Mastermind \u2014 scaling fast, needs automated lead handling",
+          "notes": "Hunter: valid/100",
+          "added": "2026-03-07",
+          "tags": [
+            "coaching",
+            "high-ticket",
+            "scaling"
+          ]
+        },
+        {
+          "id": "charlie-prospects-20260307-d0a4fdf7",
+          "company": "Leadership Coach LLC / TheVisionary.CEO",
+          "contact": "Kris Plachy",
+          "title": "Founder & CEO",
+          "email": "kris@krisplachy.com",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Setter Scan",
+          "signal": "CEO coach for female founders, 25+ yrs experience, high-ticket programs, active content pipeline \u2014 needs setter for inbound leads",
+          "notes": "Hunter: valid/100",
+          "added": "2026-03-07",
+          "tags": [
+            "coaching",
+            "executive",
+            "high-ticket"
           ]
         }
       ]
@@ -5947,9 +6139,116 @@
             "Network",
             "Influencer"
           ]
+        },
+        {
+          "id": "charlie-partners-20260307-e7d65e6e",
+          "company": "Adam Cerra",
+          "contact": "Adam Cerra",
+          "title": "Founder & CEO",
+          "email": "adam@adamcerra.com",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Setter Scan",
+          "signal": "Done-for-you closing for coaches, M+ closed \u2014 referral partner who places setters/closers into coaching businesses",
+          "notes": "Hunter: valid/92",
+          "added": "2026-03-07",
+          "tags": [
+            "setter-placement",
+            "closers",
+            "referral-partner"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260307-312fec74",
+          "company": "Elite Closers",
+          "contact": "Gentry Chidester",
+          "title": "Founder & CEO",
+          "email": "gentry@eliteclosers.com",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Setter Scan",
+          "signal": "Places top 1% salespeople for coaching businesses, 30% close rate guarantee \u2014 direct competitor/partner for setter placement",
+          "notes": "Hunter: accept_all/70",
+          "added": "2026-03-07",
+          "tags": [
+            "setter-placement",
+            "closers",
+            "referral-partner"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260307-d0b2b940",
+          "company": "Paperbell",
+          "contact": "Laura Roeder",
+          "title": "Founder",
+          "email": "",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Setter Scan",
+          "signal": "Coaching platform serving thousands of coaches \u2014 partnership potential to offer AI setting to Paperbell user base",
+          "notes": "Email unverified (error). LinkedIn only.",
+          "added": "2026-03-07",
+          "tags": [
+            "coaching-platform",
+            "SaaS",
+            "referral-partner"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260307-399187c3",
+          "company": "Cometly",
+          "contact": "Grant Cooper",
+          "title": "Co-Founder",
+          "email": "grant@cometly.com",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Setter Scan",
+          "signal": "Ad attribution platform used by coaches/high-ticket sellers \u2014 serves the exact ICP, partnership to integrate AI setter with attribution",
+          "notes": "Hunter: valid/100",
+          "added": "2026-03-07",
+          "tags": [
+            "ad-tech",
+            "attribution",
+            "referral-partner"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260307-4372ce9e",
+          "company": "The Setters Agency",
+          "contact": "Masha Varnavski",
+          "title": "Founder",
+          "email": "masha@settersandclosers.co",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Setter Scan",
+          "signal": "Setter placement agency for coaches, agencies & high-ticket providers \u2014 direct competitor/referral partner opportunity",
+          "notes": "Hunter: unknown/57 - risky",
+          "added": "2026-03-07",
+          "tags": [
+            "setter-placement",
+            "referral-partner"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260307-d2e5968c",
+          "company": "Coachilly Magazine / ZARADIGM",
+          "contact": "Corinna Kinard",
+          "title": "Founder",
+          "email": "",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Setter Scan",
+          "signal": "Leading coaching tech magazine, reviews 50+ coaching platforms \u2014 media/referral partner to get Charlie featured to coaching audience",
+          "notes": "Email invalid. LinkedIn only.",
+          "added": "2026-03-07",
+          "tags": [
+            "media",
+            "coaching-tech",
+            "referral-partner"
+          ]
         }
       ]
     }
   ],
-  "updated": "2026-03-06T19:05:16.249473+00:00"
+  "updated": "2026-03-07T12:33:41.651034+00:00"
 }
