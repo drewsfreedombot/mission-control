@@ -1,19 +1,13 @@
 {
-  "lastCheck": "2026-03-06T04:00:00-04:00",
-  "status": "ok",
+  "lastCheck": "2026-03-07T04:00:00-04:00",
+  "status": "nominal",
   "checks": {
-    "diskSpace": {"status": "ok", "detail": "3% used (11Gi/460Gi), 393Gi available"},
-    "logins": {"status": "ok", "detail": "All logins from local user 'freedombot', no anomalies"},
-    "uptime": {"status": "ok", "detail": "12 days 19h, load avg 1.55/2.19/2.39"},
-    "gateway": {"status": "ok", "detail": "Running (pid 10578), RPC probe ok, loopback-only"},
-    "processes": {"status": "warning", "detail": "fseventsd at 100.6% CPU (persistent); SSH session at 4:00 AM (cron-triggered)"},
-    "tailscale": {"status": "ok", "detail": "Connected, dwaynes-mac-mini-1 active direct connection"},
-    "configIntegrity": {"status": "ok", "detail": "SHA256 unchanged: 3a8bde38... — matches last check"}
-  },
-  "notes": [
-    "fseventsd at 100.6% CPU — persistent macOS file indexing issue, 12+ days uptime. Consider restart if it persists.",
-    "SSH session (PID 9555) active at scan time — OpenClaw cron execution",
-    "Doctor warning persists: telegram groupPolicy=allowlist with empty allowFrom list",
-    "Load averages improved from yesterday (1.55 vs 3.02)"
-  ]
+    "disk": {"status": "ok", "detail": "4% used (15Gi/460Gi)"},
+    "logins": {"status": "ok", "detail": "All logins from freedombot, no anomalies"},
+    "uptime": {"status": "ok", "detail": "13 days, load avg 3.00"},
+    "gateway": {"status": "ok", "detail": "Running, pid 24264, loopback-only"},
+    "processes": {"status": "ok", "detail": "No suspicious processes detected"},
+    "tailscale": {"status": "ok", "detail": "Connected, direct link to dwaynes-mac-mini-1"},
+    "configIntegrity": {"status": "ok", "detail": "SHA-256 unchanged since last check"}
+  }
 }
