@@ -5470,6 +5470,101 @@
             "executive",
             "high-ticket"
           ]
+        },
+        {
+          "id": "charlie-prospects-20260308-3bba2489",
+          "company": "Success School (Steph Gorton)",
+          "contact": "Steph Gorton",
+          "title": "Co-Founder",
+          "email": "steph@stephgorton.com",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Setter Scan",
+          "signal": "7-figure coach, M in 4y, runs FB ads + funnels for 200+ coaching clients. Sells k/mo programs. Heavy lead gen = high setter need.",
+          "notes": "Hunter: valid/92",
+          "added": "2026-03-08",
+          "tags": [
+            "Coach",
+            "Facebook Ads",
+            "High-Ticket",
+            "Australia"
+          ]
+        },
+        {
+          "id": "charlie-prospects-20260308-865b348c",
+          "company": "Sabrina Philipp & Associates",
+          "contact": "Sabrina Philipp",
+          "title": "CEO",
+          "email": "sabrina@sabrinaphilipp.com",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Setter Scan",
+          "signal": "8-figure coaching biz, 55K IG, sells high-ticket accelerator programs to women entrepreneurs. High-volume lead gen via social.",
+          "notes": "Hunter: valid/100",
+          "added": "2026-03-08",
+          "tags": [
+            "Coach",
+            "High-Ticket",
+            "Women",
+            "Instagram"
+          ]
+        },
+        {
+          "id": "charlie-prospects-20260308-4a4a4a38",
+          "company": "Paramount Business Coach",
+          "contact": "Yoon Cannon",
+          "title": "Founder & CEO",
+          "email": "yoon@paramountbusinesscoach.com",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Setter Scan",
+          "signal": "Coaches 7-figure CEOs on scaling sales teams. Published content on building high-performing sales teams. Needs setter automation for clients.",
+          "notes": "Hunter: valid/100",
+          "added": "2026-03-08",
+          "tags": [
+            "Business Coach",
+            "Sales",
+            "7-Figure",
+            "Philadelphia"
+          ]
+        },
+        {
+          "id": "charlie-prospects-20260308-c5869180",
+          "company": "Action Potential Mentoring",
+          "contact": "Dr. Austin Price",
+          "title": "Founder & CEO",
+          "email": "",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Setter Scan",
+          "signal": "High-ticket (K) coaching/mentoring programs. Uses PayFunnels for payment. YouTube presence. Scaling fast - needs automated lead qualification.",
+          "notes": "LinkedIn only - email unverified",
+          "added": "2026-03-08",
+          "tags": [
+            "High-Ticket",
+            "Education",
+            "Coaching",
+            "Medical"
+          ]
+        },
+        {
+          "id": "charlie-prospects-20260308-80fc8506",
+          "company": "Michelle Hext Coaching",
+          "contact": "Michelle Hext",
+          "title": "Founder",
+          "email": "michelle@michellehext.com",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Setter Scan",
+          "signal": "High-ticket launch strategist for coaches. Founder of Podcast Millionaire + High Ticket Coaching Institute. 30yr mentor track record. Heavy funnel user.",
+          "notes": "Hunter: valid/88",
+          "added": "2026-03-08",
+          "tags": [
+            "High-Ticket",
+            "Coach",
+            "Speaker",
+            "Australia"
+          ]
         }
       ]
     },
@@ -6355,9 +6450,104 @@
             "coaching-tech",
             "referral-partner"
           ]
+        },
+        {
+          "id": "charlie-partners-20260308-f9b827ed",
+          "company": "Kaizen Closing",
+          "contact": "Kevin Yee",
+          "title": "Founder",
+          "email": "kevin@kaizenclosing.com",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Setter Scan",
+          "signal": "Trains high-ticket closers/coaches on sales. Has pipeline of coaches needing setter infrastructure. Referral partner potential.",
+          "notes": "Hunter: accept_all/78",
+          "added": "2026-03-08",
+          "tags": [
+            "Sales Training",
+            "High-Ticket",
+            "Closers",
+            "Partner"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260308-2d542d4b",
+          "company": "Mehar Labana (Napstack)",
+          "contact": "Mehar Labana",
+          "title": "Founder & Social Media Strategist",
+          "email": "hello@meharlabana.com",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Setter Scan",
+          "signal": "91K IG, serves 550+ coaching clients with marketing/lead gen. Coaches need setter layer after she generates leads. Referral partner.",
+          "notes": "Hunter: valid/100",
+          "added": "2026-03-08",
+          "tags": [
+            "Social Media",
+            "Lead Gen",
+            "Coaches",
+            "Partner"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260308-45f52726",
+          "company": "Insta Appoint AI",
+          "contact": "Nechristian Bounds",
+          "title": "Founder & CEO",
+          "email": "",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Setter Scan",
+          "signal": "Built AI appointment booking tool for coaches. Potential tech partner or acquisition target. Active on LinkedIn/YouTube sharing AI automation content.",
+          "notes": "LinkedIn only - email unverified",
+          "added": "2026-03-08",
+          "tags": [
+            "AI",
+            "Appointment Setting",
+            "Tech",
+            "Partner"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260308-237f9af0",
+          "company": "Coachilly / ZARADIGM",
+          "contact": "Corinna Kinard",
+          "title": "Founder",
+          "email": "",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Setter Scan",
+          "signal": "Runs Coachilly Mag - leading coaching tech publication. Reviews coaching software/platforms. Content on automated client acquisition for coaches. Distribution partner.",
+          "notes": "LinkedIn only - email unverified",
+          "added": "2026-03-08",
+          "tags": [
+            "Media",
+            "Coaching Tech",
+            "Publication",
+            "Partner"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260308-bb34beed",
+          "company": "SetSmart",
+          "contact": "Founding Team",
+          "title": "Founders",
+          "email": "",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Setter Scan",
+          "signal": "Direct AI setter competitor targeting coaches/consultants. IG DM automation + qualification. Study their positioning - potential M&A or partnership.",
+          "notes": "LinkedIn only - no verified email. Competitor intelligence.",
+          "added": "2026-03-08",
+          "tags": [
+            "AI Setter",
+            "Competitor",
+            "SaaS",
+            "Partner"
+          ]
         }
       ]
     }
   ],
-  "updated": "2026-03-07T12:33:41.651034+00:00"
+  "updated": "2026-03-08T11:34:28.578026+00:00"
 }
