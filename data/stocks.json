@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-07T07:03:34.973301",
+  "lastUpdated": "2026-03-08T10:04:53.743901",
   "stocks": [
     {
       "ticker": "ENB.TO",
@@ -1210,6 +1210,23 @@
       "risks": "Overvalued at ATH \u2014 71% above 10-year average P/E, only 2.6% below analyst consensus target. CWB integration costs still flowing. Quebec-heavy revenue base. Canadian economic slowdown compresses P&C loan growth.",
       "researchDate": "2026-03-07",
       "priceVs52wLow": "+75%"
+    },
+    {
+      "ticker": "NTR.TO",
+      "name": "Nutrien Ltd.",
+      "currentPrice": 102.5,
+      "currency": "CAD",
+      "week52Low": 64.0,
+      "week52High": 108.0,
+      "conservativeEstimate": 93.0,
+      "optimisticEstimate": 105.0,
+      "yield": "2.87%",
+      "dividendPerShare": 3.04,
+      "rating": "Watch / Buy on DOJ Dip C$85-90",
+      "thesis": "World's largest fertilizer company (Saskatoon HQ) \u2014 potash, nitrogen, phosphate + 2,000 retail locations. Record 2025 results: EPS US$4.66 (+243%), FCF US$2.15B (+45%), 27.5M tonnes record sales. BUT near 52-week high with DOJ antitrust investigation (Mar 4, 2026) and Belarus sanctions removal creating headwinds. Buy at C$85-90 where yield opens to 3.4%+ and you're at the 5-year average.",
+      "risks": "DOJ antitrust probe could escalate. Belarus potash supply returning. Most analyst targets below current price. Near 52-week high with no margin of safety.",
+      "researchDate": "2026-03-08",
+      "priceVs52wLow": "+60%"
     }
   ]
 }
