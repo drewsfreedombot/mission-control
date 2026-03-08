@@ -4665,6 +4665,115 @@
             "Edmonton"
           ],
           "notes": "LinkedIn only \u2014 email unverifiable. LinkedIn: https://www.linkedin.com/in/tim-edlund-59934814/. Tributary Group investment announced March 5, 2026."
+        },
+        {
+          "id": "nmbr-20260308-1",
+          "company": "Payabli",
+          "contact": "Jo Phillips",
+          "title": "Co-CEO & Co-Founder",
+          "email": "jo@payabli.com",
+          "signal": "Forbes Fintech 50 (2026), powers 100+ vertical SaaS platforms with embedded payments. 4x YoY growth. Natural partner for embedded payroll alongside embedded payments \u2014 their platforms need payroll but Payabli only handles payments.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-08",
+          "tags": [
+            "embedded-fintech",
+            "vertical-SaaS",
+            "partnership",
+            "Forbes-Fintech-50"
+          ],
+          "notes": "Hunter: valid/100. LinkedIn: https://www.linkedin.com/in/joelias621/. Co-CEO with Will Corbera. Huge strategic partner opportunity \u2014 Nmbr becomes their payroll arm."
+        },
+        {
+          "id": "nmbr-20260308-2",
+          "company": "Vantaca",
+          "contact": "Ben Currin",
+          "title": "CEO",
+          "email": "ben.currin@vantaca.com",
+          "signal": "HOA/community association management software. Property mgmt companies have staff needing payroll. No native payroll feature. Growing rapidly, building AI agents (HOAi). Embedded payments via AvidXchange partnership already \u2014 payroll is next logical step.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-08",
+          "tags": [
+            "property-management",
+            "HOA",
+            "vertical-SaaS",
+            "no-payroll"
+          ],
+          "notes": "Hunter: valid/100. LinkedIn: https://www.linkedin.com/in/benjamincurrin/. Naval Academy grad. Appointed CEO 2024."
+        },
+        {
+          "id": "nmbr-20260308-3",
+          "company": "Buildium",
+          "contact": "Chris Litster",
+          "title": "CEO",
+          "email": "chris.litster@buildium.com",
+          "signal": "Property management software used by thousands in US & Canada. Owned by RealPage. Has staff management features but no native payroll \u2014 partners need to use separate payroll providers. Canadian customers especially underserved for payroll.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-08",
+          "tags": [
+            "property-management",
+            "RealPage",
+            "US-and-Canada",
+            "no-payroll"
+          ],
+          "notes": "Hunter: accept_all/71. LinkedIn only recommended. Part of RealPage family \u2014 could be larger enterprise deal."
+        },
+        {
+          "id": "nmbr-20260308-4",
+          "company": "Kangarootime",
+          "contact": "Scott Wayman",
+          "title": "Founder & CEO",
+          "email": "scott@kangarootime.com",
+          "signal": "Childcare management SaaS for multi-location centers. Mentions payroll coordination as pain point but has NO payroll module. Canadian childcare sector growing with $10/day federal program = more centers = more staff = more payroll needs.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-08",
+          "tags": [
+            "childcare",
+            "vertical-SaaS",
+            "no-payroll",
+            "multi-location"
+          ],
+          "notes": "Hunter: valid/89. LinkedIn: https://www.linkedin.com/company/kangarootime. VC-backed (Motivate VC). Buffalo, NY HQ."
+        },
+        {
+          "id": "nmbr-20260308-5",
+          "company": "Rezku",
+          "contact": "Paul Katsch",
+          "title": "Founder & CEO",
+          "email": "paul@rezku.com",
+          "signal": "Restaurant POS for independent multi-location restaurants (2-9 locations). No payroll feature \u2014 connects to external providers. Published content about 2026 labor costs/minimum wage challenges. Growing fast, positioned as Square alternative after Square's 40% layoffs created market uncertainty.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-08",
+          "tags": [
+            "restaurant",
+            "POS",
+            "no-payroll",
+            "multi-location",
+            "Square-alternative"
+          ],
+          "notes": "Hunter: valid/92. Founded 2012 by veteran restaurateur. Partnered with North American Bancard. California HQ."
+        },
+        {
+          "id": "nmbr-20260308-6",
+          "company": "AppFolio",
+          "contact": "Shane Trigg",
+          "title": "President & CEO",
+          "email": "shane.trigg@appfolio.com",
+          "signal": "Major property management SaaS (NASDAQ: APPF). Launched AppFolio Stack marketplace for integrations. Manages 14,000+ units per client. No embedded payroll for property mgmt staff \u2014 Canadian customers have to use separate payroll. Huge enterprise opportunity.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-08",
+          "tags": [
+            "property-management",
+            "public-company",
+            "marketplace",
+            "enterprise"
+          ],
+          "notes": "Hunter: valid/100. LinkedIn: https://www.linkedin.com/in/shanetrigg. Ex-Salesforce. NASDAQ listed \u2014 big fish."
         }
       ]
     },
