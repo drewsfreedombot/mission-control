@@ -1,13 +1,17 @@
 {
-  "lastCheck": "2026-03-07T04:00:00-04:00",
+  "lastCheck": "2026-03-08T04:00:00-04:00",
   "status": "nominal",
   "checks": {
-    "disk": {"status": "ok", "detail": "4% used (15Gi/460Gi)"},
-    "logins": {"status": "ok", "detail": "All logins from freedombot, no anomalies"},
-    "uptime": {"status": "ok", "detail": "13 days, load avg 3.00"},
-    "gateway": {"status": "ok", "detail": "Running, pid 24264, loopback-only"},
+    "disk": {"status": "ok", "detail": "4% used (15Gi/460Gi), 374Gi free"},
+    "logins": {"status": "ok", "detail": "All logins from freedombot, no suspicious entries"},
+    "uptime": {"status": "ok", "detail": "14 days 18h, load avg 3.28/2.59/2.55"},
+    "gateway": {"status": "ok", "detail": "Running (pid 25821), RPC probe ok, loopback-only"},
     "processes": {"status": "ok", "detail": "No suspicious processes detected"},
-    "tailscale": {"status": "ok", "detail": "Connected, direct link to dwaynes-mac-mini-1"},
-    "configIntegrity": {"status": "ok", "detail": "SHA-256 unchanged since last check"}
-  }
+    "tailscale": {"status": "ok", "detail": "Connected, dwaynes-mac-mini-1 active"},
+    "configIntegrity": {"status": "ok", "detail": "SHA-256 unchanged from last check"}
+  },
+  "advisories": [
+    "Gateway service config has embedded token — recommend running openclaw gateway install --force",
+    "Telegram groupPolicy allowlist is empty — group messages silently dropped"
+  ]
 }
