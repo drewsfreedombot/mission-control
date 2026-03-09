@@ -4774,6 +4774,123 @@
             "enterprise"
           ],
           "notes": "Hunter: valid/100. LinkedIn: https://www.linkedin.com/in/shanetrigg. Ex-Salesforce. NASDAQ listed \u2014 big fish."
+        },
+        {
+          "id": "nmbr-20260309-14db445f",
+          "company": "ClearDent",
+          "contact": "Peter Li",
+          "title": "Co-Founder & Chief Evangelist",
+          "email": "peter@cleardent.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "AI",
+          "signal": "Canadian dental SaaS with employee timesheets & time tracking but no payroll. 100% Canadian dental market focus. Perfect vertical partner.",
+          "notes": "Hunter: valid/90. LinkedIn: https://linkedin.com/in/peterli-cd",
+          "added": "2026-03-09",
+          "tags": [
+            "Canadian",
+            "Dental",
+            "VerticalSaaS",
+            "HasTimesheets"
+          ]
+        },
+        {
+          "id": "nmbr-20260309-536efede",
+          "company": "PARiM Workforce Software",
+          "contact": "Riko Muttik",
+          "title": "CEO & Co-Founder",
+          "email": "riko@parim.co",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "AI",
+          "signal": "Estonian/UK workforce management platform building broader ecosystem. No native payroll - exports timesheets to 3rd party. $5.4M revenue, 55K+ users. Expanding internationally - needs Canadian payroll partner.",
+          "notes": "Hunter: valid/90. LinkedIn: https://linkedin.com/in/rikomuttik",
+          "added": "2026-03-09",
+          "tags": [
+            "International",
+            "WorkforceManagement",
+            "EcosystemPlay",
+            "Growing"
+          ]
+        },
+        {
+          "id": "nmbr-20260309-406caeb7",
+          "company": "Lineup.ai",
+          "contact": "Sam Gerace",
+          "title": "CEO",
+          "email": "sam@lineup.ai",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "AI",
+          "signal": "AI-powered restaurant labor forecasting & scheduling. No native payroll processing. Integrates with POS systems but relies on external payroll. Restaurant vertical = high-volume hourly workforce.",
+          "notes": "Hunter: valid/91. LinkedIn: https://linkedin.com/in/samgerace",
+          "added": "2026-03-09",
+          "tags": [
+            "Restaurant",
+            "AI",
+            "Scheduling",
+            "NoPayroll",
+            "USBased"
+          ]
+        },
+        {
+          "id": "nmbr-20260309-7a99d144",
+          "company": "Beekeeper",
+          "contact": "Cristian Grossmann",
+          "title": "CEO & Co-Founder",
+          "email": "cristian@beekeeper.io",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "AI",
+          "signal": "Frontline workforce platform for deskless workers. $86M raised. Covers communication, onboarding, scheduling for hotels, manufacturing, retail. No native payroll - massive gap for Canadian clients.",
+          "notes": "Hunter: valid/100. LinkedIn: https://linkedin.com/in/cristiangrossmann",
+          "added": "2026-03-09",
+          "tags": [
+            "Frontline",
+            "Enterprise",
+            "WellFunded",
+            "NoPayroll",
+            "International"
+          ]
+        },
+        {
+          "id": "nmbr-20260309-6a67853f",
+          "company": "Assignar",
+          "contact": "Sean McCreanor",
+          "title": "CEO & Co-Founder",
+          "email": "sean@assignar.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "AI",
+          "signal": "Construction workforce & compliance management SaaS. Scheduling, crew management, timesheets but no payroll. Growing in North American market. Construction = complex payroll (union, prevailing wage, multi-province).",
+          "notes": "Hunter: valid/100. LinkedIn: https://linkedin.com/in/seanmccreanor",
+          "added": "2026-03-09",
+          "tags": [
+            "Construction",
+            "WorkforceManagement",
+            "NoPayroll",
+            "NorthAmerica"
+          ]
+        },
+        {
+          "id": "nmbr-20260309-1f01cae8",
+          "company": "Kwant.ai",
+          "contact": "Niran Shrestha",
+          "title": "CEO & Co-Founder",
+          "email": "niran@kwant.ai",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "AI",
+          "signal": "AI construction workforce management - onboarding, scheduling, heatmaps, predictive analytics. Seed-funded. Growing fast with major contractors. No payroll. Construction vertical = embedded payroll opportunity.",
+          "notes": "Hunter: valid/100. LinkedIn: https://linkedin.com/in/niranshrestha",
+          "added": "2026-03-09",
+          "tags": [
+            "Construction",
+            "AI",
+            "WorkforceManagement",
+            "Seed",
+            "NoPayroll"
+          ]
         }
       ]
     },
@@ -6549,5 +6666,5 @@
       ]
     }
   ],
-  "updated": "2026-03-08T11:34:28.578026+00:00"
+  "updated": "2026-03-09T11:05:05.557737+00:00"
 }
