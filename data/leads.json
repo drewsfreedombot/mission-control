@@ -5682,6 +5682,155 @@
             "Speaker",
             "Australia"
           ]
+        },
+        {
+          "id": "charlie-prospects-20260309-bd1e8fab",
+          "company": "Kate Perkovic Coaching",
+          "contact": "Kate Perkovic",
+          "title": "Founder & Sales Coach",
+          "email": "kate@kateperkovic.com",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Setter Scan",
+          "signal": "High-ticket sales coach helping coaches scale to 6-7 figures; 14K IG following; active funnel selling coaching programs \u2014 prime AI setter use case",
+          "notes": "Hunter: valid/score 90",
+          "added": "2026-03-09",
+          "tags": [
+            "HighTicket",
+            "SalesCoach",
+            "CoachForCoaches"
+          ]
+        },
+        {
+          "id": "charlie-prospects-20260309-5a979579",
+          "company": "Amy Mewborn / Living Simpler",
+          "contact": "Amy Mewborn",
+          "title": "CEO & Founder",
+          "email": "amy@amymewborn.com",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Setter Scan",
+          "signal": "Fitness business coach & TEDx speaker; helps women open boutique fitness studios; sells courses + memberships + coaching \u2014 high volume lead gen from content",
+          "notes": "Hunter: valid/score 100",
+          "added": "2026-03-09",
+          "tags": [
+            "FitnessCoach",
+            "CourseCreator",
+            "TEDxSpeaker"
+          ]
+        },
+        {
+          "id": "charlie-prospects-20260309-bd81409f",
+          "company": "Brianna Johnston Coaching",
+          "contact": "Brianna Johnston",
+          "title": "Founder & Business Coach",
+          "email": "hello@briannajohnston.com",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Setter Scan",
+          "signal": "170K IG followers; runs Overflow Mastermind helping entrepreneurs scale to 30-50K months; high-ticket coaching with heavy IG lead gen \u2014 ideal AI setter prospect",
+          "notes": "Hunter: valid/score 100",
+          "added": "2026-03-09",
+          "tags": [
+            "HighTicket",
+            "BusinessCoach",
+            "Mastermind",
+            "HighFollowing"
+          ]
+        },
+        {
+          "id": "charlie-prospects-20260309-201e1575",
+          "company": "Attract Clients Online",
+          "contact": "Pamela Bruner",
+          "title": "CEO & Founder",
+          "email": "pamela@attractclientsonline.com",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Setter Scan",
+          "signal": "7-figure business coach specializing in transformational industry; runs 'Simplify and Scale for Women CEOs'; high-ticket programs with active social ad funnels",
+          "notes": "Hunter: valid/score 100",
+          "added": "2026-03-09",
+          "tags": [
+            "HighTicket",
+            "CoachForCoaches",
+            "7Figure",
+            "WomenCEO"
+          ]
+        },
+        {
+          "id": "charlie-prospects-20260309-fb27c43b",
+          "company": "Women CEO Project",
+          "contact": "Kristi L. Jackson",
+          "title": "Founder & CEO",
+          "email": "kristi@womenceoproject.com",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Setter Scan",
+          "signal": "White House recognized entrepreneur; 300K+ coached globally; runs conferences + group coaching + global tour for coaches; heavy inbound from events & content",
+          "notes": "Hunter: valid/score 100",
+          "added": "2026-03-09",
+          "tags": [
+            "HighTicket",
+            "CoachForCoaches",
+            "Events",
+            "GlobalReach"
+          ]
+        },
+        {
+          "id": "charlie-prospects-20260309-359d711a",
+          "company": "Laura Payne-Stanley / LPS Vanguard",
+          "contact": "Laura Payne-Stanley",
+          "title": "Founder & Master Coach",
+          "email": "laura@laurapaynestanley.com",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Setter Scan",
+          "signal": "Award-winning serial entrepreneur; NLP trainer; co-founder ElevateLABS helping coaches build online; 500K+ social reach; writes about coaching scaling challenges",
+          "notes": "Hunter: accept_all/score 80",
+          "added": "2026-03-09",
+          "tags": [
+            "HighTicket",
+            "NLP",
+            "CoachForCoaches",
+            "Speaker"
+          ]
+        },
+        {
+          "id": "charlie-prospects-20260309-7e2f8869",
+          "company": "Elevate LifeCoaching",
+          "contact": "Michelle Kuei",
+          "title": "Founder",
+          "email": "michelle@elevatelifecoaching.org",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Setter Scan",
+          "signal": "Top 15 LA coach; visibility & marketing coach for coaches; teaches funnel building; clients struggle with lead management \u2014 direct speed-to-lead pain point",
+          "notes": "Hunter: valid/score 100",
+          "added": "2026-03-09",
+          "tags": [
+            "CoachForCoaches",
+            "Visibility",
+            "LeadManagement"
+          ]
+        },
+        {
+          "id": "charlie-prospects-20260309-3dcbc53c",
+          "company": "Her Income Edit",
+          "contact": "Nik",
+          "title": "Founder",
+          "email": "nik@herincomeedit.com",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Setter Scan",
+          "signal": "Income coach for women launching coaching businesses; actively writing about tech stack scaling problems & solopreneur-to-CEO transition \u2014 speed-to-lead pain",
+          "notes": "Hunter: valid/score 89",
+          "added": "2026-03-09",
+          "tags": [
+            "CoachForCoaches",
+            "WomenFocused",
+            "TechStack",
+            "Scaling"
+          ]
         }
       ]
     },
@@ -6662,9 +6811,47 @@
             "SaaS",
             "Partner"
           ]
+        },
+        {
+          "id": "charlie-partners-20260309-f3cd9a54",
+          "company": "The Prairie Group",
+          "contact": "Allison Reed",
+          "title": "Founder & CEO",
+          "email": "allison@theprairiegroup.net",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Setter Scan",
+          "signal": "CRM consulting firm writing speed-to-lead blueprints; helps businesses cut response times under 60 seconds \u2014 natural partner for AI setter referrals",
+          "notes": "Hunter: valid/score 100",
+          "added": "2026-03-09",
+          "tags": [
+            "CRM",
+            "SpeedToLead",
+            "Referral",
+            "Automation"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260309-002a53d6",
+          "company": "PayFunnels",
+          "contact": "PayFunnels Team",
+          "title": "Founder/CEO",
+          "email": "support@payfunnels.com",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Setter Scan",
+          "signal": "Payment platform built for coaches/consultants; coaching clients use for high-ticket installment plans; natural integration partner for AI setter workflow",
+          "notes": "Hunter: valid/score 100. Founder name not public \u2014 LinkedIn only",
+          "added": "2026-03-09",
+          "tags": [
+            "Platform",
+            "Coaching",
+            "Payments",
+            "Integration"
+          ]
         }
       ]
     }
   ],
-  "updated": "2026-03-09T11:05:05.557737+00:00"
+  "updated": "2026-03-09T11:35:24.993283+00:00"
 }
