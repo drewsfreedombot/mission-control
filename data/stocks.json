@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-08T10:04:53.743901",
+  "lastUpdated": "2026-03-09T10:07:32.441545",
   "stocks": [
     {
       "ticker": "ENB.TO",
@@ -1227,6 +1227,22 @@
       "risks": "DOJ antitrust probe could escalate. Belarus potash supply returning. Most analyst targets below current price. Near 52-week high with no margin of safety.",
       "researchDate": "2026-03-08",
       "priceVs52wLow": "+60%"
+    },
+    {
+      "ticker": "BMO.TO",
+      "name": "Bank of Montreal",
+      "currentPrice": 199.0,
+      "currency": "CAD",
+      "week52Low": 121.31,
+      "week52High": 204.57,
+      "conservativeEstimate": 206.0,
+      "optimisticEstimate": 224.0,
+      "yield": "3.4%",
+      "rating": "Buy",
+      "thesis": "Canada's 4th largest bank has finally turned the corner on its US$16.3B Bank of the West acquisition. Record Q1 2026 earnings beat estimates (adj. EPS C$3.48 vs C$3.20 est, +15% YoY), with a 5% dividend hike to C$1.67/quarter and 6M-share buyback signaling management confidence. At ~14x forward earnings, BMO trades cheaper than peers RBC (16.5x) and TD (15.2x) despite having the strongest near-term earnings growth trajectory. Simply Wall St estimates 28.8% below intrinsic value. The 'new BMO' with integrated US operations is structurally more profitable \u2014 this is not a reversion-to-mean trade, it's a catch-up trade.",
+      "risks": "Stock near 52-week high limits margin of safety. US tariff uncertainty could impact cross-border operations. Bank of the West credit portfolio may have hidden quality issues as US rates bite. P/E of 14x is reasonable but not cheap vs historical bank multiples of 10-12x.",
+      "researchDate": "2026-03-09",
+      "priceVs52wLow": "+64%"
     }
   ]
 }
