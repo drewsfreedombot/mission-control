@@ -4390,6 +4390,24 @@
             "TechStack",
             "Scaling"
           ]
+        },
+        {
+          "id": "charlie-prospects-20260310-50569d3d",
+          "company": "TJS Cognition Ltd",
+          "contact": "Tony Jeton Selimi",
+          "title": "Founder & CEO",
+          "email": "",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Setter Scan",
+          "signal": "Named Business Coach of the Year 2026 by Global 100 Awards. High-profile coach with high-ticket clients \u2014 perfect direct Charlie buyer.",
+          "notes": "LinkedIn only \u2014 email invalid",
+          "added": "2026-03-10",
+          "tags": [
+            "business-coach",
+            "award-winner",
+            "high-ticket"
+          ]
         }
       ]
     },
@@ -5408,9 +5426,171 @@
             "Payments",
             "Integration"
           ]
+        },
+        {
+          "id": "charlie-partners-20260310-2c70ec4e",
+          "company": "DoneForYou",
+          "contact": "Jason Drohn",
+          "title": "CEO",
+          "email": "jason@doneforyou.com",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Setter Scan",
+          "signal": "DFY funnel/automation agency serving coaches & course creators. Their clients have speed-to-lead pain \u2014 perfect Charlie referral partner.",
+          "notes": "Hunter: valid/100",
+          "added": "2026-03-10",
+          "tags": [
+            "funnel-agency",
+            "coaching-vertical",
+            "DFY"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260310-6ece4341",
+          "company": "Expert Business Agency",
+          "contact": "David Ziembicki",
+          "title": "Founder & CEO",
+          "email": "dave@expertbusiness.com",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Setter Scan",
+          "signal": "Agency building funnels, websites & automations specifically for coaches/course creators. Active content on coaching sales funnels \u2014 their clients need AI setter.",
+          "notes": "Hunter: accept_all/71",
+          "added": "2026-03-10",
+          "tags": [
+            "funnel-agency",
+            "coaching-vertical",
+            "automation"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260310-4a5bfcda",
+          "company": "Genflow",
+          "contact": "Shan Hanif",
+          "title": "Founder & CEO",
+          "email": "shan@genflow.com",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Setter Scan",
+          "signal": "M+/yr agency helping coaches scale to 8 figures. Actively teaching high-ticket closer strategies \u2014 natural Charlie partner for AI setter.",
+          "notes": "Hunter: valid/100",
+          "added": "2026-03-10",
+          "tags": [
+            "agency",
+            "scaling",
+            "high-ticket"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260310-8660b698",
+          "company": "Sarah Noked OBM",
+          "contact": "Sarah Noked",
+          "title": "Founder & CEO",
+          "email": "sarah@sarahnoked.com",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Setter Scan",
+          "signal": "OBM training & accreditation for people serving coaches. Active podcast on coaching business systems in 2026 \u2014 her entire network are coaches needing AI setters.",
+          "notes": "Hunter: valid/90",
+          "added": "2026-03-10",
+          "tags": [
+            "OBM",
+            "coaching-adjacent",
+            "referral-network"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260310-586a26bb",
+          "company": "LeadSync",
+          "contact": "Luke",
+          "title": "Founder",
+          "email": "luke@leadsync.me",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Setter Scan",
+          "signal": "Facebook/TikTok/LinkedIn lead ads \u2192 CRM sync tool. Solves first half of speed-to-lead but no AI setter for response. Perfect integration partner for Charlie.",
+          "notes": "Hunter: valid/100",
+          "added": "2026-03-10",
+          "tags": [
+            "lead-sync",
+            "speed-to-lead",
+            "integration-partner"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260310-8f7bd9ce",
+          "company": "Adam Erhart Marketing",
+          "contact": "Adam Erhart",
+          "title": "Marketing Strategist & Founder",
+          "email": "adam@adamerhart.com",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Setter Scan",
+          "signal": "GoHighLevel partner teaching AI agency model to entrepreneurs. Massive YouTube following. His students run agencies serving coaches \u2014 bulk referral channel for Charlie.",
+          "notes": "Hunter: valid/49 borderline",
+          "added": "2026-03-10",
+          "tags": [
+            "GHL-partner",
+            "agency-training",
+            "bulk-referral"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260310-dae9d171",
+          "company": "Second Brain Labs (SBL.so)",
+          "contact": "Shubham Kumar",
+          "title": "Founder & CEO",
+          "email": "",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Setter Scan",
+          "signal": "AI sales automation for LinkedIn & WhatsApp. Works with Cialdini Institute. Competitive intelligence & potential integration partner \u2014 their clients overlap with Charlie's target market.",
+          "notes": "LinkedIn only \u2014 email invalid",
+          "added": "2026-03-10",
+          "tags": [
+            "AI-sales",
+            "competitive-intel",
+            "integration"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260310-a18125fb",
+          "company": "Learning Revolution",
+          "contact": "Jeff Cobb",
+          "title": "Founder",
+          "email": "",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Setter Scan",
+          "signal": "20+ yr e-learning consultant, author. Reviews course platforms \u2014 coaches/creators are his entire audience. Strategic content/referral partner for Charlie.",
+          "notes": "Email unverified (timeout)",
+          "added": "2026-03-10",
+          "tags": [
+            "course-creator",
+            "edu-tech",
+            "content-partner"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260310-a8149e21",
+          "company": "Dream Team Digital Marketing",
+          "contact": "Founder",
+          "title": "CEO",
+          "email": "info@dreamteammarketingagency.com",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Setter Scan",
+          "signal": "Atlanta agency doing DFY funnels, FB ads, and lead gen for coaching vertical specifically. Their coaching clients are the exact ICP for Charlie.",
+          "notes": "Hunter: accept_all/72",
+          "added": "2026-03-10",
+          "tags": [
+            "funnel-agency",
+            "coaching-vertical",
+            "Atlanta"
+          ]
         }
       ]
     }
   ],
-  "updated": "2026-03-09T11:35:24.993283+00:00"
+  "updated": "2026-03-10T11:34:18.663238+00:00"
 }
