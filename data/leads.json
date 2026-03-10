@@ -4465,6 +4465,67 @@
             "award-winner",
             "high-ticket"
           ]
+        },
+        {
+          "id": "charlie-prospects-20260310-97413efd",
+          "company": "Bloom Business Collective",
+          "contact": "Danielle Wiebe",
+          "title": "CEO & Founder",
+          "email": "danielle@bloombusinesscollective.com",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Scout AI",
+          "signal": "Runs high-ticket mastermind & 1:1 coaching for female entrepreneurs with apply-to-join funnel. 10+ year community, rebranded from Business Babes Collective. Hosts Dream Big Conference + events. Perfect for AI setter to handle inbound coaching applications.",
+          "notes": "Hunter: valid/score 100. Based in Langley, BC. Has podcast (Bloom Collective Podcast), Kajabi-based business. Offers membership + 1:1 coaching + masterminds.",
+          "added": "2026-03-10",
+          "tags": [
+            "Coach",
+            "Mastermind",
+            "Female-Entrepreneurs",
+            "BC",
+            "Canadian"
+          ]
+        },
+        {
+          "id": "charlie-prospects-20260310-7aefa54b",
+          "company": "Visionary Inc (Kelsey Reidl)",
+          "contact": "Kelsey Reidl",
+          "title": "CEO & Business Coach",
+          "email": "hello@kelseyreidl.com",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Scout AI",
+          "signal": "Canada's #1 rated marketing & business coach. 400+ clients, 14+ years experience. Runs high-ticket 1:1 coaching with book-a-call model. Keynote speaker, workshop facilitator. Could replace manual lead handling with AI setter.",
+          "notes": "Hunter: valid/score 52. Based in Toronto, ON. Western University alumni. Co-founder @waveforwomen. Active on Instagram (5.7K followers).",
+          "added": "2026-03-10",
+          "tags": [
+            "Coach",
+            "Marketing",
+            "Toronto",
+            "Ontario",
+            "Canadian"
+          ]
+        },
+        {
+          "id": "charlie-prospects-20260310-fd84480e",
+          "company": "Canada Coach Academy",
+          "contact": "Nathalie Blais",
+          "title": "CEO & Founder",
+          "email": "info@canadacoachacademy.com",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Scout AI",
+          "signal": "ICF-certified coaching academy based in Montreal. Runs admissions funnel with Schedule A Meeting model for enrollments. Recently confirmed as TEDx Foggy Bottom speaker (March 2026). Growing academy with high-ticket certification programs - ideal for AI setter to handle admissions inquiries.",
+          "notes": "Hunter: valid/score 52. Based in Montreal, QC. Harvard-educated, Master Certified Coach. Has podcast (What?). Active on Instagram, LinkedIn, Facebook.",
+          "added": "2026-03-10",
+          "tags": [
+            "Coach",
+            "Certification",
+            "Academy",
+            "Montreal",
+            "Quebec",
+            "Canadian"
+          ]
         }
       ]
     },
@@ -5649,5 +5710,5 @@
       ]
     }
   ],
-  "updated": "2026-03-10T12:06:55.900622+00:00"
+  "updated": "2026-03-10T18:07:41.359342+00:00"
 }
