@@ -3325,6 +3325,131 @@
             "NoPayroll",
             "International"
           ]
+        },
+        {
+          "id": "nmbr-20260310-1",
+          "company": "BarSight Restaurant Systems",
+          "contact": "Brian Howard",
+          "title": "Founder & Owner",
+          "email": "",
+          "signal": "BC-based restaurant/bar/brewery management SaaS with scheduling, training, expense reports \u2014 no payroll module. Perfect vertical for embedded Canadian payroll.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-10",
+          "tags": [
+            "Hospitality",
+            "Canadian",
+            "Restaurant-Tech"
+          ],
+          "notes": "Hunter: invalid. LinkedIn only. LI: ca.linkedin.com/in/brian-howard-bb757b1b4"
+        },
+        {
+          "id": "nmbr-20260310-2",
+          "company": "Silverware POS",
+          "contact": "Nick Thalas",
+          "title": "Founder & CEO",
+          "email": "",
+          "signal": "Enterprise restaurant/hotel POS (Markham, ON). 101-250 employees. Currently partners with Push Operations for workforce/payroll. Could switch to Nmbr for deeper Canadian payroll integration.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-10",
+          "tags": [
+            "Hospitality",
+            "Canadian",
+            "POS",
+            "Enterprise"
+          ],
+          "notes": "Hunter: invalid. LinkedIn only. LI: ca.linkedin.com/in/nickthalas"
+        },
+        {
+          "id": "nmbr-20260310-3",
+          "company": "PRIM Logix",
+          "contact": "PRIM Logix Team",
+          "title": "Co-CEOs",
+          "email": "info@primlogix.com",
+          "signal": "Quebec-based staffing/recruiting SaaS for temp agencies (since 2005). Handles placement, billing, gross payroll \u2014 could embed Nmbr for actual payroll processing. Quebec market = complex compliance = Nmbr sweet spot.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-10",
+          "tags": [
+            "Staffing",
+            "Quebec",
+            "Canadian",
+            "Temp-Workforce"
+          ],
+          "notes": "Hunter: valid/100. General inbox \u2014 CEO names not public. LI: ca.linkedin.com/showcase/saas-primlogix/"
+        },
+        {
+          "id": "nmbr-20260310-4",
+          "company": "ZayZoon",
+          "contact": "Tate Hackert",
+          "title": "Co-Founder & President",
+          "email": "",
+          "signal": "Calgary earned wage access (EWA) fintech \u2014 employees access wages before payday. Integrates with payroll systems. Channel partner opportunity: ZayZoon + Nmbr = complete workforce finance stack for SaaS platforms.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-10",
+          "tags": [
+            "Fintech",
+            "Canadian",
+            "Channel-Partner",
+            "EWA"
+          ],
+          "notes": "Hunter: invalid. LinkedIn only. LI: linkedin.com/company/zayzoon. Co-founder Ben Silluzio runs AUS ops."
+        },
+        {
+          "id": "nmbr-20260310-5",
+          "company": "Vitruvi Software",
+          "contact": "Bryan McIver",
+          "title": "Founder & CEO",
+          "email": "",
+          "signal": "Vancouver construction management SaaS for linear infrastructure (pipelines, telecom, broadband). Manages field workers/project docs \u2014 no payroll. Deloitte Fast 50 'Companies to Watch'. Growing BEAD funding opportunity.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-10",
+          "tags": [
+            "Construction",
+            "Canadian",
+            "Field-Service",
+            "Infrastructure"
+          ],
+          "notes": "Hunter: score 43 (low confidence). LinkedIn only. LI: linkedin.com/company/vitruvi-software"
+        },
+        {
+          "id": "nmbr-20260310-6",
+          "company": "League",
+          "contact": "Michael Serbinis",
+          "title": "Founder & CEO",
+          "email": "mike@league.com",
+          "signal": "Toronto digital health/wellness benefits platform for employers. $920M+ raised. Serves enterprises with employee benefits \u2014 adding embedded payroll would complete their HR suite. Serial entrepreneur (founded Kobo).",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-10",
+          "tags": [
+            "Benefits",
+            "Canadian",
+            "Enterprise",
+            "Health-Tech"
+          ],
+          "notes": "Hunter: accept_all/80. LI: ca.linkedin.com/in/mserbinis"
+        },
+        {
+          "id": "nmbr-20260310-7",
+          "company": "Dialogue Health Technologies",
+          "contact": "Cherif Habib",
+          "title": "Co-Founder & CEO",
+          "email": "cherif.habib@dialogue.co",
+          "signal": "Montreal virtual healthcare platform for employers (TSX: CARE). Provides virtual care as employee benefit \u2014 needs payroll integration for deductions/enrollment. Quebec-based = Nmbr compliance moat. Publicly traded.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-10",
+          "tags": [
+            "Health-Tech",
+            "Canadian",
+            "Quebec",
+            "Public-Company"
+          ],
+          "notes": "Hunter: valid/100. LI: ca.linkedin.com/in/cherif"
         }
       ]
     },
