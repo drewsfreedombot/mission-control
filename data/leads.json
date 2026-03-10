@@ -3450,6 +3450,63 @@
             "Public-Company"
           ],
           "notes": "Hunter: valid/100. LI: ca.linkedin.com/in/cherif"
+        },
+        {
+          "id": "nmbr-20260310-be74a6ba",
+          "company": "FranchiseSoft",
+          "contact": "Jamshaid Hashmi",
+          "title": "CEO & Co-Founder",
+          "email": "jam@franchisesoft.com",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Scout AI",
+          "signal": "Canadian franchise management SaaS (Mississauga, ON) with no payroll module. Manages franchise operations, onboarding, finance/royalty \u2014 but franchises need multi-location payroll. Collage+Nmbr launch proves the embedded model. Rated top franchise tech supplier by Entrepreneur.",
+          "notes": "Hunter: valid/89. Also known as Jam Hashmi. Phone: 866-311-7189.",
+          "added": "2026-03-10",
+          "tags": [
+            "Canadian",
+            "Franchise",
+            "SaaS",
+            "Multi-location"
+          ]
+        },
+        {
+          "id": "nmbr-20260310-26969c83",
+          "company": "Condo Control",
+          "contact": "Brian Bosscher",
+          "title": "President & Founder",
+          "email": "brian@condocontrolcentral.com",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Scout AI",
+          "signal": "Toronto-based condo/HOA property management SaaS (since 2008). ~$3M revenue. Property management companies employ staff who need payroll. Their own site says 'increase manager-to-door ratio without adding payroll' \u2014 aware of the gap. Canadian-built platform serving growing condo market.",
+          "notes": "Hunter: valid/100. Email domain is condocontrolcentral.com (legacy). LinkedIn: brian-bosscher-2743bb45.",
+          "added": "2026-03-10",
+          "tags": [
+            "Canadian",
+            "PropertyTech",
+            "SaaS",
+            "Toronto"
+          ]
+        },
+        {
+          "id": "nmbr-20260310-cf8cd367",
+          "company": "ProPet Software",
+          "contact": "Debbie Moffat",
+          "title": "CEO & Founder",
+          "email": "debbie@propetware.com",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Scout AI",
+          "signal": "Canadian pet care SaaS (Ottawa area) for boarding kennels, dog daycares, trainers, groomers. Cloud-based operations platform with scheduling, billing, CRM \u2014 but no payroll. Pet care is a growing industry with multi-staff facilities needing payroll. Niche vertical with embedded payroll potential.",
+          "notes": "Hunter: valid/92. Phone: (613) 656-1300.",
+          "added": "2026-03-10",
+          "tags": [
+            "Canadian",
+            "PetCare",
+            "SaaS",
+            "Niche"
+          ]
         }
       ]
     },
@@ -5592,5 +5649,5 @@
       ]
     }
   ],
-  "updated": "2026-03-10T11:34:18.663238+00:00"
+  "updated": "2026-03-10T12:06:55.900622+00:00"
 }
