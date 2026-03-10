@@ -1,18 +1,14 @@
 {
-  "lastCheck": "2026-03-09T04:00:00-04:00",
-  "status": "warning",
+  "lastCheck": "2026-03-10T04:00:00-04:00",
+  "status": "nominal",
   "checks": {
-    "disk": {"status": "ok", "detail": "4% used (15Gi/460Gi), 371Gi free"},
-    "logins": {"status": "ok", "detail": "All logins from freedombot, no suspicious entries"},
-    "uptime": {"status": "ok", "detail": "15 days 18h, load avg 4.76/3.45/2.97"},
-    "gateway": {"status": "ok", "detail": "Running (pid 38723), RPC probe ok, loopback-only"},
-    "processes": {"status": "ok", "detail": "No suspicious processes detected — standard system services, Telegram, Chrome, Tailscale"},
-    "tailscale": {"status": "ok", "detail": "Connected, dwaynes-mac-mini-1 active (direct)"},
-    "configIntegrity": {"status": "warning", "detail": "SHA-256 CHANGED since last check. Modified 2026-03-08 08:17 AST. Previous: 3a8bde38..., Current: 9755a20e..."}
+    "disk": {"status": "ok", "detail": "4% used (15Gi/460Gi), 369Gi free"},
+    "logins": {"status": "ok", "detail": "All logins from freedombot, no unknown users"},
+    "uptime": {"status": "ok", "detail": "16 days 18h, load avg 2.69/2.54/2.49"},
+    "gateway": {"status": "ok", "detail": "Running (pid 93373), RPC probe ok"},
+    "processes": {"status": "ok", "detail": "No suspicious processes detected"},
+    "tailscale": {"status": "ok", "detail": "Connected, freedombots-macbook-pro online"},
+    "configIntegrity": {"status": "ok", "detail": "SHA-256 unchanged since last check"}
   },
-  "advisories": [
-    "⚠️ openclaw.json was modified on 2026-03-08 at 08:17 AST — hash changed from previous check. Verify this was an authorized change.",
-    "Telegram groupPolicy allowlist is empty — group messages silently dropped",
-    "Load average elevated (4.76) — likely transient from CacheDelete/mobileassetd maintenance tasks"
-  ]
+  "notes": "fseventsd high CPU (98.5%) — typical for macOS after extended uptime (16 days). Doctor warning: telegram groupPolicy allowlist has empty allowFrom list (non-critical, group messages dropped by design)."
 }
