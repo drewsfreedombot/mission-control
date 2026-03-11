@@ -4651,6 +4651,116 @@
             "Quebec",
             "Canadian"
           ]
+        },
+        {
+          "id": "charlie-prospects-20260311-94880bde",
+          "company": "The Tailored Tree",
+          "contact": "Max Tuleberg",
+          "title": "Founder",
+          "email": "",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Setter Scan",
+          "signal": "Actively recruiting human appointment setters (LinkedIn post March 2026) - prime candidate for AI setter replacement",
+          "notes": "LinkedIn only - email unverifiable",
+          "added": "2026-03-11",
+          "tags": [
+            "coaching",
+            "hiring-setters",
+            "UK"
+          ]
+        },
+        {
+          "id": "charlie-prospects-20260311-8f9f62ba",
+          "company": "No1 Coaching",
+          "contact": "Jake Shannon",
+          "title": "Founder",
+          "email": "jake@no1coaching.com",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Setter Scan",
+          "signal": "Just launched 2026 high-ticket executive coaching intensive targeting M+ companies - new program = fresh lead flow needing rapid response",
+          "notes": "Hunter: valid/89",
+          "added": "2026-03-11",
+          "tags": [
+            "executive-coaching",
+            "high-ticket",
+            "new-program-launch"
+          ]
+        },
+        {
+          "id": "charlie-prospects-20260311-2e45793f",
+          "company": "Deliberate Directions",
+          "contact": "Allison Dunn",
+          "title": "Founder & CEO",
+          "email": "",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Setter Scan",
+          "signal": "Top-ranked Idaho business coaching firm, 1000+ business owners served, books strategy sessions - appointment-heavy model",
+          "notes": "LinkedIn only - email unverifiable",
+          "added": "2026-03-11",
+          "tags": [
+            "business-coaching",
+            "strategy-sessions",
+            "high-volume"
+          ]
+        },
+        {
+          "id": "charlie-prospects-20260311-6d8c6f20",
+          "company": "Matchbook (Michael Kitka)",
+          "contact": "Michael Kitka",
+          "title": "Founder",
+          "email": "michael@michaelkitka.com",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Setter Scan",
+          "signal": "High-ticket coaching for founders, active YT content (4 days ago) on starting coaching business in 2026. Vancouver-based, Canadian lead.",
+          "notes": "Hunter: valid/92",
+          "added": "2026-03-11",
+          "tags": [
+            "coaching",
+            "founder-coaching",
+            "Canadian",
+            "content-creator"
+          ]
+        },
+        {
+          "id": "charlie-prospects-20260311-70304748",
+          "company": "Sierra Moore & Co",
+          "contact": "Sierra Moore",
+          "title": "Founder",
+          "email": "",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Setter Scan",
+          "signal": "Sales psychology specialist helping coaches fill mid-high ticket offers. Social selling model = inbound leads needing fast follow-up.",
+          "notes": "LinkedIn only - email score 48/below threshold",
+          "added": "2026-03-11",
+          "tags": [
+            "sales-psychology",
+            "coaching",
+            "mid-high-ticket"
+          ]
+        },
+        {
+          "id": "charlie-prospects-20260311-9a25fc54",
+          "company": "Elevated With Ashley",
+          "contact": "Ashley Latimer",
+          "title": "Founder",
+          "email": "hello@elevatedwithashley.com",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Setter Scan",
+          "signal": "Brand monetization coach, $1M+ sales, high-ticket mastermind + 1:1. Active IG presence = inbound lead flow needing setter capacity.",
+          "notes": "Hunter: valid/100",
+          "added": "2026-03-11",
+          "tags": [
+            "brand-coaching",
+            "course-creator",
+            "high-ticket",
+            "mastermind"
+          ]
         }
       ]
     },
@@ -5831,9 +5941,82 @@
             "coaching-vertical",
             "Atlanta"
           ]
+        },
+        {
+          "id": "charlie-partners-20260311-ff97a45d",
+          "company": "RepSelect.io",
+          "contact": "Tiye Martin",
+          "title": "Founder",
+          "email": "tiye@repselect.io",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Setter Scan",
+          "signal": "Runs setter/closer placement marketplace for coaching businesses - referral partner for AI setter alternative",
+          "notes": "Hunter: valid/92",
+          "added": "2026-03-11",
+          "tags": [
+            "setter-marketplace",
+            "referral-partner"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260311-558517e5",
+          "company": "Stealth Agents",
+          "contact": "Teo Vanyo",
+          "title": "CEO & Founder",
+          "email": "teo@stealthagents.com",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Setter Scan",
+          "signal": "VA agency explicitly marketing appointment setters for coaching businesses - AI setter complement/alternative partnership",
+          "notes": "Hunter: valid/100",
+          "added": "2026-03-11",
+          "tags": [
+            "VA-agency",
+            "setter-services",
+            "referral-partner"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260311-bc802292",
+          "company": "DataAlly / Brighter Click",
+          "contact": "Colby Flood",
+          "title": "Founder & CEO",
+          "email": "colby@brighterclick.com",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Setter Scan",
+          "signal": "Runs FB ad analytics tool + ad agency serving coaches - clients generate leads needing setter capacity",
+          "notes": "Hunter: valid/51 (brighterclick.com)",
+          "added": "2026-03-11",
+          "tags": [
+            "ad-agency",
+            "analytics",
+            "coaching-adjacent",
+            "referral-partner"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260311-77ae6579",
+          "company": "Shockwave Solutions",
+          "contact": "Emma Rainville",
+          "title": "Founder",
+          "email": "emma@shockwavesolutionsllc.com",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Setter Scan",
+          "signal": "Operations consulting for coaching businesses. Published speed-to-lead article 15 hours ago. Builds automation for founders - natural partner.",
+          "notes": "Hunter: valid/100",
+          "added": "2026-03-11",
+          "tags": [
+            "operations",
+            "automation",
+            "speed-to-lead",
+            "referral-partner"
+          ]
         }
       ]
     }
   ],
-  "updated": "2026-03-10T18:07:41.359342+00:00"
+  "updated": "2026-03-11T11:35:31.207419+00:00"
 }
