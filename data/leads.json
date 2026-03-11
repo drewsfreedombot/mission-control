@@ -6014,9 +6014,86 @@
             "speed-to-lead",
             "referral-partner"
           ]
+        },
+        {
+          "id": "charlie-partners-20260311-47350cc1",
+          "company": "Blue Cow Marketing",
+          "contact": "Shaun Whynacht",
+          "title": "Founder & CEO",
+          "email": "shaun@bluecowmarketing.ca",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Scout AI",
+          "signal": "Canadian GoHighLevel certified partner agency serving coaches, consultants & service businesses with CRM automation and lead nurturing. Perfect Charlie reseller \u2014 already in the GHL ecosystem selling to coaching clients.",
+          "notes": "Hunter: valid/100. GHL partner, Keap certified. 16+ years in business. Based in Canada. Published content about GHL for Canadian market Feb 2026.",
+          "added": "2026-03-11",
+          "tags": [
+            "GHL",
+            "Automation",
+            "Canadian",
+            "CRM"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260311-6c04b018",
+          "company": "Volterra Digital",
+          "contact": "Andrew Jenkins",
+          "title": "CEO & Principal",
+          "email": "ajenkins@volterradigital.com",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Scout AI",
+          "signal": "Award-winning Toronto social media agency with verified work for coaching/mentoring clients (Clutch). Specializes in social selling and employee advocacy \u2014 their coaching clients need appointment setting.",
+          "notes": "Hunter: valid/100. Rotman MBA grad. Recognized by LinkedIn and Onalytica for social selling expertise. 22+ Clutch reviews. Based in Toronto, Canada.",
+          "added": "2026-03-11",
+          "tags": [
+            "SocialMedia",
+            "Toronto",
+            "Coaching",
+            "Canadian"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260311-f0479ab4",
+          "company": "AppointmentSetter.ca",
+          "contact": "Anthony Craig",
+          "title": "Owner & Partner",
+          "email": "info@appointmentsetter.ca",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Scout AI",
+          "signal": "Toronto-based pay-per-lead appointment setting company. Direct competitor overlap \u2014 could become a reseller partner instead of competitor. Their clients need AI-powered setter capabilities that Charlie provides.",
+          "notes": "Hunter: valid/100 (info@ general). Personal email pattern: a*@appointmentsetter.ca per ZoomInfo. 25-100 employees. Based at 10 St. Mary St, Toronto.",
+          "added": "2026-03-11",
+          "tags": [
+            "AppointmentSetting",
+            "Toronto",
+            "PayPerLead",
+            "Canadian"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260311-ad8016b6",
+          "company": "Purple Sales Solutions",
+          "contact": "Sam Balzan",
+          "title": "CEO & Founder",
+          "email": "sam@mypurplesales.com",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Scout AI",
+          "signal": "Toronto B2B outsourced sales & Gold HubSpot agency. Provides SDR/appointment setting services for 100+ B2B clients. Already selling appointment setting \u2014 Charlie AI could supercharge their offering or replace human setters.",
+          "notes": "Hunter: valid/92. Founded 2017. HQ: 1655 Dupont St Suite 101, Toronto. Presence in NYC and Paris. 11-50 employees. Their clients could ALL use Charlie.",
+          "added": "2026-03-11",
+          "tags": [
+            "B2B",
+            "HubSpot",
+            "AppointmentSetting",
+            "Toronto",
+            "Canadian"
+          ]
         }
       ]
     }
   ],
-  "updated": "2026-03-11T11:35:31.207419+00:00"
+  "updated": "2026-03-11T12:03:20.687189+00:00"
 }
