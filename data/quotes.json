@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-03-10T12:27:00",
-  "currentQuote": 0,
+  "currentQuote": 10,
   "quotes": [
     {
       "text": "The amateur salesman sells products; the professional salesman sells solutions to needs and problems.",
@@ -99,7 +99,7 @@
     },
     {
       "text": "A goal without a plan is just a wish.",
-      "author": "Antoine de Saint-Exupéry",
+      "author": "Antoine de Saint-Exup\u00e9ry",
       "category": "mindset"
     },
     {
@@ -133,7 +133,7 @@
       "category": "entrepreneurship"
     },
     {
-      "text": "Close early, close often, close hard — or someone else will.",
+      "text": "Close early, close often, close hard \u2014 or someone else will.",
       "author": "David Sandler",
       "category": "sales"
     },
