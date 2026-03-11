@@ -3507,6 +3507,131 @@
             "SaaS",
             "Niche"
           ]
+        },
+        {
+          "company": "MaintainX",
+          "contact": "Chris Turlica",
+          "title": "CEO & Founder",
+          "email": "chris@getmaintainx.com",
+          "signal": "Canadian-founded CMMS managing 10K+ frontline/maintenance worker teams. No embedded payroll \u2014 massive opportunity to add payroll for industrial workforce clients expanding in Canada.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-11",
+          "tags": [
+            "Canadian-founded",
+            "Industrial",
+            "CMMS",
+            "Frontline Workers"
+          ],
+          "notes": "Hunter: valid/score 100. LinkedIn: https://linkedin.com/in/cturlica. McGill grad. SF HQ, strong Canadian presence. $120M+ raised.",
+          "id": "nmbr-65fc99477c8c"
+        },
+        {
+          "company": "Lineup.ai",
+          "contact": "Sam Gerace",
+          "title": "CEO",
+          "email": "sam@lineup.ai",
+          "signal": "AI-powered restaurant labor forecasting & scheduling for large chains. No payroll built in \u2014 relies on POS integrations. Canadian restaurant chains are underserved.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-11",
+          "tags": [
+            "Restaurant",
+            "AI",
+            "Scheduling",
+            "Multi-unit"
+          ],
+          "notes": "Hunter: valid/score 91. LinkedIn: https://linkedin.com/company/lineupai. Chicago HQ. Fast casual & QSR focus.",
+          "id": "nmbr-136228013326"
+        },
+        {
+          "company": "MarginEdge",
+          "contact": "Bo Davis",
+          "title": "Co-Founder & CEO",
+          "email": "",
+          "signal": "Restaurant back-office automation with 10,000+ restaurants. Manages invoices, food costs, labor \u2014 but no payroll. Expanding rapidly, Canadian restaurant market is natural next step.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-11",
+          "tags": [
+            "Restaurant",
+            "Back-Office",
+            "10K+ Customers"
+          ],
+          "notes": "LinkedIn only. LinkedIn: https://linkedin.com/in/davis-bo. Arlington, VA HQ. Northwestern grad. $57M+ raised.",
+          "id": "nmbr-18f5b1d5ebb7"
+        },
+        {
+          "company": "CrunchTime",
+          "contact": "Le Zhang",
+          "title": "CEO",
+          "email": "",
+          "signal": "Enterprise restaurant operations management \u2014 labor scheduling, compliance, inventory. No embedded payroll for Canadian locations. Serves major chains that operate across Canada.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-11",
+          "tags": [
+            "Restaurant",
+            "Enterprise",
+            "Operations",
+            "Multi-unit"
+          ],
+          "notes": "LinkedIn only. LinkedIn: https://linkedin.com/company/crunchtime-information-system. Boston HQ. Serves 100K+ restaurant locations.",
+          "id": "nmbr-ac754d7fe7ad"
+        },
+        {
+          "company": "ShiftCare",
+          "contact": "Gaurav Cheema",
+          "title": "Founder & CEO",
+          "email": "gaurav@shiftcare.com",
+          "signal": "Home care scheduling & management actively expanding to Canada (shiftcare.com/ca). Manages care worker schedules, timesheets \u2014 no payroll. Canadian home care agencies need compliant payroll.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-11",
+          "tags": [
+            "Home Care",
+            "Australian",
+            "Canada Expansion",
+            "Scheduling"
+          ],
+          "notes": "Hunter: valid/score 91. LinkedIn: search ShiftCare on LinkedIn. Sydney HQ, active Canadian market page.",
+          "id": "nmbr-1703ba4fb23a"
+        },
+        {
+          "company": "Shiftsmart",
+          "contact": "Aakash Kumar",
+          "title": "Founder & CEO",
+          "email": "",
+          "signal": "Enterprise on-demand workforce platform in 57 countries with 1.3M+ workers. Manages shift scheduling at scale \u2014 no embedded payroll. Canadian operations would need compliant payroll partner.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-11",
+          "tags": [
+            "Enterprise",
+            "On-Demand",
+            "Global",
+            "Workforce Platform"
+          ],
+          "notes": "LinkedIn only (score 49). LinkedIn: https://linkedin.com/company/shiftsmart. Dallas HQ. $120M+ raised. D1 Capital, Imaginary Ventures.",
+          "id": "nmbr-d45842930216"
+        },
+        {
+          "company": "Coast App",
+          "contact": "Rohit Prakash",
+          "title": "Co-Founder",
+          "email": "rohit@coastapp.com",
+          "signal": "Workforce & asset management for deskless SMB workers \u2014 scheduling, team comms, equipment maintenance, checklists. No payroll. Serves restaurants, facilities, field services. Canadian market growing fast.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-11",
+          "tags": [
+            "Deskless Workers",
+            "SMB",
+            "Scheduling",
+            "Maintenance"
+          ],
+          "notes": "Hunter: valid/score 100. LinkedIn: https://linkedin.com/in/roprakash. SF-based, remote-first. YC-backed.",
+          "id": "nmbr-e8dd1ebc6b42"
         }
       ]
     },
