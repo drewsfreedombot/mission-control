@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-03-11T09:07:21.944025",
+  "lastUpdated": "2026-03-12T06:06:00",
   "stocks": [
     {
       "ticker": "ENB.TO",
       "name": "Enbridge Inc.",
-      "currentPrice": 72.96,
+      "currentPrice": 72.86,
       "currency": "CAD",
       "week52Low": 57,
       "week52High": 73.71,
@@ -16,14 +16,14 @@
       "risks": "D/EBITDA at 4.8x \u2014 manageable but limited buffer. Ongoing equity dilution from $39B growth capex. No price margin of safety at near-ATH levels \u2014 best entry $65\u201367 CAD for a 5.8\u20136.0% yield.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+23%",
-      "previousPrice": 73.3,
-      "priceChange": "-0.5%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 72.96,
+      "priceChange": "-0.1%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "BNS.TO",
       "name": "Bank of Nova Scotia",
-      "currentPrice": 97.2,
+      "currentPrice": 96.94,
       "currency": "CAD",
       "week52Low": 78,
       "week52High": 108.5,
@@ -35,14 +35,14 @@
       "risks": "Higher international credit exposure (LatAm) vs RY/TD creates more earnings volatility across credit cycles. Not a core sleep-at-night holding at full weight.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+34%",
-      "previousPrice": 96.23,
-      "priceChange": "+1.0%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 97.2,
+      "priceChange": "-0.3%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "NBIS",
       "name": "Nebius Group N.V.",
-      "currentPrice": 96.43,
+      "currentPrice": 112.0,
       "currency": "USD",
       "week52Low": 18.31,
       "week52High": 141.1,
@@ -54,14 +54,14 @@
       "risks": "No dividend. Highly volatile \u2014 ranged from $18 to $141 in 52 weeks. AI infrastructure buildout is massively capex-intensive. Sentiment-driven stock that can drop 30%+ quickly.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+435%",
-      "previousPrice": 94.94,
-      "priceChange": "+1.6%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 96.43,
+      "priceChange": "+16.1%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "T.TO",
       "name": "TELUS Corporation",
-      "currentPrice": 18.62,
+      "currentPrice": 18.04,
       "currency": "CAD",
       "week52Low": 17.26,
       "week52High": 23.29,
@@ -73,14 +73,14 @@
       "risks": "High debt load; TELUS International drag and CRTC regulatory risk remain. Dividend growth lower end of 3-8% range if macro deteriorates.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+7%",
-      "previousPrice": 18.58,
-      "priceChange": "+0.2%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 18.62,
+      "priceChange": "-3.1%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "AP-UN.TO",
       "name": "Allied Properties REIT",
-      "currentPrice": 8.86,
+      "currentPrice": 9.06,
       "currency": "CAD",
       "week52Low": 9.1,
       "week52High": 22.27,
@@ -92,14 +92,14 @@
       "risks": "DISTRESSED. Negative EPS (-$4.10). Office sector under structural WFH pressure. Dividend was already cut once \u2014 another cut possible. Not suitable as a core dividend holding \u2014 speculative recovery play only.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+6%",
-      "previousPrice": 8.92,
-      "priceChange": "-0.7%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 8.86,
+      "priceChange": "+2.3%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "CNQ.TO",
       "name": "Canadian Natural Resources",
-      "currentPrice": 62.11,
+      "currentPrice": 64.18,
       "currency": "CAD",
       "week52Low": 47.5,
       "week52High": 72,
@@ -111,14 +111,14 @@
       "risks": "Oil price exposure \u2014 dividend safety depends on WTI staying above ~$50. Tariff/trade war impacts on Canadian energy exports. Not for the risk-averse.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+28%",
-      "previousPrice": 62.77,
-      "priceChange": "-1.1%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 62.11,
+      "priceChange": "+3.3%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "ARX.TO",
       "name": "ARC Resources",
-      "currentPrice": 26.55,
+      "currentPrice": 27.0,
       "currency": "CAD",
       "week52Low": 20.5,
       "week52High": 28.9,
@@ -130,14 +130,14 @@
       "risks": "Nat gas commodity price exposure and tariff/trade war impacts on Canadian energy exports.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+20%",
-      "previousPrice": 26.69,
-      "priceChange": "-0.5%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 26.55,
+      "priceChange": "+1.7%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "CCA.TO",
       "name": "Cogeco Communications",
-      "currentPrice": 72.1,
+      "currentPrice": 71.53,
       "currency": "CAD",
       "week52Low": 59.1,
       "week52High": 73.35,
@@ -149,14 +149,14 @@
       "risks": "Cord-cutting structural headwind with revenue declining ~4% YoY, and $4.64B debt at 3.24x EBITDA.",
       "researchDate": "2026-02-23",
       "priceVs52wLow": "+16%",
-      "previousPrice": 71.48,
-      "priceChange": "+0.9%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 72.1,
+      "priceChange": "-0.8%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "ENGH.TO",
       "name": "Enghouse Systems",
-      "currentPrice": 18.25,
+      "currentPrice": 17.91,
       "currency": "CAD",
       "week52Low": 17.38,
       "week52High": 34.42,
@@ -168,14 +168,14 @@
       "risks": "89% payout ratio \u2014 dividend at risk if earnings decline further. Revenue flat/declining. Technically in downtrend.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+3%",
-      "previousPrice": 18.42,
-      "priceChange": "-0.9%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 18.25,
+      "priceChange": "-1.9%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "AD.UN.TO",
       "name": "Alaris Equity Partners",
-      "currentPrice": 20.69,
+      "currentPrice": 20.51,
       "currency": "CAD",
       "week52Low": 18.5,
       "week52High": 24.9,
@@ -187,14 +187,14 @@
       "risks": "Currently trading ABOVE all historical averages \u2014 not a screaming value; better entry would be around $20.",
       "researchDate": "2026-02-23",
       "priceVs52wLow": "+21%",
-      "previousPrice": 21.33,
-      "priceChange": "-3.0%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 20.69,
+      "priceChange": "-0.9%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "REI.UN.TO",
       "name": "RioCan REIT",
-      "currentPrice": 19.15,
+      "currentPrice": 19.09,
       "currency": "CAD",
       "week52Low": 15.46,
       "week52High": 20.23,
@@ -206,14 +206,14 @@
       "risks": "Rate-sensitive retail REIT; Canadian consumer spending slowdown and historical dividend cut in COVID create psychological overhang.",
       "researchDate": "2026-02-23",
       "priceVs52wLow": "+27%",
-      "previousPrice": 19.05,
-      "priceChange": "+0.5%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 19.15,
+      "priceChange": "-0.3%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "BCE.TO",
       "name": "BCE Inc.",
-      "currentPrice": 35.88,
+      "currentPrice": 35.19,
       "currency": "CAD",
       "week52Low": 30,
       "week52High": 46,
@@ -225,14 +225,14 @@
       "risks": "Dividend cut is structural, not tactical. Avoid until there is evidence of FCF stabilization and a credible path back to dividend growth.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+10%",
-      "previousPrice": 35.16,
-      "priceChange": "+2.0%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 35.88,
+      "priceChange": "-1.9%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "FTS.TO",
       "name": "Fortis Inc.",
-      "currentPrice": 78.19,
+      "currentPrice": 77.93,
       "currency": "CAD",
       "week52Low": 61,
       "week52High": 78.5,
@@ -244,14 +244,14 @@
       "risks": "No margin of safety at ATH \u2014 any BoC rate pause or reversal hits utilities hard and fast; stock is 4% above average analyst target of $74.97 CAD.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+28%",
-      "previousPrice": 78.51,
-      "priceChange": "-0.4%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 78.19,
+      "priceChange": "-0.3%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "SHOP.TO",
       "name": "Shopify Inc.",
-      "currentPrice": 175.78,
+      "currentPrice": 175.97,
       "currency": "CAD",
       "week52Low": 97,
       "week52High": 168.45,
@@ -264,14 +264,14 @@
       "risks": "No dividend, elevated valuation even post-selloff (fwd P/E still 50x+). Revenue growth decelerating from hypergrowth era. Macro sensitivity. Tariff/trade war rhetoric hurts e-commerce sentiment.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+35%",
-      "previousPrice": 181.42,
-      "priceChange": "-3.1%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 175.78,
+      "priceChange": "+0.1%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "BAM.TO",
       "name": "Brookfield Asset Management Ltd.",
-      "currentPrice": 61.53,
+      "currentPrice": 60.68,
       "currency": "CAD",
       "week52Low": 52,
       "week52High": 78,
@@ -284,14 +284,14 @@
       "risks": "Payout ratio 115%+ in USD terms \u2014 dividend covered by fee-related earnings but optics are weak. Rate sensitivity (AUM growth slows when rate environment hurts fundraising). Complex structure \u2014 BAM vs BN (Brookfield Corp) can be confusing.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+38%",
-      "previousPrice": 62.38,
+      "previousPrice": 61.53,
       "priceChange": "-1.4%",
-      "lastUpdated": "2026-03-11"
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "XEI.TO",
       "name": "iShares S&P/TSX Composite High Dividend Index ETF",
-      "currentPrice": 35.51,
+      "currentPrice": 35.7,
       "currency": "CAD",
       "week52Low": 25,
       "week52High": 35.6,
@@ -304,14 +304,14 @@
       "risks": "Near 52wk high \u2014 limited short-term upside. Heavy energy and financials weighting = sector concentration. Passive instrument won't avoid dividend cuts within holdings (e.g. BCE-type situations). MER small but not zero.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+42%",
-      "previousPrice": 35.42,
-      "priceChange": "+0.3%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 35.51,
+      "priceChange": "+0.5%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "XGRO.TO",
       "name": "iShares Core Growth ETF Portfolio",
-      "currentPrice": 35.32,
+      "currentPrice": 35.24,
       "currency": "CAD",
       "week52Low": 29,
       "week52High": 37.5,
@@ -324,14 +324,14 @@
       "risks": "Not a dividend vehicle (small distributions). 20% bond allocation drags return vs pure equity in bull markets. Currency exposure to USD/global. Near 52wk high.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+26%",
-      "previousPrice": 35.31,
-      "priceChange": "+0.0%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 35.32,
+      "priceChange": "-0.2%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "AMD.TO",
       "name": "Advanced Micro Devices CDR (CAD Hedged)",
-      "currentPrice": 37.21,
+      "currentPrice": 37.48,
       "currency": "CAD",
       "week52Low": 12,
       "week52High": 26,
@@ -344,14 +344,14 @@
       "risks": "No dividend. High volatility (AI hype cycle). NVIDIA dominates GPU market \u2014 AMD is the #2 play. CDR liquidity lower than NASDAQ AMD. AI capex could compress if hyperscaler spending slows. Price is approximate \u2014 verify before buying.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+67%",
-      "previousPrice": 37.03,
-      "priceChange": "+0.5%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 37.21,
+      "priceChange": "+0.7%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "TOU.TO",
       "name": "Tourmaline Oil Corp.",
-      "currentPrice": 62.77,
+      "currentPrice": 64.99,
       "currency": "CAD",
       "week52Low": 48,
       "week52High": 70,
@@ -364,14 +364,14 @@
       "risks": "Special dividends variable \u2014 base dividend alone is ~2.5%, so yield depends on commodity prices and cash flow. Natural gas price is cyclical. If nat gas prices drop, specials get cut first. Current price near short-term resistance.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+32%",
-      "previousPrice": 63.6,
-      "priceChange": "-1.3%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 62.77,
+      "priceChange": "+3.5%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "CU.TO",
       "name": "Canadian Utilities Limited",
-      "currentPrice": 48.17,
+      "currentPrice": 48.27,
       "currency": "CAD",
       "week52Low": 33.47,
       "week52High": 48.36,
@@ -383,14 +383,14 @@
       "risks": "Currently 8% above analyst consensus of $43.43 \u2014 post-earnings momentum may be short-term overextended. AUC regulatory risk on allowed returns (2025 temp ROE cut already proved this). $2.9B+ capex financed with debt; rate reversal compresses returns.",
       "researchDate": "2026-02-27",
       "priceVs52wLow": "+40%",
-      "previousPrice": 47.81,
-      "priceChange": "+0.8%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 48.17,
+      "priceChange": "+0.2%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "WCN.TO",
       "name": "Waste Connections Inc.",
-      "currentPrice": 224.85,
+      "currentPrice": 226.36,
       "currency": "CAD",
       "week52Low": 220.0,
       "week52High": 295.0,
@@ -402,14 +402,14 @@
       "risks": "Low current yield (0.75%) \u2014 not for income investors. Premium valuation requires continued revenue growth. US market concentration.",
       "researchDate": "2026-02-27",
       "priceVs52wLow": "+30%",
-      "previousPrice": 233.31,
-      "priceChange": "-3.6%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 224.85,
+      "priceChange": "+0.7%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "GRT.UN.TO",
       "name": "Granite Real Estate Investment Trust",
-      "currentPrice": 86.68,
+      "currentPrice": 86.76,
       "currency": "CAD",
       "week52Low": 70.0,
       "week52High": 92.04,
@@ -421,14 +421,14 @@
       "risks": "Q4 beat may already be priced in at ~$87. Rate-sensitive REIT structure. Some European exposure adds FX and geopolitical risk.",
       "researchDate": "2026-02-27",
       "priceVs52wLow": "+25%",
-      "previousPrice": 86.07,
-      "priceChange": "+0.7%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 86.68,
+      "priceChange": "+0.1%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "TRP.TO",
       "name": "TC Energy Corporation",
-      "currentPrice": 86.55,
+      "currentPrice": 85.74,
       "currency": "CAD",
       "week52Low": 62.17,
       "week52High": 86.97,
@@ -441,14 +441,14 @@
       "risks": "Payout ratio 106% \u2014 dividend slightly stretched vs free cash flow. Debt/equity 2.23 \u2014 highly levered. Currently at ALL-TIME HIGH ($86.97 on Feb 13) and above analyst consensus. Buying here = chasing. Keystone XL history shows regulatory/political risk. Wait for the entry.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+35%",
-      "previousPrice": 86.06,
-      "priceChange": "+0.6%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 86.55,
+      "priceChange": "-0.9%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "XIC.TO",
       "name": "iShares Core S&P/TSX Capped Composite Index ETF",
-      "currentPrice": 53.25,
+      "currentPrice": 53.02,
       "currency": "CAD",
       "week52Low": 37,
       "week52High": 54.5,
@@ -461,14 +461,14 @@
       "risks": "At ATH \u2014 buying now means buying at peak. Heavy financials + energy exposure = Canada-specific concentration risk. USD/CAD moves affect international comparisons. Low yield (2.3%) vs picking individual dividend stocks.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+46%",
-      "previousPrice": 53.11,
-      "priceChange": "+0.3%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 53.25,
+      "priceChange": "-0.4%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "XIU.TO",
       "name": "iShares S&P/TSX 60 Index ETF",
-      "currentPrice": 48.55,
+      "currentPrice": 48.37,
       "currency": "CAD",
       "week52Low": 33.87,
       "week52High": 49.79,
@@ -481,14 +481,14 @@
       "risks": "More concentrated than XIC (60 vs 240 stocks). Higher MER than XIC. At 52-week high \u2014 near ATH. XIC is generally superior for long-term buy-and-hold.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+46%",
-      "previousPrice": 48.46,
-      "priceChange": "+0.2%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 48.55,
+      "priceChange": "-0.4%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "SU.TO",
       "name": "Suncor Energy Inc.",
-      "currentPrice": 77.76,
+      "currentPrice": 79.1,
       "currency": "CAD",
       "week52Low": 38,
       "week52High": 57,
@@ -501,14 +501,14 @@
       "risks": "Currently trading above analyst consensus target. Oil price sensitive \u2014 WTI below $60 compresses margins hard. Oilsands have high breakeven vs shale. Buybacks slow when oil prices drop.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+30%",
-      "previousPrice": 78.06,
-      "priceChange": "-0.4%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 77.76,
+      "priceChange": "+1.7%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "PPL.TO",
       "name": "Pembina Pipeline Corporation",
-      "currentPrice": 60.67,
+      "currentPrice": 60.49,
       "currency": "CAD",
       "week52Low": 42,
       "week52High": 61,
@@ -521,14 +521,14 @@
       "risks": "At analyst consensus ceiling right now. Monthly dividends are attractive but yield compression likely near ATH. Commodity-adjacent despite fee-based model. Acquisition of Alliance/Aux Sable added leverage.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+44%",
-      "previousPrice": 60.53,
-      "priceChange": "+0.2%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 60.67,
+      "priceChange": "-0.3%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "CVE.TO",
       "name": "Cenovus Energy Inc.",
-      "currentPrice": 30.77,
+      "currentPrice": 32.18,
       "currency": "CAD",
       "week52Low": 14.48,
       "week52High": 30.15,
@@ -541,14 +541,14 @@
       "risks": "At analyst consensus now. Low base yield (2.5%). Took on significant debt with Husky acquisition \u2014 balance sheet still healing. Oil price dependent. Refining margins volatile.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+100%",
-      "previousPrice": 31.0,
-      "priceChange": "-0.7%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 30.77,
+      "priceChange": "+4.6%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "DOL.TO",
       "name": "Dollarama Inc.",
-      "currentPrice": 195.8,
+      "currentPrice": 193.29,
       "currency": "CAD",
       "week52Low": 137.42,
       "week52High": 209.96,
@@ -561,14 +561,14 @@
       "risks": "Effectively zero dividend \u2014 not for income investors. Premium valuation (fwd P/E ~30x). Tariff risk on imported goods (most products sourced from China). FX exposure on Dollarcity earnings. Consumer spending slowdown could compress same-store sales growth.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+40%",
-      "previousPrice": 197.44,
-      "priceChange": "-0.8%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 195.8,
+      "priceChange": "-1.3%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "NVDA",
       "name": "NVIDIA Corporation",
-      "currentPrice": 184.77,
+      "currentPrice": 186.03,
       "currency": "USD",
       "week52Low": 86,
       "week52High": 153,
@@ -581,14 +581,14 @@
       "risks": "No dividend (0.03%). Very high valuation. DeepSeek/open-source AI models could reduce GPU demand if training gets more efficient. China export restrictions limit TAM. Single-product dependency risk. Has already run massively \u2014 not a cheap entry.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+119%",
-      "previousPrice": 182.65,
-      "priceChange": "+1.2%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 184.77,
+      "priceChange": "+0.7%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "CLS.TO",
       "name": "Celestica Inc.",
-      "currentPrice": 365.54,
+      "currentPrice": 361.36,
       "currency": "CAD",
       "week52Low": 118,
       "week52High": 514,
@@ -601,14 +601,14 @@
       "risks": "Already ran 177% in 12 months \u2014 buying here means chasing. Low margins (contract manufacturing). Customer concentration risk \u2014 loses a hyperscaler contract = big hit. No dividend.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+257%",
-      "previousPrice": 363.51,
-      "priceChange": "+0.6%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 365.54,
+      "priceChange": "-1.1%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "CCO.TO",
       "name": "Cameco Corporation",
-      "currentPrice": 163.11,
+      "currentPrice": 156.74,
       "currency": "CAD",
       "week52Low": 45,
       "week52High": 175,
@@ -621,14 +621,14 @@
       "risks": "90x PE \u2014 very expensive on current earnings. Uranium price is volatile. Already +128% in 52 weeks \u2014 massive run. Small dividend (0.2%). Nuclear regulatory timelines are long \u2014 AI power demand is real but nuclear buildout takes years.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+261%",
-      "previousPrice": 157.75,
-      "priceChange": "+3.4%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 163.11,
+      "priceChange": "-3.9%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "BEP.UN.TO",
       "name": "Brookfield Renewable Partners L.P.",
-      "currentPrice": 41.76,
+      "currentPrice": 42.19,
       "currency": "CAD",
       "week52Low": 30,
       "week52High": 48,
@@ -641,14 +641,14 @@
       "risks": "Distribution in USD (currency risk for CAD investors). Interest rate sensitive (utilities trade inversely with rates). Complex LP structure has tax implications. Slower growth than pure tech AI plays.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+43%",
-      "previousPrice": 40.81,
-      "priceChange": "+2.3%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 41.76,
+      "priceChange": "+1.0%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "IVN.TO",
       "name": "Ivanhoe Mines Ltd.",
-      "currentPrice": 13.61,
+      "currentPrice": 13.27,
       "currency": "CAD",
       "week52Low": 12,
       "week52High": 20.34,
@@ -661,14 +661,14 @@
       "risks": "No dividend. DRC (Democratic Republic of Congo) = political/operational risk. Copper price volatile. No dividend \u2014 capital appreciation only. Robert Friedland-led company (controversial but effective). Currency/sovereign risk in Africa.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+42%",
-      "previousPrice": 13.43,
-      "priceChange": "+1.3%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 13.61,
+      "priceChange": "-2.5%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "TECK.B.TO",
       "name": "Teck Resources Ltd. (Class B)",
-      "currentPrice": 71.2,
+      "currentPrice": 72.34,
       "currency": "CAD",
       "week52Low": 38,
       "week52High": 68,
@@ -681,14 +681,14 @@
       "risks": "QB2 mine in Chile has had engineering challenges (CEO acknowledged Feb 2026). Copper price risk. Chile = higher political/regulatory risk than Canada. Small dividend (1%). Not a significant income play.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+45%",
-      "previousPrice": 69.21,
-      "priceChange": "+2.9%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 71.2,
+      "priceChange": "+1.6%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "LUN.TO",
       "name": "Lundin Mining Corporation",
-      "currentPrice": 36.35,
+      "currentPrice": 36.74,
       "currency": "CAD",
       "week52Low": 8.94,
       "week52High": 41.84,
@@ -701,14 +701,14 @@
       "risks": "Massive 52-week run (+340% from lows) \u2014 buying near ATH is high risk. Almost no dividend. Diversified metals = less pure copper exposure than IVN/TECK. Operational risk across multiple jurisdictions.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+342%",
-      "previousPrice": 35.27,
-      "priceChange": "+3.1%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 36.35,
+      "priceChange": "+1.1%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "FCX",
       "name": "Freeport-McMoRan Inc.",
-      "currentPrice": 62.4,
+      "currentPrice": 61.54,
       "currency": "USD",
       "week52Low": 27.66,
       "week52High": 69.44,
@@ -721,14 +721,14 @@
       "risks": "At/near ATH after massive copper price run. Analyst consensus target is below current price. Geopolitical risk (Indonesia operations). Low dividend (0.6%). Copper price highly cyclical.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+137%",
-      "previousPrice": 60.49,
-      "priceChange": "+3.2%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 62.4,
+      "priceChange": "-1.4%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "HBM.TO",
       "name": "Hudbay Minerals Inc.",
-      "currentPrice": 31.26,
+      "currentPrice": 30.56,
       "currency": "CAD",
       "week52Low": 12,
       "week52High": 38.8,
@@ -741,14 +741,14 @@
       "risks": "Pulled back significantly from ATH \u2014 confirm current price before buying. Multi-jurisdictional (Canada, Peru, US) = varied political risk. Copper World (Arizona) project still in permitting. Small dividend.",
       "researchDate": "2026-02-24",
       "priceVs52wLow": "+150%",
-      "previousPrice": 30.55,
-      "priceChange": "+2.3%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 31.26,
+      "priceChange": "-2.2%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "EMA.TO",
       "name": "Emera Inc.",
-      "currentPrice": 71.43,
+      "currentPrice": 71.41,
       "currency": "CAD",
       "week52Low": 51.23,
       "week52High": 70.1,
@@ -760,14 +760,14 @@
       "risks": "Trading near 52-week high \u2014 limited margin of safety at current price. Heavy capex ($3.6B/yr) requires ongoing debt financing; any rate spike hits cost of capital. Nova Scotia Power regulatory headwinds remain a drag.",
       "researchDate": "2026-02-27",
       "priceVs52wLow": "+36%",
-      "previousPrice": 70.84,
-      "priceChange": "+0.8%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 71.43,
+      "priceChange": "-0.0%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "MFC.TO",
       "name": "Manulife Financial Corporation",
-      "currentPrice": 45.88,
+      "currentPrice": 45.87,
       "currency": "CAD",
       "week52Low": 36.93,
       "week52High": 52.97,
@@ -779,14 +779,14 @@
       "risks": "Asia operations (Hong Kong, Singapore, Mainland China) introduce geopolitical and FX risk. Insurance earnings can be lumpy. Not a pure boring utility \u2014 actuarial surprises happen.",
       "researchDate": "2026-02-27",
       "priceVs52wLow": "+37%",
-      "previousPrice": 45.34,
-      "priceChange": "+1.2%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 45.88,
+      "priceChange": "-0.0%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "EMP.A.TO",
       "name": "Empire Company Ltd. (Sobeys)",
-      "currentPrice": 49.26,
+      "currentPrice": 48.75,
       "currency": "CAD",
       "week52Low": 30,
       "week52High": 40,
@@ -798,14 +798,14 @@
       "risks": "Grocery margin compression from private label competition and discounters. Western Canada concentration creates regional economic exposure. Loblaw price investment cycle can compress sector multiples.",
       "researchDate": "2026-02-27",
       "priceVs52wLow": "+15%",
-      "previousPrice": 49.05,
-      "priceChange": "+0.4%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 49.26,
+      "priceChange": "-1.0%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "TD.TO",
       "name": "The Toronto-Dominion Bank",
-      "currentPrice": 130.25,
+      "currentPrice": 130.31,
       "currency": "CAD",
       "week52Low": 78.06,
       "week52High": 134.69,
@@ -818,14 +818,14 @@
       "risks": "US asset cap is an indefinite headwind on the highest-growth segment. Currently AT all-time high ($134.69) and above analyst consensus \u2014 zero margin of safety at current price. AML remediation costs continue (full resolution timeline unclear). Buying ATH after an earnings pop is chasing.",
       "researchDate": "2026-02-27",
       "priceVs52wLow": "+72%",
-      "previousPrice": 129.47,
-      "priceChange": "+0.6%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 130.25,
+      "priceChange": "+0.0%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "KEY.TO",
       "name": "Keyera Corp.",
-      "currentPrice": 53.13,
+      "currentPrice": 53.5,
       "currency": "CAD",
       "week52Low": 37.8,
       "week52High": 52.66,
@@ -837,14 +837,14 @@
       "risks": "Integration risk on $5.15B Plains deal. Marketing margin volatile ($300M in 2025 vs $485M prior year, guidance withheld until May 2026). Elevated leverage post-deal limits M&A flexibility. Stock at analyst consensus now \u2014 needs upgrade cycle to move higher.",
       "researchDate": "2026-02-27",
       "priceVs52wLow": "+35%",
-      "previousPrice": 53.0,
-      "priceChange": "+0.2%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 53.13,
+      "priceChange": "+0.7%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "EIF.TO",
       "name": "Exchange Income Corporation",
-      "currentPrice": 100.75,
+      "currentPrice": 101.66,
       "currency": "CAD",
       "week52Low": 45.0,
       "week52High": 109.15,
@@ -856,14 +856,14 @@
       "risks": "Post-earnings pop means buying at new highs. Moderate yield (2.5%) limits income appeal. Aviation segment cyclically exposed. Significant debt load ($3.5B credit facility).",
       "researchDate": "2026-02-27",
       "priceVs52wLow": "+142%",
-      "previousPrice": 99.62,
-      "priceChange": "+1.1%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 100.75,
+      "priceChange": "+0.9%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "AQN.TO",
       "name": "Algonquin Power & Utilities Corp.",
-      "currentPrice": 8.39,
+      "currentPrice": 8.53,
       "currency": "CAD",
       "week52Low": 6.17,
       "week52High": 9.38,
@@ -875,14 +875,14 @@
       "risks": "Dividend was cut \u2014 not for income today. Near 52-week high after major recovery from $6.17 low. March 6 earnings are make-or-break for the deleverage thesis. Speculative \u2014 size accordingly.",
       "researchDate": "2026-02-27",
       "priceVs52wLow": "+53%",
-      "previousPrice": 8.4,
-      "priceChange": "-0.1%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 8.39,
+      "priceChange": "+1.7%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "BIP.UN.TO",
       "name": "Brookfield Infrastructure Partners L.P.",
-      "currentPrice": 51.6,
+      "currentPrice": 52.76,
       "currency": "CAD",
       "week52Low": 36.61,
       "week52High": 54.97,
@@ -894,14 +894,14 @@
       "risks": "USD distributions expose CAD investors to FX risk. Rate-sensitive \u2014 BoC/Fed tightening compresses infrastructure multiples. Near 52-week high with limited price cushion. LP tax complexity \u2014 RRSP/TFSA recommended. Best entry $50-51 CAD.",
       "researchDate": "2026-02-27",
       "priceVs52wLow": "+47%",
-      "previousPrice": 49.95,
-      "priceChange": "+3.3%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 51.6,
+      "priceChange": "+2.2%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "H.TO",
       "name": "Hydro One Limited",
-      "currentPrice": 59.15,
+      "currentPrice": 58.67,
       "currency": "CAD",
       "week52Low": 45.05,
       "week52High": 58.09,
@@ -913,14 +913,14 @@
       "risks": "Currently 9% above analyst consensus target of $53.40 \u2014 zero margin of safety at $58. BoC rate pause/reversal hits regulated utilities hard. Low 2.27% yield at current price is unattractive vs pipeline/REIT alternatives. OEB can cut allowed ROE.",
       "researchDate": "2026-02-27",
       "priceVs52wLow": "+29%",
-      "previousPrice": 59.55,
-      "priceChange": "-0.7%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 59.15,
+      "priceChange": "-0.8%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "MRU.TO",
       "name": "Metro Inc.",
-      "currentPrice": 94.72,
+      "currentPrice": 93.76,
       "currency": "CAD",
       "week52Low": 89.64,
       "week52High": 109.2,
@@ -932,14 +932,14 @@
       "risks": "Low current yield (1.67%) \u2014 a dividend growth story, not income. Distribution centre drag could compress Q2 margins and re-test  if the rebuild takes longer than expected.",
       "researchDate": "2026-02-27",
       "priceVs52wLow": "+9%",
-      "previousPrice": 95.4,
-      "priceChange": "-0.7%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 94.72,
+      "priceChange": "-1.0%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "SLF.TO",
       "name": "Sun Life Financial Inc.",
-      "currentPrice": 86.37,
+      "currentPrice": 86.38,
       "currency": "CAD",
       "week52Low": 75.0,
       "week52High": 102.0,
@@ -951,14 +951,14 @@
       "risks": "Asia operations (Hong Kong, Singapore, China) introduce geopolitical and FX risk. Insurance earnings can be lumpy. Near 52-week highs \u2014 wait for entry below $93 CAD for 4%+ yield.",
       "researchDate": "2026-02-27",
       "priceVs52wLow": "+29%",
-      "previousPrice": 86.3,
-      "priceChange": "+0.1%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 86.37,
+      "priceChange": "+0.0%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "CNR.TO",
       "name": "Canadian National Railway Company",
-      "currentPrice": 144.56,
+      "currentPrice": 144.2,
       "currency": "CAD",
       "week52Low": 135.0,
       "week52High": 165.0,
@@ -970,14 +970,14 @@
       "risks": "Near fair value currently \u2014 no margin of safety at current price. Rail volumes cyclically sensitive to industrial activity. Two-player oligopoly means CP Rail is the only competitor for volume share.",
       "researchDate": "2026-02-27",
       "priceVs52wLow": "+15%",
-      "previousPrice": 146.63,
-      "priceChange": "-1.4%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 144.56,
+      "priceChange": "-0.2%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "ATD.TO",
       "name": "Alimentation Couche-Tard Inc.",
-      "currentPrice": 82.3,
+      "currentPrice": 80.8,
       "currency": "CAD",
       "week52Low": 65.95,
       "week52High": 85.29,
@@ -989,14 +989,14 @@
       "risks": "~35% of gross profit from road transportation fuel creates long-term EV headwind; stock near 52-week high with no price margin of safety \u2014 wait for dip to $79-80 for best entry.",
       "researchDate": "2026-02-27",
       "priceVs52wLow": "+25%",
-      "previousPrice": 80.88,
-      "priceChange": "+1.8%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 82.3,
+      "priceChange": "-1.8%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "NPI.TO",
       "name": "Northland Power Inc.",
-      "currentPrice": 21.38,
+      "currentPrice": 21.32,
       "currency": "CAD",
       "week52Low": 15.96,
       "week52High": 25.99,
@@ -1008,14 +1008,14 @@
       "risks": "Hai Long commissioning delays could impact C$150-200M pre-completion revenue. Debt/equity 181% \u2014 heavy project-finance leverage. Rate-sensitive.",
       "researchDate": "2026-02-28",
       "priceVs52wLow": "+36%",
-      "previousPrice": 21.21,
-      "priceChange": "+0.8%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 21.38,
+      "priceChange": "-0.3%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "ALA.TO",
       "name": "AltaGas Ltd.",
-      "currentPrice": 47.24,
+      "currentPrice": 47.32,
       "currency": "CAD",
       "week52Low": 34.18,
       "week52High": 46.36,
@@ -1027,14 +1027,14 @@
       "risks": "At all-time high with only 4% upside to analyst consensus. Leverage 4.5-5.0x. REEF construction risk. 7% share dilution over 5 years.",
       "researchDate": "2026-02-28",
       "priceVs52wLow": "+36%",
-      "previousPrice": 47.78,
-      "priceChange": "-1.1%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 47.24,
+      "priceChange": "+0.2%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "CAR.UN.TO",
       "name": "Canadian Apartment Properties REIT (CAPREIT)",
-      "currentPrice": 37.04,
+      "currentPrice": 36.26,
       "currency": "CAD",
       "week52Low": 35.32,
       "week52High": 46.29,
@@ -1046,14 +1046,14 @@
       "risks": "Management flagged softer rental market; rate-sensitive REIT; Netherlands exposure being divested but adds near-term complexity; revenue declined on dispositions (per-unit metrics improved).",
       "researchDate": "2026-02-28",
       "priceVs52wLow": "+7%",
-      "previousPrice": 37.08,
-      "priceChange": "-0.1%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 37.04,
+      "priceChange": "-2.1%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "SAP.TO",
       "name": "Saputo Inc.",
-      "currentPrice": 42.95,
+      "currentPrice": 42.08,
       "currency": "CAD",
       "week52Low": 23.72,
       "week52High": 44.0,
@@ -1065,14 +1065,14 @@
       "risks": "Near 52-week high with limited margin of safety. 43% US revenue exposure creates tariff risk. Dairy commodity swings can compress margins quarter-to-quarter.",
       "researchDate": "2026-02-28",
       "priceVs52wLow": "+79%",
-      "previousPrice": 43.16,
-      "priceChange": "-0.5%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 42.95,
+      "priceChange": "-2.0%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "SRU.UN.TO",
       "name": "SmartCentres Real Estate Investment Trust",
-      "currentPrice": 26.84,
+      "currentPrice": 26.75,
       "currency": "CAD",
       "week52Low": 23.18,
       "week52High": 27.84,
@@ -1084,14 +1084,14 @@
       "risks": "Rate-sensitive REIT; real thesis is NAV gap closing over 2-3 years, near-term analyst upside limited to 6.7%. Development income lumpy.",
       "researchDate": "2026-02-28",
       "priceVs52wLow": "+13%",
-      "previousPrice": 26.78,
-      "priceChange": "+0.2%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 26.84,
+      "priceChange": "-0.3%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "CPX.TO",
       "name": "Capital Power Corporation",
-      "currentPrice": 61.64,
+      "currentPrice": 60.99,
       "currency": "CAD",
       "week52Low": 41.87,
       "week52High": 73.8,
@@ -1103,14 +1103,14 @@
       "risks": "P/E of 23x elevated for a power generator; 136% debt-to-equity; Alberta power market volatility; coal-to-gas transition execution risk.",
       "researchDate": "2026-02-28",
       "priceVs52wLow": "+53%",
-      "previousPrice": 60.75,
-      "priceChange": "+1.5%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 61.64,
+      "priceChange": "-1.1%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "RCI-B.TO",
       "name": "Rogers Communications Inc.",
-      "currentPrice": 54.05,
+      "currentPrice": 53.66,
       "currency": "CAD",
       "week52Low": 33.0,
       "week52High": 57.0,
@@ -1123,14 +1123,14 @@
       "risks": "Earnings normalization (297% jump includes one-time Shaw integration benefits \u2014 normalized PE likely 12-14x). C$40B+ debt load. CRTC regulatory risk. Quebecor/Freedom Mobile emerging as 4th national carrier.",
       "researchDate": "2026-02-28",
       "priceVs52wLow": "+60%",
-      "previousPrice": 55.19,
-      "priceChange": "-2.1%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 54.05,
+      "priceChange": "-0.7%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "GWO.TO",
       "name": "Great-West Lifeco Inc.",
-      "currentPrice": 62.55,
+      "currentPrice": 62.51,
       "currency": "CAD",
       "week52Low": 44.89,
       "week52High": 68.12,
@@ -1142,14 +1142,14 @@
       "risks": "Near 52-week high with limited margin of safety. Empower growth tied to US equity market fees. Insurance actuarial surprises possible. Best entry C$62-64.",
       "researchDate": "2026-02-28",
       "priceVs52wLow": "+47%",
-      "previousPrice": 61.73,
-      "priceChange": "+1.3%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 62.55,
+      "priceChange": "-0.1%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "POW.TO",
       "name": "Power Corporation of Canada",
-      "currentPrice": 65.7,
+      "currentPrice": 64.99,
       "currency": "CAD",
       "week52Low": 47.05,
       "week52High": 74.91,
@@ -1161,14 +1161,14 @@
       "risks": "Holding company discount can persist. Complex structure (GWO + IGM + GBL). European exposure via GBL adds FX/geopolitical risk. Already tripled from 2021 lows.",
       "researchDate": "2026-03-06",
       "priceVs52wLow": "+43%",
-      "previousPrice": 65.25,
-      "priceChange": "+0.7%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 65.7,
+      "priceChange": "-1.1%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "KMP.UN.TO",
       "name": "Killam Apartment REIT",
-      "currentPrice": 16.6,
+      "currentPrice": 16.26,
       "currency": "CAD",
       "week52Low": 15.48,
       "week52High": 19.8,
@@ -1180,14 +1180,14 @@
       "risks": "Rate-sensitive REIT; Atlantic Canada concentration; provincial rent control risk; C$120.5M fair value losses in 2025.",
       "researchDate": "2026-03-01",
       "priceVs52wLow": "+10.6%",
-      "previousPrice": 16.62,
-      "priceChange": "-0.1%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 16.6,
+      "priceChange": "-2.0%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "CTC.A.TO",
       "name": "Canadian Tire Corporation",
-      "currentPrice": 190.01,
+      "currentPrice": 188.11,
       "currency": "CAD",
       "week52Low": 139.5,
       "week52High": 196.46,
@@ -1199,14 +1199,14 @@
       "risks": "Near 52-week high with limited short-term margin of safety. D/E of 173% elevated (includes Financial Services lending). FY2025 benefited from extra retail week. Best entry on pullback to C$175-180.",
       "researchDate": "2026-03-01",
       "priceVs52wLow": "+37%",
-      "previousPrice": 189.82,
-      "priceChange": "+0.1%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 190.01,
+      "priceChange": "-1.0%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "RUS.TO",
       "name": "Russel Metals Inc.",
-      "currentPrice": 46.7,
+      "currentPrice": 46.8,
       "currency": "CAD",
       "week52Low": 34.62,
       "week52High": 53.37,
@@ -1218,14 +1218,14 @@
       "risks": "Cyclical construction/energy exposure; Kloeckner integration risk; tariff uncertainty on steel volumes and pricing.",
       "researchDate": "2026-03-01",
       "priceVs52wLow": "+39%",
-      "previousPrice": 46.47,
-      "priceChange": "+0.5%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 46.7,
+      "priceChange": "+0.2%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "CRT.UN.TO",
       "name": "CT REIT",
-      "currentPrice": 16.79,
+      "currentPrice": 16.75,
       "currency": "CAD",
       "week52Low": 13.5,
       "week52High": 17.1,
@@ -1237,14 +1237,14 @@
       "risks": "Near 52-week high with limited upside to analyst consensus. Rate-sensitive REIT. Concentrated tenant exposure to Canadian Tire.",
       "researchDate": "2026-03-01",
       "priceVs52wLow": "+24%",
-      "previousPrice": 16.87,
-      "priceChange": "-0.5%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 16.79,
+      "priceChange": "-0.2%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "MTL.TO",
       "name": "Mullen Group Ltd.",
-      "currentPrice": 16.95,
+      "currentPrice": 16.86,
       "currency": "CAD",
       "week52Low": 13.0,
       "week52High": 18.5,
@@ -1256,14 +1256,14 @@
       "risks": "Western Canada energy exposure creates cyclicality. Trucking is competitive with thin margins. Volume-sensitive to economic slowdowns.",
       "researchDate": "2026-03-01",
       "priceVs52wLow": "+35%",
-      "previousPrice": 17.09,
-      "priceChange": "-0.8%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 16.95,
+      "priceChange": "-0.5%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "DIR.UN.TO",
       "name": "Dream Industrial REIT",
-      "currentPrice": 12.67,
+      "currentPrice": 12.73,
       "currency": "CAD",
       "week52Low": 9.48,
       "week52High": 13.62,
@@ -1275,14 +1275,14 @@
       "risks": "Rate-sensitive REIT; European FX exposure; near 52-week high \u2014 better entry on pullback to C$12.50.",
       "researchDate": "2026-03-01",
       "priceVs52wLow": "+40%",
-      "previousPrice": 12.56,
-      "priceChange": "+0.9%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 12.67,
+      "priceChange": "+0.5%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "CM.TO",
       "name": "Canadian Imperial Bank of Commerce",
-      "currentPrice": 134.94,
+      "currentPrice": 134.58,
       "currency": "CAD",
       "week52Low": 78.0,
       "week52High": 137.0,
@@ -1294,14 +1294,14 @@
       "risks": "Near 52-week high with limited margin of safety. US commercial real estate loan book is a potential headwind.",
       "researchDate": "2026-03-01",
       "priceVs52wLow": "+72%",
-      "previousPrice": 132.9,
-      "priceChange": "+1.5%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 134.94,
+      "priceChange": "-0.3%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "GEI.TO",
       "name": "Gibson Energy Inc.",
-      "currentPrice": 29.08,
+      "currentPrice": 29.67,
       "currency": "CAD",
       "week52Low": 19.63,
       "week52High": 29.47,
@@ -1313,14 +1313,14 @@
       "risks": "At ATH and above analyst consensus \u2014 no margin of safety at current price. 84% payout ratio. D/E 278%. Wait for pullback.",
       "researchDate": "2026-03-01",
       "priceVs52wLow": "+49%",
-      "previousPrice": 29.62,
-      "priceChange": "-1.8%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 29.08,
+      "priceChange": "+2.0%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "QBR.B.TO",
       "name": "Quebecor Inc.",
-      "currentPrice": 59.05,
+      "currentPrice": 59.65,
       "currency": "CAD",
       "week52Low": 32.57,
       "week52High": 57.77,
@@ -1332,14 +1332,14 @@
       "risks": "Debt/equity 364% from Freedom Mobile acquisition. Near 52-week high with limited short-term margin of safety. Freedom Mobile integration still maturing in new markets. Quebec concentration remains ~60% of revenue.",
       "researchDate": "2026-03-01",
       "priceVs52wLow": "+73%",
-      "previousPrice": 58.76,
-      "priceChange": "+0.5%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 59.05,
+      "priceChange": "+1.0%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "QSR",
       "name": "Restaurant Brands International Inc.",
-      "currentPrice": 72.0,
+      "currentPrice": 72.01,
       "currency": "USD",
       "week52Low": 58.71,
       "week52High": 73.7,
@@ -1351,14 +1351,14 @@
       "risks": "Popeyes struggling (-3.2% FY comps), high debt D/E 2.62x (franchise model supports it), GAAP earnings distorted by one-time charges. Tim Hortons international expansion unproven at scale.",
       "researchDate": "2026-03-02",
       "priceVs52wLow": "+22%",
-      "previousPrice": 73.36,
-      "priceChange": "-1.9%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 72.0,
+      "priceChange": "+0.0%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "IFC.TO",
       "name": "Intact Financial Corporation",
-      "currentPrice": 254.35,
+      "currentPrice": 250.0,
       "currency": "CAD",
       "week52Low": 244.01,
       "week52High": 317.35,
@@ -1371,14 +1371,14 @@
       "risks": "UK&I segment underperforming (-2% DPW). P/E of 14.1x above insurance peer average of 12.8x. Low yield (2.25%) \u2014 total return play, not high income. Catastrophe losses can spike unpredictably.",
       "researchDate": "2026-03-03",
       "priceVs52wLow": "+7%",
-      "previousPrice": 250.78,
-      "priceChange": "+1.4%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 254.35,
+      "priceChange": "-1.7%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "NWC.TO",
       "name": "North West Company Inc.",
-      "currentPrice": 54.78,
+      "currentPrice": 54.18,
       "currency": "CAD",
       "week52Low": 44.63,
       "week52High": 57.95,
@@ -1390,14 +1390,14 @@
       "risks": "Near 52-week high with limited margin of safety. Northern logistics exposure to weather disruption. Low liquidity (~138K avg volume). Government subsidy policy changes could impact demand.",
       "researchDate": "2026-03-04",
       "priceVs52wLow": "+24%",
-      "previousPrice": 55.26,
-      "priceChange": "-0.9%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 54.78,
+      "priceChange": "-1.1%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "SJ.TO",
       "name": "Stella-Jones Inc.",
-      "currentPrice": 97.0,
+      "currentPrice": 97.19,
       "currency": "CAD",
       "week52Low": 62.26,
       "week52High": 101.31,
@@ -1409,14 +1409,14 @@
       "risks": "Railway ties demand softening (-16% Q4 YoY). Residential lumber exposure to housing cycle. Not cheap on pure price history \u2014 10% above 1-year average.",
       "researchDate": "2026-03-05",
       "priceVs52wLow": "+50%",
-      "previousPrice": 96.37,
-      "priceChange": "+0.7%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 97.0,
+      "priceChange": "+0.2%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "NA.TO",
       "name": "National Bank of Canada",
-      "currentPrice": 183.94,
+      "currentPrice": 184.51,
       "currency": "CAD",
       "week52Low": 106.67,
       "week52High": 193.71,
@@ -1429,14 +1429,14 @@
       "risks": "Overvalued at ATH \u2014 71% above 10-year average P/E, only 2.6% below analyst consensus target. CWB integration costs still flowing. Quebec-heavy revenue base. Canadian economic slowdown compresses P&C loan growth.",
       "researchDate": "2026-03-07",
       "priceVs52wLow": "+75%",
-      "previousPrice": 185.6,
-      "priceChange": "-0.9%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 183.94,
+      "priceChange": "+0.3%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "NTR.TO",
       "name": "Nutrien Ltd.",
-      "currentPrice": 103.4,
+      "currentPrice": 107.7,
       "currency": "CAD",
       "week52Low": 64.0,
       "week52High": 108.0,
@@ -1449,14 +1449,14 @@
       "risks": "DOJ antitrust probe could escalate. Belarus potash supply returning. Most analyst targets below current price. Near 52-week high with no margin of safety.",
       "researchDate": "2026-03-08",
       "priceVs52wLow": "+60%",
-      "previousPrice": 103.02,
-      "priceChange": "+0.4%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 103.4,
+      "priceChange": "+4.2%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "BMO.TO",
       "name": "Bank of Montreal",
-      "currentPrice": 194.35,
+      "currentPrice": 192.99,
       "currency": "CAD",
       "week52Low": 121.31,
       "week52High": 204.57,
@@ -1468,14 +1468,14 @@
       "risks": "Stock near 52-week high limits margin of safety. US tariff uncertainty could impact cross-border operations. Bank of the West credit portfolio may have hidden quality issues as US rates bite. P/E of 14x is reasonable but not cheap vs historical bank multiples of 10-12x.",
       "researchDate": "2026-03-09",
       "priceVs52wLow": "+64%",
-      "previousPrice": 192.74,
-      "priceChange": "+0.8%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 194.35,
+      "priceChange": "-0.7%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "RUS.TO",
       "name": "Russel Metals Inc.",
-      "currentPrice": 46.7,
+      "currentPrice": 46.8,
       "currency": "CAD",
       "week52Low": 36,
       "week52High": 53,
@@ -1487,14 +1487,14 @@
       "risks": "Steel is cyclical \u2014 trade tensions/tariffs could impact margins. Q4 EBITDA dipped QoQ ($69M vs $75M Q3). Kloeckner integration execution risk.",
       "researchDate": "2026-03-10",
       "priceVs52wLow": "+32%",
-      "previousPrice": 46.47,
-      "priceChange": "+0.5%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 46.7,
+      "priceChange": "+0.2%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "IGM.TO",
       "name": "IGM Financial Inc.",
-      "currentPrice": 64.88,
+      "currentPrice": 64.79,
       "currency": "CAD",
       "week52Low": 38.89,
       "week52High": 69.48,
@@ -1506,14 +1506,14 @@
       "risks": "Above all historical price averages \u2014 business transformation justifies premium but no margin of safety at ATH. AUM fees tied to equity markets. Power Corp controls voting shares. Beta 1.11.",
       "researchDate": "2026-03-10",
       "priceVs52wLow": "+65%",
-      "previousPrice": 64.51,
-      "priceChange": "+0.6%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 64.88,
+      "priceChange": "-0.1%",
+      "lastUpdated": "2026-03-12"
     },
     {
       "ticker": "CSH.UN.TO",
       "name": "Chartwell Retirement Residences",
-      "currentPrice": 21.19,
+      "currentPrice": 21.79,
       "currency": "CAD",
       "week52Low": 15.59,
       "week52High": 23.21,
@@ -1525,9 +1525,29 @@
       "risks": "Leveraged (D/E 176%) for acquisitions. Rate-sensitive REIT above all historical price averages. Labour cost inflation in healthcare/PSW staff remains a headwind.",
       "researchDate": "2026-03-11",
       "priceVs52wLow": "+36%",
-      "previousPrice": 21.14,
-      "priceChange": "+0.2%",
-      "lastUpdated": "2026-03-11"
+      "previousPrice": 21.19,
+      "priceChange": "+2.8%",
+      "lastUpdated": "2026-03-12"
+    },
+    {
+      "ticker": "IAG.TO",
+      "name": "iA Financial Corporation Inc.",
+      "currentPrice": 149.46,
+      "currency": "CAD",
+      "week52Low": 115.21,
+      "week52High": 182.99,
+      "conservativeEstimate": 176.14,
+      "optimisticEstimate": 195.0,
+      "yield": "2.65%",
+      "dividendPerShare": 3.96,
+      "rating": "Buy",
+      "thesis": "Quebec-based insurer (est. 1892) trading 18% below 52-week high after 11% post-earnings overreaction on Feb 18 despite record FY2025 results. Director bought C$912K at C$152 on Feb 19 \u2014 massive insider conviction. Core EPS C$12.96 (+16% YoY), core ROE 17.1%, payout ratio just 31.9%. Dividend doubled in 5 years and just raised 10%. At 11.5x core earnings, cheapest CDN insurer with best growth profile.",
+      "risks": "Low yield (2.65%) \u2014 dividend growth not income. Analysts mostly Hold. Insurance earnings can be lumpy. Near 1-year average price, not a screaming bottom.",
+      "researchDate": "2026-03-12",
+      "priceVs52wLow": "+30%",
+      "previousPrice": 149.46,
+      "priceChange": "+0.0%",
+      "lastUpdated": "2026-03-12"
     }
   ]
 }
