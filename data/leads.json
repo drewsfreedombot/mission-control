@@ -3632,6 +3632,106 @@
           ],
           "notes": "Hunter: valid/score 100. LinkedIn: https://linkedin.com/in/roprakash. SF-based, remote-first. YC-backed.",
           "id": "nmbr-e8dd1ebc6b42"
+        },
+        {
+          "id": "nmbr-20260312-087b130e",
+          "company": "WellnessLiving",
+          "contact": "Len Fridman",
+          "title": "CEO & Co-Founder",
+          "email": "len@wellnessliving.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "AI",
+          "signal": "Fitness/wellness SaaS with 10K+ studio clients. Tracks pay rates but exports to ADP/Paychex \u2014 no native Canadian payroll. Perfect embedded payroll candidate.",
+          "notes": "Hunter: valid/score 100. LinkedIn: https://ca.linkedin.com/in/len-fridman-30408b4",
+          "added": "2026-03-12",
+          "tags": [
+            "Canadian",
+            "Fitness",
+            "Wellness",
+            "SaaS",
+            "Toronto"
+          ]
+        },
+        {
+          "id": "nmbr-20260312-9b49dbfa",
+          "company": "Maestro PMS",
+          "contact": "Tim Major",
+          "title": "Vertical President, PMS (Fullsteam)",
+          "email": "tmajor@maestropms.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "AI",
+          "signal": "Canadian hotel PMS for independents (Markham, ON). Staff scheduling modules but no payroll. Acquired by Fullsteam \u2014 new leadership = fresh partnership opportunity.",
+          "notes": "Hunter: valid/score 91. Warren Dehan (founder) moved to advisory March 2025. Tim Major now runs day-to-day.",
+          "added": "2026-03-12",
+          "tags": [
+            "Canadian",
+            "Hospitality",
+            "Hotels",
+            "SaaS",
+            "Markham"
+          ]
+        },
+        {
+          "id": "nmbr-20260312-5b236862",
+          "company": "WebRezPro",
+          "contact": "Frank Verhagen",
+          "title": "President & Founder",
+          "email": "frank@webrezpro.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "AI",
+          "signal": "Calgary-based hotel PMS (since 1994). Bilingual EN/FR, Canadian tax-compliant invoicing but no staff payroll. Serves independent hotels across Canada.",
+          "notes": "Hunter: valid/score 89. Parent company: World Web Technologies Inc.",
+          "added": "2026-03-12",
+          "tags": [
+            "Canadian",
+            "Hospitality",
+            "Hotels",
+            "SaaS",
+            "Calgary"
+          ]
+        },
+        {
+          "id": "nmbr-20260312-17e44926",
+          "company": "ABELDent (ABELSoft)",
+          "contact": "Arun Rele",
+          "title": "Chairman & CEO",
+          "email": "arele@abelsoft.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "AI",
+          "signal": "Canada's leading dental practice management software (since 1984). 2000+ clinics. Manages scheduling, patient records, billing \u2014 but no staff payroll for dental clinics.",
+          "notes": "Hunter: valid/score 89. VP: Bina Rele. Microsoft Gold Partner. Based in Burlington, ON.",
+          "added": "2026-03-12",
+          "tags": [
+            "Canadian",
+            "Healthcare",
+            "Dental",
+            "SaaS",
+            "Burlington"
+          ]
+        },
+        {
+          "id": "nmbr-20260312-8b56032c",
+          "company": "QHR Technologies",
+          "contact": "Michael Checkley",
+          "title": "Co-Founder",
+          "email": "mcheckley@qhrtechnologies.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "AI",
+          "signal": "Largest single-platform EMR in Canada (AccuroEMR). 16,400+ health professionals. Clinic management but no payroll for clinic staff. Healthcare vertical = complex payroll needs.",
+          "notes": "Hunter: valid/score 89. Based in Kelowna, BC. Also has Medeo virtual care platform.",
+          "added": "2026-03-12",
+          "tags": [
+            "Canadian",
+            "Healthcare",
+            "EMR",
+            "SaaS",
+            "Kelowna"
+          ]
         }
       ]
     },
@@ -6095,5 +6195,5 @@
       ]
     }
   ],
-  "updated": "2026-03-11T12:03:20.687189+00:00"
+  "updated": "2026-03-12T11:06:53.144984+00:00"
 }
