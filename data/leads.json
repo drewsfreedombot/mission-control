@@ -4861,6 +4861,61 @@
             "high-ticket",
             "mastermind"
           ]
+        },
+        {
+          "id": "charlie-prospects-20260312-85b9f297",
+          "company": "First Choice Coaching",
+          "contact": "Michael Kitka",
+          "title": "Founder",
+          "email": "michael@michaelkitka.com",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Setter Scan",
+          "signal": "High-ticket coaching (K-K offers), actively teaching coaching business building in 2026, runs FB ad funnels to book calls",
+          "notes": "Hunter: valid/92",
+          "added": "2026-03-12",
+          "tags": [
+            "HighTicket",
+            "CoachingBiz",
+            "FBads"
+          ]
+        },
+        {
+          "id": "charlie-prospects-20260312-d5ea1b6e",
+          "company": "NoraSudduth.com",
+          "contact": "Nora Sudduth",
+          "title": "Founder",
+          "email": "nora@norasudduth.com",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Setter Scan",
+          "signal": "Award-winning sales strategist, helped generate M+ in sales, creates high-ticket coaching programs and certification courses, teaches coaches how to sell",
+          "notes": "Hunter: valid/88",
+          "added": "2026-03-12",
+          "tags": [
+            "HighTicket",
+            "SalesStrategy",
+            "CourseCreator"
+          ]
+        },
+        {
+          "id": "charlie-prospects-20260312-75f6f3c0",
+          "company": "GetClients.com",
+          "contact": "Dan Henry",
+          "title": "Founder & CEO",
+          "email": "dan@getclients.com",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Setter Scan",
+          "signal": "1,100+ high-ticket coaching clients (K-K offers), runs massive FB ad funnels, teaches coaches to get clients \u2014 perfect Charlie buyer at scale",
+          "notes": "Hunter: valid/100",
+          "added": "2026-03-12",
+          "tags": [
+            "HighTicket",
+            "CoachingBiz",
+            "FBads",
+            "HighVolume"
+          ]
         }
       ]
     },
@@ -6191,9 +6246,135 @@
             "Toronto",
             "Canadian"
           ]
+        },
+        {
+          "id": "charlie-partners-20260312-574ec36a",
+          "company": "RepSelect.io",
+          "contact": "Tiye Martin",
+          "title": "Founder",
+          "email": "tiye@repselect.io",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Setter Scan",
+          "signal": "Setter/closer placement platform for coaching businesses \u2014 60-70% of jobs are setter/closer roles for info products, coaching, agencies. Direct referral partner potential",
+          "notes": "Hunter: valid/92",
+          "added": "2026-03-12",
+          "tags": [
+            "SetterPlacement",
+            "Partnership",
+            "CoachingEcosystem"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260312-307d36e7",
+          "company": "The BAM Agency",
+          "contact": "Lindsey Anderson",
+          "title": "Founder & CEO",
+          "email": "",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Setter Scan",
+          "signal": "Premier marketing agency for coaches, 20+ years digital marketing, FB ads + funnel building for high-ticket coaches \u2014 published FB ads for coaches guide 2026",
+          "notes": "LinkedIn only \u2014 email invalid",
+          "added": "2026-03-12",
+          "tags": [
+            "MarketingAgency",
+            "CoachNiche",
+            "FBads"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260312-c75e1e9a",
+          "company": "The Agency Solution (Marne Semick)",
+          "contact": "Marne Semick",
+          "title": "Founder",
+          "email": "marne@marnesemick.com",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Setter Scan",
+          "signal": "Kajabi + FB ads agency for coaches, helped 500+ coaches launch and scale to 7 figures. Runs ad campaigns + social media for coaching businesses",
+          "notes": "Hunter: valid/100",
+          "added": "2026-03-12",
+          "tags": [
+            "CoachAgency",
+            "Kajabi",
+            "FBads"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260312-7f154f83",
+          "company": "99 Robots",
+          "contact": "Charlie Patel",
+          "title": "Founder",
+          "email": "charlie@99robots.com",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Setter Scan",
+          "signal": "PPC agency specifically built for coaches and course creators \u2014 FB, Google, TikTok, YouTube ads management. Direct lead gen for coaching businesses",
+          "notes": "Hunter: valid/100",
+          "added": "2026-03-12",
+          "tags": [
+            "PPCagency",
+            "CoachNiche",
+            "CourseCreators"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260312-3692ac9e",
+          "company": "Sarah Noked OBM",
+          "contact": "Sarah Noked",
+          "title": "Founder, OBM School",
+          "email": "sarah@sarahnoked.com",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Setter Scan",
+          "signal": "Pioneer in Online Business Management for coaches. OBM agency + OBM School training hundreds of OBMs globally. Deep network of 6-7 figure coaching clients",
+          "notes": "Hunter: valid/90",
+          "added": "2026-03-12",
+          "tags": [
+            "OBM",
+            "CoachOps",
+            "Partnership"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260312-6e768cc0",
+          "company": "Roldan & Co. Marketing",
+          "contact": "Kirsten Roldan",
+          "title": "Business Coach & Founder",
+          "email": "",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Setter Scan",
+          "signal": "Former OBM turned million-dollar coach. Trains OBMs to serve 6-7 figure coaching businesses. Creator of Million Dollar OBM Academy + directory. Deep referral network",
+          "notes": "LinkedIn only \u2014 email invalid",
+          "added": "2026-03-12",
+          "tags": [
+            "OBM",
+            "CoachNetwork",
+            "ReferralPartner"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260312-306ddfbf",
+          "company": "Hyros",
+          "contact": "Alex Becker",
+          "title": "Founder & CEO",
+          "email": "",
+          "altContacts": [],
+          "stage": "new",
+          "source": "Setter Scan",
+          "signal": "Ad tracking/attribution platform used by high-ticket coaching businesses. 8,600+ LinkedIn followers, coaches depend on Hyros for FB/Google ad tracking. Integration/referral partner potential",
+          "notes": "LinkedIn only \u2014 email score 45 (below threshold)",
+          "added": "2026-03-12",
+          "tags": [
+            "AdTech",
+            "Attribution",
+            "CoachEcosystem"
+          ]
         }
       ]
     }
   ],
-  "updated": "2026-03-12T11:06:53.144984+00:00"
+  "updated": "2026-03-12T11:34:09.105823+00:00"
 }
