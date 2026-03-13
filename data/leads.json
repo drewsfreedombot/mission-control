@@ -3839,6 +3839,66 @@
             "No-Payroll"
           ],
           "notes": "Hunter: valid/score 100. LinkedIn: linkedin.com/in/ghiculescu/"
+        },
+        {
+          "id": "nmbr-20260313-778b2399",
+          "company": "Voil\u00e0! Technologies",
+          "contact": "Martin Ouellet",
+          "title": "CEO & Founder",
+          "email": "martin@voila.app",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Scout AI",
+          "signal": "Quebec-based workforce scheduling platform with CAD 13.75M Series A. Does scheduling, time tracking, attendance but NO payroll. Perfect embedded payroll partner - especially strong Quebec angle where payroll compliance is most complex.",
+          "notes": "Hunter: valid/score 47. Domain: voila.app. Based in Quebec City.",
+          "added": "2026-03-13",
+          "tags": [
+            "Canadian",
+            "Workforce",
+            "Scheduling",
+            "Quebec",
+            "Series-A"
+          ]
+        },
+        {
+          "id": "nmbr-20260313-fb23d9f0",
+          "company": "CloudAdvisors",
+          "contact": "Rahul Rao",
+          "title": "Co-Founder & Chairman",
+          "email": "rahul@cloudadvisors.ca",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Scout AI",
+          "signal": "Canada's largest B2B health benefits and retirement marketplace. Vancouver-based InsurTech platform handles benefits but NOT payroll. Embedding Nmbr payroll would create a complete HR+benefits+payroll offering for Canadian SMBs.",
+          "notes": "Hunter: valid/score 100. Email from press release. Founded 2015. Investor contact confirmed.",
+          "added": "2026-03-13",
+          "tags": [
+            "Canadian",
+            "Benefits",
+            "InsurTech",
+            "Vancouver",
+            "Marketplace"
+          ]
+        },
+        {
+          "id": "nmbr-20260313-0a2802d4",
+          "company": "Ameego",
+          "contact": "Kris Edwards",
+          "title": "Co-Founder & VP Business Development",
+          "email": "krise@myameego.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Scout AI",
+          "signal": "Winnipeg-based restaurant scheduling SaaS since 2006. Integrates with POS and payroll systems but has NO native payroll. KEY ANGLE: Kris Edwards was previously VP Strategy, Hospitality at Humi \u2014 direct connection to Drew's former company. Warm outreach opportunity.",
+          "notes": "Hunter: valid/score 100. Humi alumni connection. Email format: firstlastInitial@myameego.com.",
+          "added": "2026-03-13",
+          "tags": [
+            "Canadian",
+            "Restaurant",
+            "Scheduling",
+            "Hospitality",
+            "Humi-Connection"
+          ]
         }
       ]
     },
@@ -6694,5 +6754,5 @@
       ]
     }
   ],
-  "updated": "2026-03-13T11:35:50.783013+00:00"
+  "updated": "2026-03-13T12:07:36.248702+00:00"
 }
