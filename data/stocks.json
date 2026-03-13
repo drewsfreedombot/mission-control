@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-12T17:31:04",
+  "lastUpdated": "2026-03-13T06:01:00",
   "stocks": [
     {
       "ticker": "ENB.TO",
@@ -1783,6 +1783,22 @@
       "changePct": 0.2,
       "high52": 182.99,
       "low52": 115.21
+    },
+    {
+      "ticker": "CRR-UN.TO",
+      "name": "Crombie Real Estate Investment Trust",
+      "currentPrice": 15.64,
+      "currency": "CAD",
+      "week52Low": 12.25,
+      "week52High": 16.25,
+      "conservativeEstimate": 17.25,
+      "optimisticEstimate": 19.5,
+      "yield": "5.75%",
+      "rating": "Buy",
+      "thesis": "Grocery-anchored REIT from Atlantic Canada (New Glasgow, NS) \u2014 Sobeys/Empire is majority owner. Record 97.7% committed occupancy, +10% renewal spreads, FFO/unit +4.8% and AFFO/unit +6.5% in 2025. Credit upgrade to BBB. Monthly C$0.075/unit distribution (C$0.90/yr) with conservative 78.1% AFFO payout ratio. 308 properties, 18.9M sq ft of essential retail. Simply Wall St estimates 40.8% below fair value. Boring, recession-proof, well-covered income.",
+      "risks": "Rate-sensitive REIT near 52-week high limits short-term upside. Empire concentration risk (majority owner controls direction). D/E 121%. Best entry C$14.50-15.50 for 5.8-6.2% yield.",
+      "researchDate": "2026-03-13",
+      "priceVs52wLow": "+28%"
     }
   ]
 }

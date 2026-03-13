@@ -108,7 +108,7 @@ from datetime import datetime, timezone
 
 workspace = sys.argv[1]
 out_path = sys.argv[2]
-MAX_FILE_SIZE = 50 * 1024  # 50KB
+MAX_FILE_SIZE = 100 * 1024  # 100KB
 EXTENSIONS = {'.md', '.txt', '.sh', '.json', '.py', '.yml', '.yaml', '.toml', '.cfg', '.conf'}
 SKIP_DIRS = {'node_modules', '.git', '__pycache__', '.cache', 'dashboard/data', '.openclaw'}
 

@@ -1275,7 +1275,7 @@ async function init(){
     const t=document.getElementById('kanban-toast');t.textContent='Restored';t.classList.add('show');setTimeout(()=>t.classList.remove('show'),2000);
   }
   window.undoDeleteCard=undoDeleteCard;
-  function getLeadStage(boardId,leadId,original){return stageOverrides[boardId+'::'+leadId]||original}
+  function getLeadStage(boardId,leadId,original){const STAGE_MAP={"new":"lead","New":"lead","NEW":"lead","contacted":"opportunity","Contacted":"opportunity","Call Booked":"negotiations","Closed Won":"closed-won","Closed Lost":"closed-lost","Dead":"dead","Disqualified":"disqualified"};const raw=stageOverrides[boardId+"::"+ leadId]||original;return STAGE_MAP[raw]||raw}
   function setLeadStage(boardId,leadId,stage){stageOverrides[boardId+'::'+leadId]=stage;localStorage.setItem('kanban-stages',JSON.stringify(stageOverrides))}
   function srcClass(s){if(s==='Nmbr')return 'src-nmbr';if(s==='Charlie')return 'src-charlie';return 'src-partner'}
   function truncEmail(e){if(!e)return '';return e.length>24?e.slice(0,22)+'…':e}
