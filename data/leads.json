@@ -5103,6 +5103,86 @@
             "Coaching",
             "Hot-Lead"
           ]
+        },
+        {
+          "id": "charlie-prospects-20260313-a3ad92d6",
+          "company": "Kathleen Black Coaching",
+          "contact": "Kathleen Black",
+          "title": "Founder & CEO",
+          "email": "kathleen@kathleenspeaks.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Scout AI",
+          "signal": "Canada's top real estate coaching firm with 'Book a Call' model, high-ticket coaching programs, annual summit in Niagara \u2014 appointment-dependent business ideal for AI setter",
+          "notes": "Hunter: valid/score 100. Also has team of coaches. Based in Toronto/Oshawa. Website: kathleenblackcoaching.com. General email also valid: info@kathleenspeaks.com",
+          "added": "2026-03-13",
+          "tags": [
+            "RealEstate",
+            "Coaching",
+            "HighTicket",
+            "Canadian",
+            "Toronto"
+          ]
+        },
+        {
+          "id": "charlie-prospects-20260313-51afe57a",
+          "company": "Elite High Performance",
+          "contact": "Susan Hobson",
+          "title": "Founder & CEO",
+          "email": "susan@elitehighperformance.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Scout AI",
+          "signal": "High-performance leadership coaching firm in downtown Toronto with team of coaches, keynote speaking at Google, podcast #3 in Canada \u2014 consultation-based sales model",
+          "notes": "Hunter: valid/score 51. Princeton/Harvard alum. Serves executives and teams. Website: elitehighperformance.com. LinkedIn: linkedin.com/in/jumpstartliving",
+          "added": "2026-03-13",
+          "tags": [
+            "ExecutiveCoaching",
+            "Leadership",
+            "HighTicket",
+            "Canadian",
+            "Toronto"
+          ]
+        },
+        {
+          "id": "charlie-prospects-20260313-53dff647",
+          "company": "E2 Coaching",
+          "contact": "Bowdie Bragg",
+          "title": "Founder & Business Coach",
+          "email": "info@e2coaching.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Scout AI",
+          "signal": "Calgary business coaching firm with 'Book a free discovery session' model, mastermind groups, and executive coaching \u2014 classic appointment-setter use case",
+          "notes": "Hunter: valid/score 100. Coaching entrepreneurs in Calgary. Has mastermind group program 'Get It Together'. Website: e2coaching.com",
+          "added": "2026-03-13",
+          "tags": [
+            "BusinessCoaching",
+            "Mastermind",
+            "HighTicket",
+            "Canadian",
+            "Calgary"
+          ]
+        },
+        {
+          "id": "charlie-prospects-20260313-c2abf22f",
+          "company": "Kelsey Reidl Coaching",
+          "contact": "Kelsey Reidl",
+          "title": "Founder & Marketing Coach",
+          "email": "hello@kelseyreidl.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Scout AI",
+          "signal": "Canada's #1-rated marketing coach (self-described), runs WAVE Mastermind + private 1:1 coaching, fractional CMO services, upcoming Paris event April 2026 \u2014 growing fast, appointment-dependent",
+          "notes": "Hunter: valid/score 100. Toronto-based. 400+ clients. Has podcast. Co-founder @waveforwomen. Multiple high-ticket offers. Website: kelseyreidl.com",
+          "added": "2026-03-13",
+          "tags": [
+            "MarketingCoach",
+            "Mastermind",
+            "HighTicket",
+            "Canadian",
+            "Toronto"
+          ]
         }
       ]
     },
@@ -6754,5 +6834,5 @@
       ]
     }
   ],
-  "updated": "2026-03-13T12:07:36.248702+00:00"
+  "updated": "2026-03-13T18:03:45.366966+00:00"
 }
