@@ -3732,6 +3732,113 @@
             "SaaS",
             "Kelowna"
           ]
+        },
+        {
+          "id": "nmbr-20260313-1",
+          "company": "VeriClock",
+          "contact": "Bryce Pasechnik",
+          "title": "Founder & CEO",
+          "email": "",
+          "signal": "Vancouver-based time tracking SaaS for off-site hourly workers (construction, field service). Integrates with Sage but has NO native payroll \u2014 perfect embedded payroll partner for Canadian market.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-13",
+          "tags": [
+            "Canadian",
+            "Time-Tracking",
+            "No-Payroll",
+            "Field-Service"
+          ],
+          "notes": "Hunter: invalid/undeliverable. LinkedIn only: linkedin.com/in/bryce-pasechnik-14878127/"
+        },
+        {
+          "id": "nmbr-20260313-2",
+          "company": "Timerack",
+          "contact": "Adam Day",
+          "title": "CEO & Founder",
+          "email": "adam@timerack.com",
+          "signal": "Time & attendance SaaS, explicitly a \"front end for payroll\" \u2014 they integrate with payroll providers but do not process payroll themselves. Ideal Nmbr embed partner.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-13",
+          "tags": [
+            "Time-Attendance",
+            "No-Payroll",
+            "Partner-Ready"
+          ],
+          "notes": "Hunter: valid/score 90. LinkedIn: linkedin.com/in/aday434/"
+        },
+        {
+          "id": "nmbr-20260313-3",
+          "company": "Boulevard",
+          "contact": "Matt Danna",
+          "title": "Co-Founder & CEO",
+          "email": "matt@joinboulevard.com",
+          "signal": "Salon/spa vertical SaaS at $800M valuation (Series D). Manages scheduling, payments, client mgmt for thousands of salons. No native Canadian payroll \u2014 huge opportunity to embed for their Canadian salon clients.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-13",
+          "tags": [
+            "US-Expanding",
+            "Salon-Spa",
+            "High-Valuation",
+            "No-Payroll"
+          ],
+          "notes": "Hunter: valid/score 92. LinkedIn: linkedin.com/in/mattdanna/"
+        },
+        {
+          "id": "nmbr-20260313-4",
+          "company": "Combo (formerly Snapshift)",
+          "contact": "Olivier Severyns",
+          "title": "CEO & Founder",
+          "email": "olivier@combohr.com",
+          "signal": "French HR SaaS expanding beyond France into Europe. 8,000+ teams use Combo for scheduling/HR. No Canadian payroll \u2014 if they enter North America, need embedded payroll partner.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-13",
+          "tags": [
+            "European",
+            "Restaurant-Hospitality",
+            "Expanding",
+            "HR-SaaS"
+          ],
+          "notes": "Hunter: valid/score 88. LinkedIn: linkedin.com/in/olivierseveryns/"
+        },
+        {
+          "id": "nmbr-20260313-5",
+          "company": "Cority",
+          "contact": "Mark Wallace",
+          "title": "President & CEO",
+          "email": "mark.wallace@cority.com",
+          "signal": "Toronto-based EHS/safety SaaS (35+ years, PE-backed by Thoma Bravo). Manages workforce compliance, safety, and training for enterprise clients. Could embed payroll to deepen workforce management offering.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-13",
+          "tags": [
+            "Canadian",
+            "Enterprise",
+            "EHS-Safety",
+            "PE-Backed"
+          ],
+          "notes": "Hunter: valid/score 100. LinkedIn: linkedin.com/in/mark-wallace-5266b612"
+        },
+        {
+          "id": "nmbr-20260313-6",
+          "company": "Tanda (Workforce.com)",
+          "contact": "Alex Ghiculescu",
+          "title": "Co-Founder & CTO",
+          "email": "alex@tanda.co",
+          "signal": "Australian workforce management SaaS now operating as Workforce.com. Time tracking, scheduling, wage compliance. Serves US/AU but no Canadian payroll \u2014 expanding globally would need Canadian payroll partner.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-13",
+          "tags": [
+            "Australian",
+            "Workforce-Mgmt",
+            "Global-Expansion",
+            "No-Payroll"
+          ],
+          "notes": "Hunter: valid/score 100. LinkedIn: linkedin.com/in/ghiculescu/"
         }
       ]
     },
