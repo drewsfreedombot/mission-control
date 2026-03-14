@@ -3899,6 +3899,132 @@
             "Hospitality",
             "Humi-Connection"
           ]
+        },
+        {
+          "company": "Factorial HR",
+          "contact": "Jordi Romero",
+          "title": "CEO & Co-Founder",
+          "email": "jordi@factorial.co",
+          "signal": "\u20ac120M Series A HRIS platform expanding globally. Has time tracking & payroll in EU but NOT in Canada. Actively targeting Lattice refugees (Lattice sunsetting payroll July 2026). Massive opportunity to embed Canadian payroll.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-14",
+          "tags": [
+            "HRIS",
+            "EU-expansion",
+            "Series-A",
+            "mid-market"
+          ],
+          "notes": "Hunter: valid/88. LinkedIn: https://www.linkedin.com/in/jordiromerofounderfactorial/ \u2014 HQ Barcelona, expanding globally. No Canadian payroll = perfect Nmbr embed opportunity.",
+          "id": "nmbr-e1cc96a90880"
+        },
+        {
+          "company": "HiBob",
+          "contact": "Ronni Zehavi",
+          "title": "CEO & Co-Founder",
+          "email": "ronni@hibob.com",
+          "signal": "HRIS platform used by mid-market companies globally. Integrates with payroll providers but doesn't own payroll. Canadian clients using Bob need compliant Canadian payroll partner. Actively positioning as Lattice alternative.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-14",
+          "tags": [
+            "HRIS",
+            "global-expansion",
+            "mid-market",
+            "payroll-partner"
+          ],
+          "notes": "Hunter: accept_all/72. LinkedIn: https://www.linkedin.com/in/ronnizehavi/ \u2014 59K LinkedIn followers, $275M+ raised. Integrates with payroll but doesn't own it = embed opportunity.",
+          "id": "nmbr-0a40bf7b72dd"
+        },
+        {
+          "company": "Nory AI",
+          "contact": "Conor Sheridan",
+          "title": "CEO & Founder",
+          "email": "conor@nory.ai",
+          "signal": "$37M Series B restaurant management platform. AI-driven workforce scheduling, inventory, ops. Expanding internationally. On Capterra Canada already \u2014 Canadian restaurant clients need payroll. They do NOT own payroll.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-14",
+          "tags": [
+            "restaurant",
+            "Series-B",
+            "workforce-mgmt",
+            "international-expansion"
+          ],
+          "notes": "Hunter: valid/100. LinkedIn: https://www.linkedin.com/in/conorsheridan1/ \u2014 Irish-founded, London HQ, already on Capterra Canada, $37M raised Sep 2025. Restaurant vertical = high payroll complexity.",
+          "id": "nmbr-dbede54f97a9"
+        },
+        {
+          "company": "Leapsome",
+          "contact": "Jenny Podewils",
+          "title": "Co-CEO & Co-Founder",
+          "email": "jenny@leapsome.com",
+          "signal": "HRIS with time tracking & payroll launched Jan 2025. Listed on Capterra Canada but payroll is EU-only. Canadian customers need compliant payroll \u2014 Nmbr embed fills the gap. \u20ac60M Series A.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-14",
+          "tags": [
+            "HRIS",
+            "Series-A",
+            "performance-mgmt",
+            "EU-expanding"
+          ],
+          "notes": "Hunter: valid/88. LinkedIn: https://www.linkedin.com/in/jennypodewils/ \u2014 Berlin HQ, expanding globally, payroll EU-only, Canadian payroll gap = Nmbr opportunity.",
+          "id": "nmbr-f834ebf35a8b"
+        },
+        {
+          "company": "Vagaro",
+          "contact": "Fred Helou",
+          "title": "CEO & Founder",
+          "email": "fred.helou@vagaro.com",
+          "signal": "$1B valuation salon/spa/fitness vertical SaaS. Recently added CC processing in Canada. Partnered with Gusto for US payroll. NO Canadian payroll \u2014 massive gap for Nmbr embed. Growing Canadian market share.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-14",
+          "tags": [
+            "salon-spa-fitness",
+            "unicorn",
+            "Canadian-expansion",
+            "payroll-gap"
+          ],
+          "notes": "Hunter: valid/100. LinkedIn: https://www.linkedin.com/in/fredhelou/ \u2014 $1B valuation, FTV Capital-backed. Uses Gusto for US payroll but nothing for Canada = huge embed opportunity.",
+          "id": "nmbr-08d3654c3f22"
+        },
+        {
+          "company": "Albiware (Albi)",
+          "contact": "Alex Duta",
+          "title": "CEO & Founder",
+          "email": "alex@albiware.com",
+          "signal": "Restoration contractor SaaS (YC-backed). All-in-one platform with CRM, scheduling, HR management but NO payroll. Insurance damage repair industry = large workforce. Expanding from US into Canada.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-14",
+          "tags": [
+            "construction-restoration",
+            "YC-backed",
+            "workforce-mgmt",
+            "US-expanding"
+          ],
+          "notes": "Hunter: valid/100. LinkedIn: https://www.linkedin.com/company/albiware \u2014 Addison TX HQ, Series B. Has HR management module but no payroll = natural embed.",
+          "id": "nmbr-35a166868fd1"
+        },
+        {
+          "company": "Antaris Technologies",
+          "contact": "Michael Raphael",
+          "title": "Co-Founder & President",
+          "email": "",
+          "signal": "Canadian gym/health club management SaaS. Memberships, scheduling, payment processing, reporting. Lists 'payroll' as feature but appears basic \u2014 not full Canadian payroll compliance. Quebec market presence.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-14",
+          "tags": [
+            "fitness-gym",
+            "Canadian-HQ",
+            "Quebec",
+            "health-wellness"
+          ],
+          "notes": "Hunter: invalid (personal email not found). LinkedIn only: https://www.linkedin.com/company/antarissoftware \u2014 Canadian fitness vertical SaaS, payroll feature is basic.",
+          "id": "nmbr-a04ebe949a27"
         }
       ]
     },
