@@ -1,35 +1,35 @@
 {
-  "lastCheck": "2026-03-13T04:00:00-04:00",
-  "status": "warning",
+  "lastCheck": "2026-03-14T04:00:00-04:00",
+  "status": "nominal",
   "checks": {
     "disk": {
       "status": "ok",
-      "detail": "4% used (15Gi / 460Gi) — 397Gi available"
+      "detail": "4% used (15Gi / 460Gi) \u2014 396Gi available"
     },
     "uptime": {
       "status": "ok",
-      "detail": "Up 1 day 16h54m — load avg 1.44/1.45/1.47"
+      "detail": "Up 2 days, 16h54m \u2014 load avg 1.85/1.45/1.44"
     },
     "gateway": {
       "status": "ok",
-      "detail": "Running (pid 94050) — loopback-only on port 18789"
+      "detail": "Running (pid 49003), RPC probe ok, port 18789"
     },
     "tailscale": {
       "status": "ok",
-      "detail": "Connected — freedombots-macbook-pro (100.124.57.91). 3 peers online."
+      "detail": "Connected \u2014 100.124.57.91, 8 nodes in tailnet"
     },
     "logins": {
       "status": "ok",
-      "detail": "No suspicious logins. Current session since Wed Mar 11. SSH session at 4:00AM (cron expected)."
+      "detail": "Only freedombot sessions \u2014 no suspicious logins"
     },
     "processes": {
       "status": "ok",
-      "detail": "All processes nominal — Tailscale, OpenClaw, Telegram, standard macOS services."
+      "detail": "All processes normal \u2014 system services, Telegram, OpenClaw gateway, Tailscale"
     },
     "configIntegrity": {
-      "status": "warning",
-      "detail": "openclaw.json hash CHANGED since last check. Modified 2026-03-12 09:50. Previous: 38022a0e... → Current: 0b858386... Likely a legitimate config update but flagging for audit."
+      "status": "ok",
+      "detail": "openclaw.json hash unchanged (0b858386...)"
     }
   },
-  "summary": "All systems operational. Config file was modified on Mar 12 at 9:50 AM — verify this was an authorized change."
+  "summary": "All systems nominal. No anomalies detected."
 }
