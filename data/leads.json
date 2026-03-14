@@ -5309,6 +5309,24 @@
             "Canadian",
             "Toronto"
           ]
+        },
+        {
+          "id": "charlie-prospects-20260314-2b58fcd3",
+          "company": "First Choice (Matchbook)",
+          "contact": "Michael Kitka",
+          "title": "Founder",
+          "email": "michael@michaelkitka.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "Actively teaching high-ticket coaching biz in 2026 - YouTube content on scaling coaching businesses. Needs setter for lead handling at scale.",
+          "notes": "Hunter: valid/92",
+          "added": "2026-03-14",
+          "tags": [
+            "HighTicketCoach",
+            "CourseCreator",
+            "Canadian"
+          ]
         }
       ]
     },
@@ -6956,9 +6974,173 @@
             "Scaling",
             "Partner"
           ]
+        },
+        {
+          "id": "charlie-partners-20260314-b4088428",
+          "company": "Smart Sales Solutions",
+          "contact": "Rich Rudnick",
+          "title": "Founder & Head Sales Coach",
+          "email": "rich@smartsalessolutions.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "Sales coaching firm publishing 2026 content on pipeline optimization. Clients are coaches and SMBs who need setter/closer frameworks \u2014 natural referral partner.",
+          "notes": "Hunter: valid/100",
+          "added": "2026-03-14",
+          "tags": [
+            "SalesTrainer",
+            "CoachingClients",
+            "ReferralPartner"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260314-4546f11a",
+          "company": "The Novak Group",
+          "contact": "Tod Novak",
+          "title": "Founder & CEO",
+          "email": "tod@todnovak.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "Published 'Why Sales Coaching is the Fastest Way to Increase Revenue in 2026' \u2014 serves coaches & sales teams needing performance optimization. Perfect channel partner.",
+          "notes": "Hunter: valid/92",
+          "added": "2026-03-14",
+          "tags": [
+            "SalesCoach",
+            "CSP",
+            "ReferralPartner"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260314-e5b600d0",
+          "company": "Persuasion Experience",
+          "contact": "Alisha Conlin-Hurd",
+          "title": "CEO",
+          "email": "alisha@persuasionexperience.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "Runs paid ads agency (600+ funnels) specifically for high-ticket coaches. Posts about scaling qualified leads for 7-8 figure coaches. Her clients are Charlie's ideal buyers.",
+          "notes": "Hunter: valid/100",
+          "added": "2026-03-14",
+          "tags": [
+            "AdsAgency",
+            "HighTicketFunnels",
+            "CoachClients",
+            "ReferralPartner"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260314-0d8e2a62",
+          "company": "Growbo",
+          "contact": "Matt Ackerson",
+          "title": "Founder & CEO",
+          "email": "matt@growbo.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "DFY marketing agency serving coaches \u2014 builds funnels, email, landing pages. Published coaching funnel content. Clients generate leads but need setter automation for follow-up.",
+          "notes": "Hunter: valid/92",
+          "added": "2026-03-14",
+          "tags": [
+            "DFYMarketing",
+            "CoachClients",
+            "FunnelBuilder",
+            "ReferralPartner"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260314-0ddd827f",
+          "company": "CoachVantage",
+          "contact": "Glen Oliveiro",
+          "title": "Founder",
+          "email": "glen@coachvantage.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "Built all-in-one coaching software (scheduling, payments, groups). Listed in top coaching platforms for 2026. Their coach users need setter/lead qualification add-on \u2014 integration or referral play.",
+          "notes": "Hunter: valid/92",
+          "added": "2026-03-14",
+          "tags": [
+            "CoachingSaaS",
+            "Platform",
+            "IntegrationPartner"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260314-460374c4",
+          "company": "TailorTalk AI",
+          "contact": "Shiva Verma",
+          "title": "CEO & Co-Founder",
+          "email": "shiva@tailortalk.ai",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "AI lead qualification platform for high-ticket across WhatsApp, Instagram, web. Wrote guide on automating high-ticket lead qualification for coaches. Competitor/partner play.",
+          "notes": "Hunter: valid but score 50 - email unverified",
+          "added": "2026-03-14",
+          "tags": [
+            "AILeadQual",
+            "CoachFocused",
+            "CompetitorPartner"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260314-fb61bfab",
+          "company": "Momentum Growth",
+          "contact": "Carly Valancy",
+          "title": "Founder",
+          "email": "",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "Marketing agency building AI workflows for coaches \u2014 automated post-webinar content, follow-ups at scale, social clips 18x faster. Clients are coaches who need lead response automation.",
+          "notes": "LinkedIn only \u2014 email invalid",
+          "added": "2026-03-14",
+          "tags": [
+            "AIMarketing",
+            "CoachClients",
+            "ReferralPartner"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260314-52fdc5a1",
+          "company": "FreshLearn",
+          "contact": "Rahul Mehta",
+          "title": "Founder & CEO",
+          "email": "rahul@freshlearn.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "Course creator platform for coaches \u2014 scheduling, payments, community. Listed in top 10 coaching platforms for 2026. Their users are coaches who sell high-ticket and need setter solutions.",
+          "notes": "Hunter: valid/100",
+          "added": "2026-03-14",
+          "tags": [
+            "CoursePlatform",
+            "CoachingSaaS",
+            "IntegrationPartner"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260314-65fb94b1",
+          "company": "quso.ai",
+          "contact": "Vedant Maheshwari",
+          "title": "Co-Founder & CEO",
+          "email": "vedant@quso.ai",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "Social media AI platform built for coaches, educators, podcasters. Helps coaches repurpose content and schedule. Their users generate leads via social but lack setter follow-up \u2014 natural partner.",
+          "notes": "Hunter: valid/90",
+          "added": "2026-03-14",
+          "tags": [
+            "SocialMediaAI",
+            "CoachFocused",
+            "IntegrationPartner"
+          ]
         }
       ]
     }
   ],
-  "updated": "2026-03-13T18:03:45.366966+00:00"
+  "updated": "2026-03-14T11:37:47.109156+00:00"
 }
