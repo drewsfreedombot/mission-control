@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-13T17:30:53",
+  "lastUpdated": "2026-03-14T06:01:00",
   "stocks": [
     {
       "ticker": "ENB.TO",
@@ -1805,6 +1805,29 @@
       "high52": 16.51,
       "low52": 13.06,
       "lastUpdated": "2026-03-13"
+    },
+    {
+      "ticker": "CP.TO",
+      "name": "Canadian Pacific Kansas City Limited",
+      "currentPrice": 111.74,
+      "currency": "CAD",
+      "week52Low": 94.6,
+      "week52High": 122.25,
+      "conservativeEstimate": 121.55,
+      "optimisticEstimate": 132.0,
+      "yield": "0.82%",
+      "rating": "Buy",
+      "thesis": "Only Class 1 railway connecting Canada, US, and Mexico \u2014 structural monopoly on tri-national trade. FY2025 record: C$15.1B revenue (+4%), core EPS C$4.61 (+8.8%), industry-best OR of 59.9%. KCS merger synergies at C$1.2B with C$1.4B targeted by end 2026. Guiding low double-digit EPS growth + 5% buyback for 2026. Nearshoring secular tailwind.",
+      "risks": "Trading above historical averages \u2014 best entry C$100-105. Mexico political risk, tariff uncertainty on USMCA trade flows, US$1.2B new debt offering adds leverage.",
+      "researchDate": "2026-03-14",
+      "priceVs52wLow": "+18%",
+      "previousPrice": 110.64,
+      "priceChange": "+1.0%",
+      "lastUpdated": "2026-03-14",
+      "change": 1.1,
+      "changePct": 0.99,
+      "high52": 122.25,
+      "low52": 94.6
     }
   ]
 }
