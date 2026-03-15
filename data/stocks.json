@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-14T06:01:00",
+  "lastUpdated": "2026-03-15T06:01:00",
   "stocks": [
     {
       "ticker": "ENB.TO",
@@ -1828,6 +1828,30 @@
       "changePct": 0.99,
       "high52": 122.25,
       "low52": 94.6
+    },
+    {
+      "ticker": "RY.TO",
+      "name": "Royal Bank of Canada",
+      "currentPrice": 221.47,
+      "currency": "CAD",
+      "week52Low": 151.25,
+      "week52High": 240.34,
+      "conservativeEstimate": 244.58,
+      "optimisticEstimate": 260.0,
+      "yield": "3.0%",
+      "dividendPerShare": 6.56,
+      "rating": "Buy",
+      "thesis": "Canada's #1 bank by market cap (C$309.5B). Record Q1 2026: net income $5.8B (+13% YoY), EPS $4.03 (beat $3.85 est), ROE 17.6%. HSBC Canada acquisition synergies materializing ahead of plan \u2014 cost synergies fully realized by end FY2026. CET1 ratio 13.7% = fortress balance sheet. 150+ years of uninterrupted dividends, 6% hike in Dec 2025. The most dominant financial institution in Canada with diversified revenue across P&C banking, wealth management, capital markets, and insurance. 8% pullback from Jan ATH creates entry window.",
+      "risks": "Not historically cheap \u2014 58% above 5-year avg price. Canadian mortgage renewal wave could increase provisions for credit losses. CUSMA renegotiation uncertainty. Near analyst consensus target with limited surprise upside.",
+      "researchDate": "2026-03-15",
+      "priceVs52wLow": "+46%",
+      "previousPrice": 222.11,
+      "priceChange": "-0.3%",
+      "lastUpdated": "2026-03-15",
+      "change": -0.64,
+      "changePct": -0.29,
+      "high52": 240.34,
+      "low52": 151.25
     }
   ]
 }
