@@ -1,70 +1,19 @@
 {
   "sections": [
     {
-      "title": "Dashboard CRM Sync Check \u2014 PENDING",
-      "status": "info",
-      "tasks": []
-    },
-    {
-      "title": "Technical Fix Needed",
-      "status": "info",
-      "tasks": []
-    },
-    {
-      "title": "Confirmed Travel",
-      "status": "info",
-      "tasks": []
-    },
-    {
-      "title": "High Priority Task for Drew (Today):",
-      "status": "info",
-      "tasks": []
-    },
-    {
-      "title": "HIGH PRIORITY \u2014 Next Week (March 10+):",
-      "status": "info",
-      "tasks": []
-    },
-    {
-      "title": "High Priority Personal Goal for Drew (Today):",
-      "status": "info",
-      "tasks": []
-    },
-    {
-      "title": "In Progress (Freedom):",
-      "status": "info",
-      "tasks": []
-    },
-    {
-      "title": "Waiting:",
-      "status": "info",
-      "tasks": []
-    },
-    {
-      "title": "Completed:",
-      "status": "info",
-      "tasks": []
-    },
-    {
-      "title": "STANDING TASK \u2014 Nmbr Prospect Signal Monitoring",
-      "status": "info",
-      "tasks": []
-    },
-    {
-      "title": "PENDING \u2014 Dashboard Motivation Tab (for Mika/SolveWorks)",
-      "status": "info",
-      "tasks": []
-    },
-    {
-      "title": "IN PROGRESS \u2014 Reply Method Training",
+      "title": "IN PROGRESS",
       "status": "in-progress",
-      "tasks": []
-    },
-    {
-      "title": "PENDING \u2014 Flag to Mika (Dashboard Update)",
-      "status": "info",
-      "tasks": []
+      "tasks": [
+        {
+          "name": "Evening Reflection \u2014 2026-03-15",
+          "notes": [
+            "**Status:** Waiting for Drew's reply to Q1",
+            "**Flow:**",
+            "**Started:** 5:00 PM AT"
+          ]
+        }
+      ]
     }
   ],
-  "updatedAt": "2026-03-15T20:00:01.095624+00:00"
+  "updatedAt": "2026-03-15T21:00:01.066743+00:00"
 }
