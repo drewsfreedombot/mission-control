@@ -4025,6 +4025,142 @@
           ],
           "notes": "Hunter: invalid (personal email not found). LinkedIn only: https://www.linkedin.com/company/antarissoftware \u2014 Canadian fitness vertical SaaS, payroll feature is basic.",
           "id": "nmbr-a04ebe949a27"
+        },
+        {
+          "id": "nmbr-20260315-1",
+          "company": "FieldPulse",
+          "contact": "Gabriel Pinchev",
+          "title": "Founder & CEO",
+          "email": "gabriel@fieldpulse.com",
+          "signal": "Field service management SaaS for HVAC/plumbing/electrical. $79M raised (Series C Aug 2025). Manages scheduling, dispatching, timesheets, CRM for Canadian trades contractors. NO native Canadian payroll \u2014 relies on QuickBooks/Xero export. Active on Capterra Canada. Growing fast post-funding = perfect timing for embedded payroll partnership.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-15",
+          "tags": [
+            "field-service",
+            "trades",
+            "Series-C",
+            "Canadian-clients",
+            "no-payroll"
+          ],
+          "notes": "Hunter: valid/score 100. LinkedIn: linkedin.com/in/gabrielpinchev | fieldpulse.com \u2014 SMU grad. Dallas HQ but strong Canadian contractor base on Capterra. $50M Series C in Aug 2025 = expansion mode. Pitch: Nmbr as embedded Canadian payroll partner for their trades clients."
+        },
+        {
+          "id": "nmbr-20260315-2",
+          "company": "DaySmart Software",
+          "contact": "Jeff Dickerson",
+          "title": "President & CEO",
+          "email": "jeff@daysmart.com",
+          "signal": "Multi-vertical SaaS managing scheduling, POS, and staff for salons, spas, pets, vets, and tattoo businesses. Active on Capterra/GetApp Canada. Canadian pet groomers, vet clinics, and salons all use DaySmart. ZERO embedded payroll \u2014 staff payroll handled completely outside the platform. Multiple verticals = multiplied Canadian payroll opportunity.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-15",
+          "tags": [
+            "salon",
+            "pet-care",
+            "veterinary",
+            "multi-vertical",
+            "Canadian-clients",
+            "no-payroll"
+          ],
+          "notes": "Hunter: valid/score 88. LinkedIn: linkedin.com/in/jeff-dickerson | daysmart.com \u2014 Ann Arbor, MI. Multiple brands: DaySmart Salon, DaySmart Pet, DaySmart Vet. Canadian salon and pet care businesses actively using platform. Pitch: Nmbr as embedded Canadian payroll across all DaySmart verticals."
+        },
+        {
+          "id": "nmbr-20260315-3",
+          "company": "Mangomint",
+          "contact": "Daniel Lang",
+          "title": "Co-Founder & CEO",
+          "email": "daniel@mangomint.com",
+          "signal": "Fast-growing salon/spa SaaS serving US and Canada. Recently launched US payroll via Salsa (June 2025) but Canadian payroll is NOT supported \u2014 confirmed gap. Manages scheduling, payments, staff shifts for Canadian salons. Acquired TheSalonBusiness media site. Active Canadian user base. They KNOW payroll matters (built US version) but need a Canadian payroll partner.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-15",
+          "tags": [
+            "salon-spa",
+            "US-payroll-only",
+            "Canadian-gap",
+            "growing-fast",
+            "hot"
+          ],
+          "notes": "Hunter: valid/score 100. LinkedIn: linkedin.com/in/daniellangnet | mangomint.com \u2014 LA-based. Salsa.dev case study confirms they serve Canada. Built US payroll June 2025 via Salsa partnership \u2014 but Canadian payroll remains a gap. Perfect Nmbr embed: they already understand embedded payroll value, just need the Canadian module."
+        },
+        {
+          "id": "nmbr-20260315-4",
+          "company": "Housecall Pro",
+          "contact": "Mike Beaudoin",
+          "title": "CEO",
+          "email": "mike.beaudoin@housecallpro.com",
+          "signal": "Leading home service SaaS for HVAC, plumbing, electrical, cleaning. Thousands of Canadian contractors. Has US payroll (via Gusto partnership) but Gusto Canadian payroll is limited/expensive ($699/employee as of March 2026). Canadian contractors on Housecall Pro need compliant, affordable payroll. Nmbr = the embedded Canadian payroll to replace the Gusto gap.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-15",
+          "tags": [
+            "home-service",
+            "trades",
+            "Canadian-clients",
+            "Gusto-dependent",
+            "US-payroll-only"
+          ],
+          "notes": "Hunter: accept_all/score 71 \u2014 unverified, use with caution. LinkedIn: linkedin.com/company/housecallpro | housecallpro.com \u2014 Founded by Ian Heidt. Mike Beaudoin is current CEO per NVC portfolio. $125M+ raised. Gusto partnership for US payroll confirmed. Gusto Global pricing jumping to $699/employee March 2026 = cost pressure on Canadian users. Pitch: Nmbr as purpose-built Canadian payroll at fraction of Gusto Global cost."
+        },
+        {
+          "id": "nmbr-20260315-5",
+          "company": "Zenoti",
+          "contact": "Sudheer Koneru",
+          "title": "Co-Founder & CEO",
+          "email": "sudheer@zenoti.com",
+          "signal": "Enterprise salon/spa/med-spa SaaS ($91M+ raised). Serves multi-location spa chains, med-spas, and wellness brands globally including major Canadian chains. Has scheduling, POS, staff management, AI receptionist \u2014 but NO native Canadian payroll. Enterprise Canadian spa chains on Zenoti process payroll through ADP/Ceridian separately. Nmbr = embedded Canadian payroll for Zenoti\u2019s enterprise spa/med-spa clients.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-15",
+          "tags": [
+            "salon-spa",
+            "med-spa",
+            "enterprise",
+            "Canadian-clients",
+            "no-Canadian-payroll",
+            "AI"
+          ],
+          "notes": "Hunter: valid/score 100. LinkedIn: linkedin.com/in/sudheerkoneru | zenoti.com \u2014 Ex-Microsoft director. Bellevue, WA. $91M+ raised. Enterprise-grade = longer sales cycle but high-value if landed. Canadian multi-location spa chains are underserved for payroll. Pitch: Nmbr as white-label Canadian payroll inside Zenoti for enterprise clients."
+        },
+        {
+          "id": "nmbr-20260315-6",
+          "company": "Kickserv",
+          "contact": "Todd Eccles",
+          "title": "Founder",
+          "email": "todd@kickserv.com",
+          "signal": "Field service management SaaS for home service businesses (plumbing, HVAC, electrical, cleaning). 25+ year old company. Manages scheduling, dispatching, invoicing, time tracking. Canadian contractors are active users (Capterra Canada). Integrates with QuickBooks for payroll export but has ZERO native Canadian payroll. Bootstrapped/profitable = fast partnership decisions.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-15",
+          "tags": [
+            "field-service",
+            "trades",
+            "Canadian-clients",
+            "bootstrapped",
+            "no-payroll"
+          ],
+          "notes": "Hunter: valid/score 100. LinkedIn: kickserv.com \u2014 Todd Eccles founded from family plumbing business. 25+ years in market. Profitable, bootstrapped. QuickBooks is only payroll path. Canadian tradespeople = complex payroll (provincial rules, overtime, T4s). Pitch: Nmbr as embedded Canadian payroll so contractors stop manually exporting to QuickBooks."
+        },
+        {
+          "id": "nmbr-20260315-7",
+          "company": "Payaca",
+          "contact": "Matt Franklin",
+          "title": "CEO",
+          "email": "matt@payaca.com",
+          "signal": "UK-based field service SaaS for clean tech installers (solar, heat pumps, EV chargers, batteries). Active US expansion (payaca.com/us). Manages job scheduling, quoting, project management, time tracking for field crews. NO payroll module. Canadian clean tech sector is booming \u2014 federal rebates driving massive installer growth. As Payaca expands to North America, Canadian clean tech installers need compliant payroll. Nmbr = the embedded Canadian payroll for their NA expansion.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-15",
+          "tags": [
+            "clean-tech",
+            "solar",
+            "heat-pump",
+            "UK-platform",
+            "NA-expansion",
+            "no-payroll"
+          ],
+          "notes": "Hunter: valid/score 100. LinkedIn: linkedin.com/company/payaca | payaca.com \u2014 Matt Franklin CEO. UK-based, actively expanding to US/NA. New CTO Matt Bessey hired. Clean tech vertical is underserved for embedded payroll. Canadian solar/heat pump installers growing rapidly with government incentives. Pitch: Nmbr as the embedded Canadian payroll partner for Payaca\u2019s North American expansion."
         }
       ]
     },
@@ -5326,6 +5462,97 @@
             "HighTicketCoach",
             "CourseCreator",
             "Canadian"
+          ]
+        },
+        {
+          "id": "charlie-prospects-20260315-f315f663",
+          "company": "Pause Breathwork",
+          "contact": "Samantha Skelly",
+          "title": "Founder & CEO",
+          "email": "samantha@pausebreathwork.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "Actively hiring high-ticket appointment setter (-45K/yr) for coaching programs \u2014 posted March 2026",
+          "notes": "Hunter: valid/100",
+          "added": "2026-03-15",
+          "tags": [
+            "Breathwork",
+            "Coaching",
+            "HiringSetters"
+          ]
+        },
+        {
+          "id": "charlie-prospects-20260315-9d5db2f7",
+          "company": "High Ticket Society",
+          "contact": "Romit Jethwaney",
+          "title": "Founder",
+          "email": "connect@romitjethwaney.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "DFY funnel automation for coaches - teaches client conversion on automation. Perfect Charlie buyer - his clients need AI setter.",
+          "notes": "Hunter: valid/88",
+          "added": "2026-03-15",
+          "tags": [
+            "CoachAutomation",
+            "HighTicket",
+            "DFY"
+          ]
+        },
+        {
+          "id": "charlie-prospects-20260315-93b0651d",
+          "company": "First Choice Coaching",
+          "contact": "Michael Kitka",
+          "title": "Founder",
+          "email": "michael@michaelkitka.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "Actively teaching high-ticket coaching in 2026 - YouTube content on starting coaching business. Uses application funnel - Charlie can handle inbound.",
+          "notes": "Hunter: valid/92",
+          "added": "2026-03-15",
+          "tags": [
+            "HighTicket",
+            "CourseCreator",
+            "Coaching"
+          ]
+        },
+        {
+          "id": "charlie-prospects-20260315-478990a3",
+          "company": "Alchemy of Breath",
+          "contact": "Anthony Abbagnano",
+          "title": "Founder",
+          "email": "anthony@alchemyofbreath.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "High-ticket breathwork facilitator training - certifying 1000+ practitioners globally. Uses free consultation funnels - Charlie handles inbound booking.",
+          "notes": "Hunter: valid/100",
+          "added": "2026-03-15",
+          "tags": [
+            "Breathwork",
+            "Certification",
+            "HighTicket"
+          ]
+        },
+        {
+          "id": "charlie-prospects-20260315-ea048006",
+          "company": "SOMA Breath",
+          "contact": "Niraj Naik",
+          "title": "Founder & CEO",
+          "email": "niraj@somabreath.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "1700+ certified instructors, Mindvalley partnership. High-ticket certification with free consultation funnel - perfect Charlie use case.",
+          "notes": "Hunter: valid/100",
+          "added": "2026-03-15",
+          "tags": [
+            "Breathwork",
+            "Certification",
+            "HighTicket",
+            "Mindvalley"
           ]
         }
       ]
@@ -7138,9 +7365,135 @@
             "CoachFocused",
             "IntegrationPartner"
           ]
+        },
+        {
+          "id": "charlie-partners-20260315-e46ac9db",
+          "company": "The Moonlighters",
+          "contact": "Sam Piliero",
+          "title": "Founder & CEO",
+          "email": "sam@themoonlighters.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "FB/Google ad agency scaling 7-8 fig ecom/coaching brands. 115+ team. Clients generate tons of inbound leads needing setter follow-up.",
+          "notes": "Hunter: valid/91. Ex-VaynerMedia. Inc 5000.",
+          "added": "2026-03-15",
+          "tags": [
+            "AdAgency",
+            "CoachingClients",
+            "Referral"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260315-8e11015a",
+          "company": "Setter AI",
+          "contact": "Josef B\u00fcttgen",
+          "title": "Co-Founder",
+          "email": "josef@trysetter.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "Direct AI setter competitor - responds to leads within 10 seconds. Co-opetition/partnership angle - their clients may need Charlie's conversational depth.",
+          "notes": "Hunter: valid/100",
+          "added": "2026-03-15",
+          "tags": [
+            "AICompetitor",
+            "Partnership",
+            "SetterTech"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260315-72c3650b",
+          "company": "Simply.Coach",
+          "contact": "Kiran Narasareddy",
+          "title": "Founder",
+          "email": "kiran@simply.coach",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "End-to-end coaching platform with scheduling & program building. 3300+ LinkedIn followers. Integration partner - Charlie can plug into their coach clients.",
+          "notes": "Hunter: valid/91",
+          "added": "2026-03-15",
+          "tags": [
+            "CoachPlatform",
+            "Integration",
+            "Partnership"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260315-2514aab4",
+          "company": "FlashHub",
+          "contact": "Manuel Pistner",
+          "title": "Founder & CEO",
+          "email": "manuel@flashhub.io",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "AI-powered sales funnel builder for coaches/consultants. Spent \u20ac1M+ on ads, generated \u20ac13.4M revenue. Their coaching clients need AI setter for lead follow-up.",
+          "notes": "Hunter: valid/100. German company.",
+          "added": "2026-03-15",
+          "tags": [
+            "AIFunnels",
+            "CoachingClients",
+            "Referral"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260315-f0c2e510",
+          "company": "Maja Koenig Consulting",
+          "contact": "Maja Koenig",
+          "title": "Founder & CEO",
+          "email": "maja@majakoenig.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "Paid ads + organic marketing coaching for businesses. 200+ companies scaled. Clients running FB/IG ads generating leads that need AI setter follow-up.",
+          "notes": "Hunter: accept_all/73 - use with caution",
+          "added": "2026-03-15",
+          "tags": [
+            "MarketingCoach",
+            "PaidAds",
+            "Referral"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260315-674af095",
+          "company": "Cleverly",
+          "contact": "Midori Verity",
+          "title": "CEO",
+          "email": "info@cleverly.co",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "LinkedIn lead gen agency serving coaches/consultants. Generated K in high-ticket sales for coaching clients. Their clients need AI setter for lead follow-up.",
+          "notes": "Hunter: valid/100. General inbox - find personal email via LinkedIn.",
+          "added": "2026-03-15",
+          "tags": [
+            "LinkedInAgency",
+            "CoachingClients",
+            "Referral"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260315-b8a10613",
+          "company": "Mighty Networks",
+          "contact": "Gina Bianchini",
+          "title": "CEO & Co-Founder",
+          "email": "gina@mightynetworks.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "Community platform for coaches/course creators. M earned by customers in 2025. Their coaching customers are ideal Charlie buyers running high-ticket programs.",
+          "notes": "Hunter: valid/100. A16Z-backed. Enterprise play.",
+          "added": "2026-03-15",
+          "tags": [
+            "CoachPlatform",
+            "Enterprise",
+            "Partnership"
+          ]
         }
       ]
     }
   ],
-  "updated": "2026-03-14T11:37:47.109156+00:00"
+  "updated": "2026-03-15T11:36:13.024083+00:00"
 }
