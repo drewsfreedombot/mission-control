@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-15T06:01:00",
+  "lastUpdated": "2026-03-16T09:06:11",
   "stocks": [
     {
       "ticker": "ENB.TO",
@@ -1852,6 +1852,27 @@
       "changePct": -0.29,
       "high52": 240.34,
       "low52": 151.25
+    },
+    {
+      "ticker": "PBH.TO",
+      "name": "Premium Brands Holdings Corp.",
+      "currentPrice": 93.66,
+      "currency": "CAD",
+      "week52Low": 72.57,
+      "week52High": 106.79,
+      "conservativeEstimate": 121.64,
+      "optimisticEstimate": 160.0,
+      "yield": "3.55%",
+      "dividendPerShare": 3.4,
+      "rating": "Buy",
+      "thesis": "Boring specialty food compounder (sandwiches, deli meats, beef jerky) founded 1917. Pulled back 12% from Feb high \u2014 Q4 2025 earnings March 19 is the catalyst. US$688M US protein acquisition closed Jan 2026. Revenue C$6.47B (+3.4%), 10+ years consecutive dividend growth, beta 0.12. Analyst avg target C$121.64 = 30% upside. TD Securities target C$160.",
+      "risks": "GAAP P/E 72x inflated by acquisition amortization. Debt/equity 163%. Q4 earnings (Mar 19) could miss and extend pullback. Payout ratio elevated on GAAP basis.",
+      "researchDate": "2026-03-16",
+      "priceVs52wLow": "+29%",
+      "previousPrice": 92.63,
+      "lastUpdated": "2026-03-16",
+      "high52": 106.79,
+      "low52": 72.57
     }
   ]
 }
