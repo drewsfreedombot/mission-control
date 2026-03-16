@@ -4161,6 +4161,133 @@
             "no-payroll"
           ],
           "notes": "Hunter: valid/score 100. LinkedIn: linkedin.com/company/payaca | payaca.com \u2014 Matt Franklin CEO. UK-based, actively expanding to US/NA. New CTO Matt Bessey hired. Clean tech vertical is underserved for embedded payroll. Canadian solar/heat pump installers growing rapidly with government incentives. Pitch: Nmbr as the embedded Canadian payroll partner for Payaca\u2019s North American expansion."
+        },
+        {
+          "id": "nmbr-20260316-1",
+          "company": "Haletale",
+          "contact": "Anash Parayil",
+          "title": "Co-Founder & CEO",
+          "email": "anash@haletale.com",
+          "signal": "Canadian property management SaaS (Toronto) \u2014 manages tenants, leases, staff schedules, maintenance. No payroll feature. White-label platform serving property managers = natural embed partner for payroll.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-16",
+          "tags": [
+            "Canadian",
+            "Property Management",
+            "SaaS",
+            "Toronto"
+          ],
+          "notes": "Hunter: valid/score 100. LinkedIn: https://ca.linkedin.com/in/anashwar-parayil"
+        },
+        {
+          "id": "nmbr-20260316-2",
+          "company": "MaxAssist",
+          "contact": "Jeff Barsotti",
+          "title": "CEO",
+          "email": "jeff.barsotti@getmaxassist.com",
+          "signal": "Canadian dental practice productivity SaaS (Calgary) \u2014 automates scheduling, staff task management, practice ops for dental clinics. No payroll. 250+ years combined dental industry exp. Dental clinics have complex shift workers + hygienists needing payroll.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-16",
+          "tags": [
+            "Canadian",
+            "Dental",
+            "SaaS",
+            "Calgary"
+          ],
+          "notes": "Hunter: valid/score 90. LinkedIn: https://www.linkedin.com/in/jeff-barsotti-851a9746/"
+        },
+        {
+          "id": "nmbr-20260316-3",
+          "company": "PunchTime",
+          "contact": "Christian Desjardins",
+          "title": "Founder & CEO",
+          "email": "",
+          "signal": "Ottawa-based time tracking SaaS \u2014 $595K revenue, 4-person team. Tracks employee hours + location for construction/field workers. Integrates w/ payroll systems but doesn't offer payroll. Natural embed play \u2014 their users already need payroll downstream.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-16",
+          "tags": [
+            "Canadian",
+            "Time Tracking",
+            "Ottawa",
+            "Construction"
+          ],
+          "notes": "Hunter: invalid (email unverified). LinkedIn only: search 'Christian Desjardins PunchTime Ottawa'. Source: CBC, Crunchbase, GetLatka."
+        },
+        {
+          "id": "nmbr-20260316-4",
+          "company": "Mint Ops",
+          "contact": "Alex Zlatin",
+          "title": "CEO",
+          "email": "alex@mintops.ca",
+          "signal": "Canadian dental business ecosystem (consulting + MaxiDent software + staffing). Just launched 5th division (Transition Consulting) in Jan 2026. Manages dental clinic ops \u2014 staffing, scheduling, billing. No payroll = Nmbr opportunity for their clinic clients.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-16",
+          "tags": [
+            "Canadian",
+            "Dental",
+            "SaaS",
+            "Consulting"
+          ],
+          "notes": "Hunter: valid/score 90. LinkedIn: https://www.linkedin.com/in/zlatinalex/. GlobeNewsWire Jan 2026 press release."
+        },
+        {
+          "id": "nmbr-20260316-5",
+          "company": "Mi Property Portal",
+          "contact": "Jahangir Alam",
+          "title": "Founder",
+          "email": "",
+          "signal": "Canadian property management SaaS (Toronto) \u2014 affordable PM software for residential landlords. Manages tenants, leases, maintenance, financials. No payroll. Growing Canadian landlord/PM base = payroll embed opportunity.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-16",
+          "tags": [
+            "Canadian",
+            "Property Management",
+            "Toronto",
+            "SaaS"
+          ],
+          "notes": "Hunter: timeout (unverified). LinkedIn only: https://www.linkedin.com/in/jahangiralam1/. Capterra reviewed."
+        },
+        {
+          "id": "nmbr-20260316-6",
+          "company": "TeamLinkt",
+          "contact": "Jay Maharaj",
+          "title": "Founder & CEO",
+          "email": "jay@teamlinkt.com",
+          "signal": "Saskatoon-based recreation/sports management SaaS \u2014 $8.3M Series A (Aug 2025). 3,500+ programs globally. Manages scheduling, registration, staff for parks & rec and sports orgs. No payroll. Massive Canadian municipal/recreation client base needs staff payroll.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-16",
+          "tags": [
+            "Canadian",
+            "Recreation",
+            "Saskatoon",
+            "Series A",
+            "SaaS"
+          ],
+          "notes": "Hunter: valid/score 100. LinkedIn: search 'Jay Maharaj TeamLinkt'. BetaKit Aug 2025 funding announcement. 20 employees."
+        },
+        {
+          "id": "nmbr-20260316-7",
+          "company": "Workzoom",
+          "contact": "Linda Woolley",
+          "title": "Founder, CEO & President",
+          "email": "",
+          "signal": "Toronto-based HR/Talent/Workforce/Payroll SaaS \u2014 BUT they outsource/grey-label their payroll engine. Founded 1974. Competitor-turned-partner angle: Workzoom has all-in-one HCM but may need a stronger Canadian payroll engine under the hood. Embed/white-label opportunity.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-16",
+          "tags": [
+            "Canadian",
+            "HCM",
+            "Toronto",
+            "Partnership"
+          ],
+          "notes": "Hunter: personal email invalid. Use info@workzoom.com (valid/score 100) or LinkedIn: https://ca.linkedin.com/in/lwoolley. Crunchbase: Toronto, 11-50 employees."
         }
       ]
     },
