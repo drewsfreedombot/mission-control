@@ -7799,9 +7799,70 @@
             "scaling",
             "referral-partner"
           ]
+        },
+        {
+          "id": "charlie-partners-20260316-fcf0e372",
+          "company": "Startemup Marketing Solutions",
+          "contact": "Emily Bassett",
+          "title": "CEO/Founder",
+          "email": "hello@startemup.ca",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Scout AI",
+          "signal": "Canadian agency in Pickering, ON serving coaches and startups with Meta ads, email marketing and branding. Featured on CanadianSME podcast. 75+ clients globally. Perfect reseller partner for Charlie AI.",
+          "notes": "Hunter: valid, score 100. hello@startemup.ca is general inbox but verified. Team of 6+. Affordable rates targeting startups/SMBs.",
+          "added": "2026-03-16",
+          "tags": [
+            "Canadian",
+            "Meta-Ads",
+            "Coaching-Clients",
+            "Agency",
+            "Ontario"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260316-b9f14600",
+          "company": "Ollo Metrics",
+          "contact": "Warren Thompson",
+          "title": "Co-Founder & Managing Director",
+          "email": "warren@ollometrics.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Scout AI",
+          "signal": "Vancouver-based certified Meta Agency Partner since 2018. Specializes in Facebook/Instagram ads, SEO, and lead gen. Warren is also a keynote speaker and digital marketing educator. Ideal partner to resell Charlie AI to their ad clients who need appointment setting.",
+          "notes": "Hunter: valid, score 100. warren@ollometrics.com verified. Also teaches at BrainStation and Jelly Academy. Co-founded with Charles (analytics background).",
+          "added": "2026-03-16",
+          "tags": [
+            "Canadian",
+            "Meta-Partner",
+            "Facebook-Ads",
+            "Lead-Gen",
+            "Vancouver",
+            "BC"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260316-5ef3cd87",
+          "company": "Hop Skip Marketing",
+          "contact": "Tania Stadnik",
+          "title": "Principal/Co-Founder",
+          "email": "inquire@hopskipmarketing.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Scout AI",
+          "signal": "Toronto/Oakville B2B marketing agency handling social media, email marketing, lead gen and cold calling for clients. On Clutch with 5 reviews. Co-founded with Liz Teodorini. Tania is also VP Marketing Hall of Legends at AMA Toronto \u2014 strong network in Canadian marketing community.",
+          "notes": "Hunter: valid, score 52. inquire@hopskipmarketing.com is general inbox. Crunchbase: phone 416-457-7718. B2B focus with outsourced marketing model aligns well with Charlie reseller.",
+          "added": "2026-03-16",
+          "tags": [
+            "Canadian",
+            "B2B-Marketing",
+            "Lead-Gen",
+            "Toronto",
+            "Ontario"
+          ]
         }
       ]
     }
   ],
-  "updated": "2026-03-16T11:37:04.069732+00:00"
+  "updated": "2026-03-16T12:08:18.817196+00:00"
 }
