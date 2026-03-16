@@ -5681,6 +5681,42 @@
             "HighTicket",
             "Mindvalley"
           ]
+        },
+        {
+          "id": "charlie-prospects-20260316-caa509d9",
+          "company": "Brandon D'Eon Music",
+          "contact": "Brandon D'Eon",
+          "title": "CEO, 52 Week Guitar Player",
+          "email": "brandon@brandondeonmusic.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "Online guitar education platform with 1M+ followers. Hiring appointment setter right now on DynamiteJobs. Running cohort-based high-ticket course (100 students/cohort). Active setter pain.",
+          "notes": "Email unverified (timeout)",
+          "added": "2026-03-16",
+          "tags": [
+            "course-creator",
+            "high-ticket",
+            "actively-hiring-setter"
+          ]
+        },
+        {
+          "id": "charlie-prospects-20260316-d46e8540",
+          "company": "Kevin Yee / Kaizen Closing",
+          "contact": "Kevin Yee",
+          "title": "Founder",
+          "email": "",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "High ticket sales advisory helping creators monetize. Was Head of Sales for Ali Abdaal closing $130K in 2 weeks. Teaches setters/closers. Could use Charlie for his own client pipeline.",
+          "notes": "LinkedIn only - no verified email. NOTE: Kaizen Closing is a dupe but this entry targets Kevin Yee as direct prospect, not partner.",
+          "added": "2026-03-16",
+          "tags": [
+            "sales-training",
+            "creator-economy",
+            "high-ticket"
+          ]
         }
       ]
     },
@@ -7618,9 +7654,154 @@
             "Enterprise",
             "Partnership"
           ]
+        },
+        {
+          "id": "charlie-partners-20260316-459d1d72",
+          "company": "Fearless Business",
+          "contact": "Robin Waite",
+          "title": "Founder & Business Coach",
+          "email": "robin@fearless.biz",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "Runs coaching community for coaches/consultants/freelancers. Publishes content on getting coaching clients via Facebook. Teaches client acquisition - natural referral partner for AI setter.",
+          "notes": "Hunter: valid/100",
+          "added": "2026-03-16",
+          "tags": [
+            "coaching-community",
+            "UK-based",
+            "referral-partner"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260316-f7c8ced6",
+          "company": "Profit From Coaching",
+          "contact": "DJ Sobanjo",
+          "title": "Founder & CEO",
+          "email": "dj@profitfromcoaching.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "Coaches coaches on client acquisition. 300+ hrs training content on Kajabi. Podcast on coaching business growth. His clients are exactly Charlie's target buyers.",
+          "notes": "Hunter: valid/90",
+          "added": "2026-03-16",
+          "tags": [
+            "coaching-mentor",
+            "UK-based",
+            "referral-partner"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260316-617469f1",
+          "company": "Carroll Media",
+          "contact": "Jimmy Carroll",
+          "title": "CEO",
+          "email": "",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "Built Alli AI for lead response automation. Publishing speed-to-lead content. Competitor but potential integration/referral partner - their clients need setter capability Charlie provides.",
+          "notes": "LinkedIn only - email undeliverable",
+          "added": "2026-03-16",
+          "tags": [
+            "AI-lead-response",
+            "competitor-adjacent",
+            "partner-potential"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260316-0eed27c7",
+          "company": "High Profit Coaching",
+          "contact": "Co-Founder",
+          "title": "Co-Founder",
+          "email": "",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "India-based performance marketing and funnel agency specifically for coaches and course creators. Builds funnels and runs Meta ads for coaching businesses. Their clients are direct Charlie buyers.",
+          "notes": "LinkedIn only - no valid email found",
+          "added": "2026-03-16",
+          "tags": [
+            "funnel-agency",
+            "coaching-clients",
+            "India",
+            "referral-partner"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260316-c4862332",
+          "company": "OBM School",
+          "contact": "Sarah Noked",
+          "title": "Founder",
+          "email": "sarah@sarahnoked.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "Trains and accredits Online Business Managers who serve coaches. Her OBM graduates manage coaching businesses - natural referral channel. Active on LinkedIn and YouTube.",
+          "notes": "Hunter: valid/90",
+          "added": "2026-03-16",
+          "tags": [
+            "OBM-training",
+            "coaching-ecosystem",
+            "referral-partner"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260316-d8d9bf80",
+          "company": "Lovely Impact",
+          "contact": "Cass & Tee",
+          "title": "Co-Founders",
+          "email": "",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "Website template shop and branding agency exclusively for coaches. Write extensively about coaching funnels, high-ticket offers, and client acquisition. Deep audience of coaches needing lead tools.",
+          "notes": "LinkedIn only - no valid email found",
+          "added": "2026-03-16",
+          "tags": [
+            "coaching-websites",
+            "branding",
+            "referral-partner"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260316-f26d57a8",
+          "company": "DemandNexus",
+          "contact": "Team",
+          "title": "Leadership",
+          "email": "",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "B2B appointment setting service with Waterfall BANT model. Claims 90%+ qualified appointments at 3X conversion. Their methodology aligns with Charlie's value prop - potential integration partner.",
+          "notes": "LinkedIn only - no valid email",
+          "added": "2026-03-16",
+          "tags": [
+            "appointment-setting",
+            "B2B",
+            "integration-partner"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260316-56e9287a",
+          "company": "Superscaling",
+          "contact": "Alvin Poh",
+          "title": "Founder",
+          "email": "",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "Exited at $30M, now coaches 2000+ entrepreneurs on scaling. Instagram 16K+ followers. Fitness x Business brand. His audience of scaling founders are prime Charlie buyers.",
+          "notes": "LinkedIn only - email invalid at superscaling.com",
+          "added": "2026-03-16",
+          "tags": [
+            "business-coaching",
+            "scaling",
+            "referral-partner"
+          ]
         }
       ]
     }
   ],
-  "updated": "2026-03-15T11:36:13.024083+00:00"
+  "updated": "2026-03-16T11:37:04.069732+00:00"
 }
