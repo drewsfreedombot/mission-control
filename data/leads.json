@@ -4288,6 +4288,66 @@
             "Partnership"
           ],
           "notes": "Hunter: personal email invalid. Use info@workzoom.com (valid/score 100) or LinkedIn: https://ca.linkedin.com/in/lwoolley. Crunchbase: Toronto, 11-50 employees."
+        },
+        {
+          "id": "nmbr-20260317-880fb95e",
+          "company": "TimeWellScheduled",
+          "contact": "Mark Kempe",
+          "title": "CEO",
+          "email": "mark@timewellscheduled.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Scout AI",
+          "signal": "Canadian scheduling/time-tracking SaaS serving 300+ retail stores (incl. major hardware chain). No native payroll - exports timesheets to external payroll providers. Perfect embedded payroll partner.",
+          "notes": "Hunter: valid/score 50. Based in Canada. 10 employees. Serves restaurants, retail, QSR. Uses payroll integrations not native payroll.",
+          "added": "2026-03-17",
+          "tags": [
+            "Canadian",
+            "Scheduling",
+            "Retail",
+            "SMB",
+            "NoPayroll"
+          ]
+        },
+        {
+          "id": "nmbr-20260317-bf5fb50b",
+          "company": "Kudos",
+          "contact": "Muni Boga",
+          "title": "Founder, President & CEO",
+          "email": "muni.boga@kudos.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Scout AI",
+          "signal": "Calgary-based employee recognition platform (51-100 employees). Backed by Canadian Business Growth Fund. Named Canada's Most Admired CEO. Has HR integrations but no payroll - natural platform expansion opportunity.",
+          "notes": "Hunter: valid/score 100. Calgary, AB. Backed by CBGF. Deep HR integration ecosystem but missing payroll.",
+          "added": "2026-03-17",
+          "tags": [
+            "Canadian",
+            "EmployeeEngagement",
+            "HR",
+            "Calgary",
+            "NoPayroll"
+          ]
+        },
+        {
+          "id": "nmbr-20260317-82e15b71",
+          "company": "Forma.ai",
+          "contact": "Nabeil Alazzam",
+          "title": "Founder & CEO",
+          "email": "nabeil@forma.ai",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Scout AI",
+          "signal": "Toronto-based sales compensation management platform ($30M+ revenue). Manages commissions/comp for enterprise sales teams but has no payroll processing. Natural add-on to embed payroll alongside commission payouts for Canadian clients.",
+          "notes": "Hunter: valid/score 88. Toronto, ON. ~$30M rev. Backed by ACME Capital, Crosslink, xFund. Sales comp + payroll is natural bundle.",
+          "added": "2026-03-17",
+          "tags": [
+            "Canadian",
+            "SalesComp",
+            "Enterprise",
+            "Toronto",
+            "NoPayroll"
+          ]
         }
       ]
     },
@@ -8049,5 +8109,5 @@
       ]
     }
   ],
-  "updated": "2026-03-17T11:35:02.219493+00:00"
+  "updated": "2026-03-17T12:10:46.779698+00:00"
 }
