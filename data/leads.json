@@ -5832,6 +5832,103 @@
             "high-ticket",
             "coaches"
           ]
+        },
+        {
+          "id": "charlie-prospects-20260317-b0bd1853",
+          "company": "Keyspire",
+          "contact": "Michael Sarracini",
+          "title": "CEO & Co-Founder",
+          "email": "michaels@keyspire.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Scout AI",
+          "signal": "High-ticket real estate coaching, book-a-call model, Canadian HQ in Cambridge ON, Signature Mastermind program requires enrollment calls",
+          "notes": "Hunter: valid/92. Co-founded with Scott McGillivray (HGTV star). 10+ years operating, Canadian + US HQ. Enrollment-call dependent business model \u2014 perfect Charlie fit.",
+          "added": "2026-03-17",
+          "tags": [
+            "RealEstate",
+            "Coaching",
+            "HighTicket",
+            "Canadian",
+            "Cambridge"
+          ]
+        },
+        {
+          "id": "charlie-prospects-20260317-b42cdd12",
+          "company": "Kelsey Reidl Coaching",
+          "contact": "Kelsey Reidl",
+          "title": "Founder & Business Coach",
+          "email": "hello@kelseyreidl.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Scout AI",
+          "signal": "Toronto-based high-ticket private 1:1 coaching and Visionary Method group program, appointment-based sales model, actively promoting 'book a call' on website",
+          "notes": "Hunter: valid/100. Runs Visionary Inc. Private coaching + 90-day accelerator. Teaches at Toronto Metropolitan University. Consultation-dependent model.",
+          "added": "2026-03-17",
+          "tags": [
+            "BusinessCoach",
+            "HighTicket",
+            "Canadian",
+            "Toronto"
+          ]
+        },
+        {
+          "id": "charlie-prospects-20260317-f8d435c2",
+          "company": "March Management",
+          "contact": "Stefanie Ince",
+          "title": "Founder & Executive Coach",
+          "email": "stefanie@marchmanagement.ca",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Scout AI",
+          "signal": "Toronto-based ICF-certified leadership coaching firm, offers 'book a consultation' model, personalized executive coaching programs for career leaders",
+          "notes": "Hunter: valid/100. ICF certified. Consultation-based sales model \u2014 books strategy calls. Growing coaching practice in Toronto.",
+          "added": "2026-03-17",
+          "tags": [
+            "ExecutiveCoach",
+            "Leadership",
+            "Canadian",
+            "Toronto"
+          ]
+        },
+        {
+          "id": "charlie-prospects-20260317-47a72adb",
+          "company": "Bruce Mayhew Consulting",
+          "contact": "Bruce Mayhew",
+          "title": "Founder & Executive Coach",
+          "email": "bruce@brucemayhewconsulting.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Scout AI",
+          "signal": "Toronto-based executive and millennial coaching specialist, consultation-dependent model, actively promotes phone number and email for bookings",
+          "notes": "Hunter: valid/100. Executive + Millennial coaching specialty. Direct contact available. Appointment-based model.",
+          "added": "2026-03-17",
+          "tags": [
+            "ExecutiveCoach",
+            "Leadership",
+            "Canadian",
+            "Toronto"
+          ]
+        },
+        {
+          "id": "charlie-prospects-20260317-aaf789f3",
+          "company": "Karie Miller Executive Coaching",
+          "contact": "Karie Miller",
+          "title": "Founder & Executive Coach",
+          "email": "karie@kariemiller.ca",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Scout AI",
+          "signal": "GTA and Vancouver executive coaching practice, 1:1 and team coaching programs, consultation-based sales model with 'Begin Here' funnel on site",
+          "notes": "Hunter: valid/100. Covers Toronto, Oakville, Vancouver. Offers leadership development, strategic coaching. Appointment-dependent model.",
+          "added": "2026-03-17",
+          "tags": [
+            "ExecutiveCoach",
+            "Leadership",
+            "Canadian",
+            "Toronto",
+            "Vancouver"
+          ]
         }
       ]
     },
@@ -8109,5 +8206,5 @@
       ]
     }
   ],
-  "updated": "2026-03-17T12:10:46.779698+00:00"
+  "updated": "2026-03-17T18:06:01.319919+00:00"
 }
