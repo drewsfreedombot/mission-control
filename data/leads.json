@@ -5717,6 +5717,61 @@
             "creator-economy",
             "high-ticket"
           ]
+        },
+        {
+          "id": "charlie-prospects-20260317-cf282051",
+          "company": "High Ticket Coaching Academy",
+          "contact": "Lucy Johnson",
+          "title": "Founder",
+          "email": "",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "Helps coaches get high-paying clients without social media posting \u2014 808 LinkedIn followers, actively coaching coaches on client acquisition, ideal Charlie buyer",
+          "notes": "Email invalid \u2014 LinkedIn only",
+          "added": "2026-03-17",
+          "tags": [
+            "coaching-coaching",
+            "high-ticket",
+            "client-acquisition"
+          ]
+        },
+        {
+          "id": "charlie-prospects-20260317-6943c3ed",
+          "company": "High Ticket Empress",
+          "contact": "Tara Mullarkey",
+          "title": "CEO & Founder",
+          "email": "hello@highticketempress.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "7-figure coach, bestselling author, ClickFunnels 2 Comma Club \u2014 runs FB ad funnels for high-ticket coaching, has sales team needs. Active setter hiring signals.",
+          "notes": "Hunter: valid/92",
+          "added": "2026-03-17",
+          "tags": [
+            "high-ticket",
+            "coaching",
+            "funnels",
+            "scaling"
+          ]
+        },
+        {
+          "id": "charlie-prospects-20260317-9e08da4f",
+          "company": "High Ticket Sales Success",
+          "contact": "Jennifer Diepstraten",
+          "title": "CEO & Founder",
+          "email": "jennifer@highticketsalessuccess.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "Sales coach for coaches \u2014 20 yrs experience, 2K+ LinkedIn followers, teaches premium service businesses to close high-ticket. Her clients ARE Charlie's target market.",
+          "notes": "Hunter: valid/100",
+          "added": "2026-03-17",
+          "tags": [
+            "sales-coaching",
+            "high-ticket",
+            "coaches"
+          ]
         }
       ]
     },
@@ -7860,9 +7915,139 @@
             "Toronto",
             "Ontario"
           ]
+        },
+        {
+          "id": "charlie-partners-20260317-6a3f8c75",
+          "company": "Closers Cult",
+          "contact": "Orlando Santucci",
+          "title": "Founder",
+          "email": "orlando@closerscult.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "Setter/closer placement agency for high-ticket coaching \u2014 trains and places setters into coaching businesses, active pipeline of business owners paying 5K-20K/mo for closers",
+          "notes": "Hunter: valid/88",
+          "added": "2026-03-17",
+          "tags": [
+            "setter-placement",
+            "high-ticket",
+            "sales-training"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260317-c4e28a76",
+          "company": "Digital Voltage Media",
+          "contact": "Nuno Tavares",
+          "title": "Founder",
+          "email": "nuno@automatedmarketer.net",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "Published article on starting AI appointment setting agency with GHL in 2026 \u2014 teaches agencies to use AI for appointment setting, perfect referral partner for Charlie",
+          "notes": "Hunter: valid/91 (automatedmarketer.net)",
+          "added": "2026-03-17",
+          "tags": [
+            "GHL",
+            "automation",
+            "agency",
+            "appointment-setting"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260317-05e232a2",
+          "company": "Entrepreneurs HQ",
+          "contact": "Liam Austin",
+          "title": "Co-Founder",
+          "email": "liam@entrepreneurshq.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "Business mentor for coaches \u2014 teaches authority building, high-ticket offers, and sales funnels for coaches. Free training on attracting leads without ads. Perfect referral partner.",
+          "notes": "Hunter: valid/100",
+          "added": "2026-03-17",
+          "tags": [
+            "coaching-mentor",
+            "high-ticket",
+            "visibility"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260317-be03e2a2",
+          "company": "Million Dollar Coach",
+          "contact": "Taki Moore",
+          "title": "Founder",
+          "email": "taki@milliondollarcoach.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "Runs community for 6-7 figure coaches scaling to 7 figures \u2014 education-based marketing expert, coaches need setter solutions at scale. Major referral partner opportunity.",
+          "notes": "Hunter: valid/88",
+          "added": "2026-03-17",
+          "tags": [
+            "coach-scaling",
+            "7-figure",
+            "lead-generation"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260317-23a04a62",
+          "company": "Clayton Johnson SEO",
+          "contact": "Clayton Johnson",
+          "title": "Founder, JMIRG",
+          "email": "clayton@claytonjohnson.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "Published top AI automation for coaches guide (March 2026) \u2014 SEO strategist building AI systems for coaches. Active in coach automation space, referral partner fit.",
+          "notes": "Hunter: accept_all/74",
+          "added": "2026-03-17",
+          "tags": [
+            "AI-automation",
+            "coaches",
+            "SEO",
+            "systems"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260317-0096d502",
+          "company": "Digital Course Freelancer",
+          "contact": "Virginia Stockwell",
+          "title": "Founder & Kajabi Expert",
+          "email": "",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "Kajabi expert serving coaches and consultants \u2014 sets up funnels, automation, sales pages. Her clients run high-ticket coaching and need setter solutions. Referral partner.",
+          "notes": "Email invalid \u2014 LinkedIn only",
+          "added": "2026-03-17",
+          "tags": [
+            "Kajabi",
+            "coaches",
+            "funnels",
+            "done-for-you"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260317-9b0debe8",
+          "company": "The Ads Tutor",
+          "contact": "Josh Lothman",
+          "title": "Founder",
+          "email": "josh@theadstutor.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "FB/Google/LinkedIn ads agency in Austin \u2014 runs ads for coaching businesses, 15+ years exp. His clients generate leads that need setter follow-up. Natural referral partner.",
+          "notes": "Hunter: valid/100",
+          "added": "2026-03-17",
+          "tags": [
+            "ads-agency",
+            "coaches",
+            "lead-generation",
+            "Austin"
+          ]
         }
       ]
     }
   ],
-  "updated": "2026-03-16T12:08:18.817196+00:00"
+  "updated": "2026-03-17T11:35:02.219493+00:00"
 }
