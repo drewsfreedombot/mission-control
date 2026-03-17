@@ -1,93 +1,344 @@
 {
-  "lastUpdated": "2026-03-17T09:12:00Z",
+  "lastUpdated": "2026-03-17T13:10:00Z",
   "stocks": [
     {
       "ticker": "ENB.TO",
       "name": "Enbridge Inc.",
-      "currentPrice": 74.64,
-      "currency": "CAD",
-      "week52Low": 56.51,
-      "week52High": 74.66,
-      "conservativeEstimate": 75,
-      "optimisticEstimate": 85,
       "yield": "5.2%",
-      "rating": "Buy",
-      "thesis": "Record 2025: GAAP earnings $7.1B ($3.23/share, +38% YoY), adjusted EBITDA $20B (+7%), DCF $12.5B (+4%). 31st consecutive dividend increase to $3.88/share (+3%). $39B secured backlog (+35% since Enbridge Day), $14B new projects sanctioned in 2025 including Mainline Optimization, Eiger Express expansion to 3.7 Bcf/d, and renewable power deals with Meta. 20th consecutive year of achieving/exceeding guidance. RBC target raised to $76. Near ATH but valuation justified — add on any pullback to $65-67.",
-      "risks": "D/EBITDA at 4.8x — manageable but limited buffer. Ongoing equity dilution from $39B growth capex. Trading near ATH ($74.39) with limited margin of safety at current levels. Best re-entry $65-67 CAD for 5.8-6.0% yield.",
-      "researchDate": "2026-03-16",
-      "priceVs52wLow": "+32%",
-      "previousPrice": 74.28,
-      "priceChange": "-0.1%",
-      "lastUpdated": "2026-03-16",
-      "change": 0.36,
-      "changePct": 0.48,
-      "high52": 74.66,
-      "low52": 56.51,
-      "buyPrice": 71.6,
-      "gainLoss": 3.04,
-      "gainLossPct": 4.25
+      "rating": "Buy/Accumulate",
+      "thesis": "31 consecutive dividend raises. Record 2025: GAAP earnings $7.1B, adjusted EBITDA $20B, DCF $12.5B. $39B secured backlog. 20th consecutive year meeting guidance. Best entry $65-67.",
+      "risks": "D/EBITDA 4.8x. Near ATH with limited margin of safety. Best re-entry $65-67 for 5.8-6.0% yield.",
+      "researchDate": "2026-02-24",
+      "buyPrice": 71.60,
+      "owned": true
     },
     {
-      "ticker": "BNS.TO",
-      "name": "Bank of Nova Scotia",
-      "currentPrice": 95.75,
-      "currency": "CAD",
-      "week52Low": 62.57,
-      "week52High": 106.39,
-      "conservativeEstimate": 107.14,
-      "optimisticEstimate": 117,
-      "yield": "4.7%",
-      "rating": "Hold",
-      "thesis": "Q1 2026 earnings released Feb 24: $2.3B net income vs $993M year ago (+132% YoY) — massive beat. Pacific Alliance diversification (LatAm) is contrarian value play. At ~$104 CAD, trading above 200-day MA with fresh earnings catalyst. Add on pullback to $98–101 CAD for yield ~4.4–4.5%.",
-      "risks": "Higher international credit exposure (LatAm) vs RY/TD creates more earnings volatility across credit cycles. Not a core sleep-at-night holding at full weight.",
-      "researchDate": "2026-03-16",
-      "priceVs52wLow": "+53%",
-      "previousPrice": 94.38,
-      "priceChange": "-0.3%",
-      "lastUpdated": "2026-03-16",
-      "change": 1.37,
-      "changePct": 1.45,
-      "high52": 106.39,
-      "low52": 62.57
+      "ticker": "CCA.TO",
+      "name": "Cogeco Communications",
+      "yield": "5.75%",
+      "rating": "Buy",
+      "thesis": "44% intrinsic value discount per Morningstar 5-star rating. Fiber buildout catalyst. Undervalued Canadian telecom/cable.",
+      "risks": "Cable cord-cutting secular trend. Smaller player vs BCE/Rogers.",
+      "researchDate": "2026-02-24",
+      "buyPrice": 73.71,
+      "owned": true
+    },
+    {
+      "ticker": "ARX.TO",
+      "name": "ARC Resources",
+      "yield": "3.4%",
+      "rating": "Strong Buy",
+      "thesis": "LNG Canada tailwind. 30% analyst upside. Premier Montney producer with low-cost operations.",
+      "risks": "Commodity price exposure. LNG Canada delays could impact thesis.",
+      "researchDate": "2026-02-24",
+      "buyPrice": 24.38,
+      "owned": true
     },
     {
       "ticker": "T.TO",
       "name": "TELUS Corporation",
-      "currentPrice": 18.29,
-      "currency": "CAD",
-      "week52Low": 17.26,
-      "week52High": 23.18,
-      "conservativeEstimate": 21.38,
-      "optimisticEstimate": 30,
       "yield": "9.3%",
       "rating": "Buy",
-      "thesis": "5G capex tapering driving FCF surge — record $2.2B FCF in 2025, up 11% YoY with 10%+ CAGR guided through 2028. Committed to 3-8% annual dividend increases from 2026 through 2028. A 9% yield with dividend growth in a telecom with hard infrastructure moat.",
-      "risks": "High debt load; TELUS International drag and CRTC regulatory risk remain. Dividend growth lower end of 3-8% range if macro deteriorates.",
-      "researchDate": "2026-03-16",
-      "priceVs52wLow": "+6%",
-      "previousPrice": 18.01,
-      "priceChange": "-3.1%",
-      "lastUpdated": "2026-03-16",
-      "change": 0.28,
-      "changePct": 1.55,
-      "high52": 23.18,
-      "low52": 17.26
+      "thesis": "5G capex tapering driving FCF surge — record $2.2B FCF in 2025, up 11% YoY with 10%+ CAGR guided through 2028. Committed to 3-8% annual dividend increases 2026-2028. Near 52-week lows.",
+      "risks": "High debt load. TELUS International drag. CRTC regulatory risk. Dividend growth may be lower end of range.",
+      "researchDate": "2026-02-23"
+    },
+    {
+      "ticker": "BAM.TO",
+      "name": "Brookfield Asset Management",
+      "yield": "3.9%",
+      "rating": "Buy",
+      "thesis": "Record Q4: FRE US$867M (+28%), US$112B fundraised 2025, $100B AI infrastructure program, $1T AUM. 15% dividend hike. Connor Teskey named CEO. Analyst target C$87-104 (26-50% upside).",
+      "risks": "Premium valuation. AUM growth dependent on fundraising environment. Complexity of Brookfield ecosystem.",
+      "researchDate": "2026-03-03"
+    },
+    {
+      "ticker": "ENGH.TO",
+      "name": "Enghouse Systems",
+      "yield": "6.72%",
+      "rating": "Speculative Buy",
+      "thesis": "$269M cash, zero debt, 10.2x P/E vs 25x sector avg. Down 48% from highs. Acquisition-dependent growth model. Analyst target C$22-28 (25-57% upside).",
+      "risks": "Acquisition-dependent. Below 50-day MA. Software, not infrastructure. Speculative swing trade.",
+      "researchDate": "2026-03-03"
+    },
+    {
+      "ticker": "IFC.TO",
+      "name": "Intact Financial",
+      "yield": "2.25%",
+      "rating": "Buy",
+      "thesis": "Record FY2025: NOIPS C$19.21 (+33%), EPS C$18.35 (+48%), ROE 19.5%. 11% dividend hike, 21 consecutive years, 10% CAGR. Analyst consensus C$317.91 (20% upside). Ex-div March 17.",
+      "risks": "P&C insurance cycle risk. CAT loss exposure. Below 52-week high by 17%.",
+      "researchDate": "2026-03-03"
+    },
+    {
+      "ticker": "RCI-B.TO",
+      "name": "Rogers Communications",
+      "yield": "3.8%",
+      "rating": "Buy",
+      "thesis": "37% analyst upside. Shaw integration synergies flowing through. Wireless subscriber growth. Improved balance sheet trajectory.",
+      "risks": "Heavy debt from Shaw acquisition. CRTC regulatory risk. Competitive Canadian telecom market.",
+      "researchDate": "2026-03-03"
+    },
+    {
+      "ticker": "RUS.TO",
+      "name": "Russel Metals",
+      "yield": "3.6%",
+      "rating": "Buy",
+      "thesis": "PEG 0.59. Kloeckner acquisition catalyst — transformative deal. Q4 revenue $4.6B. Industrial steel distributor with solid fundamentals. Analyst target C$54 (13-40% upside).",
+      "risks": "Cyclical industrial sector. Steel price volatility. Integration risk from Kloeckner acquisition.",
+      "researchDate": "2026-03-01"
+    },
+    {
+      "ticker": "BMO.TO",
+      "name": "Bank of Montreal",
+      "yield": "3.4%",
+      "rating": "Buy",
+      "thesis": "Bank of the West integration complete. Record Q1 2026 earnings (EPS C$3.48, +15% beat). Forward P/E ~14x. Cheapest Big 5 bank with best growth trajectory. Dividend raised 5% to C$6.68/year.",
+      "risks": "US commercial real estate exposure. Integration costs still flowing through. Bank sector rate sensitivity.",
+      "researchDate": "2026-03-09"
+    },
+    {
+      "ticker": "TD.TO",
+      "name": "TD Bank",
+      "yield": "3.3%",
+      "rating": "Buy",
+      "thesis": "C$135, 11.7x P/E. Q1 2026 beat. Post-AML recovery play. Canada's largest bank by branch count. US growth engine.",
+      "risks": "AML enforcement overhang. US regulatory scrutiny. Growth cap on US acquisitions.",
+      "researchDate": "2026-03-03"
+    },
+    {
+      "ticker": "CPX.TO",
+      "name": "Capital Power",
+      "yield": "4.2%",
+      "rating": "Buy",
+      "thesis": "Edmonton-based utility. 6% dividend hike. Data center power demand tailwind. Stable regulated earnings.",
+      "risks": "Transition from coal/gas to renewables requires capex. Alberta regulatory environment.",
+      "researchDate": "2026-03-06"
+    },
+    {
+      "ticker": "WCP.TO",
+      "name": "Whitecap Resources",
+      "yield": "5.1%",
+      "rating": "Buy on Pullback",
+      "thesis": "Monthly payer. 15% total shareholder return (6% production growth + 7% yield + 2% buybacks). Light oil producer with stable production growth. Near ATH — wait for 10-15% pullback to C$12.50.",
+      "risks": "Near ATH. Oil price dependent. Western Canadian focused.",
+      "researchDate": "2026-03-07"
+    },
+    {
+      "ticker": "PPL.TO",
+      "name": "Pembina Pipeline",
+      "yield": "5.0%",
+      "rating": "Buy",
+      "thesis": "Midstream energy — pipelines, processing, logistics. MONTHLY payer. 12+ year dividend growth streak. Diversified across Western Canadian basin. Collects tolls regardless of commodity price. Entry zone under $52.",
+      "risks": "Midstream sector regulatory risk. Pipeline capacity constraints. Commodity volume sensitivity.",
+      "researchDate": "2026-03-17"
+    },
+    {
+      "ticker": "CNQ.TO",
+      "name": "Canadian Natural Resources",
+      "yield": "4.1%",
+      "rating": "Buy",
+      "thesis": "26 consecutive dividend raises. 6.4% increase to $2.50/yr announced Mar 5/26. Q4 profit $5.3B. Oil sands moat. Low decline rate assets.",
+      "risks": "Oil price exposure. ESG/climate policy risk for oil sands. Capital intensive operations.",
+      "researchDate": "2026-02-24"
     },
     {
       "ticker": "MG.TO",
-      "name": "Magna International Inc.",
-      "currentPrice": 75.9,
-      "currency": "CAD",
-      "week52Low": 43.25,
-      "week52High": 95.18,
-      "conservativeEstimate": 95,
-      "optimisticEstimate": 110,
+      "name": "Magna International",
       "yield": "3.4%",
       "rating": "Buy",
-      "thesis": "North America's largest auto parts supplier trading at a 20% discount to its 52-week high and a cheap 9.8x normalized P/E. Potential Trump-era North American manufacturing policies are a structural tailwind for this irreplaceable industrial backbone.",
-      "risks": "Auto production is cyclical and vulnerable to recession; cross-border tariff complexity could create headwinds despite a large NA footprint.",
-      "researchDate": "2026-03-17",
-      "priceVs52wLow": "+75.5%"
+      "thesis": "North America's largest auto parts supplier. 20% below 52-week high. 9.8x normalized P/E. 15 consecutive annual dividend increases. Trump NA manufacturing policy tailwind. 350+ NA facilities.",
+      "risks": "Auto production is cyclical. Cross-border tariff complexity. EV transition capex.",
+      "researchDate": "2026-03-17"
+    },
+    {
+      "ticker": "FTS.TO",
+      "name": "Fortis Inc.",
+      "yield": "3.2%",
+      "rating": "Buy",
+      "thesis": "51-year consecutive dividend increase streak — longest in Canada. Pure regulated utility. Predictable earnings. Rate base growth 6% CAGR through 2029.",
+      "risks": "Lower yield vs peers. Slow growth. Interest rate sensitivity for utilities.",
+      "researchDate": "2026-03-16"
+    },
+    {
+      "ticker": "EMA.TO",
+      "name": "Emera Inc.",
+      "yield": "4.1%",
+      "rating": "Buy",
+      "thesis": "Utility play with Tampa Electric (Florida) providing US growth. Regulated earnings base. Dividend growth resuming after pause.",
+      "risks": "Hurricane exposure via Tampa Electric. Higher debt load vs FTS. Dividend was frozen (now resuming).",
+      "researchDate": "2026-03-15"
+    },
+    {
+      "ticker": "NA.TO",
+      "name": "National Bank of Canada",
+      "yield": "3.5%",
+      "rating": "Buy",
+      "thesis": "Fastest growing Canadian bank. Strong Quebec market dominance. CWB acquisition adds Western Canadian presence.",
+      "risks": "Smaller scale vs Big 5. Quebec concentration risk. CWB integration.",
+      "researchDate": "2026-03-07"
+    },
+    {
+      "ticker": "POW.TO",
+      "name": "Power Corporation",
+      "yield": "4.5%",
+      "rating": "Buy",
+      "thesis": "Great-West Lifeco record earnings. NAV discount narrowing. 10% pullback created entry window. Holding company discount to underlying assets.",
+      "risks": "Holding company discount may persist. Complex corporate structure. Insurance cycle exposure.",
+      "researchDate": "2026-03-06"
+    },
+    {
+      "ticker": "IGM.TO",
+      "name": "IGM Financial",
+      "yield": "5.0%",
+      "rating": "Buy",
+      "thesis": "Wealth management platform. Power Corp subsidiary. AUM growth catalyst. Cheap valuation relative to AUM.",
+      "risks": "Fee compression in wealth management. Passive investing trend. Power Corp governance.",
+      "researchDate": "2026-03-10"
+    },
+    {
+      "ticker": "CP.TO",
+      "name": "Canadian Pacific Kansas City",
+      "yield": "0.7%",
+      "rating": "Buy",
+      "thesis": "Tri-national railway post-KCS merger. Only single-line rail network connecting Canada, US, and Mexico. Synergy realization ongoing. Infrastructure moat.",
+      "risks": "Low yield. High valuation. Integration risk. Trade policy sensitivity for cross-border rail.",
+      "researchDate": "2026-03-14"
+    },
+    {
+      "ticker": "GWO.TO",
+      "name": "Great-West Lifeco",
+      "yield": "4.07%",
+      "rating": "Buy",
+      "thesis": "Record earnings. 10% dividend hike. Insurance/wealth management conglomerate. Strong capital position. POW.TO subsidiary with direct earnings exposure.",
+      "risks": "Insurance cycle risk. Interest rate sensitivity. Complex corporate structure under Power Corp.",
+      "researchDate": "2026-02-28"
+    },
+    {
+      "ticker": "QBR-B.TO",
+      "name": "Quebecor Inc.",
+      "yield": "2.57%",
+      "rating": "Buy",
+      "thesis": "6.5x EV/EBITDA — 25-35% discount to telecom peers. Freedom Mobile makes them Canada's 4th national carrier. ROE 37.4%. Six analyst upgrades Feb 28. Consensus C$58, top target C$63.",
+      "risks": "Competitive wireless market. Debt from Freedom Mobile acquisition. Quebec market concentration.",
+      "researchDate": "2026-03-01"
+    },
+    {
+      "ticker": "GEI.TO",
+      "name": "Gibson Energy",
+      "yield": "6.1%",
+      "rating": "Buy on Pullback",
+      "thesis": "Record infrastructure EBITDA. 7th consecutive dividend raise. Midstream energy with toll-based revenue model.",
+      "risks": "At ATH — wait for pullback to C$25-26 for better entry. Western Canadian energy concentration.",
+      "researchDate": "2026-03-01"
+    },
+    {
+      "ticker": "MTL.TO",
+      "name": "Mullen Group",
+      "yield": "4.8%",
+      "rating": "Watch",
+      "thesis": "Diversified trucking/logistics. Solid yield. Steady cash flow generator in Canadian transport.",
+      "risks": "Cyclical transport sector. Western Canadian economic exposure.",
+      "researchDate": "2026-03-01"
+    },
+    {
+      "ticker": "DIR-UN.TO",
+      "name": "Dream Industrial REIT",
+      "yield": "5.3%",
+      "rating": "Buy",
+      "thesis": "Industrial REIT below 5-year average after rate-hike drawdown. 3 analyst upgrades in 10 days. Avg target C$14.82 (11% upside + yield). Warehouse/logistics demand secular tailwind.",
+      "risks": "Drew bearish on RE broadly. Interest rate sensitivity. Industrial REIT supply risk.",
+      "researchDate": "2026-03-01"
+    },
+    {
+      "ticker": "CTC-A.TO",
+      "name": "Canadian Tire",
+      "yield": "4.5%",
+      "rating": "Buy",
+      "thesis": "Iconic Canadian retail. Strong dividend track record. Financial services segment (Triangle credit cards) adds recurring revenue. Loyalty program moat.",
+      "risks": "Consumer discretionary exposure. E-commerce competition. Canadian consumer sentiment.",
+      "researchDate": "2026-03-01"
+    },
+    {
+      "ticker": "NWC.TO",
+      "name": "North West Company",
+      "yield": "3.8%",
+      "rating": "Watch",
+      "thesis": "Defensive retailer serving remote/northern Canadian communities. Near-monopoly in many markets. Steady cash flows. Recession-resistant.",
+      "risks": "Limited growth potential. Remote logistics costs. Government subsidy dependency for some markets.",
+      "researchDate": "2026-02-28"
+    },
+    {
+      "ticker": "CRR-UN.TO",
+      "name": "Crombie REIT",
+      "yield": "5.5%",
+      "rating": "Buy",
+      "thesis": "Grocery-anchored REIT (Sobeys/Empire). 27% discount to NAV. 98.6% occupancy. 84% AFFO payout ratio. Defensive retail exposure.",
+      "risks": "Drew bearish on RE. Interest rate sensitivity. Concentrated tenant exposure (Empire/Sobeys).",
+      "researchDate": "2026-03-13"
+    },
+    {
+      "ticker": "REI-UN.TO",
+      "name": "RioCan REIT",
+      "yield": "5.9%",
+      "rating": "Buy",
+      "thesis": "Grocery-anchored, 3 analyst upgrades, active buyback program. Canada's largest REIT. Urban mixed-use development pipeline.",
+      "risks": "Drew bearish on RE. Interest rate sensitivity. Retail apocalypse concerns (mitigated by grocery anchors).",
+      "researchDate": "2026-02-24"
+    },
+    {
+      "ticker": "AD-UN.TO",
+      "name": "Alaris Equity Partners",
+      "yield": "6.6%",
+      "rating": "Hold",
+      "thesis": "Growing royalty structure. Diversified private company portfolio. High yield with growth potential.",
+      "risks": "Above historical averages — better entry ~$20. Private company exposure is opaque. Small cap liquidity.",
+      "researchDate": "2026-02-20"
+    },
+    {
+      "ticker": "BNS.TO",
+      "name": "Bank of Nova Scotia",
+      "yield": "4.7%",
+      "rating": "Hold — Buy on Dip",
+      "thesis": "Q1 2026 beat: +132% profit YoY. Pacific Alliance (LatAm) diversification is contrarian value play. Add on pullback to $98-101 for 4.4-4.5% yield.",
+      "risks": "Higher international credit exposure (LatAm). Not a core sleep-at-night holding at full weight.",
+      "researchDate": "2026-02-24"
+    },
+    {
+      "ticker": "CM.TO",
+      "name": "CIBC",
+      "yield": "4.0%",
+      "rating": "Watch",
+      "thesis": "Record Q1 2026 revenue. Canadian bank with improving US presence. Solid dividend history. Wait for pullback to C$125.",
+      "risks": "US mortgage exposure. Smaller international footprint vs peers.",
+      "researchDate": "2026-03-01"
+    },
+    {
+      "ticker": "AP-UN.TO",
+      "name": "Allied Properties REIT",
+      "yield": "7.5%",
+      "rating": "Speculative",
+      "thesis": "Office distress play. Potential recovery if return-to-office accelerates. Deep value at current levels.",
+      "risks": "Office sector headwinds. Drew bearish on RE. High risk. Cut dividend 60% in Dec 2025.",
+      "researchDate": "2026-02-24"
+    },
+    {
+      "ticker": "AQN.TO",
+      "name": "Algonquin Power & Utilities",
+      "yield": "5.0%",
+      "rating": "Speculative",
+      "thesis": "Post-restructuring play. Sold Liberty Utilities stake. Renewable energy focus.",
+      "risks": "Dividend was cut. Management credibility issues. Restructuring uncertainty.",
+      "researchDate": "2026-02-24"
+    },
+    {
+      "ticker": "BCE.TO",
+      "name": "BCE Inc.",
+      "yield": "5.3%",
+      "rating": "AVOID",
+      "thesis": "56% dividend cut. Thesis broken. Do not buy.",
+      "risks": "Dividend cut destroyed income thesis. Heavy debt. Declining legacy business.",
+      "researchDate": "2026-02-24"
     }
   ]
 }
