@@ -1,34 +1,13 @@
 {
-  "lastCheck": "2026-03-15T04:00:00-03:00",
+  "lastCheck": "2026-03-17T04:00:00-03:00",
   "status": "nominal",
   "checks": {
-    "disk": {
-      "status": "ok",
-      "detail": "4% used — 395Gi available of 460Gi"
-    },
-    "uptime": {
-      "status": "ok",
-      "detail": "Up 3 days 16h, load avg 1.73/1.56/1.46"
-    },
-    "gateway": {
-      "status": "ok",
-      "detail": "Running (pid 99226), loopback-only, port 18789"
-    },
-    "tailscale": {
-      "status": "ok",
-      "detail": "Connected — 100.124.57.91"
-    },
-    "configIntegrity": {
-      "status": "ok",
-      "detail": "SHA-256 unchanged since last check"
-    },
-    "logins": {
-      "status": "ok",
-      "detail": "No suspicious login activity — current session since Mar 11"
-    },
-    "processes": {
-      "status": "ok",
-      "detail": "All processes nominal — system, Telegram, Tailscale, OpenClaw gateway"
-    }
+    "disk": {"status": "ok", "detail": "4% used (15Gi/460Gi), 393Gi free"},
+    "uptime": {"status": "ok", "detail": "5 days 16h55m, load avg 1.53/1.54/1.50"},
+    "gateway": {"status": "ok", "detail": "Running (pid 6431), RPC probe ok, port 18789"},
+    "tailscale": {"status": "ok", "detail": "Connected, 9 nodes in tailnet"},
+    "logins": {"status": "ok", "detail": "No suspicious logins, last reboot Wed Mar 11"},
+    "processes": {"status": "ok", "detail": "All processes nominal, no suspicious activity"},
+    "configIntegrity": {"status": "ok", "detail": "SHA-256 unchanged since last check"}
   }
 }
