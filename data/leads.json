@@ -5929,6 +5929,61 @@
             "Toronto",
             "Vancouver"
           ]
+        },
+        {
+          "id": "charlie-prospects-20260318-3fcee4a3",
+          "company": "Conquer Growth",
+          "contact": "Adam Goodwin",
+          "title": "Co-Founder",
+          "email": "",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "Coaching agency using AI setter tools \u2014 testimonial on Appointwise. Ideal direct buyer.",
+          "notes": "LinkedIn only - email invalid. Based in Glasgow.",
+          "added": "2026-03-18",
+          "tags": [
+            "HighTicket",
+            "Agency",
+            "AISetter"
+          ]
+        },
+        {
+          "id": "charlie-prospects-20260318-83fd28bd",
+          "company": "Laptop Lifestyle Co",
+          "contact": "Amanda Kolbye",
+          "title": "Founder & CEO",
+          "email": "amanda@amandakolbye.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "7-figure coaching business for women entrepreneurs. Runs FB/IG funnels, high-ticket programs, needs setter capacity.",
+          "notes": "Hunter: valid/100. Scaled to M+ in 2 years, hundreds of clients.",
+          "added": "2026-03-18",
+          "tags": [
+            "HighTicket",
+            "CourseCreator",
+            "7Figure",
+            "FBads"
+          ]
+        },
+        {
+          "id": "charlie-prospects-20260318-fd8707f5",
+          "company": "Anita Dykstra",
+          "contact": "Anita Dykstra",
+          "title": "Founder",
+          "email": "",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "Coaching business scaling expert for coaches and course creators. Published scaling guide this week. Organic growth focus - needs lead response solution.",
+          "notes": "LinkedIn only - email invalid. SEO/Pinterest marketing for coaches.",
+          "added": "2026-03-18",
+          "tags": [
+            "CourseCreator",
+            "Coaching",
+            "Scaling"
+          ]
         }
       ]
     },
@@ -8202,9 +8257,139 @@
             "lead-generation",
             "Austin"
           ]
+        },
+        {
+          "id": "charlie-partners-20260318-b3bc8705",
+          "company": "Marne Semick Coaching",
+          "contact": "Marne Semick",
+          "title": "Founder & Kajabi Expert",
+          "email": "marne@marnesemick.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "Builds coaching funnels on Kajabi for coaches and spiritual entrepreneurs. Partner referral angle \u2014 her clients need setter capacity.",
+          "notes": "Hunter: valid/100. Runs Warrior Mastermind for coaches.",
+          "added": "2026-03-18",
+          "tags": [
+            "FunnelBuilder",
+            "Kajabi",
+            "CoachServing",
+            "Partner"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260318-d7b14c09",
+          "company": "Greg Faxon Coaching",
+          "contact": "Greg Faxon",
+          "title": "Founder",
+          "email": "greg@gregfaxon.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "Coaching business consultant, sold .5M+. Created Full Roster Funnel for coaches. His clients need setter systems.",
+          "notes": "Hunter: valid/100. Coaching Business Bootcamp creator.",
+          "added": "2026-03-18",
+          "tags": [
+            "CoachForCoaches",
+            "SalesFunnel",
+            "Partner"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260318-cd7e4ec6",
+          "company": "Adverge Media",
+          "contact": "Unknown - Agency Team",
+          "title": "Founder/CEO",
+          "email": "hello@advergemedia.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "Facebook Ads agency generating 120+ qualified leads/month for service businesses. Partner angle \u2014 their clients need setter automation.",
+          "notes": "Hunter: valid/100. Lead gen agency, Meta ads specialist.",
+          "added": "2026-03-18",
+          "tags": [
+            "FBadsAgency",
+            "LeadGen",
+            "Partner"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260318-050488cc",
+          "company": "Andrea Vahl Coaching",
+          "contact": "Andrea Vahl",
+          "title": "Founder",
+          "email": "andrea@andreavahl.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "Facebook Ads coaching/done-for-you for coaches. Generated 5-figure launches with 57% opt-in rates. Her coaching clients need setter tools.",
+          "notes": "Hunter: valid/100. FB ads specialist serving coaches.",
+          "added": "2026-03-18",
+          "tags": [
+            "FBadsCoach",
+            "CoachServing",
+            "Partner"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260318-36a09daa",
+          "company": "Appointwise",
+          "contact": "Unknown - Founding Team",
+          "title": "Founder",
+          "email": "hello@appointwise.io",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "AI setter platform for agencies and coaches on GoHighLevel. Competitor/partnership angle \u2014 integration or referral opportunity.",
+          "notes": "Hunter: valid/92. Direct competitor to Charlie, potential partnership.",
+          "added": "2026-03-18",
+          "tags": [
+            "AISetter",
+            "Competitor",
+            "GHL",
+            "Partnership"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260318-91ba80c1",
+          "company": "Bumper Leads",
+          "contact": "Jovana",
+          "title": "Founder",
+          "email": "hello@bumperleads.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "DFY sales funnels + AI agents for coaching businesses. Partner angle \u2014 builds funnels that need setter layer.",
+          "notes": "Hunter: valid/50 borderline. Marketing automation agency serving coaches.",
+          "added": "2026-03-18",
+          "tags": [
+            "FunnelAgency",
+            "AIAgents",
+            "CoachServing",
+            "Partner"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260318-29692ee2",
+          "company": "Closer Cartel",
+          "contact": "Luke Alexander",
+          "title": "Founder",
+          "email": "luke@closercartel.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "Setter/closer training community, .3M+ revenue. Trains setters who need AI tools. Integration or referral partner opportunity.",
+          "notes": "Hunter: valid/100. Coaches setters/closers \u2014 perfect channel partner.",
+          "added": "2026-03-18",
+          "tags": [
+            "SetterTraining",
+            "CloserCommunity",
+            "Partner",
+            "HighVolume"
+          ]
         }
       ]
     }
   ],
-  "updated": "2026-03-17T18:06:01.319919+00:00"
+  "updated": "2026-03-18T11:35:11.026881+00:00"
 }
