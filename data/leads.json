@@ -4348,6 +4348,90 @@
             "Toronto",
             "NoPayroll"
           ]
+        },
+        {
+          "id": "nmbr-20260318-de5f5cde",
+          "company": "PayFacto",
+          "contact": "Martin Leroux",
+          "title": "President and CEO",
+          "email": "mleroux@payfacto.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Scout AI",
+          "signal": "Just launched Maitre'D Virtuo cloud POS (March 16, 2026) with embedded finance for restaurants. Manages payroll-adjacent data (tips, hours, labour costs) but no embedded payroll yet. Montreal-based, hospitality-focused \u2014 perfect Nmbr partner to add payroll to their restaurant SaaS ecosystem.",
+          "notes": "Hunter: valid/score 88. Quebec-based. Acquired Veloce and Posera POS systems. Operations in Canada, US, UK. Restaurant/hospitality vertical SaaS.",
+          "added": "2026-03-18",
+          "tags": [
+            "Restaurant",
+            "POS",
+            "Hospitality",
+            "Quebec",
+            "Canadian",
+            "Embedded-Finance"
+          ]
+        },
+        {
+          "id": "nmbr-20260318-5f78533b",
+          "company": "Lillio (HiMama)",
+          "contact": "Ron Spreeuwenberg",
+          "title": "Co-Founder and CEO",
+          "email": "ron@himama.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Scout AI",
+          "signal": "Childcare management SaaS with staff scheduling, attendance, and billing \u2014 but no payroll module. Manages 1000s of childcare centers across Canada. Staff management without payroll = gap Nmbr fills. Childcare providers need compliant Canadian payroll for educators and support staff.",
+          "notes": "Hunter: valid/score 100. Toronto-based. Rebranded from HiMama to Lillio. Vertical SaaS for childcare/early childhood education centers.",
+          "added": "2026-03-18",
+          "tags": [
+            "Childcare",
+            "EdTech",
+            "Staff-Management",
+            "Toronto",
+            "Canadian",
+            "Vertical-SaaS"
+          ]
+        },
+        {
+          "id": "nmbr-20260318-e75fb37b",
+          "company": "Booxi",
+          "contact": "Elie Perez",
+          "title": "Co-founder and CEO",
+          "email": "elie@booxi.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Scout AI",
+          "signal": "Enterprise appointment scheduling SaaS for retailers (45 employees, Montreal + Paris). Manages staff scheduling across multi-location retail brands but has no payroll. Their enterprise retail clients (scheduling 100s of staff) need seamless payroll integration \u2014 embedded payroll would be a natural platform expansion.",
+          "notes": "Hunter: valid/score 100. Co-founder Daniel Laplante (CPO) also reachable at daniel@booxi.com (valid/100). Raised .5M from Investissement Quebec. Quebec-based.",
+          "added": "2026-03-18",
+          "tags": [
+            "Retail",
+            "Scheduling",
+            "Enterprise",
+            "Quebec",
+            "Canadian",
+            "Appointments"
+          ]
+        },
+        {
+          "id": "nmbr-20260318-9c9c3342",
+          "company": "ABELSoft (ABELDent)",
+          "contact": "Dave Clarkson",
+          "title": "COO / Senior Vice President",
+          "email": "davec@abelsoft.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Scout AI",
+          "signal": "Canada's leading dental practice management software with 2000+ clinics. Manages staff scheduling, billing, and patient records but NO payroll module. Dental clinics have complex payroll needs (hourly hygienists, salaried dentists, production bonuses). Embedded payroll would be a natural expansion for their practice management platform. Burlington, ON based, 40 years in market.",
+          "notes": "Hunter: valid/score 92. Also does ABELMed (medical practices). Microsoft Gold Certified Partner. Offices in Burlington ON and Buffalo NY.",
+          "added": "2026-03-18",
+          "tags": [
+            "Dental",
+            "Healthcare",
+            "Practice-Management",
+            "Ontario",
+            "Canadian",
+            "Vertical-SaaS"
+          ]
         }
       ]
     },
@@ -8471,5 +8555,5 @@
       ]
     }
   ],
-  "updated": "2026-03-18T12:06:00.805399+00:00"
+  "updated": "2026-03-18T18:08:22.911106+00:00"
 }
