@@ -8387,9 +8387,89 @@
             "Partner",
             "HighVolume"
           ]
+        },
+        {
+          "id": "charlie-partners-20260318-a86f7a31",
+          "company": "Mediaforce",
+          "contact": "Joe Bongiorno",
+          "title": "Founder & CEO",
+          "email": "jbon@mediaforce.ca",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Scout AI",
+          "signal": "Award-winning Ottawa agency (since 1996) now offering GoHighLevel implementation services for coaches/clinics \u2014 perfect channel partner fit for Charlie AI reselling",
+          "notes": "Hunter: valid/score 100. GHL certified partner services. Serves coaches, clinics, agencies with CRM & marketing automation. 25-100 employees.",
+          "added": "2026-03-18",
+          "tags": [
+            "GHL",
+            "Ottawa",
+            "Canadian",
+            "Agency",
+            "CRM-Automation"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260318-9341367e",
+          "company": "Hop Skip Media",
+          "contact": "Ameet Khabra",
+          "title": "Founder",
+          "email": "ameet@hopskipmedia.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Scout AI",
+          "signal": "Top 29 globally ranked PPC expert running Canadian agency in Surrey BC \u2014 manages Facebook/Google ad campaigns for clients who need appointment setting. Speaking at SocialWest 2026 in Canada.",
+          "notes": "Hunter: valid/score 50. Also verified projects@hopskipmedia.com (score 52). PPC-focused agency, clients run book-a-call funnels.",
+          "added": "2026-03-18",
+          "tags": [
+            "PPC",
+            "SurreyBC",
+            "Canadian",
+            "Agency",
+            "Facebook-Ads"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260318-211e9d05",
+          "company": "Brand & Mortar",
+          "contact": "Jordan Shea",
+          "title": "Founder & CEO",
+          "email": "jordan@brandandmortar.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Scout AI",
+          "signal": "Award-winning Toronto agency (est. 2011) specializing in lead generation and digital transformation for B2B/B2C clients \u2014 20+ person team with offices across Canada, perfect scale for Charlie partnership",
+          "notes": "Hunter: unknown/score 75 (risky but deliverable pattern per RocketReach). $8M annual revenue. Serves coaches, consultants, service businesses with Facebook ads and lead gen.",
+          "added": "2026-03-18",
+          "tags": [
+            "Toronto",
+            "Canadian",
+            "Agency",
+            "Lead-Gen",
+            "Facebook-Ads"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260318-81052d3c",
+          "company": "DMT Business Development",
+          "contact": "Nazar Matiukha",
+          "title": "CEO",
+          "email": "nazar@dmtcorp.io",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Scout AI",
+          "signal": "Canadian B2B appointment-setting agency HQ'd in Ottawa \u2014 books 10-42 meetings/month for clients. Direct competitor to human setters; Charlie AI would be a natural tech upgrade they could resell",
+          "notes": "Hunter: valid/score 88. Founded 2018 as SalesNash, rebranded. Specializes in cold calling, outbound, appointment setting. Global ops but Canadian HQ.",
+          "added": "2026-03-18",
+          "tags": [
+            "Ottawa",
+            "Canadian",
+            "Agency",
+            "Appointment-Setting",
+            "B2B"
+          ]
         }
       ]
     }
   ],
-  "updated": "2026-03-18T11:35:11.026881+00:00"
+  "updated": "2026-03-18T12:06:00.805399+00:00"
 }
