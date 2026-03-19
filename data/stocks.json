@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-18T17:30:53",
+  "lastUpdated": "2026-03-19T09:08:44",
   "stocks": [
     {
       "ticker": "BAM.TO",
@@ -1172,6 +1172,35 @@
       "changePct": -0.38,
       "high52": 67.79,
       "low52": 34.92
+    },
+    {
+      "ticker": "BIP-UN.TO",
+      "name": "Brookfield Infrastructure Partners",
+      "currentPrice": 49.5,
+      "currency": "CAD",
+      "week52Low": 36.61,
+      "week52High": 55.18,
+      "conservativeEstimate": 56.4,
+      "optimisticEstimate": 63.47,
+      "yield": "5.1%",
+      "rating": "Buy",
+      "thesis": "Record 2025: FFO US$2.6B (+6%), net income +179%. 17th consecutive distribution increase (+6%). Data segment surged 50% \u2014 AI infrastructure growth engine with 3.6 GW pipeline. Pulled back 10% from ATH, 14% upside to analyst avg target plus 5.1% yield.",
+      "risks": "Complex LP structure with FX exposure across 5 continents. Interest rate sensitivity on leverage.",
+      "researchDate": "2026-03-19",
+      "priceVs52wLow": "+35%",
+      "analystTarget": 56.4,
+      "analystTargetHigh": 63.47,
+      "analystTargetLow": 48.29,
+      "numAnalysts": 8,
+      "analystConsensus": "buy",
+      "upsideToTarget": 14.0,
+      "lastUpdated": "2026-03-19",
+      "rank": 0,
+      "previousPrice": 50.2,
+      "change": -0.7,
+      "changePct": -1.39,
+      "high52": 55.18,
+      "low52": 36.61
     }
   ],
   "lastRanked": "2026-03-18T19:05:27Z"
