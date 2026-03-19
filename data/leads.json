@@ -6304,6 +6304,64 @@
             "certification",
             "hiring-setter"
           ]
+        },
+        {
+          "id": "charlie-prospects-20260319-9cd3052f",
+          "company": "Craig Ballantyne Coaching",
+          "contact": "Craig Ballantyne",
+          "title": "Founder & CEO",
+          "email": "cb@cbathletics.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Scout AI",
+          "signal": "Canadian high-ticket business coach (Vancouver) running 7-8 figure coaching programs with application-based sales funnel and 'schedule a call' model \u2014 perfect fit for AI setter to handle inbound applications",
+          "notes": "Hunter: valid/score 45. Runs CB Athletic Consulting Inc. Programs: Family First Founders coaching. High-ticket consultation-based model. LinkedIn: ca.linkedin.com/in/craigballantyne",
+          "added": "2026-03-19",
+          "tags": [
+            "Canadian",
+            "HighTicket",
+            "BusinessCoach",
+            "ConsultationBased"
+          ]
+        },
+        {
+          "id": "charlie-prospects-20260319-fba3b1ad",
+          "company": "Scott Oldford Consulting",
+          "contact": "Scott Oldford",
+          "title": "Founder & Mentor",
+          "email": "scott@scottoldford.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Scout AI",
+          "signal": "Canadian entrepreneur mentor and investor (east coast Canada origin) \u2014 helps coaches/consultants scale online businesses past 7 figures. Application-based high-ticket mentoring model with discovery call funnel",
+          "notes": "Hunter: valid/score 45. Based in Canada originally. Runs scottoldford.com. Mentors coaching/consulting/education businesses. High-ticket application model. LinkedIn: linkedin.com/in/scottoldford",
+          "added": "2026-03-19",
+          "tags": [
+            "Canadian",
+            "HighTicket",
+            "BusinessMentor",
+            "ConsultationBased"
+          ]
+        },
+        {
+          "id": "charlie-prospects-20260319-380bac89",
+          "company": "Mike Bradford Business Coaching",
+          "contact": "Mike Bradford",
+          "title": "Founder & Business Coach",
+          "email": "mbradford@businesscoachtoronto.ca",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Scout AI",
+          "signal": "Toronto-based ICF-certified business coach running group coaching masterminds and workshops for sales/marketing/operations professionals. Consultation-based model \u2014 'book a call' approach",
+          "notes": "Hunter: valid/score 90. Toronto ON. ICF certified coach. Runs businesscoachtoronto.ca. Offers mastermind groups, workshops, tele-seminars. LinkedIn: ca.linkedin.com/in/mikebradfordbusinesscoach",
+          "added": "2026-03-19",
+          "tags": [
+            "Canadian",
+            "Toronto",
+            "BusinessCoach",
+            "Mastermind",
+            "ConsultationBased"
+          ]
         }
       ]
     },
@@ -8886,5 +8944,5 @@
       ]
     }
   ],
-  "updated": "2026-03-19T11:36:47.716657+00:00"
+  "updated": "2026-03-19T12:07:11.700459+00:00"
 }
