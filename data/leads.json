@@ -4432,6 +4432,147 @@
             "Canadian",
             "Vertical-SaaS"
           ]
+        },
+        {
+          "id": "nmbr-20260319-1",
+          "company": "Chowbus",
+          "contact": "Linxin Wen",
+          "title": "CEO & Co-Founder",
+          "email": "linxin@chowbus.com",
+          "signal": "Just raised $81M (March 2026) and EXPLICITLY announced Canadian market expansion. AI-powered restaurant POS with staff management, time tracking, scheduling \u2014 but NO native Canadian payroll. Tens of thousands of independent restaurants on platform. Canadian expansion = immediate payroll gap. Nmbr is the embedded Canadian payroll partner they need to enter Canada properly.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-19",
+          "tags": [
+            "restaurant",
+            "POS",
+            "Canada-expansion",
+            "fresh-funding",
+            "$81M",
+            "hot",
+            "AI"
+          ],
+          "notes": "Hunter: valid/score 89. CTO: Suyu Zhang (suyu@chowbus.com valid/100). PR Newswire March 11, 2026 confirms Canada expansion. Chicago HQ. $108M total raised. LinkedIn: linkedin.com/company/chowbus. Pitch: Nmbr as the embedded Canadian payroll partner for Chowbus's Canada launch \u2014 they can't serve Canadian restaurants without CRA-compliant payroll."
+        },
+        {
+          "id": "nmbr-20260319-2",
+          "company": "CompanyCam",
+          "contact": "Luke Hansen",
+          "title": "CEO & Founder",
+          "email": "luke@companycam.com",
+          "signal": "Construction photo documentation SaaS valued at $2B (Dec 2025). 21,000+ app reviews. Used by thousands of Canadian contractors for job site documentation. Manages field crews but ZERO payroll \u2014 contractors export hours to QuickBooks/ADP. Massive Canadian contractor user base needs embedded payroll. Nmbr = the payroll layer for CompanyCam's Canadian field service clients.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-19",
+          "tags": [
+            "construction",
+            "field-service",
+            "US-platform",
+            "Canadian-clients",
+            "no-payroll",
+            "$2B-valuation"
+          ],
+          "notes": "Hunter: valid/score 100. Lincoln, NE HQ. $38M raised (Insight Partners, Blueprint Equity). Valued at $2B per Flatwater Free Press Dec 2025. 200+ employees. LinkedIn: linkedin.com/in/luke-hansen-7a883640. Integrates with Jobber (already in Nmbr pipeline) \u2014 complementary positioning."
+        },
+        {
+          "id": "nmbr-20260319-3",
+          "company": "Legion Technologies",
+          "contact": "Sanish Mondkar",
+          "title": "CEO & Founder",
+          "email": "sanish@legion.co",
+          "signal": "AI-powered WFM platform ($50M+ raised) with dedicated Canadian pet care/veterinary vertical page. Manages scheduling, time tracking, demand forecasting for hourly workers \u2014 but NO native payroll processing. Serves major enterprise retailers, hospitality, and now veterinary clinics. SAP partnership. Canadian enterprise clients need compliant Canadian payroll.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-19",
+          "tags": [
+            "WFM",
+            "AI",
+            "enterprise",
+            "pet-care",
+            "Canadian-clients",
+            "SAP-partner",
+            "no-payroll"
+          ],
+          "notes": "Hunter: valid/score 100. Redwood City, CA. $50M growth round from Riverwood Capital (May 2024). SAP Canada partnership. Ex-SAP VP (Sanish founded after SAP). Veterinary/pet care vertical page explicitly targets Canadian vet clinics. LinkedIn: linkedin.com/in/sanishmondkar. Pitch: Nmbr as embedded Canadian payroll for Legion's enterprise and veterinary clients."
+        },
+        {
+          "id": "nmbr-20260319-4",
+          "company": "Lavu",
+          "contact": "Andy Lim",
+          "title": "Co-Founder",
+          "email": "andy@lavu.com",
+          "signal": "Restaurant POS with Marty AI platform that connects POS, scheduling, and payroll data \u2014 but payroll is via third-party integrations, NOT native. Just published 2026 AI Capabilities Report and Buyer's Guide (March 17, 2026). Active in Canadian restaurant market. Multi-unit operators on Lavu need Canadian payroll. Nmbr = native embedded Canadian payroll to complete the Marty AI stack.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-19",
+          "tags": [
+            "restaurant",
+            "POS",
+            "AI",
+            "Canadian-clients",
+            "no-native-payroll",
+            "fresh-signal"
+          ],
+          "notes": "Hunter: valid/score 46 \u2014 unverified, use with caution. Co-founded with Corey Fiala. LinkedIn: search Lavu POS. Marty AI connects POS+scheduling+payroll data but payroll is sourced from external providers. Fresh signal: Buyer's Guide published March 17, 2026. Pitch: Nmbr as the native Canadian payroll data source for Marty AI."
+        },
+        {
+          "id": "nmbr-20260319-5",
+          "company": "Otuvy (CleanTelligent)",
+          "contact": "Joseph Jenkins",
+          "title": "CEO & Co-Founder",
+          "email": "joseph@otuvy.com",
+          "signal": "Janitorial/cleaning workforce management SaaS (20+ years in market, rebranded from CleanTelligent to Otuvy). Scheduling, quality inspections, work orders, time tracking for thousands of commercial cleaning companies including Canadian operations. ZERO payroll \u2014 cleaning staff hours exported to separate payroll. Cleaning companies = high turnover hourly workers = complex payroll. Nmbr = embedded Canadian payroll for Otuvy's cleaning company clients.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-19",
+          "tags": [
+            "janitorial",
+            "cleaning",
+            "workforce-management",
+            "Canadian-clients",
+            "no-payroll",
+            "20yr-market"
+          ],
+          "notes": "Hunter: valid/score 89. Also joseph@cleantelligent.com (valid/88). Utah-based. Rebranded from CleanTelligent to Otuvy Inc. Caden Jenkins is President. 20+ year track record. Commercial cleaning = high employee turnover, complex hourly payroll, provincial stat holiday rules. Pitch: Nmbr as embedded Canadian payroll for commercial cleaning companies on Otuvy."
+        },
+        {
+          "id": "nmbr-20260319-6",
+          "company": "Chckvet",
+          "contact": "Elliott Greenwood",
+          "title": "Co-Founder",
+          "email": "elliott@chckvet.com",
+          "signal": "Veterinary practice management startup \u2014 just closed pre-seed funding (June 2025). Online booking, client portals, automated communications for vet clinics. Manages staff scheduling and practice ops but NO payroll. Canadian vet clinics employ RVTs, techs, and front desk staff needing payroll. Growing fast post-funding. Nmbr = embedded Canadian payroll for vet clinics on Chckvet.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-19",
+          "tags": [
+            "veterinary",
+            "startup",
+            "pre-seed",
+            "no-payroll",
+            "founder-accessible"
+          ],
+          "notes": "Hunter: valid/score 44 \u2014 low confidence, LinkedIn recommended. Pre-seed closed June 2025. Co-founders: Elliott Greenwood (Business Lead), George Villaume, Matthew Ieyoub, Colin Hebert. LinkedIn: linkedin.com/company/chckvet. Early-stage = fastest decision cycle. Pitch: Nmbr as the payroll module Chckvet embeds for their vet clinic clients."
+        },
+        {
+          "id": "nmbr-20260319-7",
+          "company": "Provet Cloud (Nordhealth)",
+          "contact": "Nordhealth Leadership",
+          "title": "VP Partnerships",
+          "email": "",
+          "signal": "Finnish AI-powered veterinary PIMS serving 15,000+ clinics in 30+ countries. Just launched North American pilot program (Jan 2025). Manages clinic scheduling, patient records, invoicing \u2014 but NO staff payroll for vet clinics. 70,000+ veterinary professionals on platform. Canadian vet clinics on Provet need compliant Canadian payroll. Nmbr = the embedded Canadian payroll partner for Provet's North American expansion.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-19",
+          "tags": [
+            "veterinary",
+            "Finnish",
+            "North-America-expansion",
+            "15K-clinics",
+            "no-payroll",
+            "enterprise"
+          ],
+          "notes": "LinkedIn only \u2014 email undeliverable. Part of Nordhealth (Helsinki). 400 employees. North American pilot launched Jan 2025. LinkedIn: linkedin.com/company/provet-cloud. Enterprise play \u2014 approach via VP Partnerships or Head of North America. Pitch: Nmbr as the Canadian payroll partner to complete Provet's North American offering."
         }
       ]
     },
@@ -6067,6 +6208,101 @@
             "CourseCreator",
             "Coaching",
             "Scaling"
+          ]
+        },
+        {
+          "id": "charlie-prospects-20260319-841b0f56",
+          "company": "StoryLearning",
+          "contact": "Olly Richards",
+          "title": "Founder & CEO",
+          "email": "olly@storylearning.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "Actively hiring remote high-ticket salesperson for coaching programme (March 2026). Runs 10-week VIP coaching at premium pricing. Growing sales team = perfect Charlie fit.",
+          "notes": "Hunter: deliverable/100. Language learning coaching, high-ticket VIP program.",
+          "added": "2026-03-19",
+          "tags": [
+            "coaching",
+            "high-ticket",
+            "hiring-setter",
+            "education"
+          ]
+        },
+        {
+          "id": "charlie-prospects-20260319-1b8777c9",
+          "company": "Team AE Nation",
+          "contact": "Brian Mark",
+          "title": "Founder & CEO",
+          "email": "",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "600K+ IG following. Helps online fitness coaches scale to 10-100k/mo. High-ticket coaching with DM-based sales. Uses setters for Instagram outreach \u2014 perfect Charlie demo.",
+          "notes": "Email undeliverable. LinkedIn only. Massive IG presence @therealbrianmark.",
+          "added": "2026-03-19",
+          "tags": [
+            "fitness-coaching",
+            "high-ticket",
+            "Instagram",
+            "DM-sales"
+          ]
+        },
+        {
+          "id": "charlie-prospects-20260319-217df796",
+          "company": "Luisa Zhou Coaching",
+          "contact": "Luisa Zhou",
+          "title": "Founder & CEO",
+          "email": "luisa@luisazhou.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "Eight-figure coaching business. Helps professionals build coaching businesses. Runs high-ticket programs with application funnels. Active content marketing = high lead volume needing setter capacity.",
+          "notes": "Hunter: deliverable/100. Princeton-trained engineer turned coach. Massive scale.",
+          "added": "2026-03-19",
+          "tags": [
+            "coaching",
+            "high-ticket",
+            "course-creator",
+            "eight-figure"
+          ]
+        },
+        {
+          "id": "charlie-prospects-20260319-cc2411c7",
+          "company": "First Choice Business Coaching",
+          "contact": "Michael Kitka",
+          "title": "Founder",
+          "email": "michael@michaelkitka.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "Actively creating content on scaling high-ticket coaching in 2026. Runs application-based coaching program. Growing brand = growing lead volume = setter need.",
+          "notes": "Hunter: deliverable/92. YouTube-active, funnel-driven model.",
+          "added": "2026-03-19",
+          "tags": [
+            "coaching",
+            "high-ticket",
+            "scaling",
+            "funnel"
+          ]
+        },
+        {
+          "id": "charlie-prospects-20260319-722121d5",
+          "company": "Hungry for Happiness",
+          "contact": "Samantha Skelly",
+          "title": "Founder & CEO",
+          "email": "samantha@hungryforhappiness.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "Multi-million dollar wellness coaching certification. Also runs Pause Breathwork (hiring setters at -45K). Two coaching businesses at scale = massive setter/closer need across both brands.",
+          "notes": "Hunter: deliverable/88. Also founder of Pause Breathwork. 28K IG followers on HFH.",
+          "added": "2026-03-19",
+          "tags": [
+            "wellness-coaching",
+            "high-ticket",
+            "certification",
+            "hiring-setter"
           ]
         }
       ]
@@ -8551,9 +8787,104 @@
             "Appointment-Setting",
             "B2B"
           ]
+        },
+        {
+          "id": "charlie-partners-20260319-ed4d42ff",
+          "company": "GHL Playbook",
+          "contact": "Dakota Routh",
+          "title": "Founder & CEO",
+          "email": "",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "Runs leading GoHighLevel SaaS coaching program. 3X SaaS Award winner. Teaches agencies how to build/scale GHL businesses. His clients ARE high-ticket coaches needing setters \u2014 referral goldmine.",
+          "notes": "Email undeliverable. LinkedIn only. Runs ghlplaybook.com + ghlcentral.com.",
+          "added": "2026-03-19",
+          "tags": [
+            "GHL",
+            "SaaS",
+            "coaching-platform",
+            "referral-partner"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260319-16d7fbea",
+          "company": "DM Tracker",
+          "contact": "Unknown",
+          "title": "Founder",
+          "email": "",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "Instagram DM CRM built specifically for coaching setter/closer teams. Scaled 120+ coaches past six figures. Direct competitor to manual setter workflows \u2014 partnership or integration play.",
+          "notes": "Founder name not public. LinkedIn only. support@dmtracker.ai score 45 (risky).",
+          "added": "2026-03-19",
+          "tags": [
+            "SaaS",
+            "DM-CRM",
+            "setter-tool",
+            "coaching-tech"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260319-61e5859b",
+          "company": "Inro Social",
+          "contact": "Etienne (Co-founder)",
+          "title": "Co-Founder & CEO",
+          "email": "",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "Meta-verified Instagram DM automation for coaches/creators. 10K+ users. Built-in CRM + AI agent for DMs. Integration partner opportunity \u2014 Charlie complements Inro's automation with human-like AI setting.",
+          "notes": "All emails undeliverable. LinkedIn only. French-based, global user base.",
+          "added": "2026-03-19",
+          "tags": [
+            "SaaS",
+            "DM-automation",
+            "Instagram",
+            "coaching-tech"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260319-c0f25f4a",
+          "company": "Centripe AI",
+          "contact": "Ajeet Singh",
+          "title": "Founder & CEO",
+          "email": "",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "GHL alternative with AI copilots + white-label CRM for agencies serving coaches. Migrating GHL agencies = their clients need setter solutions. Integration/referral partner play.",
+          "notes": "All emails undeliverable. LinkedIn only: linkedin.com/in/ajeetsinghcrm/. California-based.",
+          "added": "2026-03-19",
+          "tags": [
+            "SaaS",
+            "CRM",
+            "GHL-alternative",
+            "agency-platform"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260319-750ec14b",
+          "company": "Tyson Group",
+          "contact": "Lance Tyson",
+          "title": "Founder & CEO",
+          "email": "lance@tysongroup.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "Just launched High-Performance Sales Coaching certification (March 2026). Top 20 online sales training company. Trains sales teams for coaching/consulting firms \u2014 their clients need setter tools.",
+          "notes": "Hunter: deliverable/89. Dublin, OH. B2B sales training, events industry focus.",
+          "added": "2026-03-19",
+          "tags": [
+            "sales-training",
+            "coaching",
+            "B2B",
+            "certification"
+          ]
         }
       ]
     }
   ],
-  "updated": "2026-03-18T18:08:22.911106+00:00"
+  "updated": "2026-03-19T11:36:47.716657+00:00"
 }
