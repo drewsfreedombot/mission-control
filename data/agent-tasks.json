@@ -1,25 +1,20 @@
 {
   "sections": [
     {
-      "title": "TODO",
-      "status": "info",
-      "tasks": []
-    },
-    {
-      "title": "COMPLETED",
-      "status": "completed",
+      "title": "IN PROGRESS",
+      "status": "in-progress",
       "tasks": [
         {
-          "name": "Evening Reflection \u2014 2026-03-18",
+          "name": "Evening Reflection \u2014 2026-03-19",
           "notes": [
-            "**Status:** \u2705 Complete \u2014 priorities saved for Mar 19",
-            "Professional #1: Follow up on old Nmbr opportunities",
-            "Personal #1: Meditate",
-            "Saved to memory/priorities/2026-03-19.md"
+            "**Status:** Waiting for Drew's reply (Step 1 of 4)",
+            "**Flow:**",
+            "**Save to:** memory/priorities/2026-03-20.md",
+            "**Close with:** \"Locked in. I will remind you of these at 6 AM tomorrow. Have a good night \ud83d\udcaa\""
           ]
         }
       ]
     }
   ],
-  "updatedAt": "2026-03-19T20:00:00.845182+00:00"
+  "updatedAt": "2026-03-19T20:30:32.221513+00:00"
 }
