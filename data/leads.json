@@ -4958,6 +4958,148 @@
             "enterprise"
           ],
           "notes": "LinkedIn only \u2014 email undeliverable. Part of Nordhealth (Helsinki). 400 employees. North American pilot launched Jan 2025. LinkedIn: linkedin.com/company/provet-cloud. Enterprise play \u2014 approach via VP Partnerships or Head of North America. Pitch: Nmbr as the Canadian payroll partner to complete Provet's North American offering."
+        },
+        {
+          "id": "nmbr-20260320-e652ae14",
+          "company": "JitBase",
+          "contact": "Fr\u00e9d\u00e9ric Scherer",
+          "title": "",
+          "email": "frederic.scherer@jitbase.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "AI",
+          "signal": "Montreal-based manufacturing production scheduling & workforce management SaaS. Manages worker scheduling, shift planning, machine allocation for Canadian manufacturers \u2014 but ZERO payroll processing. Workers' hours exported to external payroll. Canadian manufacturing payroll = union agreements, overtime complexity, provincial stat holidays. Nmbr = embedded Canadian payroll to complete JitBase's manufacturing workforce stack.",
+          "notes": "Hunter: valid/100. CEO also known as Frederic Scherer. LinkedIn: linkedin.com/company/jitbase. jitbase.com. Co-founder: Francois Laforge. Montreal HQ. Centech-backed. Pitch: Nmbr as embedded payroll so manufacturing clients get scheduling \u2192 paystub in one platform.",
+          "added": "2026-03-20",
+          "tags": [
+            "Canadian",
+            "Montreal",
+            "Manufacturing",
+            "Workforce-Management",
+            "No-Payroll"
+          ]
+        },
+        {
+          "id": "nmbr-20260320-bb05bc1a",
+          "company": "MaidCentral",
+          "contact": "Tom Stewart",
+          "title": "",
+          "email": "tom@maidcentral.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "AI",
+          "signal": "Cleaning franchise management SaaS \u2014 scheduling, dispatch, employee time & attendance, KPI tracking. Serves Maid Brigade franchise (Nov 2024 partnership) and hundreds of residential cleaning companies. Collects payroll INFORMATION but exports to external payroll providers \u2014 no native Canadian payroll processing. Cleaning companies = high turnover hourly workers, multi-location, complex provincial rules. Nmbr = embedded Canadian payroll to close the scheduling\u2192paystub loop for cleaning franchises.",
+          "notes": "Hunter: valid/44 (deliverable but low confidence \u2014 use cautiously). LinkedIn: linkedin.com/in/tomstewart2. CEO & Founder. Charleston SC HQ but serves US & Canada. Maid Brigade franchise partnership Nov 2024 = growing distribution. Pitch: Nmbr as the embedded Canadian payroll partner for MaidCentral's Canadian cleaning franchise clients.",
+          "added": "2026-03-20",
+          "tags": [
+            "Cleaning",
+            "Franchise",
+            "US-Platform",
+            "Canadian-Clients",
+            "No-Payroll"
+          ]
+        },
+        {
+          "id": "nmbr-20260320-be5ba2a3",
+          "company": "Nexudus",
+          "contact": "Adrian Palacios",
+          "title": "",
+          "email": "adrian@nexudus.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "AI",
+          "signal": "London-based coworking and flexible workspace management SaaS serving Canadian coworking spaces (WeWork competitors, indie spaces). Manages booking, member billing, staff scheduling \u2014 but ZERO payroll for space operators' staff. Coworking operators employ community managers, cleaners, front desk staff who need payroll. Growing Canadian coworking market (post-COVID hybrid work). Nmbr = embedded Canadian payroll for Nexudus's Canadian workspace operator clients.",
+          "notes": "Hunter: valid/100. LinkedIn: linkedin.com/company/nexudus. nexudus.com. Co-founded by Adrian Palacios. 60+ native integrations. Serves 1000+ coworking spaces globally incl Canadian spaces. Pitch: Nmbr as embedded Canadian payroll partner \u2014 workspace operators manage staff through Nexudus but pay them elsewhere.",
+          "added": "2026-03-20",
+          "tags": [
+            "Coworking",
+            "Workspace-Management",
+            "UK-Platform",
+            "Canadian-Clients",
+            "No-Payroll"
+          ]
+        },
+        {
+          "id": "nmbr-20260320-b2805a7c",
+          "company": "Medexa",
+          "contact": "Medexa Team",
+          "title": "",
+          "email": "support@medexa.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "AI",
+          "signal": "Canadian rehabilitation clinic management SaaS. Manages scheduling, patient records, billing for physiotherapy/chiropractic/massage therapy clinics across Canada. NO payroll for clinic staff \u2014 therapists, admin, and front desk paid through external systems. Quebec-based = bilingual, deep understanding of provincial compliance. Nmbr = embedded Canadian payroll for rehab clinics already using Medexa.",
+          "notes": "Hunter: valid/100 (support@). CEO name not publicly listed \u2014 approach via support first. medexa.com. Quebec-based (bilingual EN/FR). Serves rehab professionals across Canada. Clinic payroll = hourly therapists, commission-based pay, provincial licensing premiums. Pitch: Nmbr as embedded payroll so clinics stop manually exporting to ADP.",
+          "added": "2026-03-20",
+          "tags": [
+            "Healthcare",
+            "Rehab",
+            "Canadian",
+            "Quebec",
+            "Clinic-Management",
+            "No-Payroll"
+          ]
+        },
+        {
+          "id": "nmbr-20260320-929f0cc5",
+          "company": "MaidEasy Software",
+          "contact": "MaidEasy Team",
+          "title": "",
+          "email": "support@maideasysoftware.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "AI",
+          "signal": "Home cleaning business management SaaS \u2014 scheduling, dispatch, employee tracking, payment processing, customer management. Website explicitly mentions payroll SUPPORT (exporting timesheets) but not native payroll processing. Canadian cleaning businesses on MaidEasy bridge to external payroll every pay cycle. Nmbr = embedded Canadian payroll for cleaning company operators.",
+          "notes": "Hunter: accept_all/70 (risky). maideasysoftware.com. CEO/founder name not publicly listed. Serves residential cleaning businesses in US & Canada. Competes with MaidCentral, Swept. Pitch: Nmbr as embedded Canadian payroll to differentiate from competitors in the cleaning vertical.",
+          "added": "2026-03-20",
+          "tags": [
+            "Cleaning",
+            "Canadian-Clients",
+            "Staff-Scheduling",
+            "No-Payroll"
+          ]
+        },
+        {
+          "id": "nmbr-20260320-3d975109",
+          "company": "TrueContext (ProntoForms)",
+          "contact": "Alvaro Pombo",
+          "title": "",
+          "email": "",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "AI",
+          "signal": "Ottawa-based mobile forms and field data SaaS (publicly traded). 2,500+ business customers including Canadian field service, construction, utilities companies. Manages field worker data collection, inspections, work orders \u2014 but NO payroll. Field workers log hours through TrueContext forms that get manually entered into payroll. Nmbr = embedded Canadian payroll to close the field data \u2192 paystub loop.",
+          "notes": "Hunter: invalid (info@ undeliverable). LinkedIn only: linkedin.com/company/truecontext. Ottawa, ON. Publicly traded (formerly ProntoForms). CEO: Alvaro Pombo. 2,500+ customers globally. Pitch: Nmbr as embedded Canadian payroll for TrueContext's field service customers who already capture time/hours data.",
+          "added": "2026-03-20",
+          "tags": [
+            "Canadian",
+            "Ottawa",
+            "Field-Service",
+            "Public-Company",
+            "No-Payroll",
+            "Mobile-Forms"
+          ]
+        },
+        {
+          "id": "nmbr-20260320-d0e55b73",
+          "company": "Boreal Ventures (VC Channel Partner)",
+          "contact": "David Charbonneau",
+          "title": "",
+          "email": "",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "AI",
+          "signal": "Montreal VC firm that just launched $60M Fund II (March 16, 2026) specifically investing in Canadian vertical SaaS and blue-collar tech. Their portfolio companies = Canadian workforce/industrial SaaS startups that NEED embedded payroll. CHANNEL PARTNER opportunity: Nmbr becomes the recommended payroll partner for Boreal's entire portfolio of Canadian B2B startups.",
+          "notes": "Hunter: email unverifiable. LinkedIn: linkedin.com/company/boreal-ventures. David Charbonneau is Co-Managing Partner. PR Newswire March 16 2026 confirms Fund II launch. Centech partnership. DIFFERENT APPROACH: This is a VC channel partner play, not a direct embed prospect. Warm intro to all their portfolio companies. Contact via LinkedIn or events.",
+          "added": "2026-03-20",
+          "tags": [
+            "VC",
+            "Channel-Partner",
+            "Montreal",
+            "Canadian",
+            "Blue-Collar-Tech",
+            "Portfolio-Play"
+          ]
         }
       ]
     },
@@ -9409,5 +9551,5 @@
       ]
     }
   ],
-  "updated": "2026-03-19T18:06:05.003673+00:00"
+  "updated": "2026-03-20T11:06:14.038685+00:00"
 }
