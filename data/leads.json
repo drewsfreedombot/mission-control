@@ -7007,6 +7007,106 @@
             "ads-coach",
             "meta-ads"
           ]
+        },
+        {
+          "id": "charlie-prospects-20260320-f0ecaf08",
+          "company": "Kelsey Reidl Coaching",
+          "contact": "Kelsey Reidl",
+          "title": "Founder & Business Coach",
+          "email": "hello@kelseyreidl.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Scout AI",
+          "signal": "Canada's #1 ranked marketing/business coach in Toronto. High-ticket coaching & marketing consulting for entrepreneurs. Appointment-based 'book a call' model. Perfect Charlie ICP.",
+          "notes": "Hunter: API error, email unverified. Email found on Facebook page, Western alumni directory, and website privacy policy. Toronto, ON, Canada.",
+          "added": "2026-03-20",
+          "tags": [
+            "Canadian",
+            "Business Coach",
+            "High-Ticket",
+            "Toronto"
+          ]
+        },
+        {
+          "id": "charlie-prospects-20260320-54ea05bd",
+          "company": "Iron Lab Strength",
+          "contact": "Martin Voslar",
+          "title": "Founder & Head Coach",
+          "email": "martin@ironlab.ca",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Scout AI",
+          "signal": "Vancouver-based personal training company with online coaching, 'book a call' model, growing team. High-ticket body transformation coaching. Founded 2011, scaling online.",
+          "notes": "Hunter: API error, email unverified. Email found on HealthChoicesFirst.com and ZoomInfo listing. Vancouver, BC, Canada.",
+          "added": "2026-03-20",
+          "tags": [
+            "Canadian",
+            "Fitness Coach",
+            "High-Ticket",
+            "Vancouver",
+            "Online Coaching"
+          ]
+        },
+        {
+          "id": "charlie-prospects-20260320-45c8d014",
+          "company": "OverHaul Fitness",
+          "contact": "Michael Fouts",
+          "title": "Owner, Personal Trainer & Registered Dietitian",
+          "email": "info@overhaulfitness.ca",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Scout AI",
+          "signal": "Edmonton-based fitness coaching company (est. 2014) with team of trainers, online 1-on-1 coaching model with 'book a call' funnel. Expanding across 8 Canadian provinces. Growing team signals need for lead management.",
+          "notes": "Hunter: API error, email unverified. General email from website team page. Full name confirmed via author page. Edmonton, AB, Canada.",
+          "added": "2026-03-20",
+          "tags": [
+            "Canadian",
+            "Fitness Coach",
+            "High-Ticket",
+            "Edmonton",
+            "Online Coaching"
+          ]
+        },
+        {
+          "id": "charlie-prospects-20260320-04d27fb3",
+          "company": "Signature Cosmetic Clinic",
+          "contact": "Eva Jin",
+          "title": "President & CEO",
+          "email": "info@signaturemedispa.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Scout AI",
+          "signal": "Multi-location med spa chain in Toronto/GTA (6 locations). Consultation-based sales model. RBC Canadian Women Entrepreneur Award nominee. 20+ years in industry. Rapid expansion = high appointment volume needs.",
+          "notes": "Hunter: API error, email unverified. General email from Facebook page. Eva Jin confirmed as President via LinkedIn and company website. Toronto/Vaughan/Markham, ON, Canada.",
+          "added": "2026-03-20",
+          "tags": [
+            "Canadian",
+            "Med Spa",
+            "High-Ticket",
+            "Toronto",
+            "Multi-Location"
+          ]
+        },
+        {
+          "id": "charlie-prospects-20260320-d8f84ebb",
+          "company": "Mitera Coaching",
+          "contact": "Salina Mitera",
+          "title": "Founder & Confidence Coach",
+          "email": "info@miteracoaching.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Scout AI",
+          "signal": "Oakville/Mississauga-based coaching & hypnotherapy practice with 'book a free consultation' model. Serves entrepreneurs, corporate clients. Multiple services across GTA (Mississauga, Oakville, Burlington, Hamilton). High-ticket coaching programs including Virtual Weight Loss Jab and corporate workshops.",
+          "notes": "Hunter: API error, email unverified. Email found on contact page (info@miteracoaching.com). Oakville, ON, Canada.",
+          "added": "2026-03-20",
+          "tags": [
+            "Canadian",
+            "Life Coach",
+            "High-Ticket",
+            "Oakville",
+            "GTA",
+            "Corporate"
+          ]
         }
       ]
     },
@@ -9687,5 +9787,5 @@
       ]
     }
   ],
-  "updated": "2026-03-20T12:06:37.455539+00:00"
+  "updated": "2026-03-20T18:06:17.582747+00:00"
 }
