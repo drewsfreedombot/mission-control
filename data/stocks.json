@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-19T17:30:27",
+  "lastUpdated": "2026-03-20T09:04:38",
   "stocks": [
     {
       "ticker": "BAM.TO",
@@ -1201,6 +1201,30 @@
       "changePct": -0.6,
       "high52": 70.44,
       "low52": 34.92
+    },
+    {
+      "ticker": "TRP.TO",
+      "name": "TC Energy Corporation",
+      "currentPrice": 88.0,
+      "currency": "CAD",
+      "week52Low": 60.0,
+      "week52High": 90.0,
+      "conservativeEstimate": 85.0,
+      "optimisticEstimate": 92.0,
+      "yield": "4.0%",
+      "rating": "Watchlist",
+      "thesis": "Post-spinoff pure nat gas pipeline + nuclear play. 57,500mi pipeline network, 15 flow records in 2025. Data center demand exploding \u2014 Columbia Gas open season 3x oversubscribed. 26 consecutive dividend increases. C$11.6-11.8B EBITDA guided for 2026. Entry zone C$78-82.",
+      "risks": "Near ATH with thin margin of safety. ~98% GAAP payout ratio. Above average analyst target. Goldman Strong Sell.",
+      "researchDate": "2026-03-20",
+      "priceVs52wLow": "+47%",
+      "analystTarget": 85.0,
+      "analystTargetHigh": 92.0,
+      "analystTargetLow": 72.0,
+      "numAnalysts": 19,
+      "analystConsensus": "moderate_buy",
+      "upsideToTarget": -3.4,
+      "lastUpdated": "2026-03-20",
+      "week52Avg": 72.0
     }
   ],
   "lastRanked": "2026-03-19T19:05:27Z"
