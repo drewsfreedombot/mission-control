@@ -6889,6 +6889,42 @@
             "Mastermind",
             "ConsultationBased"
           ]
+        },
+        {
+          "id": "charlie-prospects-20260320-9d16dd1c",
+          "company": "Mariah Coz / Fearless CEO",
+          "contact": "Mariah Coz",
+          "title": "Founder & CEO",
+          "email": "mariah@mariahcoz.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "Multi-million dollar high-ticket coaching biz. Enrolls 10-30 HT clients/month via evergreen funnels. Needs setter to handle funnel leads at scale.",
+          "notes": "Hunter: error/unverified",
+          "added": "2026-03-20",
+          "tags": [
+            "high-ticket",
+            "course-creator",
+            "evergreen-funnels"
+          ]
+        },
+        {
+          "id": "charlie-prospects-20260320-1a7839c1",
+          "company": "Lucia Doynel Coaching",
+          "contact": "Lucia Doynel",
+          "title": "Founder",
+          "email": "lucia@luciadoynel.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "FB/IG ads expert for coaches. Runs coaching plus DFY ads for coaches. Uses Meta Forms for lead gen - perfect AI setter use case.",
+          "notes": "Hunter: error/unverified",
+          "added": "2026-03-20",
+          "tags": [
+            "high-ticket",
+            "ads-coach",
+            "meta-ads"
+          ]
         }
       ]
     },
@@ -9547,9 +9583,27 @@
             "Toronto",
             "Established"
           ]
+        },
+        {
+          "id": "charlie-partners-20260320-a5fcfd79",
+          "company": "Setters N Closers (settersnclosers.com)",
+          "contact": "Unknown",
+          "title": "Founder",
+          "email": "",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "Recruits sales talent fast - setters and closers for HT coaches. Australia-based LinkedIn presence. 24 followers but active niche. Competitive intelligence + partner potential.",
+          "notes": "LinkedIn only - no email found",
+          "added": "2026-03-20",
+          "tags": [
+            "setter-placement",
+            "competitive-intel",
+            "referral-partner"
+          ]
         }
       ]
     }
   ],
-  "updated": "2026-03-20T11:06:14.038685+00:00"
+  "updated": "2026-03-20T11:35:42.597696+00:00"
 }
