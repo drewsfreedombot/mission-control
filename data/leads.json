@@ -5100,6 +5100,88 @@
             "Blue-Collar-Tech",
             "Portfolio-Play"
           ]
+        },
+        {
+          "id": "nmbr-20260320-4c67299e",
+          "company": "UpperBee",
+          "contact": "Eric Deslauriers",
+          "title": "CEO",
+          "email": "edeslauriers@upperbee.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Scout AI",
+          "signal": "Montreal property management SaaS with payroll for staff - manages condo/HOA/multi-residential portfolios across Canada. Already handles complex property accounting - payroll for building staff is a natural embedded extension. Expanding into US market (Florida).",
+          "notes": "Hunter: API error, email unverified. Email pattern from RocketReach (e******@upperbee.com). Montreal-based, CPA background. LinkedIn: linkedin.com/in/ericdeslaurierscma",
+          "added": "2026-03-20",
+          "tags": [
+            "Canadian",
+            "PropertyManagement",
+            "SaaS",
+            "Vertical",
+            "Quebec"
+          ]
+        },
+        {
+          "id": "nmbr-20260320-25e213dd",
+          "company": "PHRBO (ConverjIT Technologies)",
+          "contact": "Jonathan Page",
+          "title": "Founding Partner",
+          "email": "jonathan@converjit.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Scout AI",
+          "signal": "Etobicoke ON SaaS for PEOs, EORs, and staffing agencies - just launched PHRBO v2 in Feb 2025 with new architecture for global payroll. They build payroll infrastructure for staffing firms - Nmbr could be the Canadian payroll engine they plug into instead of building their own.",
+          "notes": "Hunter: API error, email unverified. ZoomInfo shows j***@converjit.com. Previously ran Careerleaf. Schulich MBA. Medium: converjit.medium.com",
+          "added": "2026-03-20",
+          "tags": [
+            "Canadian",
+            "Staffing",
+            "PEO",
+            "EOR",
+            "PayrollInfra",
+            "Ontario"
+          ]
+        },
+        {
+          "id": "nmbr-20260320-a60087a8",
+          "company": "iOrders Technologies",
+          "contact": "Rakesh Pillai",
+          "title": "Co-Founder",
+          "email": "info@iorders.ca",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Scout AI",
+          "signal": "Saskatchewan-based Canadian restaurant SaaS serving 300+ restaurants with white-label ordering, delivery, and workforce tools. Integrates with 7Shifts for scheduling but no embedded payroll - this is exactly the gap Nmbr fills for restaurant vertical SaaS. Commission-free model means they want to add revenue streams like payroll.",
+          "notes": "Hunter: API error, email unverified. info@iorders.ca is general company email - personal email not found. Co-founded with Dhanesh Udayan. Cultivator accelerator grad. LinkedIn: linkedin.com/company/iorders-technologies",
+          "added": "2026-03-20",
+          "tags": [
+            "Canadian",
+            "Restaurant",
+            "VerticalSaaS",
+            "Saskatchewan",
+            "FoodTech"
+          ]
+        },
+        {
+          "id": "nmbr-20260320-1b13ebb4",
+          "company": "Antaris Technologies",
+          "contact": "Frederic Schutter",
+          "title": "Co-Founder",
+          "email": "frederic@antaris.ca",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Scout AI",
+          "signal": "Vaughan ON gym management SaaS handling memberships, scheduling, classes, payment processing, reporting AND payroll for fitness clubs across Canada. Already does payroll in-house - could be a candidate to white-label Nmbr embedded payroll instead of maintaining their own. Serves health clubs, wellness centers, tennis clubs.",
+          "notes": "Hunter: API error, email unverified. Co-founded with Michael Raphael in 2008. Unfunded/bootstrapped. Ontario-based. Website: antaris.ca",
+          "added": "2026-03-20",
+          "tags": [
+            "Canadian",
+            "Fitness",
+            "GymSaaS",
+            "Vertical",
+            "Ontario",
+            "Payroll"
+          ]
         }
       ]
     },
@@ -9605,5 +9687,5 @@
       ]
     }
   ],
-  "updated": "2026-03-20T11:35:42.597696+00:00"
+  "updated": "2026-03-20T12:06:37.455539+00:00"
 }
