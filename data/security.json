@@ -1,30 +1,30 @@
 {
-  "lastCheck": "2026-03-19T04:00:00-04:00",
+  "lastCheck": "2026-03-21T04:00:00-04:00",
   "status": "nominal",
   "checks": {
     "disk": {
       "status": "ok",
-      "detail": "392Gi free (4% used)"
+      "detail": "390Gi free (4% used)"
+    },
+    "uptime": {
+      "status": "ok",
+      "detail": "9 days 16h, load 1.59"
     },
     "gateway": {
       "status": "ok",
-      "detail": "Running, pid 8678"
+      "detail": "Running (pid 23177)"
     },
     "tailscale": {
       "status": "ok",
-      "detail": "Connected, 9 peers"
+      "detail": "Connected"
     },
     "configIntegrity": {
       "status": "ok",
       "detail": "Hash unchanged"
     },
-    "uptime": {
-      "status": "ok",
-      "detail": "7d 16h, load 1.88"
-    },
     "logins": {
       "status": "ok",
-      "detail": "No suspicious logins"
+      "detail": "No suspicious activity"
     },
     "processes": {
       "status": "ok",
