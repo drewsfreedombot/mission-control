@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-20T17:30:24",
+  "lastUpdated": "2026-03-21T09:07:20",
   "stocks": [
     {
       "ticker": "BAM.TO",
@@ -1231,6 +1231,29 @@
       "changePct": -0.31,
       "high52": 68.71,
       "low52": 34.92
+    },
+    {
+      "ticker": "SLF.TO",
+      "name": "Sun Life Financial Inc.",
+      "currentPrice": 86.0,
+      "currency": "CAD",
+      "week52Low": 74.56,
+      "week52High": 94.76,
+      "conservativeEstimate": 96.44,
+      "optimisticEstimate": 103.0,
+      "yield": "4.3%",
+      "rating": "Buy",
+      "thesis": "Record Q4/FY2025: underlying EPS C$7.45 (+12%), ROE 19.1%, AUM C$1.605T. 9% pullback from ATH on market weakness \u2014 not company-specific. 14x P/E for 12% growth + 47% payout ratio is cheap. Avg analyst target C$96.44 (12% upside).",
+      "risks": "MFS equity market exposure. Financial leverage ratio increased to 23.5%. Insurance cycle risk.",
+      "researchDate": "2026-03-21",
+      "priceVs52wLow": "+15%",
+      "analystTarget": 96.44,
+      "analystTargetHigh": 103.0,
+      "analystTargetLow": 84.0,
+      "numAnalysts": 10,
+      "analystConsensus": "hold",
+      "upsideToTarget": 12.1,
+      "lastUpdated": "2026-03-21"
     }
   ],
   "lastRanked": "2026-03-20T19:05:30Z"
