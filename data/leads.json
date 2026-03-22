@@ -5284,6 +5284,112 @@
           ],
           "notes": "Hunter: info/contact emails invalid. LinkedIn only. yardbook.com. Founder name not publicly listed. Canadian presence confirmed (CAD pricing, satellite lot measuring). Freemium model = large user base. Pitch: Nmbr as premium payroll add-on for Yardbook's Canadian users who need CRA-compliant payroll.",
           "linkedin": "https://www.linkedin.com/company/yardbook/"
+        },
+        {
+          "company": "Staffy",
+          "contact": "Peter Faist",
+          "title": "CEO & Founder",
+          "email": "peter@staffy.com",
+          "signal": "Canadian healthcare staffing marketplace (Toronto). Manages shift scheduling, workforce deployment, and compliance for hospitals and LTC facilities \u2014 but sends staff to payroll elsewhere. 950+ healthcare organizations. Embedded payroll would let them own the full employment lifecycle.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-22",
+          "tags": [
+            "Healthcare",
+            "Canadian",
+            "SaaS",
+            "Staffing"
+          ],
+          "notes": "Hunter: valid/100. LinkedIn: https://www.linkedin.com/in/peterfaist/. \ud83c\udde8\ud83c\udde6 HQ: Toronto, ON.",
+          "id": "nmbr-a9104127129a"
+        },
+        {
+          "company": "StaffStat (Plan A)",
+          "contact": "Sheri Tomchick",
+          "title": "Founder & President",
+          "email": "sheri@staffstat.ca",
+          "signal": "Canadian healthcare shift-fill SaaS (Sudbury, ON). 950+ healthcare orgs, 23k+ healthcare professionals. Automates shift callouts for LTC homes \u2014 handles scheduling but no embedded payroll. 4M+ care hours facilitated annually. Payroll is a natural next module.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-22",
+          "tags": [
+            "Healthcare",
+            "Canadian",
+            "SaaS",
+            "LTC"
+          ],
+          "notes": "Hunter: valid/92. LinkedIn: https://ca.linkedin.com/in/sheri-l-tomchick-05a77137. \ud83c\udde8\ud83c\udde6 HQ: Sudbury, ON.",
+          "id": "nmbr-b47193bc50f3"
+        },
+        {
+          "company": "Caring Support",
+          "contact": "Joseph Jongsma",
+          "title": "CEO & Founder",
+          "email": "joseph@caringsupport.com",
+          "signal": "Canadian healthcare employment platform (London, ON). Connects healthcare workers to employers \u2014 handles hiring, job matching, onboarding. Growing across Ontario. No payroll offering. Embedded payroll would complete their employment lifecycle and drive recurring revenue.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-22",
+          "tags": [
+            "Healthcare",
+            "Canadian",
+            "SaaS",
+            "Employment"
+          ],
+          "notes": "Hunter: valid/100. LinkedIn: https://www.linkedin.com/in/joseph-jongsma-3a7a8137/. \ud83c\udde8\ud83c\udde6 HQ: London, ON.",
+          "id": "nmbr-95cc984c4ebd"
+        },
+        {
+          "company": "Vocantas",
+          "contact": "Marina Avisar",
+          "title": "CEO",
+          "email": "marina@vocantas.com",
+          "signal": "Ottawa-based automated shift fill SaaS for healthcare, manufacturing, and public sector. Integrates with UKG Pro WFM. Fills vacant shifts in minutes via automated callouts. No embedded payroll \u2014 currently passes payroll data to other systems. Natural embed partner.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-22",
+          "tags": [
+            "Healthcare",
+            "Manufacturing",
+            "Canadian",
+            "SaaS"
+          ],
+          "notes": "Hunter: accept_all/70. LinkedIn: https://ca.linkedin.com/company/vocantas. \ud83c\udde8\ud83c\udde6 HQ: Ottawa, ON.",
+          "id": "nmbr-39ce18aa3f08"
+        },
+        {
+          "company": "Shyft (myshyft.com)",
+          "contact": "Brett Patrontasch",
+          "title": "CEO & Co-Founder",
+          "email": "brett@myshyft.com",
+          "signal": "Employee scheduling, shift marketplace, and team communication app for hourly shift workers. Used across retail, hospitality, healthcare. No embedded payroll \u2014 handles scheduling/time data that feeds into third-party payroll. Canadian presence confirmed via job postings.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-22",
+          "tags": [
+            "Scheduling",
+            "Shift Workers",
+            "SaaS"
+          ],
+          "notes": "Hunter: valid/100. LinkedIn: https://www.linkedin.com/in/brettpatrontasch/. Has Canadian clients/market.",
+          "id": "nmbr-b3e620f19b6e"
+        },
+        {
+          "company": "ChildCarePro",
+          "contact": "Management Team",
+          "title": "Leadership",
+          "email": "",
+          "signal": "Canadian childcare management SaaS (first web-based childcare software in Canada). Covers waitlist, enrollment, billing, HR for single/multi-site daycare operations. No payroll module. Serves YMCAs, municipalities, multi-site childcare operators. Payroll is the missing piece for their HR module.",
+          "source": "AI",
+          "stage": "lead",
+          "added": "2026-03-22",
+          "tags": [
+            "Childcare",
+            "Canadian",
+            "SaaS"
+          ],
+          "notes": "Hunter: info@ invalid. LinkedIn only \u2014 contact via website childcarepro.ca. \ud83c\udde8\ud83c\udde6 Canadian company.",
+          "id": "nmbr-6b65e2da5dc1"
         }
       ]
     },
