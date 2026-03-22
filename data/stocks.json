@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-21T19:05:33Z",
+  "lastUpdated": "2026-03-22T09:08:03.920067Z",
   "stocks": [
     {
       "ticker": "BAM.TO",
@@ -1255,6 +1255,31 @@
       "changePct": -0.31,
       "high52": 68.71,
       "low52": 34.92
+    },
+    {
+      "ticker": "CAR-UN.TO",
+      "name": "Canadian Apartment Properties REIT",
+      "currentPrice": 35.27,
+      "currency": "CAD",
+      "week52Low": 35.1,
+      "week52High": 46.29,
+      "conservativeEstimate": 44.9,
+      "optimisticEstimate": 58.8,
+      "yield": "4.4%",
+      "rating": "Buy",
+      "thesis": "Canada largest residential REIT at NEW 52-week low. 37.5% discount to NAV of C$56.41. 45,500 suites. FFO/unit C$2.541. Monthly payer. $294M in NCIB buybacks at discount to NAV. Housing supply crisis tailwind. Every analyst target above current price.",
+      "risks": "Interest rate sensitivity. Softer 2026 rental market. REIT distributions less tax-efficient than eligible dividends.",
+      "researchDate": "2026-03-22",
+      "priceVs52wLow": "+0.5%",
+      "analystTarget": 44.9,
+      "analystTargetHigh": 58.8,
+      "analystTargetLow": 45.45,
+      "numAnalysts": 10,
+      "analystConsensus": "buy",
+      "upsideToTarget": 27.3,
+      "lastUpdated": "2026-03-22T09:08:03.919820Z",
+      "navPerUnit": 56.41,
+      "discountToNav": -37.5
     }
   ],
   "lastRanked": "2026-03-21T19:05:33Z"
