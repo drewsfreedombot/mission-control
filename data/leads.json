@@ -7335,6 +7335,82 @@
             "ecommerce-coaching",
             "ad-funnels"
           ]
+        },
+        {
+          "id": "charlie-prospects-20260322-358aa031",
+          "company": "Profitable Tradie",
+          "contact": "Tony Fraser-Jones",
+          "title": "Founder & CEO",
+          "email": "tony@profitabletradie.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "Actively hiring setters for high-ticket trades coaching; job posting live on TeamTailor for setter role with clear closer progression path",
+          "notes": "email unverified (Hunter API error)",
+          "added": "2026-03-22",
+          "tags": [
+            "Trades",
+            "Coaching",
+            "Setter-Hiring",
+            "Australia"
+          ]
+        },
+        {
+          "id": "charlie-prospects-20260322-30ad101b",
+          "company": "Rental Property Pro",
+          "contact": "Michael Lentsch",
+          "title": "Co-CEO",
+          "email": "michael@rentalpropertypro.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "Won 2026 Global Recognition Award; runs end-to-end setter\u2192closer\u2192support sales structure with 20+ employees using defined scripts; high-ticket RE coaching with 90-day guarantee",
+          "notes": "email unverified (Hunter API error)",
+          "added": "2026-03-22",
+          "tags": [
+            "Real-Estate",
+            "Coaching",
+            "Setter-Infrastructure",
+            "High-Ticket"
+          ]
+        },
+        {
+          "id": "charlie-prospects-20260322-ac48a6c2",
+          "company": "Cashflowpreneur",
+          "contact": "Austin Zelan",
+          "title": "CEO & Founder",
+          "email": "austin@cashflowpreneur.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "High-ticket coaching with daily coaching calls; actively hiring SDR/BDR appointment setters per WayUp job posting; teaches investing/passive income",
+          "notes": "email unverified (Hunter API error)",
+          "added": "2026-03-22",
+          "tags": [
+            "Investing",
+            "Coaching",
+            "Setter-Hiring",
+            "High-Ticket"
+          ]
+        },
+        {
+          "id": "charlie-prospects-20260322-b329f881",
+          "company": "Nick Mirabella / Level Up Academy",
+          "contact": "Nick Mirabella",
+          "title": "Founder",
+          "email": "nick@nickmirabella.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "High-ticket salon business coach with 79K IG followers; owns multiple salon locations NJ/FL; runs coaching + local SEO for salon owners; perfect vertical for AI setter handling inbound leads",
+          "notes": "email unverified (Hunter API error)",
+          "added": "2026-03-22",
+          "tags": [
+            "Salon",
+            "Coaching",
+            "Beauty-Industry",
+            "High-Ticket"
+          ]
         }
       ]
     },
@@ -10051,9 +10127,119 @@
             "leadership",
             "enterprise"
           ]
+        },
+        {
+          "id": "charlie-partners-20260322-587eb5af",
+          "company": "Driven Closer Placement Academy",
+          "contact": "Albert Preciado",
+          "title": "Founder & CEO",
+          "email": "albert@drivenclosers.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "Runs setter\u2192closer placement academy; places trained setters with coaching businesses; multiple companies under Driven Enterprises (M+ net worth); strong referral partner potential",
+          "notes": "email unverified (Hunter API error)",
+          "added": "2026-03-22",
+          "tags": [
+            "Setter-Placement",
+            "Training",
+            "Referral-Partner"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260322-97b4dbff",
+          "company": "Beyond Closers",
+          "contact": "Sharni Campbell",
+          "title": "Co-Founder",
+          "email": "sharni@beyondclosers.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "Australia's #1 recruiter of high-ticket remote sales talent; places setters and closers for coaching businesses; active podcast 'Beyond The Close'; tripled client sales teams",
+          "notes": "email unverified (Hunter API error)",
+          "added": "2026-03-22",
+          "tags": [
+            "Setter-Recruitment",
+            "Australia",
+            "Referral-Partner"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260322-f9ba6b8a",
+          "company": "Email Marketing Heroes",
+          "contact": "Kennedy",
+          "title": "Founder",
+          "email": "kennedy@emailmarketingheroes.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "Email marketing expert serving 8,000+ coaches and course creators; teaches SCORE email system; clients are coaches needing lead nurture and sales calls - ideal referral partner to introduce AI setter to his audience",
+          "notes": "email unverified (Hunter API error); goes by mononym 'Kennedy'",
+          "added": "2026-03-22",
+          "tags": [
+            "Email-Marketing",
+            "Course-Creators",
+            "Referral-Partner"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260322-4f9cf8d6",
+          "company": "Scaling with Sales",
+          "contact": "Unknown Founder",
+          "title": "Founder",
+          "email": "",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "201-500 employee setter/closer training company with immediate job placement; places setters into high-ticket coaching businesses; 7-figure business from 5000+ sales calls; strong partnership opportunity",
+          "notes": "LinkedIn only - founder name not publicly listed; email unverified",
+          "added": "2026-03-22",
+          "tags": [
+            "Setter-Training",
+            "Placement",
+            "Referral-Partner"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260322-b3ebf2ab",
+          "company": "Monica Badiu Copywriting",
+          "contact": "Monica Badiu",
+          "title": "Founder & Copy Coach",
+          "email": "monica@monicabadiu.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "Email copywriter who has made course creators M+; serves coaches, course creators, membership site owners with conversion copy; her clients are exactly who needs AI setters for DM qualification",
+          "notes": "email unverified (Hunter API error)",
+          "added": "2026-03-22",
+          "tags": [
+            "Copywriting",
+            "Course-Creators",
+            "Coaches",
+            "Referral-Partner"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260322-ad09fc16",
+          "company": "Setter to Closer (Skool)",
+          "contact": "Matt Moore",
+          "title": "Founder",
+          "email": "",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Setter Scan",
+          "signal": "Runs Skool community training setters\u2192closers with recruitment pipeline placement; weekly group coaching calls; directly places trained setters into high-ticket coaching businesses - ideal partnership to connect Charlie AI as upgrade path",
+          "notes": "LinkedIn only; active Skool community with placement pipeline",
+          "added": "2026-03-22",
+          "tags": [
+            "Setter-Training",
+            "Placement",
+            "Skool",
+            "Referral-Partner"
+          ]
         }
       ]
     }
   ],
-  "updated": "2026-03-21T11:36:48.367073+00:00"
+  "updated": "2026-03-22T11:36:13.840391+00:00"
 }
