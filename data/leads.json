@@ -5524,6 +5524,86 @@
             "trades"
           ],
           "notes": "Hunter: all email patterns invalid. LinkedIn only. breezeworks.com \u2014 CEO Matthew Cowan, CTO Adam Block. Founded 2013. Capterra Canada reviews. Pitch: Nmbr as embedded Canadian payroll for service businesses on Breezeworks."
+        },
+        {
+          "id": "nmbr-20260323-2f79fc5a",
+          "company": "Visier",
+          "contact": "Ryan Wong",
+          "title": "CEO & Co-Founder",
+          "email": "ryan.wong@visier.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Scout AI",
+          "signal": "Vancouver-based HR analytics platform with $216M+ funding. Provides embedded analytics to HRIS/payroll systems. Their biggest integration need is payroll data \u2014 Nmbr could be a partner for embedded payroll in the Canadian market.",
+          "notes": "Hunter: valid/score 100. Series E. 500+ employees. Offers Vee API for embedded analytics. Partners with SAP, ADP, Workday. Canadian-headquartered.",
+          "added": "2026-03-23",
+          "tags": [
+            "Canadian",
+            "HR-Analytics",
+            "Funded",
+            "Partner",
+            "Enterprise"
+          ]
+        },
+        {
+          "id": "nmbr-20260323-cf6e9506",
+          "company": "Tulip",
+          "contact": "Ali Asaria",
+          "title": "Founder & Board Chair",
+          "email": "ali@tulip.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Scout AI",
+          "signal": "Toronto-based retail SaaS platform ($30M+ funded). Powers store associate workflows for major retailers. Manages workforce scheduling, clienteling, POS \u2014 but no embedded payroll for retail employees. Perfect Nmbr integration point for retail vertical.",
+          "notes": "Hunter: valid/score 91. Founded 2013 Waterloo/Toronto. Backed by Kleiner Perkins. 14K LinkedIn followers. Ali is founder, may have new CEO \u2014 reach out to explore partnership.",
+          "added": "2026-03-23",
+          "tags": [
+            "Canadian",
+            "Retail-SaaS",
+            "Funded",
+            "Workforce",
+            "Toronto"
+          ]
+        },
+        {
+          "id": "nmbr-20260323-413409af",
+          "company": "Applauz Recognition",
+          "contact": "Fran\u00e7ois Fortier",
+          "title": "Founder & CEO",
+          "email": "francois@applauz.me",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Scout AI",
+          "signal": "Montreal-based employee recognition & engagement SaaS. Expanding platform beyond recognition into broader HR suite. Currently integrates with BambooHR, ADP \u2014 adding payroll partner would complete their offering for Canadian SMBs.",
+          "notes": "Hunter: valid/score 100. Montreal HQ. Growing Canadian customer base. Named Best Places to Work 2023 by HRDC. Active in Quebec business community.",
+          "added": "2026-03-23",
+          "tags": [
+            "Canadian",
+            "Employee-Engagement",
+            "Montreal",
+            "Quebec",
+            "SMB"
+          ]
+        },
+        {
+          "id": "nmbr-20260323-1f2b864c",
+          "company": "Achievers",
+          "contact": "Jeff Cates",
+          "title": "CEO & President",
+          "email": "jeff.cates@achievers.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Scout AI",
+          "signal": "Toronto-based employee recognition platform with $50M+ funding and $155M revenue. 1,155 employees. Integrates with ADP for payroll \u2014 but could embed payroll directly via Nmbr for their mid-market Canadian clients who need a local solution.",
+          "notes": "Hunter: valid/score 100. Acquired by Blackhawk Network. Enterprise-grade platform. New CEO Scott Landers joining. Strong Toronto presence.",
+          "added": "2026-03-23",
+          "tags": [
+            "Canadian",
+            "Employee-Recognition",
+            "Enterprise",
+            "Funded",
+            "Toronto"
+          ]
         }
       ]
     },
@@ -10622,5 +10702,5 @@
       ]
     }
   ],
-  "updated": "2026-03-23T12:04:36.856559+00:00"
+  "updated": "2026-03-23T18:07:39.817261+00:00"
 }
