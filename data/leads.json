@@ -10538,9 +10538,89 @@
             "full-funnel",
             "referral-partner"
           ]
+        },
+        {
+          "id": "charlie-partners-20260323-353bbd95",
+          "company": "Startemup Marketing Solutions",
+          "contact": "Emily Bassett",
+          "title": "CEO/Founder",
+          "email": "hello@startemup.ca",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Scout AI",
+          "signal": "Canadian full-service digital marketing agency based in Toronto/Pickering with coaching clients in their portfolio. Run FB/IG ads, funnels, and email marketing. 75+ clients across coaching, e-commerce, and services. Perfect reseller for Charlie AI \u2014 already driving leads for coaching clients who need appointment setting.",
+          "notes": "Hunter: API error (401), email unverified. hello@ is their public contact email. Emily also on LinkedIn. Website: startemup.ca. Co-founded with Connor Rutledge (CTO).",
+          "added": "2026-03-23",
+          "tags": [
+            "Canadian",
+            "Toronto",
+            "Facebook-Ads",
+            "Coaching-Clients",
+            "Full-Service-Agency"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260323-c5fbf54d",
+          "company": "GrowMe Marketing",
+          "contact": "Tarek Mohajer",
+          "title": "Founder/CEO",
+          "email": "tarek@growmemarketing.ca",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Scout AI",
+          "signal": "Calgary-based digital marketing agency running for 13+ years. Specializes in lead generation, Facebook ads, and brand awareness for local businesses. BBB accredited. Perfect Charlie AI partner \u2014 their clients need appointment setting from the leads GrowMe generates.",
+          "notes": "Hunter: API error (401), email unverified. Email from Apollo/RocketReach patterns. BBB lists as Tarek Mohajer, Founder/CEO. Website: growmemarketing.ca",
+          "added": "2026-03-23",
+          "tags": [
+            "Canadian",
+            "Calgary",
+            "Lead-Generation",
+            "Facebook-Ads",
+            "Established-Agency"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260323-34a53ab5",
+          "company": "Click Media Lab",
+          "contact": "Selman Naqvi",
+          "title": "CEO & Founder",
+          "email": "marketing@clickmedialab.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Scout AI",
+          "signal": "Toronto-based full-service digital marketing agency offering white-label services, SEO, Facebook/Instagram ads, and web design to 50+ industries. Offers white-label solutions to agencies \u2014 ideal Charlie AI reseller. 95% client retention rate, serves startups, SMEs, and enterprises. Press release confirms media contact email.",
+          "notes": "Hunter: API error (401), email unverified. marketing@ confirmed in press release. Selman Naqvi confirmed as President/CEO via LinkedIn and multiple directories. Phone: 905-415-3676. Website: clickmedialab.com",
+          "added": "2026-03-23",
+          "tags": [
+            "Canadian",
+            "Toronto",
+            "White-Label",
+            "Full-Service",
+            "50-Industries"
+          ]
+        },
+        {
+          "id": "charlie-partners-20260323-72e21968",
+          "company": "Powerhaus VA",
+          "contact": "Jordan Kuyvenhoven",
+          "title": "Owner",
+          "email": "jordan@kuyven.com",
+          "altContacts": [],
+          "stage": "lead",
+          "source": "Scout AI",
+          "signal": "Vancouver-based virtual assistant agency matching Canadian businesses with pre-vetted VAs. Serves executives, coaches, and business owners. Actively hiring VAs on LinkedIn. Their clients are the exact ICP for Charlie AI \u2014 coaches and consultants who need appointment setting but are outsourcing admin work to VAs. Charlie could automate the setter function.",
+          "notes": "Hunter: API error (401), email unverified. jordan@kuyven.com from personal site kuyven.com. Also known as Jordan Sandhu on LinkedIn. Co-founder of Empower Women Canada. Website: powerhausva.ca",
+          "added": "2026-03-23",
+          "tags": [
+            "Canadian",
+            "Vancouver",
+            "VA-Agency",
+            "Coaches-Clients",
+            "Hiring"
+          ]
         }
       ]
     }
   ],
-  "updated": "2026-03-23T11:36:32.165459+00:00"
+  "updated": "2026-03-23T12:04:36.856559+00:00"
 }
