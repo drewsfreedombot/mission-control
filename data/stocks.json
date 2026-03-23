@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-22T19:05:29Z",
+  "lastUpdated": "2026-03-23T09:13:22.230293Z",
   "stocks": [
     {
       "ticker": "BAM.TO",
@@ -1281,6 +1281,22 @@
       "changePct": -0.31,
       "high52": 68.71,
       "low52": 34.92
+    },
+    {
+      "ticker": "NTR.TO",
+      "name": "Nutrien Ltd.",
+      "currentPrice": 102.69,
+      "currency": "CAD",
+      "week52Low": 62.72,
+      "week52High": 116.94,
+      "conservativeEstimate": 109.6,
+      "optimisticEstimate": 137.0,
+      "yield": "3.0%",
+      "rating": "Buy",
+      "thesis": "Worlds largest fertilizer producer, benefiting from geopolitical supply disruptions driving commodity prices higher. Recent analyst upgrades and active buyback program provide tailwinds.",
+      "risks": "Fertilizer prices are cyclical and volatile; a US DOJ antitrust investigation is an overhang.",
+      "researchDate": "2026-03-23",
+      "priceVs52wLow": "+63.7%"
     }
   ],
   "lastRanked": "2026-03-22T19:05:29Z"
