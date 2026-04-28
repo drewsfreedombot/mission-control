@@ -1,26 +1,30 @@
 {
   "sections": [
     {
-      "title": "IN PROGRESS",
-      "status": "in-progress",
-      "tasks": [
-        {
-          "name": "Evening Reflection \u2014 2026-03-22",
-          "notes": [
-            "**Status:** INCOMPLETE \u2014 No reply received. Closed out.",
-            "**Note:** 18 consecutive days without completing reflection. Format needs rethink for next attempt."
-          ]
-        },
-        {
-          "name": "Transform Conference Prep \u2014 2026-03-23",
-          "notes": [
-            "**Status:** Ready to support",
-            "**What:** Transform conference Mar 23-25. Drew may need talking points, lead lists, or partner intel during the event.",
-            "**Action:** Monday 6 AM briefing should lead with conference context."
-          ]
-        }
-      ]
+      "title": "Status: WAITING FOR DREW'S REPLY (Step 1 of 8)",
+      "status": "waiting",
+      "tasks": []
+    },
+    {
+      "title": "Questions to Ask (in order):",
+      "status": "info",
+      "tasks": []
+    },
+    {
+      "title": "Save Final Answers To:",
+      "status": "info",
+      "tasks": []
+    },
+    {
+      "title": "Questions Asked:",
+      "status": "info",
+      "tasks": []
+    },
+    {
+      "title": "Drew's Responses:",
+      "status": "info",
+      "tasks": []
     }
   ],
-  "updatedAt": "2026-03-23T18:07:45.267824+00:00"
+  "updatedAt": "2026-04-28T16:02:29.391474+00:00"
 }

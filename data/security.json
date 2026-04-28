@@ -1,34 +1,13 @@
 {
-  "lastCheck": "2026-03-23T04:00:00-03:00",
-  "status": "nominal",
+  "lastCheck": "2026-03-28T04:00:00-03:00",
+  "status": "warning",
   "checks": {
-    "disk": {
-      "status": "ok",
-      "detail": "388Gi free (4% used)"
-    },
-    "uptime": {
-      "status": "ok",
-      "detail": "11 days, load 1.43"
-    },
-    "gateway": {
-      "status": "ok",
-      "detail": "Running, pid 44033"
-    },
-    "tailscale": {
-      "status": "ok",
-      "detail": "Connected, 9 nodes"
-    },
-    "config": {
-      "status": "ok",
-      "detail": "Hash unchanged"
-    },
-    "logins": {
-      "status": "ok",
-      "detail": "No suspicious logins"
-    },
-    "processes": {
-      "status": "ok",
-      "detail": "No suspicious processes"
-    }
+    "disk": {"status": "ok", "detail": "4% used (15Gi/460Gi)"},
+    "logins": {"status": "ok", "detail": "No failed logins detected"},
+    "uptime": {"status": "ok", "detail": "16 days, load avg 1.50/1.71/1.74"},
+    "gateway": {"status": "ok", "detail": "Running (pid 15958), RPC ok"},
+    "processes": {"status": "ok", "detail": "No suspicious processes"},
+    "tailscale": {"status": "ok", "detail": "Connected, node online"},
+    "configIntegrity": {"status": "changed", "detail": "openclaw.json hash changed since last check — updated baseline"}
   }
 }
