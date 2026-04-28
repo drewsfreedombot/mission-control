@@ -1,0 +1,541 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Government Funding for Embedded Payroll — Nmbr Partner Resource</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'Inter', -apple-system, sans-serif;
+    color: #1a1a2e;
+    background: #ffffff;
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .page {
+    max-width: 850px;
+    margin: 0 auto;
+    padding: 48px 56px;
+  }
+
+  /* Header */
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 40px;
+    padding-bottom: 24px;
+    border-bottom: 3px solid #1a1a2e;
+  }
+
+  .header-left h1 {
+    font-size: 28px;
+    font-weight: 800;
+    letter-spacing: -0.5px;
+    line-height: 1.2;
+    color: #1a1a2e;
+  }
+
+  .header-left .subtitle {
+    font-size: 15px;
+    color: #64748b;
+    margin-top: 6px;
+    font-weight: 500;
+  }
+
+  .header-right {
+    text-align: right;
+  }
+
+  .nmbr-logo {
+    font-size: 24px;
+    font-weight: 800;
+    color: #1a1a2e;
+    letter-spacing: -1px;
+  }
+
+  .header-right .tagline {
+    font-size: 11px;
+    color: #94a3b8;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    margin-top: 4px;
+  }
+
+  /* Intro */
+  .intro {
+    background: linear-gradient(135deg, #f0f4ff 0%, #e8f0fe 100%);
+    border-radius: 12px;
+    padding: 28px 32px;
+    margin-bottom: 36px;
+    border-left: 4px solid #2563eb;
+  }
+
+  .intro p {
+    font-size: 15px;
+    color: #334155;
+    line-height: 1.7;
+  }
+
+  .intro strong {
+    color: #1e40af;
+  }
+
+  /* Section headers */
+  .section-header {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 20px;
+    margin-top: 8px;
+  }
+
+  .section-number {
+    width: 32px;
+    height: 32px;
+    background: #1a1a2e;
+    color: white;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 14px;
+    flex-shrink: 0;
+  }
+
+  .section-header h2 {
+    font-size: 18px;
+    font-weight: 700;
+    color: #1a1a2e;
+  }
+
+  /* Program cards */
+  .program-card {
+    border: 1px solid #e2e8f0;
+    border-radius: 12px;
+    padding: 24px 28px;
+    margin-bottom: 20px;
+    position: relative;
+    transition: box-shadow 0.2s;
+  }
+
+  .program-card:hover {
+    box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+  }
+
+  .program-card.featured {
+    border-color: #2563eb;
+    border-width: 2px;
+    background: #fafbff;
+  }
+
+  .card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 12px;
+  }
+
+  .card-header h3 {
+    font-size: 16px;
+    font-weight: 700;
+    color: #1a1a2e;
+  }
+
+  .card-badge {
+    font-size: 11px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.8px;
+    padding: 4px 10px;
+    border-radius: 6px;
+    flex-shrink: 0;
+  }
+
+  .badge-grant {
+    background: #dcfce7;
+    color: #166534;
+  }
+
+  .badge-tax {
+    background: #fef3c7;
+    color: #92400e;
+  }
+
+  .badge-loan {
+    background: #e0e7ff;
+    color: #3730a3;
+  }
+
+  .card-amount {
+    font-size: 22px;
+    font-weight: 800;
+    color: #2563eb;
+    margin-bottom: 8px;
+  }
+
+  .card-description {
+    font-size: 14px;
+    color: #475569;
+    margin-bottom: 14px;
+    line-height: 1.6;
+  }
+
+  .card-fit {
+    background: #f8fafc;
+    border-radius: 8px;
+    padding: 14px 18px;
+    border: 1px solid #e2e8f0;
+  }
+
+  .card-fit-label {
+    font-size: 11px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.8px;
+    color: #64748b;
+    margin-bottom: 6px;
+  }
+
+  .card-fit p {
+    font-size: 13px;
+    color: #334155;
+    line-height: 1.5;
+  }
+
+  .card-meta {
+    display: flex;
+    gap: 20px;
+    margin-top: 14px;
+    flex-wrap: wrap;
+  }
+
+  .meta-item {
+    font-size: 12px;
+    color: #64748b;
+  }
+
+  .meta-item strong {
+    color: #334155;
+  }
+
+  /* The pitch section */
+  .pitch-box {
+    background: #1a1a2e;
+    color: white;
+    border-radius: 12px;
+    padding: 28px 32px;
+    margin-top: 36px;
+    margin-bottom: 36px;
+  }
+
+  .pitch-box h2 {
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 16px;
+    color: #ffffff;
+  }
+
+  .pitch-box ul {
+    list-style: none;
+    padding: 0;
+  }
+
+  .pitch-box li {
+    font-size: 14px;
+    padding: 6px 0;
+    padding-left: 24px;
+    position: relative;
+    color: #cbd5e1;
+    line-height: 1.5;
+  }
+
+  .pitch-box li::before {
+    content: "→";
+    position: absolute;
+    left: 0;
+    color: #60a5fa;
+    font-weight: 700;
+  }
+
+  /* Stacking table */
+  .stack-section {
+    margin-top: 36px;
+  }
+
+  .stack-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 14px;
+    border-radius: 8px;
+    overflow: hidden;
+  }
+
+  .stack-table thead th {
+    background: #f1f5f9;
+    padding: 12px 16px;
+    text-align: left;
+    font-weight: 700;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    color: #64748b;
+    border-bottom: 2px solid #e2e8f0;
+  }
+
+  .stack-table tbody td {
+    padding: 12px 16px;
+    border-bottom: 1px solid #f1f5f9;
+    color: #334155;
+  }
+
+  .stack-table tbody tr:last-child td {
+    border-bottom: none;
+  }
+
+  .stack-table .total-row td {
+    background: #f0f4ff;
+    font-weight: 700;
+    color: #1e40af;
+    border-top: 2px solid #2563eb;
+  }
+
+  .check { color: #16a34a; font-weight: 700; }
+  .dash { color: #94a3b8; }
+
+  /* CTA */
+  .cta {
+    text-align: center;
+    margin-top: 40px;
+    padding-top: 32px;
+    border-top: 2px solid #f1f5f9;
+  }
+
+  .cta p {
+    font-size: 15px;
+    color: #64748b;
+    margin-bottom: 6px;
+  }
+
+  .cta .cta-link {
+    font-size: 16px;
+    font-weight: 700;
+    color: #2563eb;
+    text-decoration: none;
+  }
+
+  /* Disclaimer */
+  .disclaimer {
+    margin-top: 32px;
+    padding-top: 20px;
+    border-top: 1px solid #e2e8f0;
+    font-size: 11px;
+    color: #94a3b8;
+    line-height: 1.6;
+  }
+
+  /* Print styles */
+  @media print {
+    body { background: white; }
+    .page { padding: 32px 40px; }
+    .program-card:hover { box-shadow: none; }
+  }
+
+  @page {
+    margin: 0.5in;
+    size: letter;
+  }
+</style>
+</head>
+<body>
+<div class="page">
+
+  <!-- HEADER -->
+  <div class="header">
+    <div class="header-left">
+      <h1>Fund Your Payroll Integration<br>With Government Programs</h1>
+      <div class="subtitle">A guide for vertical SaaS companies adding embedded payroll in Canada</div>
+    </div>
+    <div class="header-right">
+      <div class="nmbr-logo">nmbr</div>
+      <div class="tagline">Embedded Payroll</div>
+    </div>
+  </div>
+
+  <!-- INTRO -->
+  <div class="intro">
+    <p>
+      Adding embedded payroll to your platform is a <strong>technology integration project</strong> — and the Canadian government actively funds exactly this kind of work. Your development costs, compliance engineering, and API integration work may qualify for <strong>non-repayable grants, tax credits, and interest-free financing</strong> that can offset 40–75% of total project costs.
+    </p>
+  </div>
+
+  <!-- PROGRAMS -->
+  <div class="section-header">
+    <div class="section-number">1</div>
+    <h2>Programs That Fund Payroll Integration</h2>
+  </div>
+
+  <!-- SR&ED -->
+  <div class="program-card featured">
+    <div class="card-header">
+      <h3>SR&ED Tax Credit</h3>
+      <span class="card-badge badge-tax">Tax Credit</span>
+    </div>
+    <div class="card-amount">Up to $1.4M/year in credits</div>
+    <div class="card-description">
+      Canada's largest R&D incentive. The enhanced rate gives CCPCs a <strong>35% refundable credit</strong> on the first $4M of eligible R&D expenditure (Budget 2025 increase). Building payroll compliance logic, provincial tax engines, and API integrations involves genuine technical uncertainty — the kind SR&ED was designed for.
+    </div>
+    <div class="card-fit">
+      <div class="card-fit-label">Why Payroll Integration Qualifies</div>
+      <p>Developing embedded payroll requires solving technical challenges: multi-provincial tax calculation engines, regulatory compliance automation (ROEs, T4s, stat holidays), real-time CRA reporting, and money movement integrations. This is technology development, not routine software configuration.</p>
+    </div>
+    <div class="card-meta">
+      <div class="meta-item"><strong>Status:</strong> Open year-round</div>
+      <div class="meta-item"><strong>Eligibility:</strong> Canadian-controlled private corporations</div>
+      <div class="meta-item"><strong>Claim:</strong> Retroactive (file with tax return)</div>
+    </div>
+  </div>
+
+  <!-- IRAP -->
+  <div class="program-card">
+    <div class="card-header">
+      <h3>NRC IRAP</h3>
+      <span class="card-badge badge-grant">Non-Repayable</span>
+    </div>
+    <div class="card-amount">Avg. $500K per project</div>
+    <div class="card-description">
+      Canada's flagship innovation program funds up to <strong>80% of R&D labour costs</strong> for SMEs building new technology. Covers proof-of-concept through working prototype (TRL 3–7). Over 3,100 companies funded annually from a $437M budget. You also get a dedicated Industrial Technology Advisor — free.
+    </div>
+    <div class="card-fit">
+      <div class="card-fit-label">Why Payroll Integration Qualifies</div>
+      <p>Integrating payroll into a vertical SaaS platform requires novel architecture — embedding compliance engines, building multi-tenant payroll data models, and creating seamless UX for an entirely new product vertical. This is exactly the technology innovation IRAP funds.</p>
+    </div>
+    <div class="card-meta">
+      <div class="meta-item"><strong>Status:</strong> Open continuously</div>
+      <div class="meta-item"><strong>Eligibility:</strong> Incorporated, &lt;500 employees</div>
+      <div class="meta-item"><strong>Timeline:</strong> 3–5 months to approval</div>
+    </div>
+  </div>
+
+  <!-- ACOA REGI -->
+  <div class="program-card">
+    <div class="card-header">
+      <h3>ACOA — Regional Economic Growth (REGI)</h3>
+      <span class="card-badge badge-grant">Grant / Loan</span>
+    </div>
+    <div class="card-amount">Project-based funding</div>
+    <div class="card-description">
+      For Atlantic Canada businesses adopting innovative technologies and scaling operations. Specifically funds <strong>technology integration, new product development, and market expansion</strong>. ACOA just announced $8.5M in new AI/tech adoption funding (March 2026).
+    </div>
+    <div class="card-fit">
+      <div class="card-fit-label">Why Payroll Integration Qualifies</div>
+      <p>Adopting embedded payroll is a technology integration project that expands your product offering and opens new markets. If you're based in NS, NB, PEI, or NL — this is designed for you.</p>
+    </div>
+    <div class="card-meta">
+      <div class="meta-item"><strong>Status:</strong> Open continuously</div>
+      <div class="meta-item"><strong>Eligibility:</strong> Atlantic Canada businesses, all sizes</div>
+      <div class="meta-item"><strong>Provinces:</strong> NS, NB, PEI, NL</div>
+    </div>
+  </div>
+
+  <!-- Stacking section -->
+  <div class="stack-section">
+    <div class="section-header">
+      <div class="section-number">2</div>
+      <h2>How Programs Stack Together</h2>
+    </div>
+
+    <table class="stack-table">
+      <thead>
+        <tr>
+          <th>Program</th>
+          <th>Type</th>
+          <th>Covers</th>
+          <th>Stackable</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><strong>SR&ED</strong></td>
+          <td>Tax Credit</td>
+          <td>R&D labour, materials, overhead</td>
+          <td><span class="check">✓</span> with IRAP + ACOA</td>
+        </tr>
+        <tr>
+          <td><strong>NRC IRAP</strong></td>
+          <td>Grant</td>
+          <td>Up to 80% of R&D labour</td>
+          <td><span class="check">✓</span> with SR&ED</td>
+        </tr>
+        <tr>
+          <td><strong>ACOA REGI</strong></td>
+          <td>Grant/Loan</td>
+          <td>Tech adoption, scaling costs</td>
+          <td><span class="check">✓</span> with federal programs</td>
+        </tr>
+        <tr class="total-row">
+          <td colspan="2"><strong>Combined Coverage</strong></td>
+          <td colspan="2"><strong>Up to 75% of total project costs</strong> (government stacking cap)</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- The Pitch -->
+  <div class="pitch-box">
+    <h2>What This Means for Your Business</h2>
+    <ul>
+      <li>The development work to integrate Nmbr's embedded payroll into your platform is <strong>fundable</strong></li>
+      <li>SR&ED alone can return <strong>35 cents on every R&D dollar</strong> you spend on the integration</li>
+      <li>IRAP can <strong>fund your developers' salaries</strong> while they build the integration</li>
+      <li>Atlantic Canada partners have <strong>an additional layer</strong> of ACOA funding available</li>
+      <li>Programs stack — combined government assistance can reach <strong>75% of total costs</strong></li>
+      <li>You're not just adding a feature — you're <strong>building a new revenue stream</strong> that the government wants to subsidize</li>
+    </ul>
+  </div>
+
+  <!-- Qualifying work examples -->
+  <div class="section-header">
+    <div class="section-number">3</div>
+    <h2>What Integration Work Qualifies</h2>
+  </div>
+
+  <div class="program-card">
+    <div class="card-description" style="margin-bottom: 0;">
+      <strong>Typical eligible activities when adding embedded payroll:</strong>
+    </div>
+    <div class="card-meta" style="flex-direction: column; gap: 6px; margin-top: 14px;">
+      <div class="meta-item">✅ API integration development (connecting your platform to payroll engines)</div>
+      <div class="meta-item">✅ Multi-provincial compliance logic (tax rules, stat holidays, ROEs)</div>
+      <div class="meta-item">✅ Payroll UI/UX design and development within your platform</div>
+      <div class="meta-item">✅ Data architecture for multi-tenant payroll (security, isolation, performance)</div>
+      <div class="meta-item">✅ Automated CRA reporting and year-end processing (T4s, RL-1s)</div>
+      <div class="meta-item">✅ Money movement and banking integration development</div>
+      <div class="meta-item">✅ QA and compliance testing across provinces</div>
+      <div class="meta-item">✅ Prototype and proof-of-concept development</div>
+    </div>
+  </div>
+
+  <!-- CTA -->
+  <div class="cta">
+    <p>Ready to explore funding for your payroll integration?</p>
+    <a href="https://nmbr.co" class="cta-link">Talk to the Nmbr team →</a>
+    <p style="margin-top: 16px; font-size: 13px; color: #94a3b8;">
+      We'll connect you with advisors who specialize in SR&ED and IRAP claims for SaaS companies.
+    </p>
+  </div>
+
+  <!-- Disclaimer -->
+  <div class="disclaimer">
+    <strong>Disclaimer:</strong> This document is for informational purposes only and does not constitute financial, tax, or legal advice. Program eligibility, funding amounts, and terms are determined by the respective government agencies and may change without notice. Companies should consult qualified SR&ED consultants and/or their tax advisors to assess eligibility for specific programs. Government stacking rules limit total assistance to 75% of eligible project costs. Program details current as of April 2026.
+  </div>
+
+</div>
+</body>
+</html>
